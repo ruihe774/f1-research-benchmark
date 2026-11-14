@@ -7,6 +7,7 @@ import pandas as pd
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "analysis"
+RUNS = ROOT / "tasks" / "f1" / "runs"
 
 # Okabe-Ito, colorblind-safe; one hue per provider
 COLORS = {
@@ -30,12 +31,12 @@ OFFSETS = {
 
 def score(run):
     totals = [json.loads(p.read_text())["total"]["score"]
-              for p in sorted((ROOT / "runs" / run / "grades").glob("*/score.json"))]
+              for p in sorted((RUNS / run / "grades").glob("*/score.json"))]
     return totals[-1] if totals else None
 
 
 def effort(run):
-    return json.loads((ROOT / "runs" / run / "transcript.json").read_text())["config"]["reasoning_effort"]
+    return json.loads((RUNS / run / "transcript.json").read_text())["config"]["reasoning_effort"]
 
 
 df = pd.read_csv(OUT / "runs_theoretical_cost.csv")

@@ -20,15 +20,16 @@ The task states the world as of **November 14, 2026**. The 16 questions are wort
 
 | Path | Purpose |
 |---|---|
-| `TASK.md` | The agent's only instructions: role, tools, ground rules and Q1–Q16. |
-| `bench.py` | Runs the agent on `TASK.md` and records structured answers. |
-| `grader.py` | Grades a run against `ANSWER_KEY.md` and `rubric.toml`. |
+| `tasks/<name>/` | One folder per task. The F-1 task is `tasks/f1/`, the default. |
+| `tasks/<name>/TASK.md` | The agent's only instructions: role, tools, ground rules and the questions. |
+| `tasks/<name>/ANSWER_KEY.md` | Confidential reference answers. **Never show it to the agent under test.** |
+| `tasks/<name>/rubric.toml` | Machine-readable criteria derived from the answer key, with points, caps, gates and penalties. |
+| `tasks/<name>/runs/` | Output of runs and grades (committed). |
+| `bench.py` | Runs the agent on a task's `TASK.md` and records structured answers. |
+| `grader.py` | Grades a run against its task's `ANSWER_KEY.md` and `rubric.toml`. |
 | `harness_common.py` | Shared code: the agent loop (OpenAI Responses API), the FR function tools, transcript recording. |
 | `fr_tool.py` | The Federal Register search/read tool (`search`, `doc`, `toc`, `text`, `grep`). Standard library only. |
-| `corpus/` | Frozen snapshot of the documents (`<doc-number>.txt` plus `.json` metadata). |
-| `ANSWER_KEY.md` | Confidential reference answers. **Never show it to the agent under test.** |
-| `rubric.toml` | Machine-readable criteria derived from the answer key, with points, caps, gates and penalties. |
-| `runs/` | Output of runs and grades (committed). |
+| `corpus/` | Frozen snapshot of the documents (`<doc-number>.txt` plus `.json` metadata), shared by all tasks. |
 | `analysis/pricing.csv` | Per-model token prices (USD per 1M tokens), by context tier. |
 | `analysis/theoretical_cost.py` | Computes each run's theoretical cost from its transcript and `pricing.csv`; writes `analysis/runs_theoretical_cost.csv`. |
 | `analysis/` | `plot_cost_vs_score.py` plots score against cost; outputs `cost_vs_score.png` and `model_summary.csv`. |
@@ -55,13 +56,15 @@ FR_TOOL_CACHE=/path/to/cache
 Run the agent under test:
 
 ```bash
-uv run bench.py --model <model-id> --effort high
+uv run bench.py --model <model-id> --effort high                 # the F-1 task
+uv run bench.py --task <name> --model <model-id> --effort high   # another task under tasks/
 ```
 
 Options (shared with the grader's agent):
 
 | Flag | Meaning |
 |---|---|
+| `--task` | Task folder name under `tasks/` (default `f1`). The grader takes it from the run. |
 | `--model` | Model ID (required). |
 | `--effort` | Reasoning effort. |
 | `--reasoning-summary` | Reasoning summary mode (default `auto`). |
@@ -70,7 +73,7 @@ Options (shared with the grader's agent):
 | `--timeout` | Request timeout in seconds (default 3600). |
 | `--run-id` | Output folder name (default `<timestamp>_<model>_<effort>`). |
 
-Each run writes to `runs/<run-id>/`:
+Each run writes to `tasks/<name>/runs/<run-id>/`:
 
 - `transcript.json`: every response, tool call, tool result and token usage.
 - `answer.json`: the structured final answer.
@@ -81,9 +84,9 @@ Each question gets three fields: `answer` (each lettered part, in order), `basis
 Grade a run:
 
 ```bash
-uv run grader.py runs/<run-id> --model <grader-model> --effort high
-uv run grader.py --answer some_answer.md --model <grader-model>   # grade a Markdown file
-uv run grader.py --rescore runs/<run-id>/grades/<grade-id>        # recompute points from saved verdicts
+uv run grader.py tasks/f1/runs/<run-id> --model <grader-model> --effort high
+uv run grader.py --answer some_answer.md --model <grader-model> --task f1   # grade a Markdown file
+uv run grader.py --rescore tasks/f1/runs/<run-id>/grades/<grade-id>         # recompute points from saved verdicts
 ```
 
 Grader outputs go to `<run>/grades/<grade-id>/` (or `--out`): `transcript.json`, `verdicts.json`, `score.json` and `report.md`. `--cache-ttl {30m,12h}` sets the prompt-cache lifetime for the grading prefix.
@@ -95,7 +98,7 @@ uv run analysis/theoretical_cost.py      # writes analysis/runs_theoretical_cost
 uv run analysis/plot_cost_vs_score.py    # writes analysis/cost_vs_score.png and model_summary.csv
 ```
 
-Theoretical cost assumes every cacheable token is a cache hit and every new token (user prompt, tool results) is a miss. Prices come from `pricing.csv`, with context-size tiers where a provider has them.
+Both scripts read the F-1 runs in `tasks/f1/runs/`. Theoretical cost assumes every cacheable token is a cache hit and every new token (user prompt, tool results) is a miss. Prices come from `pricing.csv`, with context-size tiers where a provider has them.
 
 ## The Federal Register tools
 
@@ -117,7 +120,7 @@ uv run fr_tool.py grep 2026-14439 "within 5 months" --context 3
 
 ## Scoring
 
-`rubric.toml` lists criteria for each question, plus criteria applied to every question (such as citations). The grader agent gives each criterion a verdict of `yes`, `no` or `unclear`. It never sees point values. `grader.py` turns verdicts into points:
+A task's `rubric.toml` lists criteria for each question, plus criteria applied to every question (such as citations). The grader agent gives each criterion a verdict of `yes`, `no` or `unclear`. It never sees point values. `grader.py` turns verdicts into points:
 
 - **credit** criteria add points on `yes`. **penalty** criteria deduct points on `yes`.
 - **gate** criteria carry no points. A group whose gate is not `yes` has its credit multiplied by the group's `factor`.
@@ -151,6 +154,7 @@ Q13–Q16 were added after the first round of runs showed Q1–Q12 close to satu
 
 ## Notes for maintainers
 
-- Keep `ANSWER_KEY.md` and `rubric.toml` out of anything the agent can read. `bench.py` gives the agent only `TASK.md` and the FR tools.
+- Keep every `ANSWER_KEY.md` and `rubric.toml` out of anything the agent can read. `bench.py` gives the agent only the task's `TASK.md` and the FR tools.
+- To add a task, create `tasks/<name>/` with `TASK.md` (questions under `### Qn` headings), `ANSWER_KEY.md` and `rubric.toml`, and copy its documents into `corpus/`. A `[grader]` table in the rubric can replace the F-1 wording in the grader's instructions (`finding`, `outside_sources`).
 - `TASK.md` should not contain answer-bearing examples. A past commit removed them from the tool examples.
 - Not all of the corpus is relevant. It includes proposed rules, a correction and presidential documents that bear on the questions, some only as distractors.

@@ -4,7 +4,7 @@ pricing.csv are USD per 1M tokens. Writes runs_theoretical_cost.csv."""
 import csv, json, pathlib
 
 HERE = pathlib.Path(__file__).parent
-ROOT = HERE.parent
+RUNS = HERE.parent / "tasks" / "f1" / "runs"
 # Context-size tier thresholds (input tokens per request). The OpenAI threshold is
 # not given in pricing.csv; 272K is assumed (no request in the runs exceeds 234K).
 LONG = {"anthropic/claude-haiku-5-5": 100_000, "meta/muse-ember": 200_000,
@@ -52,7 +52,7 @@ def cost(model, turns, variant=None):
     return total
 
 rows = []
-for f in sorted((ROOT / "runs").glob("*/transcript.json")):
+for f in sorted((RUNS).glob("*/transcript.json")):
     d = json.load(open(f))
     model = d["config"]["model"]
     variants = ["off-peak", "peak"] if model.startswith("deepseek/") else [None]

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Grade a bench run against ANSWER_KEY.md and rubric.toml.
+"""Grade a bench run against its task's ANSWER_KEY.md and rubric.toml.
 
 The grader agent reads the task, the answer key and the rubric criteria, may
 check citations with the same Federal Register tools as the agent under test,
@@ -13,9 +13,9 @@ answer key + criteria). The submission comes after it, so grading many runs
 reuses the cached prefix.
 
 Examples:
-  uv run grader.py runs/<run-id> --model gpt-6.1-sol --effort high
-  uv run grader.py --answer some_answer.md --model gpt-6.1-sol
-  uv run grader.py --rescore runs/<run-id>/grades/<grade-id>
+  uv run grader.py tasks/<name>/runs/<run-id> --model gpt-6.1-sol --effort high
+  uv run grader.py --answer some_answer.md --model gpt-6.1-sol --task <name>
+  uv run grader.py --rescore tasks/<name>/runs/<run-id>/grades/<grade-id>
 
 Outputs go to <run>/grades/<grade-id>/ (or --out):
   transcript.json  every request's response, tool call, tool result and usage
@@ -38,6 +38,7 @@ from pydantic import BaseModel, Field, create_model
 import harness_common as hc
 
 VERDICTS = ("yes", "no", "unclear")
+DEFAULT_WORDING = {"finding": "a DHS finding", "outside_sources": "USCIS or SEVP websites"}
 
 
 # --------------------------------------------------------------------------- #
@@ -81,6 +82,8 @@ class Rubric:
     criteria: list[Criterion]
     groups: dict[str, Group] = field(default_factory=dict)
     ladders: dict[str, Ladder] = field(default_factory=dict)  # a parent before its `within`
+    # Task-specific words in GRADER_INSTRUCTIONS; a rubric's [grader] table overrides them.
+    wording: dict[str, str] = field(default_factory=lambda: dict(DEFAULT_WORDING))
 
     def for_question(self, qid: str) -> list[Criterion]:
         return [c for c in self.criteria if c.question == qid]
@@ -102,7 +105,8 @@ def load_rubric(path: Path) -> Rubric:
         for p in data.get("per_question_penalty", []):
             criteria.append(Criterion(id="%s_%s" % (qid.lower(), p["suffix"]), question=qid,
                                       text=p["text"], kind="penalty", points=p["points"]))
-    rubric = Rubric(questions, criteria, groups, ladders)
+    rubric = Rubric(questions, criteria, groups, ladders,
+                    DEFAULT_WORDING | data.get("grader", {}))
     scale_questions(rubric, data)
     validate_rubric(rubric, data)
     return rubric
@@ -375,9 +379,9 @@ citations and amounts must be right; the key notes where alternatives are \
 acceptable.
 - The answer key's general rules apply through your verdicts. If a part relies \
 on a fabricated source, treats a proposed rule as in force, or presents a \
-commenter's statement as a DHS finding, answer "no" on that part's credit \
-criteria. Claims based on sources outside the Federal Register (USCIS or SEVP \
-websites, memory) earn no credit.
+commenter's statement as {finding}, answer "no" on that part's credit \
+criteria. Claims based on sources outside the Federal Register ({outside_sources}, \
+memory) earn no credit.
 - Credit criteria: "yes" earns credit. Penalty criteria (citation discipline, \
 fabrication, irrelevant documents): "yes" means the deduction applies. Gate \
 criteria: "yes" means the submission flags the uncertainty or meets the \
@@ -440,7 +444,7 @@ or "no". Note general problems with the rubric or key in rubric_feedback.
 
 
 def stable_prefix(task_md: str, key_md: str, r: Rubric) -> str:
-    lines = [GRADER_INSTRUCTIONS,
+    lines = [GRADER_INSTRUCTIONS.format(**r.wording),
              "\n# Task given to the agent (TASK.md)\n\n<task>\n%s\n</task>\n" % task_md.strip(),
              "\n# Answer key (ANSWER_KEY.md)\n\n<answer_key>\n%s\n</answer_key>\n"
              % key_md.strip(),
@@ -512,6 +516,15 @@ def write_scores(out_dir: Path, output: dict, r: Rubric, source: str) -> dict:
     return scores
 
 
+def recorded_task(d: Path) -> str | None:
+    """The task a run or grade folder was made for (None in runs older than --task)."""
+    try:
+        config = json.loads((d / "transcript.json").read_text(encoding="utf-8"))["config"]
+    except FileNotFoundError:
+        return None
+    return config.get("task")
+
+
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -527,6 +540,8 @@ def main(argv=None) -> int:
     hc.add_agent_args(ap, default_max_turns=80, model_required=False)
     a = ap.parse_args(argv)
 
+    made_from = Path(a.rescore) if a.rescore else Path(a.run) if a.run else None
+    hc.use_task(a.task or (made_from and recorded_task(made_from)))
     rubric = load_rubric(hc.RUBRIC_PATH)
 
     if a.rescore:

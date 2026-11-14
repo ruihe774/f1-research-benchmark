@@ -34,10 +34,29 @@ load_dotenv(ROOT / ".env")
 
 import fr_tool  # noqa: E402
 
-TASK_PATH = ROOT / "TASK.md"
-ANSWER_KEY_PATH = ROOT / "ANSWER_KEY.md"
-RUBRIC_PATH = ROOT / "rubric.toml"
-RUNS_DIR = ROOT / "runs"
+# Each task is a folder tasks/<name>/ with its own TASK.md, ANSWER_KEY.md,
+# rubric.toml and runs/. All tasks share corpus/ and the reference date.
+TASKS_DIR = ROOT / "tasks"
+DEFAULT_TASK = "f1"
+
+
+def task_names() -> list[str]:
+    return sorted(p.parent.name for p in TASKS_DIR.glob("*/TASK.md"))
+
+
+def use_task(name: str | None) -> None:
+    """Point TASK_PATH, ANSWER_KEY_PATH, RUBRIC_PATH and RUNS_DIR at a task."""
+    global TASK, TASK_PATH, ANSWER_KEY_PATH, RUBRIC_PATH, RUNS_DIR
+    name = name or DEFAULT_TASK
+    if name not in task_names():
+        sys.exit("unknown task %r (have: %s)" % (name, ", ".join(task_names())))
+    d = TASKS_DIR / name
+    TASK = name
+    TASK_PATH, ANSWER_KEY_PATH = d / "TASK.md", d / "ANSWER_KEY.md"
+    RUBRIC_PATH, RUNS_DIR = d / "rubric.toml", d / "runs"
+
+
+use_task(DEFAULT_TASK)
 
 # "Today" in TASK.md. The tools hide every document published after it, so a
 # run gives the same Federal Register whenever it is made.
@@ -627,6 +646,9 @@ def _strip_ids(item: dict) -> dict:
 # --------------------------------------------------------------------------- #
 def add_agent_args(ap: argparse.ArgumentParser, *, default_max_turns: int,
                    model_required: bool = True) -> None:
+    ap.add_argument("--task", default=None,
+                    help="task to run or grade, a folder name under tasks/ "
+                    "(default: %s; the grader takes it from the run)" % DEFAULT_TASK)
     ap.add_argument("--model", required=model_required, help="model id, e.g. gpt-6.1-sol")
     ap.add_argument("--effort", choices=EFFORTS, default=None,
                     help="reasoning effort (default: the model's default)")
@@ -648,6 +670,7 @@ def add_agent_args(ap: argparse.ArgumentParser, *, default_max_turns: int,
 
 def agent_config(a: argparse.Namespace, client: openai.OpenAI) -> dict:
     return {
+        "task": TASK,
         "model": a.model,
         "reasoning_effort": a.effort,
         "reasoning_summary": a.reasoning_summary,

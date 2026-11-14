@@ -14,8 +14,9 @@ the previous one.
 
 Example:
   uv run bench.py --model gpt-6.1-sol --effort high
+  uv run bench.py --task <name> --model gpt-6.1-sol --effort high
 
-Outputs go to runs/<run-id>/:
+Outputs go to tasks/<name>/runs/<run-id>/:
   transcript.json  every request's response, tool call, tool result and usage
   answer.json      the structured final answer
   answer.md        the same answer as a Markdown memo (what the grader reads)
@@ -54,9 +55,10 @@ def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     hc.add_agent_args(ap, default_max_turns=200)
-    ap.add_argument("--run-id", help="output folder name under runs/ "
+    ap.add_argument("--run-id", help="output folder name under the task's runs/ "
                     "(default: <timestamp>_<model>_<effort>)")
     a = ap.parse_args(argv)
+    hc.use_task(a.task)
 
     task_md = hc.read_text(hc.TASK_PATH)
     qids = hc.question_ids(task_md)
