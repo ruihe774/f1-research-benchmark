@@ -85,7 +85,8 @@ class FrSearchArgs(BaseModel):
     until: str | None = Field(description="Published on/before YYYY-MM-DD.")
     docket: str | None = Field(description="Docket ID, e.g. EPA-HQ-OAR-2021-0317.")
     rin: str | None = Field(description="Regulation Identifier Number, e.g. 2060-AV16.")
-    cfr: str | None = Field(description="CFR title:part affected, numeric part only, e.g. 8:214 (lettered parts such as 274a are not supported).")
+    cfr: str | None = Field(description="CFR title:part affected, e.g. 8:214. The part must be "
+                            "numeric; lettered parts are not supported by this filter.")
     significant: bool | None = Field(description="true: only significant regulatory actions.")
     order: Order | None = Field(description="Sort order (default relevance).")
     per_page: int | None = Field(description="Results per page, 1-50 (default 10).")
