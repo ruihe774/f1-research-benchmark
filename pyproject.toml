@@ -1,0 +1,9 @@
+[project]
+name = "f1-research-benchmark"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "openai>=3.51.0",
+    "pydantic>=2.14.3",
+    "python-dotenv>=1.2.4",
+]

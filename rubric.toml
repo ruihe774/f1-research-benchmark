@@ -1,0 +1,810 @@
+# Machine-readable scoring rubric, derived from ANSWER_KEY.md.
+#
+# The grader agent gives a verdict ("yes", "no" or "unclear") for every
+# criterion. grader.py turns verdicts into points; the grader never sees points.
+#
+#   kind = "credit"   yes earns `points`
+#   kind = "penalty"  yes deducts `points`
+#   kind = "gate"     no points; a group whose gate is not "yes" is multiplied
+#                     by the group's `factor`
+#
+# Groups: `cap` limits the group's credit; `gate` + `factor` scale it.
+# A question's score is (credits - penalties), clamped to [0, question points].
+# For the headline score, "unclear" counts as "no". score_min / score_max
+# resolve every "unclear" against / in favour of the submission.
+#
+# Where this file and the point split in ANSWER_KEY.md differ, this file
+# decides the points. Criterion text should still be read with the key.
+
+[[question]]
+id = "Q1"
+points = 6
+[[question]]
+id = "Q2"
+points = 10
+[[question]]
+id = "Q3"
+points = 12
+[[question]]
+id = "Q4"
+points = 8
+[[question]]
+id = "Q5"
+points = 10
+[[question]]
+id = "Q6"
+points = 8
+[[question]]
+id = "Q7"
+points = 12
+[[question]]
+id = "Q8"
+points = 7
+[[question]]
+id = "Q9"
+points = 7
+[[question]]
+id = "Q10"
+points = 8
+[[question]]
+id = "Q11"
+points = 5
+[[question]]
+id = "Q12"
+points = 7
+
+# Applied to every question; ids become e.g. "q3_cite".
+[[per_question_penalty]]
+suffix = "cite"
+points = 1
+text = "Citation discipline: a substantial share of the factual claims in this answer have no FR document number, CFR paragraph or FR page citation."
+
+[[per_question_penalty]]
+suffix = "fab"
+points = 2
+text = "Fabrication: the answer contains at least one fabricated FR document number, citation, quotation or provision, i.e. one that does not exist or does not say what the answer claims. Check citations the key does not cover with the tools before answering yes. Misnumbering a real provision that is otherwise described correctly is not fabrication."
+
+# --------------------------------------------------------------------------- Q1
+[[criterion]]
+id = "q1a_number"
+question = "Q1"
+points = 1
+text = "(a) Identifies the final rule as FR Doc. 2026-14439, 91 FR 44976."
+
+[[criterion]]
+id = "q1a_pages"
+question = "Q1"
+points = 0.5
+text = "(a) Gives the page range 91 FR 44976-45131."
+
+[[criterion]]
+id = "q1b_published"
+question = "Q1"
+points = 0.5
+text = "(b) Publication date July 17, 2026."
+
+[[criterion]]
+id = "q1b_effective"
+question = "Q1"
+points = 0.5
+text = "(b) Effective date September 15, 2026."
+
+[[criterion]]
+id = "q1c_docket"
+question = "Q1"
+points = 0.5
+text = "(c) DHS Docket No. ICEB-2025-0001."
+
+[[criterion]]
+id = "q1c_rin"
+question = "Q1"
+points = 0.5
+text = "(c) RIN 1653-AA95."
+
+[[criterion]]
+id = "q1d_number"
+question = "Q1"
+points = 1
+text = "(d) Identifies the NPRM as FR Doc. 2025-16554, 90 FR 42070."
+
+[[criterion]]
+id = "q1d_date"
+question = "Q1"
+points = 0.5
+text = "(d) NPRM publication date August 28, 2025."
+
+[[criterion]]
+id = "q1e_review"
+question = "Q1"
+points = 0.5
+text = "(e) Explains that the rule is a major rule subject to congressional review and that if the effective date changes DHS will publish a document setting the actual effective date or terminating the rule (DATES section)."
+
+[[criterion]]
+id = "q1e_none"
+question = "Q1"
+points = 0.5
+text = "(e) States that no such document has been published as of November 14, 2026, so September 15, 2026 stands."
+
+# --------------------------------------------------------------------------- Q2
+[[criterion]]
+id = "q2a_date"
+question = "Q2"
+points = 1
+text = "(a) Concludes Priya may remain until July 14, 2027."
+
+[[criterion]]
+id = "q2a_basis"
+question = "Q2"
+points = 1
+text = "(a) Bases this on 8 CFR 214.1(m)(1) (program end date or EAD expiry, whichever is later, plus 60 days) and shows May 15, 2027 + 60 days."
+
+[[criterion]]
+id = "q2b_f"
+question = "Q2"
+points = 0.75
+text = "(b) F outer limit: November 14, 2030 (four years from September 15, 2026, plus 60 days), per 214.1(m)(1)."
+
+[[criterion]]
+id = "q2b_j"
+question = "Q2"
+points = 0.75
+text = "(b) J outer limit: October 15, 2030 (four years plus 30 days), per 214.1(m)(1)."
+
+[[criterion]]
+id = "q2c_yes"
+question = "Q2"
+points = 1
+text = "(c) Concludes the transfer is possible as to timing, citing the 5-month rule in 8 CFR 214.2(f)(8)(i)(G)."
+
+[[criterion]]
+id = "q2c_deadline"
+question = "Q2"
+points = 1
+text = "(c) States the deadline: classes must begin within 5 months of the transfer-out date or program completion date, whichever is earlier, i.e. by October 15, 2027 (or earlier if the release date is earlier)."
+
+[[criterion]]
+id = "q2d_yes"
+question = "Q2"
+points = 1
+text = "(d) Concludes she must apply to USCIS for an extension of stay (Form I-539) for the new program."
+
+[[criterion]]
+id = "q2d_cites"
+question = "Q2"
+points = 1
+text = "(d) Cites at least two of 8 CFR 214.1(m)(1), 214.2(f)(8)(iv) and 214.1(c)(2), each described correctly. (f)(5)(i) and (f)(5)(ii)(D) are acceptable additional citations."
+
+[[criterion]]
+id = "q2e_no_i539"
+question = "Q2"
+points = 1.25
+text = "(e) Concludes no I-539 is needed for the OPT period: under 214.1(m)(1)(i) a transition-group F-1 student recommended for post-completion OPT who files the I-765 within the admission period and on or before March 18, 2027 is exempt; March 1, 2027 qualifies."
+
+[[criterion]]
+id = "q2e_date"
+question = "Q2"
+points = 1.25
+text = "(e) If approved, she may remain until August 12, 2028 (EAD end June 13, 2028 + 60 days)."
+
+# --------------------------------------------------------------------------- Q3
+[[criterion]]
+id = "q3a"
+question = "Q3"
+points = 1
+text = "(a) Earliest admission December 13, 2026 (January 12, 2027 minus 30 days, 8 CFR 214.2(f)(5)(i))."
+
+[[criterion]]
+id = "q3b_date"
+question = "Q3"
+points = 1
+text = "(b) I-94 admit-until date January 17, 2028 (December 18, 2027 + 30 days)."
+
+[[criterion]]
+id = "q3b_basis"
+question = "Q3"
+points = 0.5
+text = "(b) Cites (f)(5)(i), (f)(5)(v) or 214.1(a)(4)(i)(A) for the fixed admission period."
+
+[[criterion]]
+id = "q3c_yes"
+question = "Q3"
+points = 1.25
+text = "(c) Yes: a compelling academic reason under 8 CFR 214.2(f)(7)(i)(C)(2)(i), where unexpected research problems expressly include an unexpected change in faculty advisor."
+
+[[criterion]]
+id = "q3c_not"
+question = "Q3"
+points = 0.75
+text = "(c) Names a reason the rule says would not qualify: delays caused by academic probation or suspension, or a repeated inability or unwillingness to complete the course of study."
+
+[[criterion]]
+id = "q3d_deadline"
+question = "Q3"
+points = 0.75
+text = "(d) The DSO must enter the new end date on or before December 18, 2027 (the program end date on the current I-20)."
+
+[[criterion]]
+id = "q3d_missed"
+question = "Q3"
+points = 0.75
+text = "(d) If missed, the student must apply for reinstatement instead (8 CFR 214.2(f)(7)(viii))."
+
+[[criterion]]
+id = "q3e_work"
+question = "Q3"
+points = 1
+text = "(e) To keep the RA job without interruption, USCIS must receive the I-539 on or before December 18, 2027; filing during the 30-day period in (f)(5)(v) loses the automatic extension of on-campus/CPT employment ((f)(5)(viii))."
+
+[[criterion]]
+id = "q3e_late"
+question = "Q3"
+points = 0.75
+text = "(e) A later filing is still timely if received by January 17, 2028 (8 CFR 214.2(f)(7)(iii)(B), including the 30 days)."
+
+[[criterion]]
+id = "q3e_consequence"
+question = "Q3"
+points = 0.75
+text = "(e) Consequence of filing in that window: he may continue a full course of study but may not continue or begin practical training or other employment until approval."
+
+[[criterion]]
+id = "q3f_period"
+question = "Q3"
+points = 1.5
+text = "(f) Work may continue up to 240 days from the end of the I-94 admission period (January 17, 2028) or until USCIS decides, whichever is earlier: about September 12 or 13, 2028 (either date is fine)."
+
+[[criterion]]
+id = "q3f_source"
+question = "Q3"
+points = 0.5
+text = "(f) Cites 8 CFR 214.2(f)(5)(viii) for the 240-day extension."
+
+[[criterion]]
+id = "q3g_approved"
+question = "Q3"
+points = 0.75
+text = "(g) If approved: the time needed to finish plus 30 days, May 19, 2028 + 30 = June 18, 2028 ((f)(7)(vi))."
+
+[[criterion]]
+id = "q3g_denied"
+question = "Q3"
+points = 0.75
+text = "(g) If denied after the admission period has passed: he (and dependents) must depart immediately ((f)(7)(vii))."
+
+# --------------------------------------------------------------------------- Q4
+[[criterion]]
+id = "q4a_safe"
+question = "Q4"
+points = 2
+text = "(a) Under 8 CFR 214.1(c)(8)(i) the I-539 is not abandoned if he returns before his prior admission period expires (January 17, 2028 has not passed on January 5, 2028) and seeks admission only for the balance of that period."
+
+[[criterion]]
+id = "q4a_presentation"
+question = "Q4"
+points = 1.5
+text = "(a) How he presents himself matters: under 214.1(c)(8)(ii) the application may be deemed abandoned if he seeks admission with an I-20 showing an end date beyond the prior admission period (the May 19, 2028 I-20)."
+
+[[criterion]]
+id = "q4a_carry"
+question = "Q4"
+points = 1.5
+text = "(a) He should carry the Form I-797C receipt notice and the I-20 showing the proposed length of stay (214.1(c)(8)(iii))."
+
+[[criterion]]
+id = "q4b_abandoned"
+question = "Q4"
+points = 2
+text = "(b) Departing while a change-of-status application is pending means USCIS will consider it abandoned."
+
+[[criterion]]
+id = "q4b_cite"
+question = "Q4"
+points = 1
+text = "(b) Cites 8 CFR 248.1(f) as added by 2026-14439."
+
+# --------------------------------------------------------------------------- Q5
+[[group]]
+id = "q5_provisions"
+question = "Q5"
+cap = 6
+
+[[criterion]]
+id = "q5_p_f5iiA"
+question = "Q5"
+group = "q5_provisions"
+points = 1
+text = "Identifies and applies 8 CFR 214.2(f)(5)(ii)(A): graduate-level students may not transfer at any point during their program of study, unless SEVP authorizes an exception."
+
+[[criterion]]
+id = "q5_p_f5iiB"
+question = "Q5"
+group = "q5_provisions"
+points = 1
+text = "Identifies and applies (f)(5)(ii)(B): completing a program at one level and beginning a higher level is maintaining status."
+
+[[criterion]]
+id = "q5_p_f8iB2"
+question = "Q5"
+group = "q5_provisions"
+points = 1
+text = "Identifies and applies (f)(8)(i)(B)(2): transfer eligibility includes having completed a degree program."
+
+[[criterion]]
+id = "q5_p_f8iC"
+question = "Q5"
+group = "q5_provisions"
+points = 1
+text = "Identifies and applies (f)(8)(i)(C): the student is not currently in a graduate-level program, unless SEVP authorizes an exception."
+
+[[criterion]]
+id = "q5_p_f8iD"
+question = "Q5"
+group = "q5_provisions"
+points = 1
+text = "Identifies and applies (f)(8)(i)(D): first academic year completed at the school that issued the initial I-20 (met here)."
+
+[[criterion]]
+id = "q5_p_f8iG"
+question = "Q5"
+group = "q5_provisions"
+points = 1
+text = "Identifies and applies (f)(8)(i)(G): 5-month window, May 14, 2027 + 5 months = October 14, 2027 (or earlier per transfer-out date); August 23 is inside."
+
+[[criterion]]
+id = "q5_p_f8ii_iii"
+question = "Q5"
+group = "q5_provisions"
+points = 1
+text = "Identifies and applies (f)(8)(ii)-(iii): transfer / change-of-level procedure (release date)."
+
+[[criterion]]
+id = "q5_p_extension"
+question = "Q5"
+group = "q5_provisions"
+points = 1
+text = "Identifies that she still needs an extension of stay for the new program ((f)(8)(iv) and/or 214.1(m)(1))."
+
+[[criterion]]
+id = "q5_p_f5iiE"
+question = "Q5"
+group = "q5_provisions"
+points = 1
+text = "Identifies (f)(5)(ii)(E): DHS may delay or suspend (A)-(C)."
+
+[[group]]
+id = "q5_tension"
+question = "Q5"
+gate = "q5_flag"
+factor = 0.5
+
+[[criterion]]
+id = "q5_tension_identified"
+question = "Q5"
+group = "q5_tension"
+points = 1.5
+text = "Identifies the tension: read literally, (f)(8)(i)(C) and/or (f)(5)(ii)(A) could bar any graduate student from transferring, while (f)(5)(ii)(B) and (f)(8)(i)(B)(2) contemplate moving up after completing a degree."
+
+[[criterion]]
+id = "q5_best_reading"
+question = "Q5"
+group = "q5_tension"
+points = 1.5
+text = "Concludes the most defensible reading is that a transfer after completing the master's to a higher-level program is permitted (a mid-program graduate transfer is barred), and supports it with the preamble (e.g. 91 FR 45043 / 45104) or equivalent reasoning."
+
+[[criterion]]
+id = "q5_flag"
+question = "Q5"
+kind = "gate"
+text = "Flags the uncertainty: the literal text of (f)(8)(i)(C) leaves room for a stricter reading, and recommends confirming with the DSO/SEVP or similar."
+
+[[criterion]]
+id = "q5_no_notice"
+question = "Q5"
+points = 0.5
+text = "States that no FR notice delaying or suspending (f)(5)(ii)(A)-(C) has been published as of November 14, 2026."
+
+[[criterion]]
+id = "q5_delay_mechanism"
+question = "Q5"
+points = 0.5
+text = "Explains that under (f)(5)(ii)(E) DHS may delay or suspend those provisions until September 14, 2028, announced by FR notice and on the SEVP website."
+
+# --------------------------------------------------------------------------- Q6
+[[criterion]]
+id = "q6a_no"
+question = "Q6"
+points = 1
+text = "(a) Concludes he cannot obtain F-1 status for the MBA by either route."
+
+[[criterion]]
+id = "q6a_rule"
+question = "Q6"
+points = 1
+text = "(a) Bases this on 8 CFR 214.2(f)(5)(ii)(C): having completed a program after September 15, 2026, he may not maintain, be admitted, or otherwise be provided F-1 status through a program at the same or lower level."
+
+[[criterion]]
+id = "q6a_both_routes"
+question = "Q6"
+points = 1
+text = "(a) Explains why re-entry on a new I-20 is also barred (the provision says 'be admitted'), not only transfer."
+
+[[criterion]]
+id = "q6b_no"
+question = "Q6"
+points = 0.75
+text = "(b) Concludes an August 2027 start misses the transfer timing rule in (f)(8)(i)(G)."
+
+[[criterion]]
+id = "q6b_date"
+question = "Q6"
+points = 0.75
+text = "(b) Computes the window end: December 11, 2026 + 5 months = May 11, 2027 (or earlier per transfer-out date)."
+
+[[criterion]]
+id = "q6c"
+question = "Q6"
+points = 1.5
+text = "(c) February 9, 2027: December 11, 2026 + 60 days under 214.1(m)(1)."
+
+[[criterion]]
+id = "q6d_power"
+question = "Q6"
+points = 1
+text = "(d) Explains that under (f)(5)(ii)(E) DHS may delay or suspend (A)-(C) until September 14, 2028, announced by FR notice and on the SEVP website."
+
+[[criterion]]
+id = "q6d_none"
+question = "Q6"
+points = 1
+text = "(d) States that no such notice has been published as of November 14, 2026."
+
+# --------------------------------------------------------------------------- Q7
+[[criterion]]
+id = "q7a_proclamation"
+question = "Q7"
+points = 1
+text = "(a) Identifies Proclamation 11069, FR Doc. 2026-19554, 91 FR 60497, signed September 18, 2026."
+
+[[criterion]]
+id = "q7a_dates"
+question = "Q7"
+points = 1
+text = "(a) Effective 12:01 a.m. EDT September 21, 2026; expires, absent extension, 12 months later (September 21, 2027)."
+
+[[criterion]]
+id = "q7a_related"
+question = "Q7"
+points = 1
+text = "(a) Identifies the related presidential documents: Executive Order 14431 (2026-19555) and Proclamation 10973 (2025-18601), which Proclamation 11069 extends."
+
+[[group]]
+id = "q7b"
+question = "Q7"
+gate = "q7b_flag"
+factor = 0.5
+
+[[criterion]]
+id = "q7b_text"
+question = "Q7"
+group = "q7b"
+points = 1.5
+text = "(b) Concludes that by its text the payment requirement does not reach an in-country change of status, because the proclamation restricts entry and petitions for workers outside the United States (e.g. Secs. 1(a), 1(b), 2(a), 3(a))."
+
+[[criterion]]
+id = "q7b_reach"
+question = "Q7"
+group = "q7b"
+points = 1.5
+text = "(b) Explains it could reach her if she must leave and seek admission to effectuate the petition (e.g. consular processing), or is outside the U.S. when the petition is decided."
+
+[[criterion]]
+id = "q7b_flag"
+question = "Q7"
+kind = "gate"
+text = "(b) Flags that this is a reading of the text and that agency implementation is not in the Federal Register (uncertain)."
+
+[[criterion]]
+id = "q7c_nprm"
+question = "Q7"
+points = 1
+text = "(c) Identifies NPRM 2026-17324 (91 FR 54817, August 25, 2026): a $103,265 fee for cap-subject H-1B petitions including advanced-degree-exemption petitions, proposed only."
+
+[[criterion]]
+id = "q7c_lena"
+question = "Q7"
+points = 1
+text = "(c) Concludes the proposed fee would not apply to Lena's cap-exempt university petition."
+
+[[criterion]]
+id = "q7c_status"
+question = "Q7"
+points = 1
+text = "(c) Status: comments closed September 24, 2026, no final rule as of November 14, 2026, and correction C1-2026-17324 (91 FR 57516) replaced Table 13 without changing the fee."
+
+[[criterion]]
+id = "q7d_no"
+question = "Q7"
+points = 1
+text = "(d) Concludes no F-1 provision automatically extends her status to the H-1B start date."
+
+[[criterion]]
+id = "q7d_capgap"
+question = "Q7"
+points = 1
+text = "(d) Cites cap-gap at 8 CFR 214.2(f)(5)(vii) (redesignated from (f)(5)(vi) by 2026-14439) and explains it covers only cap-subject petitions (214(g)(1)(A))."
+
+[[criterion]]
+id = "q7e"
+question = "Q7"
+points = 1
+text = "(e) The change-of-status request is considered abandoned (8 CFR 248.1(f))."
+
+# --------------------------------------------------------------------------- Q8
+[[criterion]]
+id = "q8a_doc"
+question = "Q8"
+points = 1.25
+text = "(a) Identifies NPRM 2026-18631 (91 FR 57807) and that it would remove 8 CFR 214.1(l)(2)."
+
+[[criterion]]
+id = "q8a_scope"
+question = "Q8"
+points = 1.25
+text = "(a) Explains it targets the up-to-60-day grace period after cessation of employment for E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1 and TN workers and dependents (a substantially complete list)."
+
+[[criterion]]
+id = "q8b"
+question = "Q8"
+points = 1.5
+text = "(b) Proposed rule, not in force; published September 11, 2026; comments due (closed) November 10, 2026."
+
+[[criterion]]
+id = "q8c"
+question = "Q8"
+points = 2
+text = "(c) No: Priya's 60-day period comes from 8 CFR 214.1(m)(1) (2026-14439), which the NPRM does not amend."
+
+[[criterion]]
+id = "q8d"
+question = "Q8"
+points = 1
+text = "(d) Says Lena could be affected once in H-1B status (if finalized) AND that the F-1 students (Priya, Tomas, Mei, Ahmed) are not. Both points are needed."
+
+# --------------------------------------------------------------------------- Q9
+# 1 pt per valid change plus 0.4 if its source location is accurate, up to 5
+# changes: counted with "at least k" ladders.
+[[criterion]]
+id = "q9_valid_1"
+question = "Q9"
+points = 1
+text = "At least 1 valid NPRM-to-final change affecting F-1 students, tied to the final-rule paragraph it touches. Valid: the changes listed in the key, or another change you confirm in the rule."
+
+[[criterion]]
+id = "q9_valid_2"
+question = "Q9"
+points = 1
+text = "At least 2 valid changes (same standard as q9_valid_1)."
+
+[[criterion]]
+id = "q9_valid_3"
+question = "Q9"
+points = 1
+text = "At least 3 valid changes (same standard)."
+
+[[criterion]]
+id = "q9_valid_4"
+question = "Q9"
+points = 1
+text = "At least 4 valid changes (same standard)."
+
+[[criterion]]
+id = "q9_valid_5"
+question = "Q9"
+points = 1
+text = "At least 5 valid changes (same standard)."
+
+[[criterion]]
+id = "q9_located_1"
+question = "Q9"
+points = 0.4
+text = "At least 1 of the valid changes has an accurate FR location for where the change is described (Section V.A at 91 FR 45096-45098, Section II.C at 44978-44979, or another correct preamble page)."
+
+[[criterion]]
+id = "q9_located_2"
+question = "Q9"
+points = 0.4
+text = "At least 2 valid changes with accurate locations."
+
+[[criterion]]
+id = "q9_located_3"
+question = "Q9"
+points = 0.4
+text = "At least 3 valid changes with accurate locations."
+
+[[criterion]]
+id = "q9_located_4"
+question = "Q9"
+points = 0.4
+text = "At least 4 valid changes with accurate locations."
+
+[[criterion]]
+id = "q9_located_5"
+question = "Q9"
+points = 0.4
+text = "At least 5 valid changes with accurate locations."
+
+# -------------------------------------------------------------------------- Q10
+# 1 pt per correct entry (status may be wrong) plus 1 if the in-force status is
+# also right, up to 4 entries; -1 per irrelevant document.
+[[criterion]]
+id = "q10_entry_1"
+question = "Q10"
+points = 1
+text = "At least 1 relevant entry (from the key's table, or another document you confirm is relevant) with correct document number, type, publication date and effect. In-force status may be wrong. 2026-20955 counts only if its limited relevance (does not address OPT) is noted."
+
+[[criterion]]
+id = "q10_entry_2"
+question = "Q10"
+points = 1
+text = "At least 2 such entries."
+
+[[criterion]]
+id = "q10_entry_3"
+question = "Q10"
+points = 1
+text = "At least 3 such entries."
+
+[[criterion]]
+id = "q10_entry_4"
+question = "Q10"
+points = 1
+text = "At least 4 such entries."
+
+[[criterion]]
+id = "q10_status_1"
+question = "Q10"
+points = 1
+text = "At least 1 of those entries also has the correct in-force status (proposed vs final / in force)."
+
+[[criterion]]
+id = "q10_status_2"
+question = "Q10"
+points = 1
+text = "At least 2 entries fully correct, including in-force status."
+
+[[criterion]]
+id = "q10_status_3"
+question = "Q10"
+points = 1
+text = "At least 3 entries fully correct, including in-force status."
+
+[[criterion]]
+id = "q10_status_4"
+question = "Q10"
+points = 1
+text = "At least 4 entries fully correct, including in-force status."
+
+[[criterion]]
+id = "q10_irrelevant_1"
+question = "Q10"
+kind = "penalty"
+points = 1
+text = "Lists at least 1 irrelevant document as relevant (see the key's distractors, e.g. 2026-20186; 2026-14539 described as affecting I-539 or H-1B change-of-status filings; 2026-15450 described as affecting F-1 students)."
+
+[[criterion]]
+id = "q10_irrelevant_2"
+question = "Q10"
+kind = "penalty"
+points = 1
+text = "Lists at least 2 irrelevant documents as relevant."
+
+[[criterion]]
+id = "q10_irrelevant_3"
+question = "Q10"
+kind = "penalty"
+points = 1
+text = "Lists at least 3 irrelevant documents as relevant."
+
+# -------------------------------------------------------------------------- Q11
+[[criterion]]
+id = "q11_fee"
+question = "Q11"
+points = 1.5
+text = "Gives the $420 I-539 fee figure (91 FR 45055) and attributes it to a commenter, not to DHS or the rule."
+
+[[criterion]]
+id = "q11_commenter_time"
+question = "Q11"
+points = 1
+text = "Gives at least one commenter processing-time figure (91 FR 45083: 4.5 / 3.5 months; 91 FR 44999: about 3.5 months; 91 FR 45063: over 6.5 months for 80 percent) and attributes it to commenters."
+
+[[criterion]]
+id = "q11_dhs_time"
+question = "Q11"
+points = 1
+text = "Gives DHS's statement that 80 percent of Form I-539 adjudications for F, M and J aliens are completed in three months (91 FR 45084) and attributes it to DHS."
+
+[[group]]
+id = "q11_handout"
+question = "Q11"
+gate = "q11_handout_no_misattribution"
+factor = 0
+
+[[criterion]]
+id = "q11_handout_sources"
+question = "Q11"
+group = "q11_handout"
+points = 1
+text = "Drafts one or two handout sentences in which each figure carries its correct source."
+
+[[criterion]]
+id = "q11_handout_caveat"
+question = "Q11"
+group = "q11_handout"
+points = 0.5
+text = "The handout sentences (or the answer around them) note that the rule does not set the fee or guarantee a processing time."
+
+[[criterion]]
+id = "q11_handout_no_misattribution"
+question = "Q11"
+kind = "gate"
+text = "No handout sentence attributes a commenter's figure to DHS or to 'the rule'."
+
+# -------------------------------------------------------------------------- Q12
+[[group]]
+id = "q12a"
+question = "Q12"
+gate = "q12a_flag"
+factor = 0.5
+
+[[criterion]]
+id = "q12a_text"
+question = "Q12"
+group = "q12a"
+points = 1.5
+text = "(a) Identifies the relevant text: (f)(7)(iii)(B) keys timeliness to receipt before the authorized period of stay expires (drafted around the (f)(5)(v) 30 days), and/or 214.1(m)(1) / 214.1(c)(2) for the transition group."
+
+[[criterion]]
+id = "q12a_reading"
+question = "Q12"
+group = "q12a"
+points = 1.5
+text = "(a) Most defensible reading: because the 60 days are part of her authorized stay under (m)(1), receipt by July 14, 2027 is likely timely."
+
+[[criterion]]
+id = "q12a_flag"
+question = "Q12"
+kind = "gate"
+text = "(a) Flags that no provision expressly addresses filing during the transition group's 60-day period."
+
+[[group]]
+id = "q12b"
+question = "Q12"
+gate = "q12b_flag"
+factor = 0.5
+
+[[criterion]]
+id = "q12b_text"
+question = "Q12"
+group = "q12b"
+points = 1.5
+text = "(b) Identifies that the (f)(5)(viii) forfeiture is tied to filing during the 30-day period in (f)(5)(v) (and/or that it is framed around an expired I-94 date), while the transition group's 60 days come from 214.1(m)(1)."
+
+[[criterion]]
+id = "q12b_reading"
+question = "Q12"
+group = "q12b"
+points = 1.5
+text = "(b) Most defensible reading: DHS would likely treat the post-program period the same way (closest analogue (f)(7)(iii)(B): study but no employment), but the text does not say so."
+
+[[criterion]]
+id = "q12b_flag"
+question = "Q12"
+kind = "gate"
+text = "(b) Flags that the text does not expressly address work-extension forfeiture for the transition group."
+
+[[criterion]]
+id = "q12_recommendation"
+question = "Q12"
+points = 1
+text = "Recommends the cautious course: have USCIS receive the I-539 on or before May 15, 2027 (the I-20 program end date), and confirm with the DSO."

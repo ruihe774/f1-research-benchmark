@@ -40,6 +40,8 @@ Paragraph citations below such as "(f)(7)(iii)(B)" mean 8 CFR 214.2(f)(7)(iii)(B
 - **Wrong kind of authority.** Treating a proposed rule as in force, or a commenter's statement as a DHS finding, earns 0 for that part.
 - **Uncertainty.** Where the key marks something as **uncertain**, a confident answer either way without flagging the gap earns at most half credit for that part.
 
+**Automated grading.** `grader.py` does not ask the grader to award points. `rubric.toml` splits each part below into yes/no criteria (credit, penalty, or gate for the uncertainty flags), the grader gives a verdict on each, and code computes the points. A citation deduction is all or nothing (1 point). Where `rubric.toml` splits a part's points differently from the tables below, `rubric.toml` decides. Bonus and optional items earn no points.
+
 ---
 
 ## Q1. Identify the rule (6 pts)

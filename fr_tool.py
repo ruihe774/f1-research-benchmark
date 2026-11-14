@@ -29,6 +29,15 @@ Examples
 Documents are identified by their FR document number (e.g. 2026-14439), which
 `search` prints. Full texts are cached locally after the first download.
 Run `python fr_tool.py <command> -h` for all options of a command.
+
+Library use
+-----------
+  import fr_tool
+  print(fr_tool.search("duration of status", doc_type="RULE", since="2025-01-01"))
+  print(fr_tool.grep("2026-14439", "within 5 months", context=3))
+
+search(), doc(), toc(), text() and grep() return the same text the CLI prints.
+They raise FRToolError (instead of exiting) on bad input or failed downloads.
 """
 
 import argparse
@@ -49,6 +58,7 @@ CACHE_DIR = os.environ.get(
     "FR_TOOL_CACHE", os.path.join(os.path.expanduser("~"), ".cache", "fr_tool")
 )
 TIMEOUT = 90
+ORDERS = ["relevance", "newest", "oldest", "executive_order_number"]
 
 DOC_TYPES = {
     "RULE": "Rule",
@@ -58,6 +68,20 @@ DOC_TYPES = {
 }
 PRES_TYPES = ["determination", "executive_order", "memorandum", "notice",
               "proclamation", "presidential_order", "other"]
+
+
+class FRToolError(Exception):
+    """Bad input or a document that cannot be found or downloaded."""
+
+
+class FRNetworkError(FRToolError):
+    """An HTTP request failed after all retries."""
+
+
+def _as_list(v):
+    if v is None:
+        return []
+    return [v] if isinstance(v, str) else list(v)
 
 
 # --------------------------------------------------------------------------- #
@@ -78,7 +102,7 @@ def _http_get(url, retries=3):
         except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
             last = e
         time.sleep(1.5 * (attempt + 1))
-    raise RuntimeError("request failed after %d tries: %s (%s)" % (retries, url, last))
+    raise FRNetworkError("request failed after %d tries: %s (%s)" % (retries, url, last))
 
 
 def _api(path, params=None):
@@ -99,41 +123,60 @@ SEARCH_FIELDS = ["document_number", "title", "type", "publication_date",
                  "executive_order_number"]
 
 
-def cmd_search(a):
-    p = [("per_page", a.per_page), ("page", a.page), ("order", a.order)]
+def search(query="", doc_type=None, agency=None, pres_type=None, since=None,
+           until=None, docket=None, rin=None, cfr=None, significant=False,
+           order="relevance", per_page=10, page=1, brief=False):
+    """Search Federal Register documents. Returns the formatted result list.
+
+    doc_type, agency and pres_type accept a string or a list of strings.
+    """
+    types = [t.upper() for t in _as_list(doc_type)]
+    for t in types:
+        if t not in DOC_TYPES:
+            raise FRToolError("type must be one of %s, got %r" % (", ".join(DOC_TYPES), t))
+    pres_types = _as_list(pres_type)
+    for pt in pres_types:
+        if pt not in PRES_TYPES:
+            raise FRToolError("pres_type must be one of %s, got %r" % (", ".join(PRES_TYPES), pt))
+    if order not in ORDERS:
+        raise FRToolError("order must be one of %s, got %r" % (", ".join(ORDERS), order))
+    per_page = max(1, min(50, int(per_page)))
+    page = max(1, int(page))
+
+    p = [("per_page", per_page), ("page", page), ("order", order)]
     p += [("fields[]", f) for f in SEARCH_FIELDS]
-    if a.query:
-        p.append(("conditions[term]", a.query))
-    for t in a.type or []:
-        p.append(("conditions[type][]", t.upper()))
-    for ag in a.agency or []:
+    if query:
+        p.append(("conditions[term]", query))
+    for t in types:
+        p.append(("conditions[type][]", t))
+    for ag in _as_list(agency):
         p.append(("conditions[agencies][]", ag))
-    for pt in a.pres_type or []:
+    for pt in pres_types:
         p.append(("conditions[presidential_document_type][]", pt))
-    if a.since:
-        p.append(("conditions[publication_date][gte]", a.since))
-    if a.until:
-        p.append(("conditions[publication_date][lte]", a.until))
-    if a.docket:
-        p.append(("conditions[docket_id]", a.docket))
-    if a.rin:
-        p.append(("conditions[regulation_id_number]", a.rin))
-    if a.cfr:
-        m = re.match(r"^(\d+):(\d+)$", a.cfr)
+    if since:
+        p.append(("conditions[publication_date][gte]", since))
+    if until:
+        p.append(("conditions[publication_date][lte]", until))
+    if docket:
+        p.append(("conditions[docket_id]", docket))
+    if rin:
+        p.append(("conditions[regulation_id_number]", rin))
+    if cfr:
+        m = re.match(r"^(\d+):(\d+)$", cfr)
         if not m:
-            sys.exit("--cfr must look like TITLE:PART, e.g. 8:214")
+            raise FRToolError("--cfr must look like TITLE:PART, e.g. 8:214")
         p += [("conditions[cfr][title]", m.group(1)),
               ("conditions[cfr][part]", m.group(2))]
-    if a.significant:
+    if significant:
         p.append(("conditions[significant]", 1))
 
     data = _api("/documents.json", p)
     total = data.get("count", 0)
     results = data.get("results") or []
     pages = data.get("total_pages", 1)
-    print("Found %d document(s); page %d of %s (%d shown)\n"
-          % (total, a.page, pages, len(results)))
-    for i, r in enumerate(results, 1 + (a.page - 1) * a.per_page):
+    out = ["Found %d document(s); page %d of %s (%d shown)\n"
+           % (total, page, pages, len(results))]
+    for i, r in enumerate(results, 1 + (page - 1) * per_page):
         agencies = ", ".join(x.get("name") or x.get("raw_name", "")
                              for x in r.get("agencies") or [])
         line2 = ["type: " + (r.get("subtype") or r.get("type") or "?"),
@@ -144,12 +187,12 @@ def cmd_search(a):
             line2.append("effective: " + r["effective_on"])
         if r.get("signing_date"):
             line2.append("signed: " + r["signing_date"])
-        print("%d. [%s] %s" % (i, r.get("document_number"), r.get("title")))
-        print("   " + " | ".join(line2))
+        out.append("%d. [%s] %s" % (i, r.get("document_number"), r.get("title")))
+        out.append("   " + " | ".join(line2))
         if r.get("action"):
-            print("   action: " + r["action"])
+            out.append("   action: " + r["action"])
         if agencies:
-            print("   agencies: " + agencies)
+            out.append("   agencies: " + agencies)
         extra = []
         if r.get("docket_ids"):
             extra.append("docket: " + "; ".join(r["docket_ids"]))
@@ -158,15 +201,16 @@ def cmd_search(a):
         if r.get("presidential_document_number"):
             extra.append("pres. doc no.: " + str(r["presidential_document_number"]))
         if extra:
-            print("   " + " | ".join(extra))
-        if r.get("abstract") and not a.brief:
+            out.append("   " + " | ".join(extra))
+        if r.get("abstract") and not brief:
             ab = re.sub(r"\s+", " ", r["abstract"]).strip()
             if len(ab) > 400:
                 ab = ab[:400].rsplit(" ", 1)[0] + " ..."
-            print("   abstract: " + ab)
-        print()
-    if pages and a.page < pages:
-        print("(more results: rerun with --page %d)" % (a.page + 1))
+            out.append("   abstract: " + ab)
+        out.append("")
+    if pages and page < pages:
+        out.append("(more results: rerun with --page %d)" % (page + 1))
+    return "\n".join(out)
 
 
 # --------------------------------------------------------------------------- #
@@ -187,12 +231,13 @@ def _get_meta(num):
         return _api("/documents/%s.json" % urllib.parse.quote(num), p)
     except urllib.error.HTTPError as e:
         if e.code == 404:
-            sys.exit("No Federal Register document with number %r." % num)
+            raise FRToolError("No Federal Register document with number %r." % num) from None
         raise
 
 
-def cmd_doc(a):
-    m = _get_meta(a.document_number)
+def doc(document_number):
+    """Metadata for one document (dates, citation, docket, RIN, CFR parts...)."""
+    m = _get_meta(document_number)
     out = []
 
     def add(label, val):
@@ -232,10 +277,10 @@ def cmd_doc(a):
     add("Disposition", m.get("disposition_notes"))
     add("URL", m.get("html_url"))
     add("PDF", m.get("pdf_url"))
-    print("\n".join(out))
     if m.get("abstract"):
-        print("\nAbstract:\n" + re.sub(r"\s+", " ", m["abstract"]).strip())
-    print("\nUse `toc`, `grep` or `text` with this document number to read the full text.")
+        out.append("\nAbstract:\n" + re.sub(r"\s+", " ", m["abstract"]).strip())
+    out.append("\nUse `toc`, `grep` or `text` with this document number to read the full text.")
+    return "\n".join(out)
 
 
 # --------------------------------------------------------------------------- #
@@ -285,7 +330,7 @@ def get_full_text(num):
         except Exception as e:  # noqa: BLE001
             errors.append("govinfo: %s" % e)
     if text is None:
-        sys.exit("Could not download full text for %s (%s)" % (num, "; ".join(errors)))
+        raise FRToolError("Could not download full text for %s (%s)" % (num, "; ".join(errors)))
     with open(path, "w", encoding="utf-8") as f:
         f.write(text)
     return text
@@ -300,20 +345,22 @@ def _page_at(lines, idx):
     return None
 
 
-def cmd_text(a):
-    lines = get_full_text(a.document_number).split("\n")
-    n = len(lines)
-    start = max(1, a.start)
-    end = min(n, start + a.lines - 1)
+def text(document_number, start=1, lines=150):
+    """Full text from line `start` (1-based), `lines` lines, with line numbers."""
+    all_lines = get_full_text(document_number).split("\n")
+    n = len(all_lines)
+    start = max(1, start)
+    end = min(n, start + lines - 1)
     if start > n:
-        sys.exit("Document has only %d lines." % n)
-    pg = _page_at(lines, start - 1)
-    print("[%s: lines %d-%d of %d%s]" % (a.document_number, start, end, n,
-                                        ", FR page %s" % pg if pg else ""))
+        raise FRToolError("Document has only %d lines." % n)
+    pg = _page_at(all_lines, start - 1)
+    out = ["[%s: lines %d-%d of %d%s]" % (document_number, start, end, n,
+                                         ", FR page %s" % pg if pg else "")]
     for i in range(start - 1, end):
-        print("%6d  %s" % (i + 1, lines[i]))
+        out.append("%6d  %s" % (i + 1, all_lines[i]))
     if end < n:
-        print("[... continue with --start %d]" % (end + 1))
+        out.append("[... continue with --start %d]" % (end + 1))
+    return "\n".join(out)
 
 
 HEADING_RES = [
@@ -327,8 +374,10 @@ HEADING_RES = [
 ]
 
 
-def cmd_toc(a):
-    lines = get_full_text(a.document_number).split("\n")
+def toc(document_number, max_entries=400):
+    """Outline of headings with line numbers."""
+    lines = get_full_text(document_number).split("\n")
+    out = []
     count = 0
     for i, ln in enumerate(lines):
         s = ln.rstrip()
@@ -336,45 +385,75 @@ def cmd_toc(a):
             continue
         for rx in HEADING_RES:
             if rx.match(s):
-                print("%6d  %s" % (i + 1, s))
+                out.append("%6d  %s" % (i + 1, s))
                 count += 1
                 break
-        if count >= a.max:
-            print("[outline truncated at %d entries; use --max]" % a.max)
+        if count >= max_entries:
+            out.append("[outline truncated at %d entries; use --max]" % max_entries)
             break
     if count == 0:
-        print("(no headings detected; use `text` or `grep`)")
-    print("\n[%d lines total. Read a section with: text %s --start LINE]"
-          % (len(lines), a.document_number))
+        out.append("(no headings detected; use `text` or `grep`)")
+    out.append("\n[%d lines total. Read a section with: text %s --start LINE]"
+               % (len(lines), document_number))
+    return "\n".join(out)
 
 
-def cmd_grep(a):
-    lines = get_full_text(a.document_number).split("\n")
-    flags = re.IGNORECASE if a.ignore_case else 0
+def grep(document_number, pattern, ignore_case=False, context=2, max_matches=25):
+    """Regex search within a document's full text, with context lines."""
     try:
-        rx = re.compile(a.pattern, flags)
+        rx = re.compile(pattern, re.IGNORECASE if ignore_case else 0)
     except re.error as e:
-        sys.exit("Bad regex: %s" % e)
+        raise FRToolError("Bad regex: %s" % e) from None
+    lines = get_full_text(document_number).split("\n")
+    context = max(0, context)
     hits = [i for i, ln in enumerate(lines) if rx.search(ln)]
-    print("[%d matching line(s) for /%s/ in %s (%d lines)]"
-          % (len(hits), a.pattern, a.document_number, len(lines)))
+    out = ["[%d matching line(s) for /%s/ in %s (%d lines)]"
+           % (len(hits), pattern, document_number, len(lines))]
     shown, last_end = 0, -1
     for i in hits:
-        if shown >= a.max:
-            print("[... %d more matches; raise --max or narrow the pattern]"
-                  % (len(hits) - shown))
+        if shown >= max_matches:
+            out.append("[... %d more matches; raise --max or narrow the pattern]"
+                       % (len(hits) - shown))
             break
-        lo, hi = max(0, i - a.context), min(len(lines), i + a.context + 1)
+        lo, hi = max(0, i - context), min(len(lines), i + context + 1)
         if lo <= last_end:
             lo = last_end + 1
         else:
             pg = _page_at(lines, i)
-            print("--" + (" (FR page %s)" % pg if pg else ""))
+            out.append("--" + (" (FR page %s)" % pg if pg else ""))
         for j in range(lo, hi):
             mark = ">" if j == i or rx.search(lines[j]) else " "
-            print("%6d%s %s" % (j + 1, mark, lines[j]))
+            out.append("%6d%s %s" % (j + 1, mark, lines[j]))
         last_end = hi - 1
         shown += 1
+    return "\n".join(out)
+
+
+# --------------------------------------------------------------------------- #
+# CLI
+# --------------------------------------------------------------------------- #
+def cmd_search(a):
+    print(search(a.query, doc_type=a.type, agency=a.agency, pres_type=a.pres_type,
+                 since=a.since, until=a.until, docket=a.docket, rin=a.rin,
+                 cfr=a.cfr, significant=a.significant, order=a.order,
+                 per_page=a.per_page, page=a.page, brief=a.brief))
+
+
+def cmd_doc(a):
+    print(doc(a.document_number))
+
+
+def cmd_text(a):
+    print(text(a.document_number, start=a.start, lines=a.lines))
+
+
+def cmd_toc(a):
+    print(toc(a.document_number, max_entries=a.max))
+
+
+def cmd_grep(a):
+    print(grep(a.document_number, a.pattern, ignore_case=a.ignore_case,
+               context=a.context, max_matches=a.max))
 
 
 # --------------------------------------------------------------------------- #
@@ -405,7 +484,7 @@ def main(argv=None):
     s.add_argument("--significant", action="store_true",
                    help="only significant regulatory actions")
     s.add_argument("--order", default="relevance",
-                   choices=["relevance", "newest", "oldest", "executive_order_number"])
+                   choices=ORDERS)
     s.add_argument("--per-page", type=int, default=10, help="1-50 (default 10)")
     s.add_argument("--page", type=int, default=1)
     s.add_argument("--brief", action="store_true", help="omit abstracts")
@@ -435,12 +514,12 @@ def main(argv=None):
     g.set_defaults(func=cmd_grep)
 
     a = ap.parse_args(argv)
-    if getattr(a, "per_page", None) is not None:
-        a.per_page = max(1, min(50, a.per_page))
     try:
         a.func(a)
-    except RuntimeError as e:
+    except FRNetworkError as e:
         sys.exit("Error: %s" % e)
+    except FRToolError as e:
+        sys.exit(str(e))
     except BrokenPipeError:
         pass
 
