@@ -1,8 +1,10 @@
 """Shared code for bench.py and grader.py.
 
-- The Federal Register tools (fr_tool.py) exposed as OpenAI function tools.
+- The Federal Register tools (fr_tool.py) exposed as OpenAI function tools,
+  frozen at the task's reference date.
 - A stateless Responses API agent loop (store=False, full history replayed on
-  every request) that ends in a Pydantic structured output.
+  every request) that ends in a Pydantic structured output. The loop asks for
+  the final answer when the turn limit or the context budget is reached.
 - Transcript recording: every request's response, tool call, tool result and
   token usage, written to JSON after each turn.
 """
@@ -35,6 +37,11 @@ RUNS_DIR = ROOT / "runs"
 # them from the process environment but does not read .env files itself.
 load_dotenv(ROOT / ".env")
 
+# "Today" in TASK.md. The tools hide every document published after it, so a
+# run gives the same Federal Register whenever it is made.
+AS_OF = "2026-11-14"
+fr_tool.AS_OF = AS_OF
+
 MAX_OUTPUT_TOKENS = 128_000
 EFFORTS = ["none", "minimal", "low", "medium", "high", "xhigh", "max"]
 REASONING_SUMMARIES = ["auto", "concise", "detailed", "none"]
@@ -42,6 +49,10 @@ REASONING_SUMMARIES = ["auto", "concise", "detailed", "none"]
 # Tool outputs are capped before they first enter the context: trimming them
 # later would change the prompt prefix.
 TOOL_OUTPUT_CHAR_LIMIT = 40_000
+# Tool output is counted against the context budget before the API reports its
+# size; 3 characters per token overestimates it.
+CHARS_PER_TOKEN = 3
+DEFAULT_CONTEXT_BUDGET = 250_000
 MAX_TEXT_LINES = 400
 MAX_GREP_CONTEXT = 10
 MAX_GREP_MATCHES = 100
@@ -71,8 +82,8 @@ class FrSearchArgs(BaseModel):
         description="Presidential document subtypes (use with doc_type PRESDOCU).")
     since: str | None = Field(description="Published on/after YYYY-MM-DD.")
     until: str | None = Field(description="Published on/before YYYY-MM-DD.")
-    docket: str | None = Field(description="Docket ID, e.g. ICEB-2025-0001.")
-    rin: str | None = Field(description="Regulation Identifier Number, e.g. 1653-AA95.")
+    docket: str | None = Field(description="Docket ID, e.g. EPA-HQ-OAR-2021-0317.")
+    rin: str | None = Field(description="Regulation Identifier Number, e.g. 2060-AV16.")
     cfr: str | None = Field(description="CFR title:part affected, e.g. 8:214.")
     significant: bool | None = Field(description="true: only significant regulatory actions.")
     order: Order | None = Field(description="Sort order (default relevance).")
@@ -82,7 +93,7 @@ class FrSearchArgs(BaseModel):
 
 
 class FrDocArgs(BaseModel):
-    document_number: str = Field(description="FR document number, e.g. 2026-14439.")
+    document_number: str = Field(description="FR document number, e.g. 2024-00366.")
 
 
 class FrTocArgs(BaseModel):
@@ -182,33 +193,39 @@ FR_TOOLS = [
 ]
 
 
-def run_tool(tools: dict[str, Tool], call) -> tuple[str, str | None]:
-    """Execute one function call. Returns (output text, error message or None).
+def run_tool(tools: dict[str, Tool], call) -> tuple[str, str | None, str | None]:
+    """Execute one function call.
 
-    Errors are returned to the model as the tool output so it can recover.
+    Returns (output text, error message or None, error kind or None). Errors are
+    returned to the model as the tool output so it can recover. Kind "input"
+    means the call itself was wrong; "infra" means the tool or the network
+    failed, which is not the model's doing.
     """
     tool = tools.get(call.name)
     if tool is None:
         err = "unknown tool %r" % call.name
-        return "Error: " + err, err
+        return "Error: " + err, err, "input"
     try:
         args = call.parsed_arguments if isinstance(
             getattr(call, "parsed_arguments", None), tool.args_model) \
             else tool.args_model.model_validate_json(call.arguments)
-        out = tool.run(args)
     except pydantic.ValidationError as e:
         err = "invalid arguments: %s" % e
-        return "Error: " + err, err
+        return "Error: " + err, err, "input"
+    try:
+        out = tool.run(args)
+    except fr_tool.FRNetworkError as e:
+        return "Error: %s" % e, str(e), "infra"
     except fr_tool.FRToolError as e:
-        return "Error: %s" % e, str(e)
+        return "Error: %s" % e, str(e), "input"
     except Exception as e:  # noqa: BLE001 - surface anything else to the model
         err = "%s: %s" % (type(e).__name__, e)
-        return "Error: " + err, err
+        return "Error: " + err, err, "infra"
     if len(out) > TOOL_OUTPUT_CHAR_LIMIT:
         out = (out[:TOOL_OUTPUT_CHAR_LIMIT]
                + "\n[... output truncated at %d characters; request a smaller range]"
                % TOOL_OUTPUT_CHAR_LIMIT)
-    return out, None
+    return out, None, None
 
 
 # --------------------------------------------------------------------------- #
@@ -268,6 +285,10 @@ class Transcript:
             "turns": [],
             "usage_total": {},
             "tool_calls_total": 0,
+            # Failed tool calls by kind: input | infra | budget (see run_tool).
+            "tool_errors_total": {},
+            # Full texts the tools read: number -> source, origin, sha256.
+            "fr_documents": {},
             "final_output": None,
         }
         self.save()
@@ -276,6 +297,11 @@ class Transcript:
         self.data["turns"].append(turn)
         add_usage(self.data["usage_total"], turn.get("usage"))
         self.data["tool_calls_total"] += len(turn.get("tool_results", []))
+        errors = self.data["tool_errors_total"]
+        for r in turn.get("tool_results", []):
+            if r["error_kind"]:
+                errors[r["error_kind"]] = errors.get(r["error_kind"], 0) + 1
+        self.data["fr_documents"] = dict(fr_tool.LOADED)
         self.save()
 
     def finish(self, status: str, final_output=None, error: str | None = None) -> None:
@@ -285,6 +311,13 @@ class Transcript:
 
     def save(self) -> None:
         write_json(self.path, self.data)
+
+    def warn_tool_errors(self) -> None:
+        n = self.data["tool_errors_total"].get("infra", 0)
+        if n:
+            log("WARNING: %d tool call(s) failed for infrastructure reasons (network, "
+                "Federal Register outage); the run may understate the model. See "
+                "error_kind in %s" % (n, self.path))
 
 
 # --------------------------------------------------------------------------- #
@@ -325,14 +358,17 @@ def user_message(text: str) -> dict:
 
 @dataclass
 class AgentResult:
-    status: str  # completed | incomplete | refused | max_turns | no_final_answer | error
+    # completed | incomplete | refused | max_turns | context_budget | no_final_answer | error
+    status: str
     output: BaseModel | None = None
     error: str | None = None
     input_items: list = field(default_factory=list)
 
 
-FINAL_TURN_NOTE = ("Turn limit reached. Tool calls are now disabled. Give your final "
+FINAL_TURN_NOTE = ("%s reached. Tool calls are now disabled. Give your final "
                    "answer now in the required format, based on what you have found.")
+LIMITS = {"max_turns": "Turn limit", "context_budget": "Context budget"}
+BUDGET_SKIP = "Not run: the context budget for this task is used up."
 NO_ANSWER_NOTE = ("Continue working. When you are done, give your final answer in the "
                   "required format.")
 BAD_FORMAT_NOTE = ("Your final answer could not be parsed against the required format "
@@ -356,12 +392,17 @@ def _brief_args(arguments: str, limit: int = 160) -> str:
 def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
               reasoning_summary: str, input_items: list, tools: list[Tool],
               text_format: type[BaseModel], transcript: Transcript, max_turns: int,
-              prompt_cache_options: dict) -> AgentResult:
+              context_budget: int, prompt_cache_options: dict) -> AgentResult:
     """Drive a stateless tool-calling loop until the model returns a parsed answer.
 
     Every request carries the full history: the initial input plus every output
     item (including encrypted reasoning) and tool result, appended in order and
     never edited, so the prompt prefix stays stable from turn to turn.
+
+    The history is never trimmed, so it must not outgrow the model's context
+    window. Once the next request is estimated at `context_budget` input tokens
+    or more (0: no budget), remaining tool calls are not run and the model gets
+    one last request, without tools, for its final answer, as at the turn limit.
     """
     items = list(input_items)
     tool_map = {t.name: t for t in tools}
@@ -381,15 +422,25 @@ def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
     if reasoning:
         request["reasoning"] = reasoning
     nudges = 0
+    limit = None  # the limit reached, once the final answer has been asked for
+    context = 0  # estimated input tokens of the next request
+
+    def over_budget() -> bool:
+        return bool(context_budget) and context >= context_budget
 
     for turn_no in range(1, max_turns + 1):
         injected = []
-        final_turn = turn_no == max_turns
-        if final_turn:
-            injected.append(developer_message(FINAL_TURN_NOTE))
+        if limit is None and (over_budget() or turn_no == max_turns):
+            limit = "context_budget" if over_budget() else "max_turns"
+            injected.append(developer_message(FINAL_TURN_NOTE % LIMITS[limit]))
             items.extend(injected)
+            if limit == "context_budget":
+                log("turn %d: context budget reached (about %d of %d tokens); asking for "
+                    "the final answer" % (turn_no, context, context_budget))
+        final_turn = limit is not None
         turn = {"turn": turn_no, "started_at": now_iso(), "injected_input": injected,
-                "tool_choice": "none" if final_turn else "auto"}
+                "tool_choice": "none" if final_turn else "auto", "limit": limit,
+                "context_estimate": context}
         t0 = time.monotonic()
         try:
             raw = client.responses.with_raw_response.parse(
@@ -410,6 +461,8 @@ def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
             # raw response, replay it and ask again.
             body = raw.http_response.json()
             turn.update(response=body, usage=body.get("usage"), parse_error=str(e))
+            context = sum((body.get("usage") or {}).get(k, 0)
+                          for k in ("input_tokens", "output_tokens"))
             transcript.add_turn(turn)
             log("turn %d: answer failed to parse: %s" % (turn_no, str(e).splitlines()[0]))
             if body.get("status") == "incomplete":
@@ -430,6 +483,8 @@ def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
         items.extend(to_input_item(o) for o in resp.output)
         calls = [o for o in resp.output if o.type == "function_call"]
         u = resp.usage
+        # This request's input and output are the next request's input.
+        context = (u.input_tokens + u.output_tokens) if u else context
         log("turn %d: %s, %d tool call(s), in=%s (cached %s) out=%s, %.1fs" % (
             turn_no, resp.status, len(calls), u and u.input_tokens,
             u and u.input_tokens_details.cached_tokens, u and u.output_tokens,
@@ -445,15 +500,19 @@ def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
             results = []
             for call in calls:
                 c0 = time.monotonic()
-                out, err = run_tool(tool_map, call)
+                if over_budget():
+                    out, err, kind = BUDGET_SKIP, "context budget reached", "budget"
+                else:
+                    out, err, kind = run_tool(tool_map, call)
+                context += len(out) // CHARS_PER_TOKEN + 1
                 results.append({"call_id": call.call_id, "name": call.name,
                                 "arguments": call.arguments, "output": out,
-                                "error": err,
+                                "error": err, "error_kind": kind,
                                 "elapsed_s": round(time.monotonic() - c0, 2)})
                 items.append({"type": "function_call_output", "call_id": call.call_id,
                               "output": out})
                 log("  %s %s -> %d chars%s" % (call.name, _brief_args(call.arguments),
-                                                 len(out), " (error)" if err else ""))
+                                                 len(out), " (%s error)" % kind if err else ""))
             turn["tool_results"] = results
             transcript.add_turn(turn)
             continue
@@ -466,8 +525,8 @@ def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
         if resp.output_parsed is not None:
             return AgentResult("completed", output=resp.output_parsed, input_items=items)
         if final_turn:
-            return AgentResult("max_turns", error="no final answer by the turn limit",
-                               input_items=items)
+            return AgentResult(limit, error="no final answer at the %s"
+                               % LIMITS[limit].lower(), input_items=items)
         nudges += 1
         if nudges > MAX_NUDGES:
             return AgentResult("no_final_answer", error="model stopped without a final answer",
@@ -477,7 +536,8 @@ def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
         turn["injected_after"] = [note]
         transcript.save()
 
-    return AgentResult("max_turns", error="no final answer by the turn limit",
+    limit = limit or "max_turns"
+    return AgentResult(limit, error="no final answer at the %s" % LIMITS[limit].lower(),
                        input_items=items)
 
 
@@ -503,6 +563,10 @@ def add_agent_args(ap: argparse.ArgumentParser, *, default_max_turns: int,
     ap.add_argument("--max-turns", type=int, default=default_max_turns,
                     help="maximum model requests; the last one may not call tools "
                     "(default %d)" % default_max_turns)
+    ap.add_argument("--context-budget", type=int, default=DEFAULT_CONTEXT_BUDGET,
+                    help="input tokens after which the model is asked for its final answer "
+                    "instead of overflowing the context window; keep it below the model's "
+                    "input limit; 0 disables (default %d)" % DEFAULT_CONTEXT_BUDGET)
     ap.add_argument("--timeout", type=float, default=3600,
                     help="per-request timeout in seconds (default 3600)")
 
@@ -514,10 +578,13 @@ def agent_config(a: argparse.Namespace, client: openai.OpenAI) -> dict:
         "reasoning_summary": a.reasoning_summary,
         "max_output_tokens": MAX_OUTPUT_TOKENS,
         "max_turns": a.max_turns,
+        "context_budget": a.context_budget,
         "timeout_s": a.timeout,
         "store": False,
         "base_url": str(client.base_url),
         "openai_sdk": openai.__version__,
+        "fr_tool_as_of": fr_tool.AS_OF,
+        "fr_tool_snapshot": fr_tool.SNAPSHOT_DIR,
         "fr_tool_cache": fr_tool.CACHE_DIR,
         "tool_output_char_limit": TOOL_OUTPUT_CHAR_LIMIT,
     }

@@ -1,0 +1,73 @@
+Federal Register, Volume 91 Issue 174 (Thursday, September 10, 2026)
+
+
+[Federal Register Volume 91, Number 174 (Thursday, September 10, 2026)]
+[Proposed Rules]
+[Page 57516]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: C1-2026-17324]
+
+
+ ========================================================================
+ Proposed Rules
+                                                 Federal Register
+ ________________________________________________________________________
+ 
+ This section of the FEDERAL REGISTER contains notices to the public of 
+ the proposed issuance of rules and regulations. The purpose of these 
+ notices is to give interested persons an opportunity to participate in 
+ the rule making prior to the adoption of the final rules.
+ 
+ ========================================================================
+ 
+
+  Federal Register / Vol. 91, No. 174 / Thursday, September 10, 2026 / 
+Proposed Rules  
+
+[[Page 57516]]
+
+
+
+DEPARTMENT OF HOMELAND SECURITY
+
+8 CFR Part 106
+
+[CIS No. 2861-26; DHS Docket No. USCIS-2026-0298]
+RIN 1615-AD20
+
+
+Fee for Certain H-1B Petitions
+
+Correction
+
+    In proposed rule document 2026-17324 published on pages 54817-54839 
+in the issue of Tuesday, August 25, 2026, make the following 
+correction:
+    On pages 54834 and 54835, Table 13 should read as follows.
+
+       Table 13--Receipts Form I-129, Petition for a Nonimmigrant Worker, H-1B for FY 2021 Through FY 2025
+----------------------------------------------------------------------------------------------------------------
+                            Fiscal year                               Total receipts     Cap-subject receipts *
+----------------------------------------------------------------------------------------------------------------
+2021...............................................................           398,281                     79,903
+2022...............................................................           474,292                    111,269
+2023...............................................................           386,593                     74,759
+2024...............................................................           427,314                    111,108
+2025...............................................................           456,726                    106,711
+    5-year Total...................................................         2,143,206                    483,750
+                                                                    --------------------------------------------
+    5-year Annual Average..........................................           428,641                     96,750
+                                                                    --------------------------------------------
+    FY 2024 through FY 2025 Total..................................           884,040                    217,819
+                                                                    --------------------------------------------
+    FY 2024 through FY 2025 Annual Average.........................           442,020                    108,910
+----------------------------------------------------------------------------------------------------------------
+Source: DHS, USCIS, Office of Performance and Quality (OPQ); ELIS and CLAIMS3 databases, queried Mar. 2026,
+  PAER0020722.
+* The basis for classification is ``new employment'' and numerical limitation information is ``Cap H-1B
+  Bachelor's Degree'' and ``Cap H-1B U.S. Master's Degree or Higher''. Fiscal year of receipt and the fiscal
+  year of the cap may differ, resulting in year-to-year deviations shown. These deviations are smoothed out by
+  the average estimates.
+
+[FR Doc. C1-2026-17324 Filed 9-9-26; 8:45 am]
+BILLING CODE 0099-10-D

@@ -79,7 +79,7 @@ def main(argv=None) -> int:
         result = hc.run_agent(
             client, model=a.model, effort=a.effort, reasoning_summary=a.reasoning_summary,
             input_items=initial_input, tools=hc.FR_TOOLS, text_format=Answer,
-            transcript=transcript, max_turns=a.max_turns,
+            transcript=transcript, max_turns=a.max_turns, context_budget=a.context_budget,
             prompt_cache_options=PROMPT_CACHE_OPTIONS)
     except BaseException as e:
         transcript.finish("error", error="%s: %s" % (type(e).__name__, e))
@@ -87,6 +87,7 @@ def main(argv=None) -> int:
 
     final = result.output.model_dump() if result.output else None
     transcript.finish(result.status, final_output=final, error=result.error)
+    transcript.warn_tool_errors()
     usage = transcript.data["usage_total"]
     hc.log("status=%s turns=%d tool_calls=%d input=%s (cached %s) output=%s (reasoning %s)" % (
         result.status, len(transcript.data["turns"]), transcript.data["tool_calls_total"],

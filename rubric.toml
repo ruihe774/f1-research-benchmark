@@ -9,6 +9,10 @@
 #                     by the group's `factor`
 #
 # Groups: `cap` limits the group's credit; `gate` + `factor` scale it.
+# Ladders: "at least 1", "at least 2", ... criteria that count items. Only the
+# unbroken run of "yes" from the first rung counts, and a ladder `within`
+# another cannot count more than it. A "yes" that breaks either rule is scored
+# as "unclear" and the ladder is listed in the report for human review.
 # A question's score is (credits - penalties), clamped to [0, question points].
 # For the headline score, "unclear" counts as "no". score_min / score_max
 # resolve every "unclear" against / in favour of the submission.
@@ -573,120 +577,161 @@ text = "(d) Says Lena could be affected once in H-1B status (if finalized) AND t
 # --------------------------------------------------------------------------- Q9
 # 1 pt per valid change plus 0.4 if its source location is accurate, up to 5
 # changes: counted with "at least k" ladders.
+[[ladder]]
+id = "q9_valid"
+question = "Q9"
+
 [[criterion]]
 id = "q9_valid_1"
 question = "Q9"
+ladder = "q9_valid"
 points = 1
 text = "At least 1 valid NPRM-to-final change affecting F-1 students, tied to the final-rule paragraph it touches. Valid: the changes listed in the key, or another change you confirm in the rule."
 
 [[criterion]]
 id = "q9_valid_2"
 question = "Q9"
+ladder = "q9_valid"
 points = 1
 text = "At least 2 valid changes (same standard as q9_valid_1)."
 
 [[criterion]]
 id = "q9_valid_3"
 question = "Q9"
+ladder = "q9_valid"
 points = 1
 text = "At least 3 valid changes (same standard)."
 
 [[criterion]]
 id = "q9_valid_4"
 question = "Q9"
+ladder = "q9_valid"
 points = 1
 text = "At least 4 valid changes (same standard)."
 
 [[criterion]]
 id = "q9_valid_5"
 question = "Q9"
+ladder = "q9_valid"
 points = 1
 text = "At least 5 valid changes (same standard)."
+
+[[ladder]]
+id = "q9_located"
+question = "Q9"
+within = "q9_valid"
 
 [[criterion]]
 id = "q9_located_1"
 question = "Q9"
+ladder = "q9_located"
 points = 0.4
 text = "At least 1 of the valid changes has an accurate FR location for where the change is described (Section V.A at 91 FR 45096-45098, Section II.C at 44978-44979, or another correct preamble page)."
 
 [[criterion]]
 id = "q9_located_2"
 question = "Q9"
+ladder = "q9_located"
 points = 0.4
 text = "At least 2 valid changes with accurate locations."
 
 [[criterion]]
 id = "q9_located_3"
 question = "Q9"
+ladder = "q9_located"
 points = 0.4
 text = "At least 3 valid changes with accurate locations."
 
 [[criterion]]
 id = "q9_located_4"
 question = "Q9"
+ladder = "q9_located"
 points = 0.4
 text = "At least 4 valid changes with accurate locations."
 
 [[criterion]]
 id = "q9_located_5"
 question = "Q9"
+ladder = "q9_located"
 points = 0.4
 text = "At least 5 valid changes with accurate locations."
 
 # -------------------------------------------------------------------------- Q10
 # 1 pt per correct entry (status may be wrong) plus 1 if the in-force status is
 # also right, up to 4 entries; -1 per irrelevant document.
+[[ladder]]
+id = "q10_entry"
+question = "Q10"
+
 [[criterion]]
 id = "q10_entry_1"
 question = "Q10"
+ladder = "q10_entry"
 points = 1
 text = "At least 1 relevant entry (from the key's table, or another document you confirm is relevant) with correct document number, type, publication date and effect. In-force status may be wrong. 2026-20955 counts only if its limited relevance (does not address OPT) is noted."
 
 [[criterion]]
 id = "q10_entry_2"
 question = "Q10"
+ladder = "q10_entry"
 points = 1
 text = "At least 2 such entries."
 
 [[criterion]]
 id = "q10_entry_3"
 question = "Q10"
+ladder = "q10_entry"
 points = 1
 text = "At least 3 such entries."
 
 [[criterion]]
 id = "q10_entry_4"
 question = "Q10"
+ladder = "q10_entry"
 points = 1
 text = "At least 4 such entries."
+
+[[ladder]]
+id = "q10_status"
+question = "Q10"
+within = "q10_entry"
 
 [[criterion]]
 id = "q10_status_1"
 question = "Q10"
+ladder = "q10_status"
 points = 1
 text = "At least 1 of those entries also has the correct in-force status (proposed vs final / in force)."
 
 [[criterion]]
 id = "q10_status_2"
 question = "Q10"
+ladder = "q10_status"
 points = 1
 text = "At least 2 entries fully correct, including in-force status."
 
 [[criterion]]
 id = "q10_status_3"
 question = "Q10"
+ladder = "q10_status"
 points = 1
 text = "At least 3 entries fully correct, including in-force status."
 
 [[criterion]]
 id = "q10_status_4"
 question = "Q10"
+ladder = "q10_status"
 points = 1
 text = "At least 4 entries fully correct, including in-force status."
+
+[[ladder]]
+id = "q10_irrelevant"
+question = "Q10"
 
 [[criterion]]
 id = "q10_irrelevant_1"
 question = "Q10"
+ladder = "q10_irrelevant"
 kind = "penalty"
 points = 1
 text = "Lists at least 1 irrelevant document as relevant (see the key's distractors, e.g. 2026-20186; 2026-14539 described as affecting I-539 or H-1B change-of-status filings; 2026-15450 described as affecting F-1 students)."
@@ -694,6 +739,7 @@ text = "Lists at least 1 irrelevant document as relevant (see the key's distract
 [[criterion]]
 id = "q10_irrelevant_2"
 question = "Q10"
+ladder = "q10_irrelevant"
 kind = "penalty"
 points = 1
 text = "Lists at least 2 irrelevant documents as relevant."
@@ -701,6 +747,7 @@ text = "Lists at least 2 irrelevant documents as relevant."
 [[criterion]]
 id = "q10_irrelevant_3"
 question = "Q10"
+ladder = "q10_irrelevant"
 kind = "penalty"
 points = 1
 text = "Lists at least 3 irrelevant documents as relevant."

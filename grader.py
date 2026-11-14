@@ -51,6 +51,19 @@ class Criterion:
     kind: str = "credit"  # credit | penalty | gate
     points: float = 0.0
     group: str | None = None
+    ladder: str | None = None
+
+
+@dataclass
+class Ladder:
+    """ "At least 1", "at least 2", ... criteria, in rubric order.
+
+    Only the unbroken run of "yes" from the first rung counts. `within` names
+    another ladder whose count this one cannot exceed.
+    """
+    id: str
+    question: str
+    within: str | None = None
 
 
 @dataclass
@@ -67,15 +80,20 @@ class Rubric:
     questions: dict[str, float]  # id -> max points, in order
     criteria: list[Criterion]
     groups: dict[str, Group] = field(default_factory=dict)
+    ladders: dict[str, Ladder] = field(default_factory=dict)  # a parent before its `within`
 
     def for_question(self, qid: str) -> list[Criterion]:
         return [c for c in self.criteria if c.question == qid]
+
+    def rungs(self, ladder_id: str) -> list[Criterion]:
+        return [c for c in self.criteria if c.ladder == ladder_id]
 
 
 def load_rubric(path: Path) -> Rubric:
     data = tomllib.loads(path.read_text(encoding="utf-8"))
     questions = {q["id"]: float(q["points"]) for q in data["question"]}
     groups = {g["id"]: Group(**g) for g in data.get("group", [])}
+    ladders = {l["id"]: Ladder(**l) for l in data.get("ladder", [])}
     criteria = []
     for qid in questions:
         for c in data.get("criterion", []):
@@ -84,7 +102,7 @@ def load_rubric(path: Path) -> Rubric:
         for p in data.get("per_question_penalty", []):
             criteria.append(Criterion(id="%s_%s" % (qid.lower(), p["suffix"]), question=qid,
                                       text=p["text"], kind="penalty", points=p["points"]))
-    rubric = Rubric(questions, criteria, groups)
+    rubric = Rubric(questions, criteria, groups, ladders)
     validate_rubric(rubric, data)
     return rubric
 
@@ -113,6 +131,23 @@ def validate_rubric(r: Rubric, data: dict) -> None:
                 raise ValueError("%s: unknown group %r for %s" % (c.id, c.group, c.question))
             if c.kind != "credit":
                 raise ValueError("%s: only credit criteria belong to groups" % c.id)
+        if c.ladder:
+            lad = r.ladders.get(c.ladder)
+            if lad is None or lad.question != c.question:
+                raise ValueError("%s: unknown ladder %r for %s" % (c.id, c.ladder, c.question))
+            if c.kind == "gate":
+                raise ValueError("%s: gate criteria cannot be ladder rungs" % c.id)
+    seen = set()
+    for lad in r.ladders.values():
+        rungs = r.rungs(lad.id)
+        if len(rungs) < 2 or len({c.kind for c in rungs}) != 1:
+            raise ValueError("ladder %s: needs at least two rungs of one kind" % lad.id)
+        if lad.within:
+            parent = r.ladders.get(lad.within)
+            if parent is None or parent.question != lad.question or lad.within not in seen:
+                raise ValueError("ladder %s: `within` must name an earlier ladder of %s"
+                                 % (lad.id, lad.question))
+        seen.add(lad.id)
     for g in r.groups.values():
         if g.gate:
             gc = by_id.get(g.gate)
@@ -144,9 +179,53 @@ def resolve(c: Criterion, verdict: str | None, mode: str) -> str:
     return favourable if mode == "max" else unfavourable
 
 
+def _run_of_yes(values: list[str | None]) -> int:
+    n = 0
+    for v in values:
+        if v != "yes":
+            break
+        n += 1
+    return n
+
+
+def check_ladders(r: Rubric, verdicts: dict[str, str]) -> tuple[dict[str, str], list[str]]:
+    """Find ladders whose verdicts contradict each other.
+
+    A "yes" above a rung that is not "yes" cannot be right; one of the two
+    verdicts is wrong, so both rungs and those between become "unclear". A rung
+    beyond the count of the ladder it is `within` becomes "unclear" too.
+    Unclear rungs earn nothing in the headline score.
+    Returns (verdicts to score, ids of the inconsistent ladders).
+    """
+    out, bad, counts = dict(verdicts), [], {}
+    for lad in r.ladders.values():
+        ids = [c.id for c in r.rungs(lad.id)]
+        given = [verdicts.get(i) for i in ids]
+        counts[lad.id] = n = _run_of_yes(given)
+        last_yes = max((k for k, v in enumerate(given) if v == "yes"), default=-1)
+        limit = min(n, counts[lad.within]) if lad.within else n
+        if last_yes >= n or limit < n:
+            bad.append(lad.id)
+            out.update(dict.fromkeys(ids[limit:last_yes + 1], "unclear"))
+    return out, bad
+
+
+def apply_ladders(r: Rubric, qid: str, resolved: dict[str, str]) -> None:
+    """Keep only each ladder's unbroken run of "yes", capped by its `within` ladder."""
+    counts = {}
+    for lad in (l for l in r.ladders.values() if l.question == qid):
+        ids = [c.id for c in r.rungs(lad.id)]
+        n = _run_of_yes([resolved[i] for i in ids])
+        if lad.within:
+            n = min(n, counts[lad.within])
+        counts[lad.id] = n
+        resolved.update(dict.fromkeys(ids[n:], "no"))
+
+
 def question_score(r: Rubric, qid: str, verdicts: dict[str, str], mode: str) -> dict:
     crits = r.for_question(qid)
     resolved = {c.id: resolve(c, verdicts.get(c.id), mode) for c in crits}
+    apply_ladders(r, qid, resolved)
     ungrouped, grouped, penalty = 0.0, {}, 0.0
     awarded = {}
     for c in crits:
@@ -180,6 +259,7 @@ def question_score(r: Rubric, qid: str, verdicts: dict[str, str], mode: str) -> 
 def score_verdicts(r: Rubric, verdicts: dict[str, str]) -> dict:
     out = {"questions": {}, "unclear": [c.id for c in r.criteria
                                         if verdicts.get(c.id) == "unclear"]}
+    verdicts, out["inconsistent_ladders"] = check_ladders(r, verdicts)
     totals = {"score": 0.0, "score_min": 0.0, "score_max": 0.0}
     for qid, pts in r.questions.items():
         head = question_score(r, qid, verdicts, "headline")
@@ -257,7 +337,10 @@ fabrication, irrelevant documents): "yes" means the deduction applies. Gate \
 criteria: "yes" means the submission flags the uncertainty or meets the \
 condition described; without it the related credit is reduced.
 - "At least k" ladders: count qualifying items carefully, and keep the counts \
-consistent across the ladder. In each rationale, list the items you counted.
+consistent across the ladder. In each rationale, list the items you counted. \
+"At least 3" cannot be "yes" unless "at least 2" is; a count of items with some \
+further property (an accurate location, a correct status) cannot exceed the \
+count of items. A ladder that breaks these rules is set aside for human review.
 - The key is not exhaustive. If the submission gives an answer the key does not \
 anticipate, check it with the tools. Credit it when it is correct and meets the \
 criterion's intent, and say so in rubric_feedback.
@@ -310,6 +393,10 @@ def report_markdown(output: dict, scores: dict, r: Rubric, source: str) -> str:
     if scores["unclear"]:
         out += ["Unclear verdicts for human review: " +
                 ", ".join("`%s`" % u for u in scores["unclear"]), ""]
+    if scores["inconsistent_ladders"]:
+        out += ["Inconsistent \"at least k\" ladders for human review (a \"yes\" that "
+                "contradicts a lower rung or the ladder it depends on is scored as unclear): "
+                + ", ".join("`%s`" % l for l in scores["inconsistent_ladders"]), ""]
     if output.get("rubric_feedback", "").strip():
         out += ["## Rubric feedback", "", output["rubric_feedback"].strip(), ""]
     out += ["| Question | Score | Max | Range |", "|---|---|---|---|"]
@@ -412,7 +499,7 @@ def main(argv=None) -> int:
         result = hc.run_agent(
             client, model=a.model, effort=a.effort, reasoning_summary=a.reasoning_summary,
             input_items=initial_input, tools=hc.FR_TOOLS, text_format=Verdicts,
-            transcript=transcript, max_turns=a.max_turns,
+            transcript=transcript, max_turns=a.max_turns, context_budget=a.context_budget,
             prompt_cache_options=cache_options)
     except BaseException as e:
         transcript.finish("error", error="%s: %s" % (type(e).__name__, e))
@@ -420,6 +507,7 @@ def main(argv=None) -> int:
 
     output = result.output.model_dump() if result.output else None
     transcript.finish(result.status, final_output=output, error=result.error)
+    transcript.warn_tool_errors()
     usage = transcript.data["usage_total"]
     details = usage.get("input_tokens_details", {})
     hc.log("status=%s turns=%d tool_calls=%d input=%s (cached %s, cache writes %s) output=%s"
@@ -433,8 +521,9 @@ def main(argv=None) -> int:
     hc.write_json(out_dir / "verdicts.json", output)
     scores = write_scores(out_dir, output, rubric, str(answer_path))
     t = scores["total"]
-    hc.log("score %.2f / %g (range %.2f to %.2f, %d unclear)"
-           % (t["score"], t["max"], t["score_min"], t["score_max"], len(scores["unclear"])))
+    hc.log("score %.2f / %g (range %.2f to %.2f, %d unclear, %d inconsistent ladder(s))"
+           % (t["score"], t["max"], t["score_min"], t["score_max"], len(scores["unclear"]),
+              len(scores["inconsistent_ladders"])))
     print(out_dir)
     return 0
 

@@ -30,6 +30,15 @@ Documents are identified by their FR document number (e.g. 2026-14439), which
 `search` prints. Full texts are cached locally after the first download.
 Run `python fr_tool.py <command> -h` for all options of a command.
 
+Reproducibility
+---------------
+  FR_TOOL_AS_OF=YYYY-MM-DD  Hide every document published after this date:
+      `search` never returns one and the other commands report it as not found.
+  FR_TOOL_SNAPSHOT=DIR      Read-only store of full texts (default: corpus/ next
+      to this script), consulted before the cache (FR_TOOL_CACHE). Both hold
+      <number>.txt plus <number>.json (publication date, source, sha256), so a
+      cached document becomes part of the snapshot by copying its two files.
+
 Library use
 -----------
   import fr_tool
@@ -41,6 +50,8 @@ They raise FRToolError (instead of exiting) on bad input or failed downloads.
 """
 
 import argparse
+import datetime
+import hashlib
 import html
 import json
 import os
@@ -57,6 +68,11 @@ USER_AGENT = "fr_tool/1.0 (policy-research benchmark; stdlib urllib)"
 CACHE_DIR = os.environ.get(
     "FR_TOOL_CACHE", os.path.join(os.path.expanduser("~"), ".cache", "fr_tool")
 )
+SNAPSHOT_DIR = os.environ.get(
+    "FR_TOOL_SNAPSHOT", os.path.join(os.path.dirname(os.path.abspath(__file__)), "corpus")
+)
+# Documents published after this date (YYYY-MM-DD) are treated as nonexistent.
+AS_OF = os.environ.get("FR_TOOL_AS_OF") or None
 TIMEOUT = 90
 ORDERS = ["relevance", "newest", "oldest", "executive_order_number"]
 
@@ -74,14 +90,37 @@ class FRToolError(Exception):
     """Bad input or a document that cannot be found or downloaded."""
 
 
+class FRNotFound(FRToolError):
+    """No such document (or it was published after AS_OF)."""
+
+
 class FRNetworkError(FRToolError):
-    """An HTTP request failed after all retries."""
+    """An HTTP request or download failed; the caller's input is not at fault."""
+
+
+# Full texts read in this process: document number -> where the text came from.
+LOADED = {}
 
 
 def _as_list(v):
     if v is None:
         return []
     return [v] if isinstance(v, str) else list(v)
+
+
+def _iso_date(label, v):
+    if not v:
+        return None
+    try:
+        if not re.match(r"^\d{4}-\d{2}-\d{2}$", v):
+            raise ValueError(v)
+        return datetime.date.fromisoformat(v).isoformat()
+    except ValueError:
+        raise FRToolError("%s must be YYYY-MM-DD, got %r" % (label, v)) from None
+
+
+def _hidden(publication_date):
+    return bool(AS_OF and publication_date and publication_date > AS_OF)
 
 
 # --------------------------------------------------------------------------- #
@@ -98,11 +137,29 @@ def _http_get(url, retries=3):
         except urllib.error.HTTPError as e:
             if e.code == 404:
                 raise
+            if e.code in (400, 422):
+                raise FRToolError("The Federal Register API rejected the request (HTTP %d): %s"
+                                  % (e.code, _rejection_detail(e))) from None
             last = e
         except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
             last = e
         time.sleep(1.5 * (attempt + 1))
     raise FRNetworkError("request failed after %d tries: %s (%s)" % (retries, url, last))
+
+
+def _rejection_detail(e):
+    """What the API said was wrong, e.g. 'agencies: invalid value'."""
+    try:
+        body = e.read().decode("utf-8", "replace")
+    except Exception:  # noqa: BLE001
+        return str(e.reason)
+    try:
+        errors = json.loads(body).get("errors")
+        if isinstance(errors, dict):
+            return "; ".join("%s: %s" % kv for kv in errors.items())
+    except (ValueError, AttributeError):
+        pass
+    return re.sub(r"\s+", " ", body).strip()[:300] or str(e.reason)
 
 
 def _api(path, params=None):
@@ -142,6 +199,9 @@ def search(query="", doc_type=None, agency=None, pres_type=None, since=None,
         raise FRToolError("order must be one of %s, got %r" % (", ".join(ORDERS), order))
     per_page = max(1, min(50, int(per_page)))
     page = max(1, int(page))
+    since, until = _iso_date("since", since), _iso_date("until", until)
+    if AS_OF and (not until or until > AS_OF):
+        until = AS_OF
 
     p = [("per_page", per_page), ("page", page), ("order", order)]
     p += [("fields[]", f) for f in SEARCH_FIELDS]
@@ -225,14 +285,34 @@ DOC_FIELDS = SEARCH_FIELDS + [
 ]
 
 
-def _get_meta(num):
-    p = [("fields[]", f) for f in DOC_FIELDS + ["raw_text_url", "body_html_url"]]
+def _get_meta(num, fields=None):
+    p = [("fields[]", f) for f in fields or DOC_FIELDS + ["raw_text_url"]]
+    not_found = FRNotFound("No Federal Register document with number %r." % num)
     try:
-        return _api("/documents/%s.json" % urllib.parse.quote(num), p)
+        m = _api("/documents/%s.json" % urllib.parse.quote(num), p)
     except urllib.error.HTTPError as e:
         if e.code == 404:
-            raise FRToolError("No Federal Register document with number %r." % num) from None
+            raise not_found from None
         raise
+    if _hidden(m.get("publication_date")):
+        raise not_found
+    return m
+
+
+def _visible_corrections(m):
+    """Document numbers of corrections to `m`, minus any published after AS_OF."""
+    nums = [c.rstrip("/").split("/")[-1] if isinstance(c, str) else str(c)
+            for c in m.get("corrections") or []]
+    if not AS_OF:
+        return nums
+    out = []
+    for n in nums:
+        try:
+            _get_meta(n, fields=["publication_date"])
+        except FRNotFound:
+            continue
+        out.append(n)
+    return out
 
 
 def doc(document_number):
@@ -269,11 +349,7 @@ def doc(document_number):
     add("CFR affected", ", ".join(cfr))
     add("Topics", ", ".join(m.get("topics") or []))
     add("Correction of", m.get("correction_of"))
-    corr = m.get("corrections") or []
-    if corr:
-        add("Corrections", ", ".join(
-            c.rstrip("/").split("/")[-1] if isinstance(c, str) else str(c)
-            for c in corr))
+    add("Corrections", ", ".join(_visible_corrections(m)))
     add("Disposition", m.get("disposition_notes"))
     add("URL", m.get("html_url"))
     add("PDF", m.get("pdf_url"))
@@ -301,38 +377,71 @@ def _looks_blocked(final_url, body):
     return "captcha" in head or "request access" in head and len(body) < 20000
 
 
-def get_full_text(num):
-    os.makedirs(CACHE_DIR, exist_ok=True)
-    path = os.path.join(CACHE_DIR, re.sub(r"[^\w.-]", "_", num) + ".txt")
-    if os.path.exists(path) and os.path.getsize(path) > 0:
-        with open(path, encoding="utf-8") as f:
-            return f.read()
+def _stored_text(num):
+    """(text, record) from the snapshot or the cache, or None if in neither."""
+    name = re.sub(r"[^\w.-]", "_", num)
+    for origin, d in (("snapshot", SNAPSHOT_DIR), ("cache", CACHE_DIR)):
+        tpath, rpath = os.path.join(d, name + ".txt"), os.path.join(d, name + ".json")
+        # The record is written last, so a text without one is incomplete.
+        if os.path.exists(tpath) and os.path.exists(rpath):
+            with open(tpath, encoding="utf-8") as f:
+                text = f.read()
+            with open(rpath, encoding="utf-8") as f:
+                record = json.load(f)
+            return text, dict(record, origin=origin)
+    return None
+
+
+def _download_text(num):
+    """(text, record) from federalregister.gov or, failing that, govinfo.gov.
+
+    Both serve the same GPO text, so line numbers and [[Page N]] markers do not
+    depend on which one answered.
+    """
     m = _get_meta(num)
-    text, errors = None, []
-    for key in ("raw_text_url", "body_html_url"):
-        url = m.get(key)
+    date = m.get("publication_date")
+    sources = [("federalregister.gov", m.get("raw_text_url")),
+               ("govinfo.gov", date and GOVINFO_HTML.format(date=date, num=num))]
+    errors = []
+    for source, url in sources:
         if not url:
             continue
         try:
             final, body = _http_get(url)
             if _looks_blocked(final, body):
-                errors.append("%s blocked" % key)
+                errors.append("%s blocked" % source)
                 continue
             text = _clean_text(body.decode("utf-8", "replace"))
-            break
         except Exception as e:  # noqa: BLE001
-            errors.append("%s: %s" % (key, e))
-    if text is None and m.get("publication_date"):
-        url = GOVINFO_HTML.format(date=m["publication_date"], num=num)
-        try:
-            _, body = _http_get(url)
-            text = _clean_text(body.decode("utf-8", "replace"))
-        except Exception as e:  # noqa: BLE001
-            errors.append("govinfo: %s" % e)
-    if text is None:
-        raise FRToolError("Could not download full text for %s (%s)" % (num, "; ".join(errors)))
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(text)
+            errors.append("%s: %s" % (source, e))
+            continue
+        return text, {"document_number": num, "publication_date": date, "source": source,
+                      "sha256": hashlib.sha256(text.encode("utf-8")).hexdigest(),
+                      "retrieved_at": datetime.datetime.now(datetime.timezone.utc)
+                      .isoformat(timespec="seconds")}
+    raise FRNetworkError("Could not download full text for %s (%s)" % (num, "; ".join(errors)))
+
+
+def get_full_text(num):
+    stored = _stored_text(num)
+    if stored:
+        text, record = stored
+        if _hidden(record.get("publication_date")):
+            raise FRNotFound("No Federal Register document with number %r." % num)
+    else:
+        text, record = _download_text(num)
+        os.makedirs(CACHE_DIR, exist_ok=True)
+        base = os.path.join(CACHE_DIR, re.sub(r"[^\w.-]", "_", num))
+        with open(base + ".txt", "w", encoding="utf-8") as f:
+            f.write(text)
+        with open(base + ".json.tmp", "w", encoding="utf-8") as f:
+            json.dump(record, f, indent=2)
+        os.replace(base + ".json.tmp", base + ".json")
+        record = dict(record, origin="download")
+    if num not in LOADED:
+        LOADED[num] = {"publication_date": record.get("publication_date"),
+                       "source": record.get("source"), "origin": record["origin"],
+                       "sha256": hashlib.sha256(text.encode("utf-8")).hexdigest()}
     return text
 
 
