@@ -59,7 +59,7 @@ Options (shared with the grader's agent):
 | `--effort` | Reasoning effort. |
 | `--reasoning-summary` | Reasoning summary mode (default `auto`). |
 | `--max-turns` | Turn limit (default 200 for `bench.py`). |
-| `--context-budget` | Context budget. The loop asks for the final answer when the turn limit or budget is reached. |
+| `--context-budget` | Context budget. Every tool result ends with a line giving the tokens left. The loop asks for the final answer when the turn limit or budget is reached. |
 | `--timeout` | Request timeout in seconds (default 3600). |
 | `--run-id` | Output folder name (default `<timestamp>_<model>_<effort>`). |
 

@@ -374,6 +374,9 @@ LIMITS = {"max_turns": "Turn limit", "context_budget": "Context budget"}
 BUDGET_SKIP = "Not run: the context budget for this task is used up."
 NO_ANSWER_NOTE = ("Continue working. When you are done, give your final answer in the "
                   "required format.")
+# Appended to every tool result so the model can see the budget it is spending.
+# Only new outputs carry it, so the cached prompt prefix is unchanged.
+BUDGET_FOOTER = "\n[context budget: about %d tokens left]"
 BAD_FORMAT_NOTE = ("Your final answer could not be parsed against the required format "
                    "(%s). Give the complete final answer again in the required format.")
 MAX_NUDGES = 3
@@ -403,9 +406,11 @@ def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
     never edited, so the prompt prefix stays stable from turn to turn.
 
     The history is never trimmed, so it must not outgrow the model's context
-    window. Once the next request is estimated at `context_budget` input tokens
-    or more (0: no budget), remaining tool calls are not run and the model gets
-    one last request, without tools, for its final answer, as at the turn limit.
+    window. Every tool result ends with the estimated number of tokens left in
+    `context_budget`, so the model can pace its reading. Once the next request
+    is estimated at `context_budget` input tokens or more (0: no budget),
+    remaining tool calls are not run and the model gets one last request,
+    without tools, for its final answer, as at the turn limit.
     """
     items = list(input_items)
     tool_map = {t.name: t for t in tools}
@@ -507,12 +512,16 @@ def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
                 else:
                     out, err, kind = run_tool(tool_map, call)
                 context += len(out) // CHARS_PER_TOKEN + 1
+                footer = ""
+                if context_budget:
+                    footer = BUDGET_FOOTER % max(0, context_budget - context)
+                    context += len(footer) // CHARS_PER_TOKEN + 1
                 results.append({"call_id": call.call_id, "name": call.name,
                                 "arguments": call.arguments, "output": out,
-                                "error": err, "error_kind": kind,
+                                "footer": footer, "error": err, "error_kind": kind,
                                 "elapsed_s": round(time.monotonic() - c0, 2)})
                 items.append({"type": "function_call_output", "call_id": call.call_id,
-                              "output": out})
+                              "output": out + footer})
                 log("  %s %s -> %d chars%s" % (call.name, _brief_args(call.arguments),
                                                  len(out), " (%s error)" % kind if err else ""))
             turn["tool_results"] = results
@@ -589,6 +598,8 @@ def agent_config(a: argparse.Namespace, client: openai.OpenAI) -> dict:
         "fr_tool_snapshot": fr_tool.SNAPSHOT_DIR,
         "fr_tool_cache": fr_tool.CACHE_DIR,
         "tool_output_char_limit": TOOL_OUTPUT_CHAR_LIMIT,
+        # Each tool result ends with this line (tokens left in the budget).
+        "budget_footer": BUDGET_FOOTER.strip() if a.context_budget else None,
     }
 
 
