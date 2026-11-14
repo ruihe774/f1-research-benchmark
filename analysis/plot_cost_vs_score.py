@@ -22,7 +22,9 @@ OFFSETS = {
     "gemini-4-hydrogen": (0, -17, "center"),
     "claude-sonnet-5-5": (0, 12, "center"),
     "gemini-4-carbon": (0, -17, "center"),
-    "claude-opus-5-5": (0, 12, "center"),
+    "claude-opus-5-5": (0, -17, "center"),
+    "muse-wonder": (0, 12, "center"),
+    "muse-ember (max)": (-4, -17, "left"),
 }
 
 
@@ -32,16 +34,24 @@ def score(run):
     return totals[-1] if totals else None
 
 
+def effort(run):
+    return json.loads((ROOT / "runs" / run / "transcript.json").read_text())["config"]["reasoning_effort"]
+
+
 df = pd.read_csv(OUT / "runs_theoretical_cost.csv")
+df["effort"] = df["run"].map(effort)
 df["score"] = df["run"].map(score)
 df["provider"] = df["model"].str.split("/").str[0]
 df["name"] = df["model"].str.split("/").str[1]
 df = df.dropna(subset=["score"])
 
-summary = (df.groupby(["name", "provider"])
+summary = (df.groupby(["name", "provider", "effort"])
              .agg(cost=("theoretical_cost_usd", "mean"), score=("score", "mean"),
                   smin=("score", "min"), smax=("score", "max"), n=("run", "count"))
              .reset_index().sort_values("cost"))
+# efforts are never averaged together; label a model's points with its effort only if it has several
+multi = summary.groupby("name")["effort"].transform("nunique") > 1
+summary["label"] = summary["name"].where(~multi, summary["name"] + " (" + summary["effort"] + ")")
 summary.round(3).to_csv(OUT / "model_summary.csv", index=False)
 print(summary.round(2).to_string(index=False))
 
@@ -52,8 +62,8 @@ for _, r in df.iterrows():
 for _, r in summary.iterrows():
     c = COLORS[r.provider]
     ax.scatter(r.cost, r.score, s=110, color=c, edgecolor="white", linewidth=1.5, zorder=4)
-    dx, dy, ha = OFFSETS.get(r["name"], (7, 6, "left"))
-    ax.annotate(r["name"], (r.cost, r.score), xytext=(dx, dy), textcoords="offset points",
+    dx, dy, ha = OFFSETS.get(r["label"], OFFSETS.get(r["name"], (7, 6, "left")))
+    ax.annotate(r["label"], (r.cost, r.score), xytext=(dx, dy), textcoords="offset points",
                 fontsize=8.5, color="#222", ha=ha, zorder=5)
 
 # Pareto frontier of model means (cheapest-first, strictly improving score)

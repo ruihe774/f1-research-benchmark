@@ -1,14 +1,16 @@
-name,provider,cost,score,smin,smax,n
-muse-ember,meta,0.05,89.312,85.57,93.32,4
-deepseek-v4.1-flash-1017,deepseek,0.077,93.322,90.83,96.63,4
-glm-5.3-flash,z-ai,0.095,88.555,87.18,89.93,2
-gpt-6-luna,openai,0.101,83.825,81.25,86.4,2
-gpt-6.1-terra,openai,0.41,94.01,93.7,94.32,2
-claude-haiku-5-5,anthropic,0.437,83.38,79.55,87.21,2
-gpt-6.1-sol,openai,0.791,96.65,94.05,99.25,2
-kimi-k3.1-pro,moonshotai,0.899,93.455,91.3,95.61,2
-gemini-4-hydrogen,google,0.997,96.535,96.11,96.96,2
-claude-sonnet-5-5,anthropic,1.393,95.265,94.68,95.85,2
-gemini-4-carbon,google,1.666,96.04,95.58,96.5,2
-muse-wonder,meta,2.149,96.4,96.4,96.4,2
-claude-opus-5-5,anthropic,2.462,95.725,95.4,96.05,2
+name,provider,effort,cost,score,smin,smax,n,label
+muse-ember,meta,high,0.042,88.05,85.57,90.53,2,muse-ember (high)
+muse-ember,meta,max,0.058,90.575,87.83,93.32,2,muse-ember (max)
+deepseek-v4.1-flash-1017,deepseek,high,0.075,91.08,90.83,91.33,2,deepseek-v4.1-flash-1017 (high)
+deepseek-v4.1-flash-1017,deepseek,max,0.078,95.565,94.5,96.63,2,deepseek-v4.1-flash-1017 (max)
+glm-5.3-flash,z-ai,high,0.095,88.555,87.18,89.93,2,glm-5.3-flash
+gpt-6-luna,openai,high,0.101,83.825,81.25,86.4,2,gpt-6-luna
+gpt-6.1-terra,openai,high,0.41,94.01,93.7,94.32,2,gpt-6.1-terra
+claude-haiku-5-5,anthropic,high,0.437,83.38,79.55,87.21,2,claude-haiku-5-5
+gpt-6.1-sol,openai,high,0.791,96.65,94.05,99.25,2,gpt-6.1-sol
+kimi-k3.1-pro,moonshotai,high,0.899,93.455,91.3,95.61,2,kimi-k3.1-pro
+gemini-4-hydrogen,google,high,0.997,96.535,96.11,96.96,2,gemini-4-hydrogen
+claude-sonnet-5-5,anthropic,high,1.393,95.265,94.68,95.85,2,claude-sonnet-5-5
+gemini-4-carbon,google,high,1.666,96.04,95.58,96.5,2,gemini-4-carbon
+muse-wonder,meta,high,2.149,96.4,96.4,96.4,2,muse-wonder
+claude-opus-5-5,anthropic,high,2.462,95.725,95.4,96.05,2,claude-opus-5-5
