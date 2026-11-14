@@ -18,3 +18,4 @@ openai/gpt-6.1-terra,long context,2.00,0.10,7.50,2.50,5.00
 openai/gpt-6-luna,short context,0.10,0.01,0.50,0.125,0.25
 openai/gpt-6-luna,long context,0.20,0.02,0.75,0.25,0.50
 z-ai/glm-5.3-flash,,0.15,0.03,0.50,0,0
+meta/muse-wonder,,4.00,0.20,20.00,,

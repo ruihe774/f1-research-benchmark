@@ -17,7 +17,7 @@ uv run grader.py runs/<run-id> --model <grader-model> --effort high
 uv run grader.py --answer file.md --model <grader-model>   # grade an arbitrary Markdown answer
 uv run grader.py --rescore runs/<run-id>/grades/<grade-id> # recompute points from saved verdicts (no LLM call)
 uv run fr_tool.py grep 2026-14439 "within 5 months" --context 3   # tools also work as a CLI (search/doc/toc/text/grep)
-uv run theoretical_cost.py                                 # writes runs_theoretical_cost.csv from pricing.csv + run transcripts
+uv run analysis/theoretical_cost.py                        # writes analysis/runs_theoretical_cost.csv from pricing.csv + run transcripts
 uv run analysis/plot_cost_vs_score.py                      # cost vs. score plot in analysis/
 ```
 

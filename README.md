@@ -25,8 +25,8 @@ The task states the world as of **November 14, 2026**. The 16 questions are wort
 | `ANSWER_KEY.md` | Confidential reference answers. **Never show it to the agent under test.** |
 | `rubric.toml` | Machine-readable criteria derived from the answer key, with points, caps, gates and penalties. |
 | `runs/` | Output of runs and grades (committed). |
-| `pricing.csv` | Per-model token prices (USD per 1M tokens), by context tier. |
-| `theoretical_cost.py` | Computes each run's theoretical cost from its transcript and `pricing.csv`; writes `runs_theoretical_cost.csv`. |
+| `analysis/pricing.csv` | Per-model token prices (USD per 1M tokens), by context tier. |
+| `analysis/theoretical_cost.py` | Computes each run's theoretical cost from its transcript and `pricing.csv`; writes `analysis/runs_theoretical_cost.csv`. |
 | `analysis/` | `plot_cost_vs_score.py` plots score against cost; outputs `cost_vs_score.png` and `model_summary.csv`. |
 
 ## Setup
@@ -87,7 +87,7 @@ Grader outputs go to `<run>/grades/<grade-id>/` (or `--out`): `transcript.json`,
 ## Cost and analysis
 
 ```bash
-uv run theoretical_cost.py               # writes runs_theoretical_cost.csv
+uv run analysis/theoretical_cost.py      # writes analysis/runs_theoretical_cost.csv
 uv run analysis/plot_cost_vs_score.py    # writes analysis/cost_vs_score.png and model_summary.csv
 ```
 

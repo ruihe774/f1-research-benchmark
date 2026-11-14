@@ -32,7 +32,7 @@ def score(run):
     return totals[-1] if totals else None
 
 
-df = pd.read_csv(ROOT / "runs_theoretical_cost.csv")
+df = pd.read_csv(OUT / "runs_theoretical_cost.csv")
 df["score"] = df["run"].map(score)
 df["provider"] = df["model"].str.split("/").str[0]
 df["name"] = df["model"].str.split("/").str[1]
