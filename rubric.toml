@@ -345,7 +345,7 @@ id = "q5_p_f8iD"
 question = "Q5"
 group = "q5_provisions"
 points = 1
-text = "Identifies and applies (f)(8)(i)(D): first academic year completed at the school that issued the initial I-20 (met here)."
+text = "Identifies and applies (f)(8)(i)(D): first academic year completed at the school that issued the initial I-20 (met: she has studied at School A, which issued her initial I-20, since August 2025)."
 
 [[criterion]]
 id = "q5_p_f8iG"
@@ -511,7 +511,7 @@ text = "(b) Flags that this is a reading of the text and that agency implementat
 id = "q7c_nprm"
 question = "Q7"
 points = 1
-text = "(c) Identifies NPRM 2026-17324 (91 FR 54817, August 25, 2026): a $103,265 fee for cap-subject H-1B petitions including advanced-degree-exemption petitions, proposed only."
+text = "(c) Identifies NPRM 2026-17324 (91 FR 54817): a $103,265 fee for cap-subject H-1B petitions including advanced-degree-exemption petitions, proposed only. The publication date is not required."
 
 [[criterion]]
 id = "q7c_lena"
@@ -522,8 +522,14 @@ text = "(c) Concludes the proposed fee would not apply to Lena's cap-exempt univ
 [[criterion]]
 id = "q7c_status"
 question = "Q7"
-points = 1
-text = "(c) Status: comments closed September 24, 2026, no final rule as of November 14, 2026, and correction C1-2026-17324 (91 FR 57516) replaced Table 13 without changing the fee."
+points = 0.5
+text = "(c) Status: no final rule as of November 14, 2026, and correction C1-2026-17324 (91 FR 57516) replaced Table 13 without changing the fee."
+
+[[criterion]]
+id = "q7c_comments"
+question = "Q7"
+points = 0.5
+text = "(c) Gives the comment deadline: comments closed September 24, 2026."
 
 [[criterion]]
 id = "q7d_no"
@@ -557,10 +563,16 @@ points = 1.25
 text = "(a) Explains it targets the up-to-60-day grace period after cessation of employment for E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1 and TN workers and dependents (a substantially complete list)."
 
 [[criterion]]
-id = "q8b"
+id = "q8b_status"
 question = "Q8"
-points = 1.5
-text = "(b) Proposed rule, not in force; published September 11, 2026; comments due (closed) November 10, 2026."
+points = 0.75
+text = "(b) Proposed rule, not in force. The publication date (September 11, 2026) is not required."
+
+[[criterion]]
+id = "q8b_deadline"
+question = "Q8"
+points = 0.75
+text = "(b) Comments were due (and have closed) November 10, 2026."
 
 [[criterion]]
 id = "q8c"
@@ -835,14 +847,14 @@ id = "q12b_text"
 question = "Q12"
 group = "q12b"
 points = 1.5
-text = "(b) Identifies that the (f)(5)(viii) forfeiture is tied to filing during the 30-day period in (f)(5)(v) (and/or that it is framed around an expired I-94 date), while the transition group's 60 days come from 214.1(m)(1)."
+text = "(b) Identifies the relevant text: the (f)(5)(viii) forfeiture is tied to filing during the 30-day period in (f)(5)(v) (and/or is framed around an expired I-94 date) while the transition group's 60 days come from 214.1(m)(1); and/or 214.1(m)(1)'s sentence that authorized employment or training continues until the I-20 program end date or EAD expiry."
 
 [[criterion]]
 id = "q12b_reading"
 question = "Q12"
 group = "q12b"
 points = 1.5
-text = "(b) Most defensible reading: DHS would likely treat the post-program period the same way (closest analogue (f)(7)(iii)(B): study but no employment), but the text does not say so."
+text = "(b) Concludes that the likely outcome is no automatic extension of on-campus or CPT employment for an I-539 filed after the May 15, 2027 program end date: 214.1(m)(1) ends authorized employment at the I-20 program end date, and the closest analogue, (f)(7)(iii)(B) / (f)(5)(viii), allows study but not employment after a post-expiry filing. Award yes whether the submission states this as likely or as settled; overconfidence is handled by the q12b_flag gate, not here."
 
 [[criterion]]
 id = "q12b_flag"

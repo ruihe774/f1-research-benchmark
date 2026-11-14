@@ -38,7 +38,7 @@ When your research is done, give your final answer in the structured format you 
 - **basis:** the provisions and documents relied on, with citations.
 - **uncertainty:** anything the documents leave open (write "None" if nothing).
 
-Markdown is fine inside the fields.
+Markdown is fine inside the fields. Each answer must stand on its own: advisers read them separately, so repeat a point rather than refer to another question's answer.
 
 Unless a question says otherwise, assume each student has always maintained status, never worked without authorization, is not on probation, and that the I-20 report date equals the program start date.
 
@@ -79,7 +79,7 @@ Tomás has an I-20 for a master's program running January 12, 2027 to December 1
 
 ### Q5
 
-Mei is an F-1 master's student (D/S transition group) at School A, which issued her initial I-20. She will complete the master's on May 14, 2027 and has been admitted to a PhD program at School B starting August 23, 2027. Can her SEVIS record be transferred from School A to School B? Identify every provision in the final regulatory text that bears on the question, explain how each applies to her, and give your conclusion. Is there anything in the rule, or in later Federal Register documents, that could change your conclusion?
+Mei is an F-1 master's student (D/S transition group) at School A, which issued her initial I-20; she began the master's there in August 2025. She will complete the master's on May 14, 2027 and has been admitted to a PhD program at School B starting August 23, 2027. Can her SEVIS record be transferred from School A to School B? Identify every provision in the final regulatory text that bears on the question, explain how each applies to her, and give your conclusion. Is there anything in the rule, or in later Federal Register documents, that could change your conclusion?
 
 ### Q6
 

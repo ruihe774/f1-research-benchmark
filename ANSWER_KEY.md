@@ -20,6 +20,8 @@ Reference date: November 14, 2026. All answers were checked against Federal Regi
 | Removing deference NPRM | 2026-20941 | 91 FR 65119 | Proposed rule (USCIS) | 2026-10-14 | Removes 8 CFR 214.1(c)(5); comments closed 2026-11-13 |
 | EAD auto-extension final rule | 2026-20955 | 91 FR 65306 | Final rule | 2026-10-14 | Effective 2026-10-14; does not address OPT/STEM OPT |
 | 9-11 Biometric fee final rule | 2026-16231 | 91 FR 51360 | Final rule (CBP) | 2026-08-10 | Effective 2026-09-09; H-1B/L-1 employer fee on extensions |
+| Mandatory e-filing IFR | 2026-16313 | 91 FR 51924–51971 | Interim final rule (USCIS) | 2026-08-11 | Effective 2026-08-11; comments closed 2026-10-13; USCIS may require e-filing of benefit requests |
+| USCIS fee schedule final rule | 2024-01427 | 89 FR 6194–6400 | Final rule (USCIS) | 2024-01-31 | Effective 2024-04-01; sets the Form I-539 fee ($470 at 89 FR 6329). Outside the task window; see Q11 |
 
 **Text quirk:** the GPO text of (f)(5)(viii) (91 FR 45125) reads "whos1e status". An agent grepping for "whose status" will miss it. This does not change scoring but may explain why an agent overlooks that paragraph.
 
@@ -91,7 +93,7 @@ Provisions an agent should identify (1 pt each, up to 6):
 2. **(f)(5)(ii)(B)**: a student who completes a program at one level and begins a **higher** level is maintaining status.
 3. **(f)(8)(i)(B)(2)**: transfer eligibility includes having "completed a degree program".
 4. **(f)(8)(i)(C)**: the student "is not currently in a graduate level program of study", unless SEVP authorizes an exception.
-5. **(f)(8)(i)(D)**: first academic year completed at the school that initially issued the I-20. Met here, since School A issued it.
+5. **(f)(8)(i)(D)**: first academic year completed at the school that initially issued the I-20. Met here: School A issued the initial I-20 and she has studied there since August 2025.
 6. **(f)(8)(i)(G)**: 5-month window. May 14, 2027 + 5 months = Oct 14, 2027 (or earlier per the transfer-out date). Aug 23 is inside.
 7. **(f)(8)(ii)–(iii)**: transfer and change-of-level procedure (release date).
 8. **(f)(8)(iv)** / **214.1(m)(1)**: she still needs an extension of stay for the new program.
@@ -161,6 +163,7 @@ DHS summarizes them in **Section V.A, "Summary of Changes in the Final Rule as C
 | 2026-18631 | Proposed rule, 2026-09-11 | Removes the 60-day post-employment grace period for H-1B and others | No (proposed) |
 | 2026-20941 | Proposed rule, 2026-10-14 | Removes 214.1(c)(5) deference to prior approvals in extension adjudications (affects later H-1B extensions) | No (proposed) |
 | 2026-16231 | Final rule, 2026-08-10, eff. 2026-09-09 | 9-11 Biometric fee on all covered H-1B/L-1 extension petitions (employer cost) | Yes |
+| 2026-16313 | Interim final rule, 2026-08-11, eff. 2026-08-11 | USCIS may require e-filing of benefit requests (procedure and waiver process); affects how I-539/I-765/I-129 filings are made rather than eligibility. Accept if described with that limited relevance. | Yes |
 | 2026-20955 | Final rule, 2026-10-14 | Ends automatic EAD extensions for certain renewal categories. Does not address OPT/STEM OPT, so accept only if the agent notes the limited relevance. | Yes |
 
 Deduct 1 pt for listing an irrelevant document as relevant. Known distractors:
@@ -171,7 +174,7 @@ Deduct 1 pt for listing an irrelevant document as relevant. Known distractors:
 
 ## Q11. Cost and processing-time figures (5 pts)
 
-- **$420 I-539 fee**: appears at **91 FR 45055** in a **commenter's** statement (a professional association, in the J-1 discussion) that the rule would require "a full USCIS extension filing, including a $420 fee". (1.5 pts)
+- **$420 I-539 fee**: appears at **91 FR 45055** in a **commenter's** statement (a professional association, in the J-1 discussion) that the rule would require "a full USCIS extension filing, including a $420 fee". (1.5 pts) An agent may instead report the **$470** Form I-539 fee from the USCIS fee schedule final rule (2024-01427, 89 FR 6329). That figure is real and correctly sourced, so it is not fabrication or misattribution, but the question asks what the final rule says, so it does not earn the fee credit.
 - **Processing times** (2 pts). The rule contains both commenter and DHS figures; award 1 pt for at least one correctly attributed commenter figure and 1 pt for the correctly attributed DHS figure.
   - **Commenters:** at **91 FR 45083**, the USCIS California Service Center reportedly averages **4.5 months for changes to F-1 or J-1 status and 3.5 months for extensions**. At **91 FR 44999**, "current processing time for USCIS is around 3.5 months". At **91 FR 45063**, USCIS takes "more than 6.5 months to adjudicate 80 percent of EOS requests".
   - **DHS:** at **91 FR 45084**, in its own response to comments, DHS says "80 percent of Form I-539 adjudications for F, M, and J aliens are completed in three months" (citing USCIS processing-time data, fn. 277).
@@ -186,11 +189,13 @@ Deduct 1 pt for listing an irrelevant document as relevant. Known distractors:
 - **214.1(m)(1)**: the transition group is "authorized to remain ... until ... the program end date ... plus the departure period of 60 days" and must file "in accordance with paragraph (c)(2)". Under 214.1(c)(2), extensions are sought "beyond the currently authorized period of admission".
 - **Most defensible reading:** because the 60 days is part of her authorized stay under (m)(1), receipt by **July 14, 2027** is likely timely. No provision says so in terms.
 
-**(b) Work-extension forfeiture (3.5 pts).** **Not expressly addressed. Uncertain.**
+**(b) Work-extension forfeiture (3.5 pts).** **Not expressly addressed for the transition group. Uncertain, but the text points one way.**
+
+- **214.1(m)(1)**, second sentence: "any authorized employment or training continues until the program end date on such F or J nonimmigrant's Form I-20 ... or expiration date on the alien's Employment Authorization Document". This is the strongest textual anchor: for the transition group, employment authorization ends on the I-20 program end date (May 15, 2027) unless something extends it.
 
 - **(f)(5)(viii)**: the forfeiture applies to filing "during the 30-day period provided in paragraph (f)(5)(v)". The transition group's 60 days comes from (m)(1), not (f)(5)(v). The paragraph is framed around a student "whose status as indicated on the ... Form I-94 ... has expired", while transition students' I-94s show D/S.
 - **(f)(7)(iii)(B)**, the sentence before the "Notwithstanding" sentence: filing in the 30-day period permits study but not training or employment. This is the closest analogue.
-- **Most defensible reading:** DHS would likely treat the post-program period the same way, but the text does not say so.
+- **Most defensible reading:** no. Under (m)(1) her employment authorization ends on May 15, 2027, and the (f)(5)(viii) automatic extension is written for a timely-filed extension; by analogy to (f)(7)(iii)(B), a filing after the program end date permits study but not employment. No provision says this for the transition group's 60 days in terms. An answer that states this outcome as settled gets the reading credit but fails the uncertainty gate.
 
 **Cautious recommendation (required for full credit on both parts):** have USCIS **receive** the I-539 **on or before May 15, 2027** (the I-20 program end date), and confirm with the DSO.
 
