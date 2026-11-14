@@ -952,7 +952,7 @@ text = "(d) Says she should carry the USCIS receipt notice for the I-765 (Form I
 id = "q14a_id"
 question = "Q14"
 points = 0.5
-text = "(a) Identifies FR Doc. 2026-20660, 'Optional Practical Training Fees', 91 FR 64566 (pages 64566-64600), a notice of proposed rulemaking by DHS/ICE published October 8, 2026."
+text = "(a) Identifies FR Doc. 2026-20660 ('Optional Practical Training Fees'), 91 FR 64566, as a proposed rule (notice of proposed rulemaking). The page range (64566-64600), the agency (DHS/ICE) and the October 8, 2026 publication date are correct extra detail; leaving any of them out is not a no."
 
 [[criterion]]
 id = "q14a_docket"
@@ -1012,7 +1012,7 @@ text = "(d) Says the fee would take effect 60 days after publication of a final 
 id = "q14e_i539"
 question = "Q14"
 points = 1
-text = "(e) Says Daniel must file both the I-765 and a Form I-539: the 214.1(m)(1)(i) exemption covers a STEM OPT I-765 filed on or before March 18, 2027, and April 12, 2027 is after that date (no notice extending the date under 214.1(m)(1)(iii) has been published). No if the answer applies the exemption to him."
+text = "(e) Says Daniel must file both the I-765 and a Form I-539: the 214.1(m)(1)(i) exemption covers a STEM OPT I-765 filed on or before March 18, 2027, and April 12, 2027 is after that date. Noting that no notice extending the date under 214.1(m)(1)(iii) has been published is correct extra detail; leaving it out is not a no. No if the answer applies the exemption to him."
 
 [[criterion]]
 id = "q14e_pending"
@@ -1024,7 +1024,7 @@ text = "(e) Says his post-completion OPT employment authorization is automatical
 id = "q14e_approved"
 question = "Q14"
 points = 0.5
-text = "(e) Says that if the extension of stay and STEM OPT are approved, his stay runs to a fixed date: the STEM OPT end date plus 30 days (91 FR 45046-45047; 214.1(m)(1), 214.2(f)(5)(v)), for example about July 30, 2029 for STEM OPT ending June 30, 2029. No if the answer gives the EAD date plus 60 days as the result after an approved extension of stay."
+text = "(e) Says that if the extension of stay and STEM OPT are approved, his stay runs to a fixed date: the STEM OPT end date plus 30 days (214.2(f)(7)(vi): an extension for 'requested practical training', with the 30 days after it not counted toward the maximum; 214.1(m)(1) 'for an admission period to a fixed date'; 214.2(f)(5)(v)), for example about July 30, 2029 for STEM OPT ending June 30, 2029. No if the answer gives the EAD date plus 60 days as the result after an approved extension of stay."
 
 # -------------------------------------------------------------------------- Q15
 [[criterion]]
@@ -1049,7 +1049,7 @@ text = "Statement 2: says it is incorrect: the four-year maximum is counted from
 id = "q15_3"
 question = "Q15"
 points = 1
-text = "Statement 3: says it is correct: the automatic extension of on-campus (or CPT / severe economic hardship) employment ends at 240 days, but the student remains in a period of authorized stay and may continue a full course of study until USCIS decides (214.2(f)(5)(viii); 91 FR 45043). No if the answer says the student must stop studying or leave."
+text = "Statement 3: treats it as correct in substance: the automatic extension of on-campus (or CPT / severe economic hardship) employment ends at 240 days from the I-94 end date, but the student remains in a period of authorized stay until USCIS decides (214.2(f)(5)(viii); 91 FR 45043, which adds that the student can continue a full course of study). Judge the substance, not the label: 'correct', 'correct with refinements' and 'partly correct' all qualify if the answer affirms this split between stay and work. Valid refinements include that a filing during the 30-day period in (f)(5)(v) gets no automatic employment extension at all, and that the extension also covers CPT and severe economic hardship work. No if the answer calls the statement incorrect, or says the student must stop studying or leave."
 
 [[criterion]]
 id = "q15_4_verdict"
@@ -1067,7 +1067,7 @@ text = "Statement 4: cites DHS's statement at 91 FR 45039 that students who enco
 id = "q15_5"
 question = "Q15"
 points = 1
-text = "Statement 5: says it is incorrect: the I-20 states the full program length; the student is admitted for up to four years and applies for an extension of stay before the authorized stay expires, using the same I-20, and may keep studying while it is pending (91 FR 45039-45040; 214.2(f)(5)(i), (f)(7)(i)(C)(1))."
+text = "Statement 5: says it is incorrect: the I-20 states the full program length, and the student applies for an extension of stay before the authorized stay expires (91 FR 45039-45040; 214.2(f)(5)(i), (f)(7)(i)(C)(1)). That the same I-20 is used, that the student may keep studying while the extension is pending, and that travel and readmission is an alternative are correct extra detail; leaving them out is not a no."
 
 [[group]]
 id = "q15_6"
@@ -1080,7 +1080,7 @@ id = "q15_6_verdict"
 question = "Q15"
 group = "q15_6"
 points = 1.5
-text = "Statement 6: says it is correct or substantially correct: a student who departs and is readmitted with an I-20 may be admitted by CBP for the period to the program end date (up to four years, plus 30 days), which is an alternative to an extension of stay from USCIS (214.1(a)(4)(i); 91 FR 45040, 45045, 45046 or 45098-45099). No if the answer says an extension of stay is still always required."
+text = "Statement 6: says it is correct or substantially correct: a student who departs and is readmitted with an I-20 may be admitted by CBP for the period to the program end date (up to four years, plus 30 days), which is an alternative to an extension of stay from USCIS (214.1(a)(4)(i); 91 FR 45001, 45024, 45045, 45046 or 45098-45099). The 'four-year maximum every time' sentence at 91 FR 45040 is about grade-school (K-12) students; citing it is not wrong, but it is not needed. No if the answer says an extension of stay is still always required."
 
 [[criterion]]
 id = "q15_6_caveat"
@@ -1098,7 +1098,7 @@ text = "Statement 7: says the date is wrong: the exemption covers I-765s filed o
 id = "q15_7_conflict"
 question = "Q15"
 points = 0.5
-text = "Statement 7: identifies where the 'six months' wording comes from: the preamble describes the exemption as covering filings 'within six months of' the effective date (91 FR 45033 or 45034), and says the March 18, 2027 date in the regulatory text controls."
+text = "Statement 7: identifies where the 'six months' wording comes from: the preamble describes the exemption as covering filings 'within six months of' the effective date (91 FR 45033 or 45034), and says the March 18, 2027 date in the regulatory text controls. Noting the further mismatch at 91 FR 45101 (filings 'on or before September 15, 2026') is correct extra detail but does not replace 45033/45034. The 'first six months' at 91 FR 45097 concerns a J-1 provision and does not count."
 
 # -------------------------------------------------------------------------- Q16
 [[criterion]]
@@ -1132,10 +1132,16 @@ points = 0.5
 text = "(b) Says a full grant would run to the program end date plus 30 days: May 14, 2033 + 30 = June 13, 2033 (214.2(f)(7)(vi))."
 
 [[criterion]]
-id = "q16c"
+id = "q16c_result"
 question = "Q16"
-points = 1.5
-text = "(c) Says the master's degree awarded on the way does not bar her from finishing the PhD: DHS states that a student whose I-20 is for a PhD may obtain a master's degree incidental to status while progressing toward the PhD (91 FR 45042-45043), and the bar in 214.2(f)(5)(ii)(C) concerns F-1 status through another program at the same or a lower level, which continuing the PhD is not."
+points = 0.75
+text = "(c) Says the master's degree awarded on the way does not bar her from finishing the PhD, because the bar in 214.2(f)(5)(ii)(C) concerns F-1 status through another program at the same or a lower level after completing one, which continuing the PhD is not (citing (f)(5)(ii)(B) on progression to a higher level is also fine). Yes even if the answer says the rule does not address the case or gives this only as the best reading. No if the answer says the master's bars or may bar completing the PhD."
+
+[[criterion]]
+id = "q16c_preamble"
+question = "Q16"
+points = 0.75
+text = "(c) Cites DHS's statement at 91 FR 45042-45043 that a student issued a Form I-20 for a Ph.D. program could obtain a master's degree incidental to status while progressing toward the Ph.D. No if the answer does not locate this passage, or says the rule does not address the case."
 
 [[group]]
 id = "q16d"
@@ -1148,7 +1154,7 @@ id = "q16d_reading"
 question = "Q16"
 group = "q16d"
 points = 1.5
-text = "(d) Says that on readmission in August 2030 CBP may admit her to the I-20 program end date, which is then less than four years away, plus 30 days (about June 13, 2033), and that if it does she no longer needs the extension of stay. Cites 214.1(a)(4)(i) and/or the preamble (91 FR 45040 'extended for a four-year maximum every time' the student travels, 45045-45046 depart and re-enter as the alternative to an extension, or 45098). No if the answer says the September 2031 date necessarily carries over."
+text = "(d) Says that on readmission in August 2030 CBP may admit her to the I-20 program end date, which is then less than four years away, plus 30 days (about June 13, 2033), and that if it does she no longer needs the extension of stay. Cites 214.1(a)(4)(i) and/or the preamble (91 FR 45001 'may also travel and reenter with a period of admission to complete the remaining program of study', 45024 'It is not necessary to do both', 45045-45046 depart and re-enter as the alternative to an extension, or 45098-45099, aliens who departed without an approved EOS). The 'four-year maximum every time' sentence at 91 FR 45040 is about grade-school (K-12) students; citing it alone, without one of these, is a no. No if the answer says the September 2031 date necessarily carries over."
 
 [[criterion]]
 id = "q16d_flag"
