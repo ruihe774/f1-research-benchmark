@@ -9,9 +9,9 @@ Reference date: November 14, 2026. All answers were checked against Federal Regi
 | Short name | FR doc no. | Citation | Type | Published | Notes |
 |---|---|---|---|---|---|
 | D/S final rule | 2026-14439 | 91 FR 44976–45131 | Final rule (DHS/ICE) | 2026-07-17 | Effective 2026-09-15; docket ICEB-2025-0001; RIN 1653-AA95 |
-| D/S NPRM | 2025-16554 | 90 FR 42070 | Proposed rule | 2025-08-28 | Same docket/RIN |
+| D/S NPRM | 2025-16554 | 90 FR 42070–42115 | Proposed rule | 2025-08-28 | Same docket/RIN |
 | Proclamation 11069 | 2026-19554 | 91 FR 60497–60500 | Proclamation | 2026-09-23 | Signed 2026-09-18; extends Proc. 10973 |
-| EO 14431 | 2026-19555 | 91 FR 60501 | Executive order | 2026-09-23 | H-1B program integrity; signed 2026-09-18 |
+| EO 14431 | 2026-19555 | 91 FR 60501–60503 | Executive order | 2026-09-23 | H-1B program integrity; signed 2026-09-18 |
 | Proclamation 10973 | 2025-18601 | 90 FR 46027 | Proclamation | 2025-09-24 | Signed 2025-09-19 (original $100,000 restriction) |
 | H-1B fee NPRM | 2026-17324 | 91 FR 54817–54839 | Proposed rule (USCIS) | 2026-08-25 | $103,265; comments closed 2026-09-24; RIN 1615-AD20 |
 | H-1B fee NPRM correction | C1-2026-17324 | 91 FR 57516 | Correction | 2026-09-10 | Replaces Table 13 only |
@@ -20,6 +20,8 @@ Reference date: November 14, 2026. All answers were checked against Federal Regi
 | Removing deference NPRM | 2026-20941 | 91 FR 65119 | Proposed rule (USCIS) | 2026-10-14 | Removes 8 CFR 214.1(c)(5); comments closed 2026-11-13 |
 | EAD auto-extension final rule | 2026-20955 | 91 FR 65306 | Final rule | 2026-10-14 | Effective 2026-10-14; does not address OPT/STEM OPT |
 | 9-11 Biometric fee final rule | 2026-16231 | 91 FR 51360 | Final rule (CBP) | 2026-08-10 | Effective 2026-09-09; H-1B/L-1 employer fee on extensions |
+
+**Text quirk:** the GPO text of (f)(5)(viii) (91 FR 45125) reads "whos1e status". An agent grepping for "whose status" will miss it. This does not change scoring but may explain why an agent overlooks that paragraph.
 
 Paragraph citations below such as "(f)(7)(iii)(B)" mean 8 CFR 214.2(f)(7)(iii)(B) as amended by 2026-14439. Where they appear in the rule:
 
@@ -58,7 +60,7 @@ Paragraph citations below such as "(f)(7)(iii)(B)" mean 8 CFR 214.2(f)(7)(iii)(B
 | (b) | Outer limit for F: 4 years from Sept 15, 2026, plus 60 days = **November 14, 2030**. For J: plus 30 days = **October 15, 2030**. Both dates are stated in (m)(1). | 1.5 |
 | (c) | **Yes.** Under (f)(8)(i)(G), classes must begin within 5 months of the transfer-out date or the I-20 program completion date, whichever is earlier. May 15, 2027 + 5 months = **October 15, 2027** (earlier if the transfer-out release date is earlier). Aug 24, 2027 is inside the window. Bachelor's to master's is a higher level, so (f)(5)(ii)(B) also supports it. | 2 |
 | (d) | **Yes.** (1) 214.1(m)(1): transition-group aliens who "would like to start a new program of study ... must apply for an extension of stay with USCIS in accordance with paragraph (c)(2)". (2) (f)(8)(iv): if the new program will not be completed within the authorized stay, the student must apply to USCIS for an extension of stay with the endorsed I-20. Failing that, she is out of status and the SEVIS record is terminated. (3) 214.1(c)(2): general extension-of-stay filing. Also accept (f)(5)(i) and (f)(5)(ii)(D) as supporting citations. Bonus credit (no deduction if missing): the gap from July 14 to Aug 24 is not covered by the 60-day period, so a transfer alone does not bridge it. Departing and re-entering is the alternative. | 2 |
-| (e) | **No I-539 needed.** Under 214.1(m)(1)(i), a transition-group F-1 student recommended for post-completion OPT who files the I-765 before the admission period (including the 60 days) expires and **on or before March 18, 2027** need not file an I-539 for the OPT period. Feb 1, 2027 qualifies. If approved, she may remain until the EAD expiration plus 60 days: **June 30, 2028 + 60 = August 29, 2028**. Note (m)(1)(iii): DHS may extend the March 18, 2027 cutoff in 6-month increments by FR notice. None had been published as of the reference date (optional mention). | 2.5 |
+| (e) | **No I-539 needed.** Under 214.1(m)(1)(i), a transition-group F-1 student recommended for post-completion OPT who files the I-765 before the admission period (including the 60 days) expires and **on or before March 18, 2027** need not file an I-539 for the OPT period. March 1, 2027 qualifies. If approved, she may remain until the EAD expiration plus 60 days: **June 13, 2028 + 60 = August 12, 2028**. (The facts are built to be consistent: the filing date is within 90 days before the May 15, 2027 end date, which a commenter notes is the OPT filing window at 91 FR 45044; the start date is within 30 days of the end date under amended (f)(11)(i)(D); and the period is 12 months, which DHS says students get per level at 91 FR 45061. Agents need not check these, and get no extra credit for doing so.) Note (m)(1)(iii): DHS may extend the March 18, 2027 cutoff in 6-month increments by FR notice. None had been published as of the reference date (optional mention). | 2.5 |
 
 ## Q3. Tomás: fixed-date admission (12 pts)
 
@@ -67,7 +69,7 @@ Paragraph citations below such as "(f)(7)(iii)(B)" mean 8 CFR 214.2(f)(7)(iii)(B
 | (a) | **December 13, 2026.** (f)(5)(i): up to 30 days before the report or program start date. Jan 12, 2027 − 30 days = Dec 13, 2026. | 1 |
 | (b) | **January 17, 2028.** Program end Dec 18, 2027 + 30 days ((f)(5)(i), (f)(5)(v); 214.1(a)(4)(i)(A)). Admitted after Sept 15, 2026, so he is in the fixed-date group, not the transition group. | 1.5 |
 | (c) | **Yes.** (f)(7)(i)(C)(2)(i): a compelling academic reason, where "unexpected research problems" expressly include "an unexpected change in faculty advisor". Not acceptable: delays caused by academic probation or suspension, or a repeated inability or unwillingness to complete the course of study. (Also (A) continuous lawful status and (B) a full course of study.) | 2 |
-| (d) | **Before Dec 18, 2027** (the end date on the most recent I-20). Under (f)(7)(viii), if the DSO enters the extension after that date has passed, Tomás must file for **reinstatement** instead. (f)(7)(ii) requires the endorsed I-20 with the new end date. | 1.5 |
+| (d) | **On or before Dec 18, 2027** (the end date on the most recent I-20). Under (f)(7)(viii), if the DSO enters the extension after that date has passed, Tomás must file for **reinstatement** instead. (f)(7)(ii) requires the endorsed I-20 with the new end date. | 1.5 |
 | (e) | To keep the RA job: USCIS must **receive** the I-539 **on or before Dec 18, 2027**. Under (f)(5)(viii), filing during the 30-day period in (f)(5)(v) means no automatic extension of on-campus, CPT or severe economic hardship employment. Last timely date overall: **Jan 17, 2028** ((f)(7)(iii)(B): receipt on or before expiry of the authorized stay, including the 30 days). If filed in that window, he may continue a full course of study but **may not continue or begin practical training or other employment** until approval. | 2.5 |
 | (f) | Up to **240 days** from the end of his admission period on the I-94 (Jan 17, 2028), or until USCIS decides, whichever is earlier: about **September 12–13, 2028**. Accept either date and note the counting convention. Source: (f)(5)(viii). The work extension does not exceed 240 days, but authorized stay continues while the application is pending until USCIS decides. | 2 |
 | (g) | Approved: the period needed to complete the program plus 30 days ((f)(7)(vi)): **May 19, 2028 + 30 = June 18, 2028**. Denied after the admission period has expired: he and his dependents **must depart immediately** ((f)(7)(vii)). Under (f)(8)(iv) logic, he is out of status. | 1.5 |
@@ -127,7 +129,7 @@ Delay notice (1 pt): **No** FR notice delaying or suspending (f)(5)(ii)(A)–(C)
 
 ## Q9. NPRM to final rule changes (7 pts)
 
-DHS summarizes them in **Section V.A, "Summary of Changes in the Final Rule as Compared to the NPRM"** (91 FR 45096–45098). Agents may also find changes described elsewhere in the preamble. 1.4 pts for each valid F-1 change, up to 5 (7 pts). Each change needs an accurate source location (Section V.A or another correct preamble page). Deduct 0.4 per change if the location is missing or wrong. Valid items include:
+DHS summarizes them in **Section V.A, "Summary of Changes in the Final Rule as Compared to the NPRM"** (91 FR 45096–45098) and more briefly in **Section II.C, "Summary of Changes"** (91 FR 44978–44979). Agents may also find changes described elsewhere in the preamble. 1.4 pts for each valid F-1 change, up to 5 (7 pts). Each change needs an accurate source location (Section V.A, Section II.C, or another correct preamble page). Deduct 0.4 per change if the location is missing or wrong. Valid items include:
 
 - **(f)(5)(ii)(A)**: graduate transfer ban softened with an **SEVP exception** for extenuating circumstances (the NPRM had no exception). Also clarifies below-graduate first-year limits and adds "needing to change schools to complete elementary or secondary education".
 - **(f)(5)(ii)(C)**: same/lower-level bar applies only to programs **completed after the effective date**.
@@ -159,26 +161,33 @@ DHS summarizes them in **Section V.A, "Summary of Changes in the Final Rule as C
 | 2026-16231 | Final rule, 2026-08-10, eff. 2026-09-09 | 9-11 Biometric fee on all covered H-1B/L-1 extension petitions (employer cost) | Yes |
 | 2026-20955 | Final rule, 2026-10-14 | Ends automatic EAD extensions for certain renewal categories. Does not address OPT/STEM OPT, so accept only if the agent notes the limited relevance. | Yes |
 
-Deduct 1 pt for listing an irrelevant document (for example, 2026-20186, the HR-1 enforcement fees notice) as relevant.
+Deduct 1 pt for listing an irrelevant document as relevant. Known distractors:
+
+- **2026-20186** (notice, 2026-10-01): HR-1 enforcement fee inflation adjustments. Not relevant.
+- **2026-14539** (final rule, *Public Charge Ground of Inadmissibility*, 91 FR 45324, pub. 2026-07-20, eff. 2026-09-18). DHS says public charge **does not apply to change of status or extension of stay** applications (91 FR 45374); it is limited to visa, admission and adjustment of status. Deduct if listed as affecting I-539 or H-1B change-of-status filings. Do not deduct if the agent correctly limits its relevance to visa applications or re-entry.
+- **2026-15450** (State Department proposed rule, *Exchange Visitor Program: Termination of Program Participation, Extension of Program and Reinstatement*, 91 FR 48021, pub. 2026-07-30). J-1 only. Deduct if listed as affecting F-1 students.
 
 ## Q11. Cost and processing-time figures (5 pts)
 
 - **$420 I-539 fee**: appears at **91 FR 45055** in a **commenter's** statement (a professional association, in the J-1 discussion) that the rule would require "a full USCIS extension filing, including a $420 fee". (1.5 pts)
-- **Processing times**: **91 FR 45083**. **Commenters** cited the USCIS California Service Center as reporting an average of **4.5 months for changes to F-1 or J-1 status and 3.5 months for extensions**. A separate commenter at **91 FR 44999** says "current processing time for USCIS is around 3.5 months". (2 pts)
-- **Handout sentences** (1.5 pts): must attribute the figures to **commenters** (for example, "Commenters on the rule cited a $420 fee and average processing of about 3.5 months for extensions"). They must not present the figures as DHS findings or as the current fee. Full credit also notes that the rule itself does not set the fee or a processing time. A sentence attributing the figures to DHS or "the rule" earns 0 for this part.
+- **Processing times** (2 pts). The rule contains both commenter and DHS figures; award 1 pt for at least one correctly attributed commenter figure and 1 pt for the correctly attributed DHS figure.
+  - **Commenters:** at **91 FR 45083**, the USCIS California Service Center reportedly averages **4.5 months for changes to F-1 or J-1 status and 3.5 months for extensions**. At **91 FR 44999**, "current processing time for USCIS is around 3.5 months". At **91 FR 45063**, USCIS takes "more than 6.5 months to adjudicate 80 percent of EOS requests".
+  - **DHS:** at **91 FR 45084**, in its own response to comments, DHS says "80 percent of Form I-539 adjudications for F, M, and J aliens are completed in three months" (citing USCIS processing-time data, fn. 277).
+- **Other cost figure (optional, no deduction if absent):** at **91 FR 45083**, DHS's response uses an average **$490** cost of legal help for an EOS request, from the Form I-539 Supporting Statement, applied to 24.5 percent of filers. This is a DHS estimate, not a fee.
+- **Handout sentences** (1.5 pts): each figure must carry its correct source. The $420 fee and the 3.5/4.5/6.5-month figures are **commenters'**. The "80 percent within three months" statement may be attributed to **DHS**, as DHS's characterization of USCIS data at the time of the rule. Example: "In the rule, DHS stated that 80 percent of I-539s for F, M and J nonimmigrants were decided within three months, while commenters cited longer averages (about 3.5 months for extensions) and a $420 fee; the rule itself does not set the fee." Full credit also notes that the rule does not set the fee or guarantee a processing time. A sentence that attributes a commenter figure to DHS or "the rule" earns 0 for this part.
 
 ## Q12. Where the text is silent (7 pts)
 
 **(a) Timeliness during the 60-day period (3.5 pts).** **Not expressly addressed. Uncertain.**
 
-- **(f)(7)(iii)(B)**: an extension is timely if received "on or before the date the authorized period of stay expires, which includes the 30-day period provided in paragraph (f)(5)(v)". This is drafted for fixed-date students.
+- **(f)(7)(iii)(B)**: an extension is timely if received "on or before the date the authorized period of stay expires, which includes the 30-day period provided in paragraph (f)(5)(v)". This is drafted for fixed-date students. Its last sentence adds: "Notwithstanding § 214.1(c)(4), USCIS must receive the extension of stay application on or before the expiration of the previously authorized period of stay." This keys timeliness to the authorized period of stay, which for Priya is set by (m)(1).
 - **214.1(m)(1)**: the transition group is "authorized to remain ... until ... the program end date ... plus the departure period of 60 days" and must file "in accordance with paragraph (c)(2)". Under 214.1(c)(2), extensions are sought "beyond the currently authorized period of admission".
 - **Most defensible reading:** because the 60 days is part of her authorized stay under (m)(1), receipt by **July 14, 2027** is likely timely. No provision says so in terms.
 
 **(b) Work-extension forfeiture (3.5 pts).** **Not expressly addressed. Uncertain.**
 
 - **(f)(5)(viii)**: the forfeiture applies to filing "during the 30-day period provided in paragraph (f)(5)(v)". The transition group's 60 days comes from (m)(1), not (f)(5)(v). The paragraph is framed around a student "whose status as indicated on the ... Form I-94 ... has expired", while transition students' I-94s show D/S.
-- **(f)(7)(iii)(B)**, last sentence: filing in the 30-day period permits study but not training or employment. This is the closest analogue.
+- **(f)(7)(iii)(B)**, the sentence before the "Notwithstanding" sentence: filing in the 30-day period permits study but not training or employment. This is the closest analogue.
 - **Most defensible reading:** DHS would likely treat the post-program period the same way, but the text does not say so.
 
 **Cautious recommendation (required for full credit on both parts):** have USCIS **receive** the I-539 **on or before May 15, 2027** (the I-20 program end date), and confirm with the DSO.

@@ -58,7 +58,7 @@ Priya was admitted as an F-1 student for "D/S" in August 2023 and was maintainin
 (b) What is the latest date on which anyone admitted for D/S and in status on September 15, 2026 could still be authorized to remain under this arrangement? Answer separately for F and J nonimmigrants.
 (c) Priya will start a master's program at a different university on August 24, 2027. Can her SEVIS record be transferred for that program, as far as timing is concerned? State any deadline that applies.
 (d) Does she need to file anything with USCIS for the new program? Cite every provision that supports your answer.
-(e) Alternative facts: instead of going straight to the master's, Priya is recommended for post-completion OPT and files her Form I-765 on February 1, 2027, requesting OPT through June 30, 2028. What must she file to remain in the U.S. for the OPT period? If the OPT is approved as requested, until what date may she remain?
+(e) Alternative facts: instead of going straight to the master's, Priya is recommended for post-completion OPT and files her Form I-765 on March 1, 2027, requesting OPT from June 14, 2027 through June 13, 2028. What must she file to remain in the U.S. for the OPT period? If the OPT is approved as requested, until what date may she remain?
 
 ### Q3
 
