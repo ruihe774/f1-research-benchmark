@@ -18,6 +18,7 @@ import time
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
+from types import SimpleNamespace
 from typing import Any, Callable, Literal
 
 import openai
@@ -451,6 +452,31 @@ def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
     def over_budget() -> bool:
         return bool(context_budget) and context >= context_budget
 
+    def run_calls(calls, turn) -> None:
+        """Run function calls, append their outputs to items, record them on the turn."""
+        nonlocal context
+        results = []
+        for call in calls:
+            c0 = time.monotonic()
+            if over_budget():
+                out, err, kind = BUDGET_SKIP, "context budget reached", "budget"
+            else:
+                out, err, kind = run_tool(tool_map, call)
+            context += len(out) // CHARS_PER_TOKEN + 1
+            footer = ""
+            if context_budget:
+                footer = BUDGET_FOOTER % max(0, context_budget - context)
+                context += len(footer) // CHARS_PER_TOKEN + 1
+            results.append({"call_id": call.call_id, "name": call.name,
+                            "arguments": call.arguments, "output": out,
+                            "footer": footer, "error": err, "error_kind": kind,
+                            "elapsed_s": round(time.monotonic() - c0, 2)})
+            items.append({"type": "function_call_output", "call_id": call.call_id,
+                          "output": out + footer})
+            log("  %s %s -> %d chars%s" % (call.name, _brief_args(call.arguments),
+                                             len(out), " (%s error)" % kind if err else ""))
+        turn["tool_results"] = results
+
     for turn_no in range(1, max_turns + 1):
         injected = []
         if limit is None and (over_budget() or turn_no == max_turns):
@@ -495,6 +521,15 @@ def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
             if nudges > MAX_NUDGES:
                 return AgentResult("no_final_answer", error=str(e), input_items=items)
             items.extend(_strip_ids(o) for o in body.get("output", []))
+            raw_calls = [SimpleNamespace(**{k: o.get(k) for k in ("call_id", "name", "arguments")})
+                         for o in body.get("output", []) if o.get("type") == "function_call"]
+            if raw_calls and not final_turn:
+                # The failure was in a tool call's arguments, not the final answer.
+                # Every function_call needs an output, so answer it with the
+                # validation error and let the model retry.
+                run_calls(raw_calls, turn)
+                transcript.save()
+                continue
             note = developer_message(BAD_FORMAT_NOTE % str(e).splitlines()[0])
             items.append(note)
             turn["injected_after"] = [note]
@@ -520,27 +555,7 @@ def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
                                input_items=items)
 
         if calls and not final_turn:
-            results = []
-            for call in calls:
-                c0 = time.monotonic()
-                if over_budget():
-                    out, err, kind = BUDGET_SKIP, "context budget reached", "budget"
-                else:
-                    out, err, kind = run_tool(tool_map, call)
-                context += len(out) // CHARS_PER_TOKEN + 1
-                footer = ""
-                if context_budget:
-                    footer = BUDGET_FOOTER % max(0, context_budget - context)
-                    context += len(footer) // CHARS_PER_TOKEN + 1
-                results.append({"call_id": call.call_id, "name": call.name,
-                                "arguments": call.arguments, "output": out,
-                                "footer": footer, "error": err, "error_kind": kind,
-                                "elapsed_s": round(time.monotonic() - c0, 2)})
-                items.append({"type": "function_call_output", "call_id": call.call_id,
-                              "output": out + footer})
-                log("  %s %s -> %d chars%s" % (call.name, _brief_args(call.arguments),
-                                                 len(out), " (%s error)" % kind if err else ""))
-            turn["tool_results"] = results
+            run_calls(calls, turn)
             transcript.add_turn(turn)
             continue
 
