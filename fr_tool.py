@@ -226,7 +226,9 @@ def search(query="", doc_type=None, agency=None, pres_type=None, since=None,
     if cfr:
         m = re.match(r"^(\d+):(\d+)$", cfr)
         if not m:
-            raise FRToolError("--cfr must look like TITLE:PART, e.g. 8:214")
+            raise FRToolError("--cfr must look like TITLE:PART with a numeric part, e.g. 8:214. "
+                              "The Federal Register API does not accept lettered parts such "
+                              "as 274a; search by keyword instead.")
         p += [("conditions[cfr][title]", m.group(1)),
               ("conditions[cfr][part]", m.group(2))]
     if significant:

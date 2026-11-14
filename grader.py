@@ -249,11 +249,20 @@ def question_score(r: Rubric, qid: str, verdicts: dict[str, str], mode: str) -> 
         if g.gate and resolved[g.gate] != "yes":
             s *= g.factor
         group_scores[g.id] = s
+    # What each criterion contributed after its group's cap and gate factor.
+    effective = {}
+    for c in crits:
+        pts = awarded.get(c.id)
+        if pts is None:
+            continue
+        if c.group and grouped.get(c.group):
+            pts = pts * group_scores[c.group] / grouped[c.group]
+        effective[c.id] = round(pts, 4)
     credit = ungrouped + sum(group_scores.values())
     score = max(0.0, min(r.questions[qid], credit - penalty))
     return {"score": round(score, 4), "credit": round(credit, 4),
             "penalty": round(penalty, 4), "groups": group_scores,
-            "points_by_criterion": awarded}
+            "points_by_criterion": awarded, "effective_points_by_criterion": effective}
 
 
 def score_verdicts(r: Rubric, verdicts: dict[str, str]) -> dict:
@@ -268,7 +277,9 @@ def score_verdicts(r: Rubric, verdicts: dict[str, str]) -> dict:
         out["questions"][qid] = {"points": pts, "score": head["score"], "score_min": lo,
                                  "score_max": hi, "credit": head["credit"],
                                  "penalty": head["penalty"],
-                                 "points_by_criterion": head["points_by_criterion"]}
+                                 "points_by_criterion": head["points_by_criterion"],
+                                 "effective_points_by_criterion":
+                                     head["effective_points_by_criterion"]}
         totals["score"] += head["score"]
         totals["score_min"] += lo
         totals["score_max"] += hi
@@ -300,8 +311,14 @@ def verdict_model(r: Rubric) -> type[BaseModel]:
     return create_model("GraderVerdicts", **fields)
 
 
+MISSING_VERDICT = {"verdict": "unclear",
+                   "rationale": "(no verdict: criterion added to the rubric after grading)"}
+
+
 def flatten_verdicts(output: dict, r: Rubric) -> dict[str, str]:
-    return {cid: v["verdict"] for qid in r.questions for cid, v in output[qid].items()}
+    """Criterion id -> verdict. Criteria the grader never saw count as unclear."""
+    return {c.id: output.get(c.question, {}).get(c.id, MISSING_VERDICT)["verdict"]
+            for c in r.criteria}
 
 
 GRADER_INSTRUCTIONS = """\
@@ -407,11 +424,18 @@ def report_markdown(output: dict, scores: dict, r: Rubric, source: str) -> str:
         out += ["", "## %s: %.2f / %g" % (qid, q["score"], q["points"]), "",
                 "| Criterion | Kind | Verdict | Points | Rationale |", "|---|---|---|---|---|"]
         for c in r.for_question(qid):
-            v = output[qid][c.id]
-            pts = q["points_by_criterion"].get(c.id)
+            v = output.get(qid, {}).get(c.id, MISSING_VERDICT)
+            raw = q["points_by_criterion"].get(c.id)
+            eff = q.get("effective_points_by_criterion", {}).get(c.id, raw)
+            if raw is None:
+                pts = ""
+            elif eff == raw:
+                pts = "%g" % raw
+            else:  # reduced by the group's cap or gate factor
+                pts = "%g (of %g)" % (eff, raw)
             rationale = " ".join(v["rationale"].split()).replace("|", "\\|")
             out.append("| `%s` | %s | %s | %s | %s |" % (
-                c.id, c.kind, v["verdict"], "" if pts is None else "%g" % pts, rationale))
+                c.id, c.kind, v["verdict"], pts, rationale))
     return "\n".join(out) + "\n"
 
 
