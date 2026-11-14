@@ -24,7 +24,10 @@ The task states the world as of **November 14, 2026**. The 16 questions are wort
 | `corpus/` | Frozen snapshot of the documents (`<doc-number>.txt` plus `.json` metadata). |
 | `ANSWER_KEY.md` | Confidential reference answers. **Never show it to the agent under test.** |
 | `rubric.toml` | Machine-readable criteria derived from the answer key, with points, caps, gates and penalties. |
-| `runs/` | Output of runs and grades (gitignored). |
+| `runs/` | Output of runs and grades (committed). |
+| `pricing.csv` | Per-model token prices (USD per 1M tokens), by context tier. |
+| `theoretical_cost.py` | Computes each run's theoretical cost from its transcript and `pricing.csv`; writes `runs_theoretical_cost.csv`. |
+| `analysis/` | `plot_cost_vs_score.py` plots score against cost; outputs `cost_vs_score.png` and `model_summary.csv`. |
 
 ## Setup
 
@@ -80,6 +83,15 @@ uv run grader.py --rescore runs/<run-id>/grades/<grade-id>        # recompute po
 ```
 
 Grader outputs go to `<run>/grades/<grade-id>/` (or `--out`): `transcript.json`, `verdicts.json`, `score.json` and `report.md`. `--cache-ttl {30m,12h}` sets the prompt-cache lifetime for the grading prefix.
+
+## Cost and analysis
+
+```bash
+uv run theoretical_cost.py               # writes runs_theoretical_cost.csv
+uv run analysis/plot_cost_vs_score.py    # writes analysis/cost_vs_score.png and model_summary.csv
+```
+
+Theoretical cost assumes every cacheable token is a cache hit and every new token (user prompt, tool results) is a miss. Prices come from `pricing.csv`, with context-size tiers where a provider has them.
 
 ## The Federal Register tools
 
