@@ -12,6 +12,10 @@ The task states the world as of **November 14, 2026**. The 16 questions are wort
 - Flagging gaps honestly where the text is silent. TASK.md says a confident unsupported answer is worse than a flagged gap.
 - Avoiding stale or wrong sources. Some pending proposals look relevant but are not in force.
 
+## Results
+
+![Cost vs score](analysis/cost_vs_score.png)
+
 ## Layout
 
 | Path | Purpose |
