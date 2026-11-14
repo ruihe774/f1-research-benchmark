@@ -381,6 +381,9 @@ NO_ANSWER_NOTE = ("Continue working. When you are done, give your final answer i
 BUDGET_FOOTER = "\n[context budget: about %d tokens left]"
 BAD_FORMAT_NOTE = ("Your final answer could not be parsed against the required format "
                    "(%s). Give the complete final answer again in the required format.")
+TOOL_TURN_FORMAT_NOTE = ("Your message text next to the tool calls could not be parsed against "
+                         "the required format. The tool calls were run. Only your final "
+                         "answer, given without tool calls, must be in the required format.")
 MAX_NUDGES = 3
 
 
@@ -517,19 +520,23 @@ def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
             if body.get("status") == "incomplete":
                 return AgentResult("incomplete", error=json.dumps(
                     body.get("incomplete_details")), input_items=items)
-            nudges += 1
-            if nudges > MAX_NUDGES:
-                return AgentResult("no_final_answer", error=str(e), input_items=items)
             items.extend(_strip_ids(o) for o in body.get("output", []))
             raw_calls = [SimpleNamespace(**{k: o.get(k) for k in ("call_id", "name", "arguments")})
                          for o in body.get("output", []) if o.get("type") == "function_call"]
             if raw_calls and not final_turn:
-                # The failure was in a tool call's arguments, not the final answer.
-                # Every function_call needs an output, so answer it with the
-                # validation error and let the model retry.
+                # The model is still working: the message text next to its tool calls
+                # (or a bad tool call's arguments) failed the schema, not a final
+                # answer. Every function_call needs an output, so run the calls (a bad
+                # one gets the validation error), tell the model, and don't count a nudge.
                 run_calls(raw_calls, turn)
+                note = developer_message(TOOL_TURN_FORMAT_NOTE)
+                items.append(note)
+                turn["injected_after"] = [note]
                 transcript.save()
                 continue
+            nudges += 1
+            if nudges > MAX_NUDGES:
+                return AgentResult("no_final_answer", error=str(e), input_items=items)
             note = developer_message(BAD_FORMAT_NOTE % str(e).splitlines()[0])
             items.append(note)
             turn["injected_after"] = [note]
