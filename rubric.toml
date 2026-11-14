@@ -776,7 +776,7 @@ question = "Q10"
 ladder = "q10_irrelevant"
 kind = "penalty"
 points = 1
-text = "Lists at least 1 irrelevant document as relevant. Irrelevant means one of the key's distractors used as the key describes (2026-20186; 2026-14539 described as affecting I-539 or H-1B change-of-status filings; 2026-15450 described as affecting F-1 students), or another document with no real bearing on an F-1 student's post-graduation work. Not irrelevant, so never a penalty: any document in the key's Q10 table, including 2026-20955 listed without its OPT caveat (it just earns no entry credit), and a relevant document published outside the July 18 - November 14, 2026 window, such as 2026-00321 or 2024-01427 (no entry credit, no penalty)."
+text = "Lists at least 1 irrelevant document as relevant. Irrelevant means one of the key's distractors used as the key describes (2026-20186; 2026-14539 described as affecting I-539 or H-1B change-of-status filings; 2026-15450 described as affecting F-1 students), or another document with no real bearing on an F-1 student's post-graduation work. Not irrelevant, so never a penalty: any document in the key's Q10 table, including 2026-20955 listed without its OPT caveat (it just earns no entry credit), and a relevant document published outside the July 18 - November 14, 2026 window, such as 2026-00321 or 2024-01427 (no entry credit, no penalty). Also not a penalty: 2026-14539 (public charge) limited to visa applications, re-entry or adjustment of status (for example, a later employment-based green card); 2026-20016 (EB-5 fee final rule) with its relevance accurately limited to EB-5 investors (no entry credit). 2026-20016 described as affecting OPT, H-1B or I-539 filings counts as irrelevant."
 
 [[criterion]]
 id = "q10_irrelevant_2"
@@ -824,7 +824,7 @@ id = "q11_handout_sources"
 question = "Q11"
 group = "q11_handout"
 points = 1
-text = "Drafts one or two handout sentences in which each figure carries its correct source."
+text = "Drafts one or two handout sentences that give the figures (at least the $420 fee and one processing-time figure), each with its correct source. No if the handout leaves the figures out (for example, says only that the rule sets no fee or processing time), or makes an incorrect statement about the rule, such as that all employment continues while the extension is pending ((f)(5)(viii) covers only on-campus, CPT and severe-economic-hardship employment, up to 240 days)."
 
 [[criterion]]
 id = "q11_handout_caveat"
@@ -1000,7 +1000,7 @@ text = "(c) Says that without payment the DSO may not enter the recommendation a
 id = "q14c_refund"
 question = "Q14"
 points = 0.5
-text = "(c) Describes the refund terms: the school may request a refund only if the student has not been issued the EAD; SEVP decides case by case in its discretion; no refund once the EAD is issued. Mentioning that the DSO must first remove the recommendation, or that the decision cannot be appealed, is correct extra detail."
+text = "(c) Describes the refund terms: the school may request a refund only if the student has not been issued the EAD; SEVP decides case by case in its discretion; no refund once the EAD is issued. 'Received' (the preamble's word at 91 FR 64577) or 'granted' (64600) in place of 'issued' is fine. Mentioning that the DSO must first remove the recommendation, or that the decision cannot be appealed, is correct extra detail."
 
 [[criterion]]
 id = "q14d_timing"
@@ -1018,7 +1018,7 @@ text = "(e) Says Daniel must file both the I-765 and a Form I-539: the 214.1(m)(
 id = "q14e_pending"
 question = "Q14"
 points = 0.5
-text = "(e) Says his post-completion OPT employment authorization is automatically extended while the timely filed STEM OPT application is pending, for up to 180 days (8 CFR 274a.12(b)(6)(iv) / 214.2(f)(11)(i)(C); confirmed as unchanged at 91 FR 45037, 45046 or 45101)."
+text = "(e) Says his post-completion OPT employment authorization is automatically extended while the timely filed STEM OPT application is pending, for up to 180 days (8 CFR 274a.12(b)(6)(iv) / 214.2(f)(11)(i)(C); confirmed as unchanged at 91 FR 45024, 45037, 45046 or 45101). Quoting alongside it the next sentence at 91 FR 45024 (OPT employment may begin or continue only after the EOS and employment authorization are approved, absent transition relief) is not a no, as long as the answer states the 180-day extension for Daniel's STEM OPT; that sentence concerns post-completion OPT."
 
 [[criterion]]
 id = "q14e_approved"
@@ -1098,7 +1098,7 @@ text = "Statement 7: says the date is wrong: the exemption covers I-765s filed o
 id = "q15_7_conflict"
 question = "Q15"
 points = 0.5
-text = "Statement 7: identifies where the 'six months' wording comes from: the preamble describes the exemption as covering filings 'within six months of' the effective date (91 FR 45033 or 45034), and says the March 18, 2027 date in the regulatory text controls. Noting the further mismatch at 91 FR 45101 (filings 'on or before September 15, 2026') is correct extra detail but does not replace 45033/45034. The 'first six months' at 91 FR 45097 concerns a J-1 provision and does not count."
+text = "Statement 7: identifies where the 'six months' wording comes from: the preamble describes the exemption as covering filings 'within six months of' the effective date (91 FR 45033 or 45034), or the executive summary's reprieve 'during the first 6 months after the rule takes effect' for post-completion OPT or STEM OPT (91 FR 44978), and says the March 18, 2027 date in the regulatory text controls. Noting the further mismatch at 91 FR 45101 (filings 'on or before September 15, 2026') is correct extra detail but does not replace 44978/45033/45034. The 'first six months' at 91 FR 45097 concerns a J-1 provision and does not count."
 
 # -------------------------------------------------------------------------- Q16
 [[criterion]]
@@ -1123,7 +1123,7 @@ text = "(b) Says she must file an extension of stay application with USCIS, rece
 id = "q16b_early"
 question = "Q16"
 points = 1
-text = "(b) On how early she may file: says the rule sets no earliest filing date (the preamble footnote 'there is no prohibition on filing the form before a certain date ahead of expiration', e.g. 91 FR 45040) and/or that DHS suggests applying as early as possible, 180 days before the stay expires (91 FR 45043). Either is enough. No if the answer invents a filing window or says the documents are silent."
+text = "(b) On how early she may file: says the rule sets no earliest filing date (the preamble footnote 'there is no prohibition on filing the form before a certain date ahead of expiration', e.g. 91 FR 45040; or 'there is no regulation preventing early filing', 91 FR 45027) and/or that DHS suggests applying as early as possible, 180 days before the stay expires (91 FR 45043). Either is enough. No if the answer invents a filing window or says the documents are silent."
 
 [[criterion]]
 id = "q16b_until"
@@ -1154,7 +1154,7 @@ id = "q16d_reading"
 question = "Q16"
 group = "q16d"
 points = 1.5
-text = "(d) Says that on readmission in August 2030 CBP may admit her to the I-20 program end date, which is then less than four years away, plus 30 days (about June 13, 2033), and that if it does she no longer needs the extension of stay. Cites 214.1(a)(4)(i) and/or the preamble (91 FR 45001 'may also travel and reenter with a period of admission to complete the remaining program of study', 45024 'It is not necessary to do both', 45045-45046 depart and re-enter as the alternative to an extension, or 45098-45099, aliens who departed without an approved EOS). The 'four-year maximum every time' sentence at 91 FR 45040 is about grade-school (K-12) students; citing it alone, without one of these, is a no. No if the answer says the September 2031 date necessarily carries over."
+text = "(d) Says that on readmission in August 2030 CBP may admit her to the I-20 program end date, which is then less than four years away, plus 30 days (about June 13, 2033), and that if it does she no longer needs the extension of stay. Cites 214.1(a)(4)(i) and/or the preamble (91 FR 45001 'may also travel and reenter with a period of admission to complete the remaining program of study', 45024 'It is not necessary to do both', 45045-45046 depart and re-enter as the alternative to an extension, or 45098-45099, aliens who departed without an approved EOS). The 'four-year maximum every time' sentence at 91 FR 45040 is about grade-school (K-12) students; citing it alone, without one of these, is a no. No if the answer says the September 2031 date necessarily carries over, or if its conclusion is that the 2031 date most likely carries over and it mentions the 2033 admission only as a possibility."
 
 [[criterion]]
 id = "q16d_flag"
