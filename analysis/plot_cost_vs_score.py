@@ -74,6 +74,7 @@ for _, r in summary.iterrows():
 ax.step(*zip(*front), where="post", color="#999", lw=1.2, ls="--", zorder=2)
 
 ax.set_xscale("log")
+ax.set_ylim(77.5, 100.5)
 ax.set_xlim(0.03, 3.6)
 ax.set_xlabel("Theoretical cost per run (USD, log scale)")
 ax.set_ylabel("Score (out of 100)")
@@ -85,7 +86,8 @@ for s in ("top", "right"):
 ax.xaxis.set_major_formatter(lambda v, _: f"${v:g}")
 handles = [plt.Line2D([], [], marker="o", ls="", color=c, label=p) for p, c in COLORS.items()]
 ax.legend(handles=handles, title="Provider", frameon=False, loc="lower right", fontsize=9)
-ax.text(0.01, 0.01, "Small points: individual runs. Large: model mean. Dashed: Pareto frontier of means.",
+ax.text(0.01, 0.01, "Small points: individual runs. Large: mean per model and effort. Dashed: Pareto frontier of means.\n"
+        "Labels without parentheses are high effort; models run at several efforts show the effort in parentheses.",
         transform=ax.transAxes, fontsize=8, color="#666")
 fig.tight_layout()
 fig.savefig(OUT / "cost_vs_score.png")
