@@ -1,0 +1,13 @@
+name,provider,cost,score,smin,smax,n
+muse-ember,meta,0.042,84.97,81.96,87.98,2
+deepseek-v4.1-flash-1017,deepseek,0.075,91.88,91.63,92.13,2
+glm-5.3-flash,z-ai,0.095,88.895,86.86,90.93,2
+gpt-6-luna,openai,0.101,82.18,79.22,85.14,2
+gpt-6.1-terra,openai,0.41,92.19,91.75,92.63,2
+claude-haiku-5-5,anthropic,0.437,82.21,80.13,84.29,2
+gpt-6.1-sol,openai,0.791,96.265,93.78,98.75,2
+kimi-k3.1-pro,moonshotai,0.899,92.525,91.3,93.75,2
+gemini-4-hydrogen,google,0.997,96.285,96.11,96.46,2
+claude-sonnet-5-5,anthropic,1.393,96.33,94.96,97.7,2
+gemini-4-carbon,google,1.666,96.66,95.75,97.57,2
+claude-opus-5-5,anthropic,2.462,96.525,96.2,96.85,2
