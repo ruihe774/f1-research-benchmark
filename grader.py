@@ -336,8 +336,13 @@ adjust a total.
 # How to judge
 
 - Each criterion is a statement about the submission. "yes" means the \
-submission clearly satisfies it. "no" means it does not, including when the \
-point is missing.
+submission clearly satisfies it. "no" means it clearly does not, including \
+when the point is missing or wrong. "unclear" is for the specific cases in \
+the "unclear" section below.
+- Where a criterion marks an element as "welcome but not required" or says \
+"either ... is enough", do not withhold "yes" for the missing optional \
+element. Every other element of a criterion is required: if one is missing, \
+the verdict is "no".
 - Judge a question's criteria on that question's answer, basis and \
 uncertainty fields. Content under another question counts only if this \
 question's answer explicitly refers to it.
@@ -372,9 +377,41 @@ states. The world is as of November 14, 2026.
 
 # "unclear"
 
-Use "unclear" when you cannot decide after checking, or when the rubric or key \
-seems wrong or ambiguous for this submission. Explain why in the rationale. \
-Note general problems with the rubric or key in rubric_feedback.
+"unclear" is not a middle grade. The headline score counts it as "no", and \
+every "unclear" is listed for a human to resolve, with the score range showing \
+what each resolution would give. Use it only when a careful reader with the \
+tools still could not settle the verdict:
+
+1. The submission is genuinely ambiguous on the point: it can fairly be read \
+either as satisfying the criterion or not. Examples: a date is given but it is \
+impossible to tell which provision or counting rule produced it; a caveat \
+appears but it is unclear whether it attaches to this part or to another one; \
+a required element is implied but not stated.
+2. The verdict depends on a fact you tried to check and could not: the cited \
+document or page could not be retrieved, or searching did not find a passage \
+the submission relies on and you cannot rule out that it exists. This applies \
+especially to the fabrication penalty: answer "yes" only after confirming the \
+source does not exist or does not contain the claim, and "unclear" if you \
+could not confirm either way.
+3. The submission takes a reasonable approach the key and criterion do not \
+anticipate, you checked it with the tools, and you still cannot tell whether \
+it meets the criterion's intent. Or the criterion or key appears to be wrong \
+for this submission (for example, it demands a figure the submission shows is \
+incorrect).
+
+Do not use "unclear":
+
+- When the point is missing or wrong. That is "no".
+- When a required element of the criterion is absent. That is "no", even if \
+the rest is excellent.
+- Before you have checked. If a tool call could settle it, make the call.
+- To split the difference on a judgment call you are able to make, or to \
+soften or raise a score. Decide, and explain the decision.
+
+For every "unclear", the rationale must name which of the three cases applies \
+and what would resolve it: the two readings, the check that failed, or the \
+suspected problem in the key. Most criteria in a submission should get "yes" \
+or "no". Note general problems with the rubric or key in rubric_feedback.
 """
 
 

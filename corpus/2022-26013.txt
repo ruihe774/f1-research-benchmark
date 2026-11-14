@@ -1,0 +1,2726 @@
+Federal Register, Volume 87 Issue 237 (Monday, December 12, 2022)
+
+
+[Federal Register Volume 87, Number 237 (Monday, December 12, 2022)]
+[Rules and Regulations]
+[Pages 75891-75911]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-26013]
+
+
+
+ ========================================================================
+ Rules and Regulations
+                                                 Federal Register
+ ________________________________________________________________________
+ 
+ This section of the FEDERAL REGISTER contains regulatory documents 
+ having general applicability and legal effect, most of which are keyed 
+ to and codified in the Code of Federal Regulations, which is published 
+ under 50 titles pursuant to 44 U.S.C. 1510.
+ 
+ The Code of Federal Regulations is sold by the Superintendent of Documents. 
+ 
+ ========================================================================
+ 
+
+  Federal Register / Vol. 87, No. 237 / Monday, December 12, 2022 / 
+Rules and Regulations  
+
+[[Page 75891]]
+
+
+
+DEPARTMENT OF HOMELAND SECURITY
+
+8 CFR Part 214
+
+[DHS Docket No. ICEB-2021-0016]
+RIN 1653-AA87
+
+
+Removal of Obsolete Procedures and Requirements Related to F, J, 
+and M Nonimmigrants
+
+AGENCY: U.S. Immigration and Customs Enforcement, Department of 
+Homeland Security.
+
+ACTION: Interim final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Department of Homeland Security (DHS) is amending its 
+regulations to update information that is no longer accurate since the 
+creation of the Student and Exchange Visitor Information System 
+(SEVIS). DHS is updating obsolete or unnecessary information because 
+SEVIS, a Web-based system that DHS uses to collect and maintain current 
+and ongoing information on Student and Exchange Visitor Program (SEVP)-
+certified schools, F-1 and M-1 nonimmigrant students, and J-1 Exchange 
+Visitor Program participants and their sponsors, has replaced older 
+paper-based processes. In addition, DHS is making technical changes to 
+correct typographical errors, update references and citations, and make 
+other needed changes to reflect the transfer of responsibilities to DHS 
+from the Department of Justice (DOJ). Further, this rule removes 
+language requiring original signatures on Form I-17, Petition for 
+Approval of School for Attendance by Nonimmigrant Student or successor 
+form, and clarifies language about the requirement of an original 
+signature on Form I-20, Certificate of Eligibility for Nonimmigrant 
+Student Status or successor form. This rulemaking introduces no 
+substantive changes, does not raise existing costs; and places no 
+additional burden on F, J, and M nonimmigrants, or on sponsoring 
+academic institutions and programs.
+
+DATES: 
+    Effective Date: This rule is effective December 12, 2022.
+    Comment Date: Comments must be received on or before January 11, 
+2023.
+
+ADDRESSES: You may submit comments on the entirety of this rule, which 
+must be identified by Docket No. ICEB-2021-0016, through the following 
+method:
+     Federal eRulemaking Portal: http://www.regulations.gov. 
+Follow the website instructions to submit comments.
+    Comments submitted in a manner other than the Federal eRulemaking 
+Portal, including emails or letters sent to DHS, will not be considered 
+comments and will not receive a response from DHS. Please note that DHS 
+cannot accept any comments that are hand delivered or couriered, nor 
+any comments contained on any form of digital media storage devices, 
+such as CDs/DVDs and USB drives. If you cannot submit your material 
+using http://www.regulations.gov, contact the individual listed in the 
+FOR FURTHER INFORMATION CONTACT section of this document for alternate 
+instructions.
+
+FOR FURTHER INFORMATION CONTACT: Sharon Snyder, Policy and Response 
+Unit Chief, Student and Exchange Visitor Program; U.S. Immigration and 
+Customs Enforcement, 500 12th Street, SW, Stop 5600, Washington, DC, 
+20536-5600; or by email at [email protected] or telephone at 703/603-
+3400 (this is not a toll-free number). Find program information at 
+http://www.ice.gov/sevis/.
+
+SUPPLEMENTARY INFORMATION:
+
+I. Public Participation
+
+    DHS encourages all interested parties to participate in this 
+rulemaking by submitting data, views, comments, and arguments on all 
+aspects of this interim final rule. Comments providing the most 
+assistance to DHS will reference a specific portion of this rule, 
+explain the reason for any recommended change, and include the data, 
+information, or authority that supports the recommended change. Under 
+the guidelines of the Office of the Federal Register, all comments 
+received will be posted to https://www.regulations.gov as part of the 
+public record and will include any personal information you have 
+provided. See the ADDRESSES section above for information on where to 
+submit comments.
+
+A. Submitting Comments
+
+    All comments must be submitted in English, or an English 
+translation must be provided. If you submit comments, you must include 
+the DHS docket number for this rulemaking (ICEB-2021-0016), indicate 
+the specific section of this document to which each comment applies, 
+and provide a reason for each suggestion or recommendation. Include 
+data, information, or authority that supports the comment. Your 
+comments must be submitted online by 11:59 p.m. EST of the last day of 
+the comment period.
+    Instructions: To submit your comments online, go to https://www.regulations.gov and insert ``ICEB-2021-0016'' in the ``Search'' 
+box. Click on the ``Comment Now!'' box and input your comments in the 
+text box provided. When you are satisfied with your comments, click the 
+``Continue'' box and follow the prompts to submit.
+    DHS will post comments to the federal e-Rulemaking portal at 
+https://www.regulations.gov and will include any personal information 
+you provide. Therefore, submitting this information makes it public. 
+You may wish to consider limiting the amount of personal information 
+that you provide in any voluntary public comment submission you make to 
+DHS. DHS may withhold information provided in comments from public 
+viewing that it determines is offensive. For additional information, 
+please read the ``Privacy and Security Notice,'' via the link in the 
+footer of http://www.regulations.gov. DHS will consider all comments 
+and materials received during the comment period and may change this 
+rule based on your comments.
+
+B. Viewing Comments and Documents
+
+    To view comments, as well as documents mentioned in this preamble 
+as being available in the docket, go to http://www.regulations.gov and 
+insert ``ICEB-2021-0016'' in the ``Search'' box. Click on the ``Open 
+Docket Folder,'' then click on ``View Comment'' or ``View All'' under 
+the ``Comments'' section of the page. Individuals without internet 
+access can make alternate arrangements for viewing comments and 
+documents related to this rulemaking by contacting the person listed in 
+the FOR FURTHER INFORMATION CONTACT section
+
+[[Page 75892]]
+
+above. You may also sign up for email alerts on the online docket to be 
+notified when comments are posted, or a final rule is published.
+
+C. Privacy Act
+
+    You may consider limiting the amount of personal information that 
+you provide in your voluntary public comment submission because anyone 
+can electronically search comments received in any of DHS's dockets by 
+the name of the individual submitting the comment (or signing the 
+comment, if submitted on behalf of an association, business, labor 
+union, etc.). For additional information, please read the Privacy and 
+Security Notice posted on https://www.regulations.gov.
+
+II. Table of Abbreviations
+
+Abbreviation, Amplification
+
+CFR Code of Federal Regulations
+COVID-19 Coronavirus Disease 2019
+DHS Department of Homeland Security
+DOJ Department of Justice
+DOS Department of State
+DSO Designated School Official
+EBSVERA Enhance Border Security and Visa Entry Reform Act of 2002
+HSPD-2 Homeland Security Presidential Directive-2
+ICE U.S. Immigration and Customs Enforcement
+IIRIRA Illegal Immigration Reform and Immigrant Responsibility Act 
+of 1996
+INA Immigration and Nationality Act
+INS Immigration and Naturalization Service
+OMB Office of Management and Budget
+SEVIS Student and Exchange Visitor Information System
+SEVP Student and Exchange Visitor Program
+USCIS U.S. Citizenship and Immigration Services
+
+III. Background and Purpose
+
+    On March 1, 2003, when the responsibilities of the former 
+Immigration and Naturalization Service (INS) transferred from the 
+Department of Justice (DOJ) to the Department of Homeland Security 
+(DHS) pursuant to the Homeland Security Act of 2002, Public Law 107-
+296, 116 Stat. 2135 (Nov. 25, 2002), the Student and Exchange Visitor 
+Program (SEVP) and the Student and Exchange Visitor Information System 
+(SEVIS) function transferred to DHS. Within DHS, U.S. Immigration and 
+Customs Enforcement (ICE) administers SEVP by ensuring that government 
+agencies have essential information related to nonimmigrant students 
+and exchange visitors to preserve national security. For the sake of 
+simplicity in this preamble, in rules promulgated prior to March 1, 
+2003, any reference to the INS, or ``the Service'' as it was referred 
+to in the past, is referred to as DHS, and any reference to the 
+Attorney General is referred to as the Secretary of Homeland Security 
+(the Secretary).
+
+A. Legal Authority
+
+    Section 102 of the Homeland Security Act of 2002 (Pub. L. 107-296), 
+116 Stat. 2135), 6 U.S.C. 112, section 103(a)(1) and (3) of the 
+Immigration and Nationality Act (INA), and 8 U.S.C. 1103(a)(1), (3), 
+charge the Secretary with the administration and enforcement of 
+immigration and naturalization laws of the United States to include the 
+issuance of regulations. Section 214(a) of the INA, 8 U.S.C. 1184(a), 
+gives the Secretary the authority to prescribe the time and conditions 
+of admission of any noncitizen as a nonimmigrant.
+    The INA established who may be admitted as F, J, or M 
+nonimmigrants. Specifically, section 101(a)(15)(F) of the INA, 8 U.S.C. 
+1101(a)(15)(F), established the F classification for nonimmigrants who 
+wish to enter the United States temporarily and solely for the purpose 
+of pursuing a full course of study at an academic or accredited 
+language training school certified by SEVP, as well as for the spouses 
+and minor children of such noncitizens.
+    Section 101(a)(15)(J) of the INA, 8 U.S.C. 1101(a)(15)(J), 
+established the J classification for nonimmigrants who wish to come to 
+the United States temporarily to participate in exchange visitor 
+programs designated by the Department of State (DOS), as well as for 
+the spouses and minor children of such noncitizens.
+    Section 101(a)(15)(M) of the INA, 8 U.S.C. 1101(a)(15)(M), 
+established the M classification for nonimmigrants who wish to enter 
+the United States temporarily and solely for the purpose of pursuing a 
+full course of study at an established vocational or other recognized 
+nonacademic institution (other than in a language training program) 
+certified by SEVP, as well as for the spouses and minor children of 
+such noncitizens.
+    SEVP collects information related to nonimmigrant students and 
+exchange visitors under various statutory authorities. Section 641 of 
+the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 
+(IIRIRA), Public Law 104-208, 110 Stat. 3009-704 (Sep. 30, 1996) 
+(codified as amended at 8 U.S.C. 1372) authorized the creation of a 
+program to collect current and ongoing information from schools and 
+exchange visitor programs regarding nonimmigrant students and exchange 
+visitors during the course of their stay in the United States, to be 
+collected electronically, where practicable. Section 641(e) of IIRIRA 
+further directed that this information collection system be self-funded 
+by the nonimmigrant foreign students and exchange visitors. To meet 
+these requirements, DHS promulgated separate rulemakings that 
+established the framework for SEVIS; required mandatory compliance for 
+all schools to use SEVIS for the admission of new F, J, and M 
+nonimmigrant students; \1\ and provided for the collection of a fee to 
+be paid by certain nonimmigrants seeking status as F-1, F-3, M-1, or M-
+3 nonimmigrant students or as J-1 nonimmigrant exchange visitors.\2\ 
+The DOS placed similar mandatory SEVIS compliance requirements on DOS-
+designated Exchange Visitor Program sponsors regarding J 
+nonimmigrants.\3\
+---------------------------------------------------------------------------
+
+    \1\ Retention and Reporting of Information for F, J, and M 
+Nonimmigrants; Student and Exchange Visitor Information System 
+(SEVIS). 67 FR 76256 (Dec. 11, 2002).
+    \2\ Authorizing Collection of the Fee Levied on F, J, and M 
+Nonimmigrant Classifications Under Public Law 104-208; SEVIS. 69 FR 
+39814 (July 1, 2004).
+    \3\ Exchange Visitor Program: SEVIS Regulations. 67 FR 76307 
+(Dec. 12, 2002).
+---------------------------------------------------------------------------
+
+    SEVP is managed in accordance with Homeland Security Presidential 
+Directive-2 (HSPD-2), Combating Terrorism Through Immigration Policies 
+(Oct. 29, 2001), as amended, and section 502 of the Enhanced Border 
+Security and Visa Entry Reform Act of 2002, Public Law 107-173, 116 
+Stat. 543, 563 (May 14, 2002) (EBSVERA). HSPD-2 requires the Secretary 
+to conduct periodic, ongoing reviews of institutions certified to 
+accept F nonimmigrants, and to include checks for compliance with 
+recordkeeping and reporting requirements. EBSVERA directs the Secretary 
+to review the compliance with recordkeeping and reporting requirements 
+under 8 U.S.C. 1101(a)(15)(F) and 1372 of all schools approved for 
+attendance by F students within two years of enactment, and every two 
+years thereafter. These additional requirements have also been 
+promulgated in rulemakings.\4\
+---------------------------------------------------------------------------
+
+    \4\ Allowing Eligible Schools to Apply for Preliminary 
+Enrollment in the Student and Exchange Visitor Information System 
+(SEVIS), 67 FR 44344 (July 1, 2002); Requiring Certification of all 
+Service Approved Schools for Enrollment in the Student and Exchange 
+Visitor Information System (SEVIS), 67 FR 60107 (Sept. 25, 2002); 
+Adjusting Program Fees and Establishing Procedures for Out-of-Cycle 
+Review and Recertification of Schools Certified by the Student and 
+Exchange Visitor Program to Enroll F and/or M Nonimmigrant Students, 
+73 FR 55683 (Sept. 26, 2008).
+---------------------------------------------------------------------------
+
+B. Student and Exchange Visitor Information System
+
+    SEVP uses SEVIS to maintain information about:
+     SEVP-certified schools;
+
+[[Page 75893]]
+
+     F-1 students enrolled in academic programs in the United 
+States (and their F-2 dependents);
+     M-1 students enrolled in vocational programs in the United 
+States (and their M-2 dependents);
+     DOS-designated Exchange Visitor Program sponsors; and
+     J-1 Exchange Visitor Program participants (and their J-2 
+spouses and dependents).
+    SEVIS provides authorized users access to reliable information on 
+F, J, and M nonimmigrants and their dependents. Schools use SEVIS to 
+petition SEVP for certification, which allows the school to offer 
+programs of study to nonimmigrant students. Designated school officials 
+(DSOs) of SEVP-certified schools use SEVIS to:
+     Update school information and apply for recertification of 
+the school for the continued ability to issue Form I-20, Certificate of 
+Eligibility for Nonimmigrant Student Status or successor form, to 
+nonimmigrant students and their dependents;
+     Issue Form I-20 or successor form to specific 
+nonimmigrants to obtain F or M status while enrolled at the school;
+     Fulfill the school's reporting responsibility regarding 
+student addresses, courses of study, enrollment, employment, and 
+compliance with the terms of the student status; and
+     Transfer the student SEVIS records to other institutions.
+    Exchange Visitor programs use SEVIS to petition DOS for designation 
+as a sponsor so they can offer educational and cultural exchange 
+programs to exchange visitors. Responsible officers of designated 
+Exchange Visitor programs use SEVIS to:
+     Update sponsor information and apply for re-designation 
+every two years;
+     Issue Form DS-2019, Certificate of Eligibility for 
+Exchange Visitor (J-1) Status, to specific individuals to obtain J 
+status;
+     Fulfill the sponsor's reporting responsibility regarding 
+exchange visitor addresses, sites of activity, program participation, 
+employment, and compliance with the terms of the J status; and
+     Transfer the exchange visitor SEVIS records to other 
+institutions.
+    Noncitizens must apply to an SEVP-certified school and be accepted 
+for enrollment as a student. SEVP-certified schools enter the 
+prospective student's information into SEVIS and issue a Form I-20 or 
+successor form. The prospective student then presents that endorsed 
+form when applying for an F or M visa with DOS abroad. Similarly, a 
+noncitizen must apply to a DOS-designated Exchange Visitor program and 
+be accepted for enrollment as a basis for applying for a J exchange 
+visitor visa. The Exchange Visitor program enters the prospective 
+exchange visitor's information into SEVIS and issues a Form DS-2019. 
+The prospective exchange visitor then submits that endorsed form when 
+applying for a J visa with DOS abroad.
+    At the time of admission into the United States, U.S. Customs and 
+Border Protection inspection officers will enter information into DHS 
+systems related to the F, J, or M nonimmigrant's admission. These 
+systems interface with SEVIS to provide SEVP with entry information 
+about nonimmigrant students and exchange visitors.
+    After admission and during the nonimmigrant student and exchange 
+visitor's stay in the United States, SEVP-certified schools and 
+Exchange Visitor programs are required to update information about 
+approved F, J, and M nonimmigrants. SEVIS allows schools and Exchange 
+Visitor programs to transmit required information electronically about 
+F, J, and M nonimmigrants throughout the nonimmigrant student and 
+exchange visitor's stay in the United States.
+    SEVIS enables DHS and DOS to monitor and ensure proper 
+recordkeeping and reporting by SEVP-certified schools and Exchange 
+Visitor programs. Further, SEVIS provides a mechanism for nonimmigrant 
+student and exchange visitor status violators to be identified so that 
+appropriate action may be taken (i.e., denial of admission, denial of 
+benefits, or removal from the United States). Prior to January 2003 
+(before the creation of SEVIS), enrollment of nonimmigrant students was 
+an entirely manual and paper-based process, which meant that schools 
+maintained their own paper records about nonimmigrant students that 
+were only produced upon request.
+
+C. Need for Rulemaking
+
+    This rule removes unnecessary procedures and requirements that 
+appear at 8 CFR 214.1, 214.2, 214.3, 214.4, 214.12, and 214.13, 
+governing F, J, and M nonimmigrants since the implementation of SEVIS 
+in 2003. These changes are necessary to eliminate confusion, improve 
+clarity, and remove obsolete procedures and requirements used before 
+the implementation of SEVIS or during the transition to SEVIS. 
+Additionally, this rule removes language requiring original signatures 
+on Form I-17 or successor form and clarifies the regulatory language 
+that implies the requirement for original signatures on Form I-20 or 
+successor form. Further, technical changes are needed to correct 
+typographical errors, update references, and reflect changes resulting 
+from the transfer of responsibilities to DHS from the DOJ (pursuant to 
+the Homeland Security Act of 2002).
+
+IV. Discussion of Changes
+
+A. General Wording, Style, and Other Changes
+
+    This rule makes general wording, capitalization, and style changes. 
+For example, this rule replaces numeric symbols under 10 with the 
+corresponding word; inserts indefinite articles where appropriate; 
+replaces phrases such as ``not pursuing'' with ``no longer pursuing'' 
+and ``full time course of study'' with ``full course of study''; 
+replaces the word ``shall'' with ``will'' or ``must'' as appropriate; 
+and corrects spelling mistakes such as replacing ``United Status'' with 
+``United States.'' Additionally, this rule removes references to 
+``approval'' and its derivatives and replaces them with ``certify'' and 
+its derivatives to connote authorization for schools to enroll foreign 
+students. SEVP previously used both ``certified'' and ``approved'' 
+interchangeably but now seeks to use one consistent term, ``certify'' 
+and its derivatives, to eliminate confusion. Further, this rule updates 
+terminology from the INS to DHS, SEVP, or U.S. Citizenship and 
+Immigration Services (USCIS) as appropriate; Commissioner to Secretary; 
+DHS to SEVP; and district director to SEVP or USCIS, as appropriate. 
+These updates are necessary to reflect the transfer of certain 
+functions and responsibilities of the former INS to DHS. Technical 
+amendments of this nature will apply throughout the sections that are 
+being amended; therefore, the preamble does not specifically address 
+these types of changes in the sections below.
+
+B. Revising References
+
+    DHS is updating the following references:
+     In Sec.  214.1(b)(1), removing the incorrect reference to 
+Sec.  214.2(f)(5)(iii), which addresses duration of status during 
+annual vacation, and replacing it with the correct reference to Sec.  
+214.2(f)(5)(i), which addresses the general requirements of duration of 
+status.
+     In Sec.  214.1(b)(1)-(3), removing the reference to 22 CFR 
+41.125(f) and replacing it with the correct reference to 22 CFR 
+41.112(d), which is the current section that describes automatic 
+extension of visa validity at ports of entry.
+
+[[Page 75894]]
+
+     In Sec.  214.1(h), removing the reference to Sec.  2.1(a) 
+of 8 CFR Title 8 Chapter I, which no longer exists,\5\ and replacing it 
+with the correct reference to Sec.  2.1.
+---------------------------------------------------------------------------
+
+    \5\ Authority of the Secretary of Homeland Security; Delegations 
+of Authority; Immigration Laws, 68 FR 10922 (Mar. 6, 2003).
+---------------------------------------------------------------------------
+
+     In Sec.  214.2(f)(2), removing the incorrect reference to 
+8 CFR 214.3(l)(1)(i) and replacing it with the correct reference to 8 
+CFR 214.3(l)(1), which provides the definition for ``designated 
+official.''
+     In Sec.  214.2(f)(9)(ii)(A), removing the reference to 
+(f)(9)(ii)(B) which is now reserved.\6\
+---------------------------------------------------------------------------
+
+    \6\ See Retention and Reporting of Information for F, J, and M 
+Nonimmigrants; Student and Exchange Visitor Information System 
+(SEVIS), 67 FR 76256, 76270 (Dec. 11, 2002).
+---------------------------------------------------------------------------
+
+     In Sec.  214.2(f)(9)(iii), removing the reference to Sec.  
+103.7(b)(1) and replacing it with 8 CFR 106.2(a)(32), which is the 
+current section that provides the fee for Form I-765.
+     In Sec. Sec.  214.3(a)(1), 214.3(a)(2)(i)-(iv), and 
+214.3(h)(1), removing references to 101(a)(15)(F)(i) and 
+101(a)(15)(M)(i) and replacing it with the correct references to 
+101(a)(15)(F) and 101(a)(15)(M), respectively. These references were 
+erroneous when DHS promulgated this paragraph.
+     In Sec.  214.3(a)(2)(v)(C), correcting the statutory 
+reference to the definition for an adult education program under the 
+Adult Education and Family Literacy Act of 1998, which was amended by 
+Public Law 113-128. DHS notes that the statutory definition for an 
+adult education program has changed from a focus on limiting who can 
+benefit from the program to a new focus on what the program is intended 
+to accomplish, regardless of who benefits. DHS will review the impact 
+of this statutory change and may consider future rulemaking upon 
+completion of this review.
+     In Sec.  214.3(e)(8), removing the reference to 8 CFR 
+214.4(i)(3) and replacing it with 8 CFR 214.4(i)(2), which describes 
+the process for determining the date of SEVIS access termination.
+     In Sec.  214.3(h)(1)(i), removing the reference to 8 CFR 
+106.2 and replacing it with 8 CFR 103.7(d)(2), which is the current 
+paragraph that provides the fee for Form I-17 when filed with SEVP.
+     In Sec.  214.3(l)(1), correcting the cross-references that 
+use the term ``designated official'' in Sec.  214.4.
+     In Sec.  214.4(a)(2), removing references to 8 CFR 
+214.3(h)(3)(v), 101(a)(15)(F)(i), and 101(a)(15)(M)(i) and replacing 
+them with the correct references to 8 CFR 214.3(h)(2)(v), 
+101(a)(15)(F), and 101(a)(15)(M), respectively. These references were 
+erroneous when DHS promulgated this paragraph.
+     In Sec.  214.4(a)(3), removing the erroneous reference to 
+8 CFR 214.3(h)(1), which provides only one part of the certification 
+requirements, and replacing it with 8 CFR 214.3(h), which provides the 
+entire certification process, including the process for filing a 
+petition, site visits, adjudication, recertification, and denials.
+     In Sec.  214.4(h), removing the reference to 8 CFR 
+103.7(b)(1)(ii)(O) and replacing it with 8 CFR 103.7(d)(15), which is 
+the current paragraph that provides the fee for Form I-290B, Notice of 
+Appeal or Motion, when filed with SEVP.
+     In Sec.  214.13(g)(1)(i), removing the reference to 8 CFR 
+103.7(a)(1) and replacing it with 8 CFR 103.7(d)(8), which is the 
+current section that provides the fee for Form I-901, Fee Remittance 
+for Certain F, J, and M Nonimmigrants.
+
+C. Forms
+
+    DHS is removing all references to obsolete and paper-based versions 
+of nonimmigrant forms that include multiple copies and pages, 
+designated by letter identifiers (i.e., Form I-20A-B, I-20ID, and I-
+20M-N), for retention by the nonimmigrant student or to support 
+administrative processing. Administrative functions related to current 
+information on nonimmigrant students and exchange visitors are 
+performed in SEVIS, which eliminates the need for multiple copies. 
+Further, SEVIS no longer issues separate identifiers for Forms I-20 for 
+F-1 nonimmigrant students (formerly Form I-20A-B) and for M-1 
+nonimmigrant students (formerly Form I-20M-N). Nonimmigrant students 
+must still retain a copy of the Form I-20 for travel and employment 
+purposes, but the student copy identifier (i.e., Form I-20ID) is no 
+longer used. All references to copies and pages of forms are removed 
+and references to forms with letter identifiers are replaced with new 
+references to Form I-20.
+    In Sec.  214.3(a)(1)(ii) and 214.3(h)(2)(i), DHS is removing all 
+references to obsolete and paper-based versions of supplements for Form 
+I-17 designated by letter identifiers (i.e., supplements A and B). In 
+2014, Form I-17 was updated and the information listed in supplements A 
+and B was consolidated into the current Form I-17. Thus, supplements A 
+and B no longer exist and references to these supplements are removed 
+from Sec.  214.3(a)(1)(ii) and 214.3(h)(2)(i).
+    In Sec.  214.1(b)(2)(iv), DHS is removing references to Form IAP-
+66, Certificate of Eligibility, and replacing it with Form DS-2019, 
+which is the most current DOS form for the J-1 Exchange Visitor 
+program.
+
+D. Administrative Procedures
+
+    In Sec.  214.1(b)(2)(iv), DHS is removing language that non-DHS 
+forms must be endorsed by the INS and replacing it with language that 
+the forms be properly endorsed. This language provides the flexibility 
+required to ensure forms are endorsed by the proper individuals, 
+including those external to DHS. For example, Form DS-2019 requires 
+signature by the responsible officer or alternate responsible officer 
+approved by the DOS.
+    In Sec.  214.2(f)(1)(ii)(D) and (m)(1)(ii), DHS is removing 
+references to administrative procedures requiring inspecting officers 
+at ports of entry to forward Form I-20 to a centralized data-entry 
+location. These procedures were eliminated with the implementation of 
+SEVIS.
+    In Sec.  214.2(f) and (m), DHS is removing all references to 
+administrative procedures directing DSOs and Exchange Visitor program 
+responsible officers to submit reports to DHS on nonimmigrant status by 
+mail to data-entry locations. These procedures were eliminated with the 
+implementation of SEVIS, and references to Form I-538, Certification by 
+Designated School, which supported paper-based reporting procedures, 
+are also now obsolete because reporting is now done in SEVIS.
+    In Sec.  214.2(f) and (m), DHS is removing all references to 
+submission of employment, internship, and extension-related 
+applications to Service Centers that have jurisdiction over an 
+applicant's residence or to a school that the student is authorized to 
+attend. DHS is also removing language that specifies the manner in 
+which a submission is made (i.e., by mail) to a Service Center. 
+Previously, USCIS Service Centers were responsible for applications 
+received within a certain geographic region; however, today the 
+instructions for each form dictate to which USCIS Service Center 
+submissions should be sent. To eliminate any confusion and provide 
+flexibility with regard to any future changes in how USCIS Service 
+Centers operate or how submissions are made (e.g., mail, electronic), 
+DHS is removing this specific language.
+    In Sec.  214.4(a)(2)(viii), DHS is removing the reference to the 
+submission of paper copies of the Form I-17 to SEVP to align with 
+current practice. Form I-17 or successor form must now be submitted 
+electronically in SEVIS.
+
+[[Page 75895]]
+
+E. Original Signatures
+
+    In Sec.  214.3, DHS is removing references to original signatures 
+and sample signatures for the Form I-17 or successor form to allow 
+greater flexibility to adopt electronic signatures. Currently, DSOs 
+input information required for the Form I-17 in SEVIS, which then 
+generates Forms I-17 that schools print to obtain the required 
+signatures. Once original signatures are obtained, DSOs scan and 
+electronically submit the Form I-17 via upload in SEVIS. Although DSOs 
+are obtaining original signatures on the Form I-17, what is submitted 
+in SEVIS is a digitally reproduced copy of an original signature. Also, 
+DHS is allowing DSOs to use electronic signature software to sign Form 
+I-17.\7\ This change will align with practices allowed during the 
+Coronavirus Disease 2019 (COVID-19) pandemic and enable the use of 
+electronic signatures. Further, this change will reduce the burden on 
+DSOs of having to obtain an original signature from other DSOs, as well 
+as other school officials (e.g., president, owner, head of the school) 
+located on different campuses, which may require the transportation of 
+the Form I-17 through various physical means (e.g., mail, courier) to 
+collect the required signatures.
+---------------------------------------------------------------------------
+
+    \7\ ICE Frequently Asked Questions for SEVP Stakeholders about 
+COVID-19, https://www.ice.gov/doclib/coronavirus/covid19faq.pdf 
+(last visited July 2021).
+---------------------------------------------------------------------------
+
+    Similarly, DHS is removing the terms ``original'' and ``print'' 
+when referencing Form I-20 in Sec.  214.2(f) and (m). Unlike the 
+regulatory text for Form I-17, which specifically required an original 
+signature, the regulatory text for Form I-20 uses the phrase ``properly 
+endorsed'' and never specifically required an original signature. 
+However, the regulation alluded to this requirement by referring to the 
+student's original Form I-20; the presentation of an original Form I-20 
+for the admission of a spouse and minor children of an F-1 or M-1 
+student into the United States; and requirements that the DSO print the 
+Form I-20 when providing a recommendation or approval for practical 
+training. The term ``original'' could refer to the first Form I-20 
+properly endorsed for a student, and not necessarily refer to the 
+requirement of an original signature. Furthermore, the reference to 
+``printing'' could refer to printing Form I-20 after it has been 
+properly endorsed using electronic means. As a result of this 
+ambiguity, DHS believes these changes are necessary to clarify that the 
+regulations do not require an original signature for Form I-20 or 
+successor form and that schools may instead use electronic means to 
+sign and transmit the Form I-20 or successor form to continuing and 
+prospective nonimmigrant students.\8\ DHS will continue to rely on 
+guidance and policy to address signature requirements for Form I-20 or 
+successor form.
+---------------------------------------------------------------------------
+
+    \8\ See SEVP Policy Guidance--Use of Electronic Signatures and 
+Transmission for the Form I-20, Oct. 12, 2021, https://www.ice.gov/doclib/sevis/pdf/I20-guidance.pdf (last visited December 2021).
+---------------------------------------------------------------------------
+
+F. Middle Schools and Parochial Schools
+
+    In Sec.  214.3, DHS is clarifying that references to private 
+elementary and secondary schools are inclusive of private middle 
+schools. DHS's regulations under 8 CFR part 214 have not been 
+consistent with the use of ``private middle school.'' For example, 
+Sec.  214.2(f)(6)(i)(E) specifies that a full course of study includes 
+``[s]tudy in a curriculum at an approved private elementary or middle 
+school or public or private academic high school . . .''; however, 
+Sec.  214.3(a)(2)(i)(E) and (F) only refer to an academic high school 
+and private elementary school, respectively. Historically, DHS has 
+interpreted elementary schools (both public and private) to include 
+grades kindergarten through eight, while secondary schools (both public 
+and private) include grades nine through 12; however, to eliminate any 
+confusion from the public, DHS is adding ``middle'' to various 
+paragraphs in Sec. Sec.  214.3(a), (b), (c) and 214.13(a) when 
+referencing private elementary and secondary schools. DHS is also 
+removing the term ``parochial'' in Sec.  214.3(b) when referring to 
+private elementary, middle, or secondary schools to eliminate any 
+confusion that parochial schools are distinct from private schools.
+
+G. Licensed Medical Professionals
+
+    DHS is revising language to Sec. Sec.  214.2(f)(6)(iii)(B) and 
+214.2(m)(9)(vi) to clarify that a psychiatrist or licensed psychologist 
+is qualified to provide documentation to substantiate a nonimmigrant 
+student's illness or medical condition for the purposes of obtaining 
+authorization for a reduced course load. These sections currently 
+require documentation from ``a licensed medical doctor, doctor of 
+osteopathy, or licensed clinical psychologist'' \9\ to enable a DSO to 
+authorize a ``reduced course load (or, if necessary, no course load)'' 
+\10\ for F-1 nonimmigrant students or ``less than full course of 
+study'' \11\ for M-1 nonimmigrant students. DHS believes the current 
+regulatory text in these paragraphs covers licensed psychologists, 
+however, the current text could be interpreted to limit acceptable 
+documentation for the DSO to consider due to a state's licensing 
+practices. For example, the requirement for a licensed clinical 
+psychologist poses significant challenges for a nonimmigrant student 
+who resides in a state where the licensing board does not have a 
+clinical psychologist designation.\12\ A nonimmigrant student residing 
+in such a state would be unable to obtain medical documentation if 
+solely relying on a licensed psychologist to substantiate an illness or 
+medical condition and thus might not receive a reduced course load. 
+This revision would provide clarity to a student residing in such a 
+state that they may obtain medical documentation from a psychiatrist or 
+licensed psychologist. DHS believes this revision will lessen the 
+burden on eligible nonimmigrant students by clarifying that DSOs may 
+consider documentation from either a psychiatrist or a licensed 
+psychologist.
+---------------------------------------------------------------------------
+
+    \9\ 8 CFR 214.2(f)(6)(iii)(B) and 8 CFR 214.2(m)(9)(vi).
+    \10\ 8 CFR 214.2(f)(6)(iii)(B).
+    \11\ 8 CFR 214.2(m)(9)(vi).
+    \12\ Florida Board of Psychology, Licensing and Registration, 
+https://floridaspsychology.gov/licensing/ (last visited August 
+2021).
+---------------------------------------------------------------------------
+
+H. Obsolete Language
+
+    In Sec.  214.2(f) and (m), DHS is removing all language pertaining 
+to the use of non-SEVIS forms that have not been valid since August 1, 
+2003. During the transition to SEVIS, nonimmigrant students and their 
+dependents seeking admission to the United States prior to August 1, 
+2003, could present a non-SEVIS Form I-20 issued prior to January 30, 
+2003. This temporary exception expired on August 1, 2003, and all SEVP-
+certified schools are required to use SEVIS to issue Form I-20; any 
+Form I-20 not generated by SEVIS is invalid. Similarly, all references 
+to SEVIS that precede a reference to Form I-20 (i.e., SEVIS Form I-20) 
+are removed, because they are redundant.
+    In Sec.  214.2, DHS is removing all references to the distinction 
+between SEVIS and non-SEVIS schools for purposes of transferring 
+nonimmigrant records between SEVP-certified or DOS-designated sponsors 
+and unauthorized institutions or programs, requesting authorization for 
+employment or training, reinstating student status, and maintaining 
+current name and address. These procedures were allowed during the 
+transition to SEVIS but are no longer accepted, since all SEVP-
+certified schools are required to use SEVIS to
+
+[[Page 75896]]
+
+issue Form I-20 or successor form and comply with its recordkeeping and 
+reporting requirements. Additional non-substantive changes are being 
+made for brevity and clarity as a result of removing and revising 
+paragraphs to remove this obsolete language.
+    DHS is removing Sec.  214.3(h)(2)(vi), which allowed for an 
+adjustment of the certification expiration date for the first cycle of 
+recertification until after DHS promulgated regulations that 
+established procedures for the oversight and recertification of schools 
+for attendance by F or M nonimmigrant students. Those regulations were 
+promulgated on September 26, 2008 to provide extra time for the 
+transition.\13\ Specifically, schools eligible for recertification 
+before March 25, 2009, at a minimum, had their expiration date extended 
+to March 25, 2009. All schools have completed the first cycle of 
+recertification; therefore, this language is obsolete.
+---------------------------------------------------------------------------
+
+    \13\ Adjusting Program Fees and Establishing Procedures for Out-
+of-Cycle Review and Recertification of Schools Certified by the 
+Student and Exchange Visitor Program to Enroll F and/or M 
+Nonimmigrant Students, 73 FR 55683 (Sept. 26, 2008).
+---------------------------------------------------------------------------
+
+    DHS is removing Sec.  214.4(a)(4). This paragraph was added during 
+the transition to SEVIS, encouraging schools to submit an electronic 
+Form I-17 no less than 75 days prior to the SEVIS mandatory compliance 
+deadline to allow time for adjudication by DHS and stating that a 
+school's approval would be automatically withdrawn as of the day 
+following the SEVIS mandatory compliance date.\14\ The SEVIS mandatory 
+compliance date was February 15, 2003; \15\ thus, the language in this 
+paragraph is obsolete.
+---------------------------------------------------------------------------
+
+    \14\ Requiring Certification of all Service Approved Schools for 
+Enrollment in the Student and Exchange Visitor Information System 
+(SEVIS), 67 FR 60107, 60108 (Sept. 25, 2002); Adjusting Program Fees 
+and Establishing Procedures for Out-of-Cycle Review and 
+Recertification of Schools Certified by the Student and Exchange 
+Visitor Program to Enroll F and/or M Nonimmigrant Students, 73 FR 
+55683, 55702 (Sept. 26, 2008) (redesignated 8 CFR 214.4(a)(3) as 8 
+CFR 214.4(a)(4)).
+    \15\ U.S. DOJ OIG Report, Follow-up Review on the Immigration 
+and Naturalization Service's Efforts to Track Foreign Students in 
+the United States through the Student and Exchange Visitor 
+Information System, Report No. I-2003-003, March 2003, https://oig.justice.gov/reports/INS/e0303/background.htm (last visited July 
+2021).
+---------------------------------------------------------------------------
+
+    DHS is removing and reserving Sec.  214.12, Preliminary enrollment 
+of schools in SEVIS, because the information is obsolete. DHS allowed 
+eligible schools to apply for preliminary enrollment in SEVIS beginning 
+July 1, 2002, until the later of August 16, 2002, or the date DHS began 
+the SEVIS full-scale certification process.\16\ On September 25, 2002, 
+DHS published a rule implementing the full-scale certification process 
+that required all schools not already approved to use SEVIS, including 
+a school that would have been eligible for preliminary enrollment under 
+Sec.  214.2, to undergo the full certification process, thus closing 
+the preliminary enrollment period.\17\ Further, schools that were 
+granted preliminary enrollment in SEVIS pursuant to Sec.  214.12 were 
+required to apply for certification and pay the certification fee prior 
+to May 14, 2004. Neither DHS nor schools rely on this section for 
+purposes of current SEVIS enrollment.
+---------------------------------------------------------------------------
+
+    \16\ Allowing Eligible Schools to Apply for Preliminary 
+Enrollment in the Student and Exchange Visitor Information System 
+(SEVIS), 67 FR 44344 (July 1, 2002).
+    \17\ Requiring Certification of all Service Approved Schools for 
+Enrollment in the Student and Exchange Visitor Information System 
+(SEVIS), 67 FR 60107, 60108 (Sept. 25, 2002).
+---------------------------------------------------------------------------
+
+    DHS is removing paragraph Sec.  214.13(b)(3), which provided an 
+exception to the fee requirement for nonimmigrant students or exchange 
+visitors whose Form I-20 or Form DS-2019 for initial attendance was 
+issued on or before August 31, 2004. As of September 1, 2004, potential 
+nonimmigrants who are seeking status as F-1, F-3, M-1, or M-3 students 
+or as J-1 exchange visitors are required to pay a fee.\18\ SEVP has 
+determined that it would not be possible for any student to travel with 
+a Form I-20 issued on or before August 31, 2004, at this time as there 
+would be significant changes to the information on the form that would 
+require a new form to be printed. Therefore, DHS is removing this 
+paragraph because the exception it provides is no longer relevant.
+---------------------------------------------------------------------------
+
+    \18\ Authorizing Collection of the Fee Levied on F, J, and M 
+Nonimmigrant Classifications Under Public Law 104-208; SEVIS, 69 FR 
+39814 (July 1, 2004).
+---------------------------------------------------------------------------
+
+I. Clarifying and Organizational Revisions
+
+    DHS is adding language to the introductory paragraph in Sec.  
+214.2(m)(9) to mirror the language in Sec.  214.2(f)(6)(i). Section 
+214.2(f)(6)(i) provides the general introductory requirements for a 
+full course of study for F-1 nonimmigrant students--a course of study 
+at an SEVP-certified institution that leads to the attainment of a 
+specific educational or professional objective--and further specifies 
+additional requirements in the subsequent subparagraphs (i.e., Sec.  
+214.2(f)(6)(i)(A) through (H)). Similarly, Sec.  214.2(m)(9) follows 
+the same format by providing the general introductory requirements for 
+a full course of study for M-1 nonimmigrant students--a course of study 
+that leads to the attainment of a specific educational or vocational 
+objective--and further specifies additional requirements in the 
+subsequent subparagraphs (i.e., Sec.  214.2(m)(9)(i) through (iv)). DHS 
+is adding language to Sec.  214.2(m)(9) to reiterate that a course of 
+study at a non-SEVP-certified institution does not satisfy the full 
+course of study requirements. The addition of this language does not 
+add any new requirements; rather it reiterates a requirement that is 
+ubiquitous in this section and maintains consistency with Sec.  
+214.2(f)(6)(i).
+    DHS is revising Sec.  214.3(a)(3)(ii) by adding the word ``and'' to 
+connect paragraphs (a)(3)(ii)(A) and (a)(3)(ii)(B). This was an 
+inadvertent omission when this paragraph was promulgated and does not 
+change how this paragraph has been applied or understood by schools.
+    DHS is revising Sec.  214.3(b) and (c) to break up the paragraphs 
+into multiple subparagraphs organized by topic (e.g., licensure, 
+approval, and accreditation documents; school operations information) 
+and type of school (e.g., public schools; private elementary, middle, 
+and secondary schools; and private institutions of higher learning) and 
+removing redundant and superfluous language. The changes add clarity 
+and brevity but no new requirements.
+    In Sec.  214.3(e)(8) and 214.4(i)(2), DHS is removing the word 
+``initial'' for clarity. This paragraph refers to notice of SEVIS 
+access termination in general and is not limited to a termination 
+resulting from an initial denial or withdrawal of a school's 
+certification. The removal does not change how this paragraph has been 
+applied or understood by schools.
+    In Sec.  214.4(a)(3)(iii), DHS is revising the first and third 
+sentences for brevity and clarity. In the first sentence, DHS is 
+restructuring the sentence to clarify that automatic withdrawal under 
+this section can occur for two reasons--failure to update a change of 
+ownership in accordance with 8 CFR 214.3(h)(1) or properly file a new 
+petition. In the third sentence, DHS is adding language to reiterate 
+that failure to file a new petition within the allowable 60-day 
+timeframe will result in SEVP instituting withdrawal proceedings. Both 
+adjustments to the existing language are for clarity and add no new 
+requirements.
+    In Sec.  214.4(h), DHS is removing the phrase ``of the approval'' 
+in the second sentence because it is superfluous. Section 214.4 is 
+titled ``Denial of certification, denial of recertification, or
+
+[[Page 75897]]
+
+withdrawal of SEVP certification,'' and the regulatory text within this 
+section addresses the aftermath of a denial or withdrawal of 
+certification or recertification. Specifically, Sec.  214.4(h) 
+addresses the ability of a school to appeal a denial or withdrawal. DHS 
+believes the phrase ``of the approval'' is unnecessary as it is evident 
+by the section heading and the regulatory text that an appeal is 
+referring to the denial of a certification or recertification or 
+withdrawal of a certification. Further, this change is consistent with 
+the first sentence of this paragraph, which does not use the phrase 
+``of the approval'' when referring to a denial or withdrawal. The 
+change does not alter how this paragraph has been applied or understood 
+by schools.
+
+V. Statutory and Regulatory Requirements
+
+    DHS developed this rule after considering numerous statutes and 
+executive orders related to rulemaking. The below sections summarize 
+the analyses based on a number of these statutes or executive orders.
+
+A. Administrative Procedure Act: Good Cause Exception
+
+    An agency may forgo notice and comment required under the 
+Administrative Procedure Act (APA), 5 U.S.C. 553(b)(B), if the agency 
+for good cause finds that compliance would be impracticable, 
+unnecessary, or contrary to the public interest.
+    Notice and comment is unnecessary when agencies make minor or 
+technical determinations involving little to no agency discretion. See 
+Mack Trucks, Inc. v. EPA., 682 F.3d 87, 94 (D.C. Cir. 2012) (``This 
+prong of the good cause inquiry is `confined to those situations in 
+which the administrative rule is a routine determination, insignificant 
+in nature and impact, and inconsequential to the industry and to the 
+public.''') (quoting Util. Solid Waste Activities Grp. v. EPA, 236 F.3d 
+749, 755 (D.C. Cir. 2001)). An agency may also bypass the APA's 30-day 
+publication requirement if good cause exists. 5 U.S.C. 553(d)(3).
+    DHS finds there is good cause under the provisions of 5 U.S.C. 
+553(b)(B) to publish this rule without delay. The rule does not change 
+the eligibility requirements governing any immigration benefit, nor 
+will not confer rights or obligations on any party. It involves no 
+discretionary actions by SEVP, introduces no substantive changes, does 
+not raise existing costs, and places no additional burden on F, J, and 
+M nonimmigrants, or on sponsoring academic institutions and programs 
+(those members of the public directly impacted by SEVIS). This rule 
+improves regulatory clarity by updating form names, removing outdated 
+information and references to unnecessary or obsolete procedures and 
+requirements, and correcting typographical errors. For these reasons, 
+there is sufficient good cause under 5 U.S.C. 553(d)(3) to bypass 
+public comment and the 30-day publication requirement.
+    This rule will be effective upon publication in the Federal 
+Register. As noted above, this interim final rule will have a 30-day 
+comment period that will allow F, J, and M nonimmigrants and sponsoring 
+academic institutions and programs the opportunity to provide their 
+input on the rule. DHS provided a full explanation of each change in 
+the preamble of this Rule and believes all these changes are technical 
+and non-substantive in nature. However, DHS will take those comments 
+into consideration when deciding whether any modifications to this rule 
+are warranted.
+
+B. Executive Orders 12866 and 13563
+
+    Executive Orders 12866 (``Regulatory Planning and Review'') and 
+13563 (``Improving Regulation and Regulatory Review'') direct agencies 
+to assess the costs and benefits of available regulatory alternatives 
+and, if regulation is necessary, to select regulatory approaches that 
+maximize net benefits (including potential economic, environmental, 
+public health, and safety effects, distributive impacts, and equity). 
+Executive Order 13563 emphasizes the importance of quantifying both 
+costs and benefits, reducing costs, harmonizing rules, and promoting 
+flexibility.
+    This rulemaking has not been designated a ``significant regulatory 
+action'' under section 3(f) of Executive Order 12866. Accordingly, the 
+rule has not been reviewed by the Office of Management and Budget 
+(OMB).
+    This rule removes unnecessary procedures and requirements in 8 CFR 
+214.1, 214.2, 214.3, 214.4, 214.12, and 214.13 that govern F, J, and M 
+nonimmigrants. These changes are necessary to improve clarity and 
+remove obsolete or unnecessary information that no longer applies since 
+the implementation of SEVIS. This rulemaking introduces no substantive 
+changes; does not raise existing costs; and places no additional burden 
+on F, J, and M nonimmigrants or their sponsoring academic institutions 
+and programs.
+Summary of the Analysis
+    DHS estimates that the interim final rule will have no costs and 
+will result in quantifiable cost savings and additional unquantifiable 
+benefits. As shown in Table 1, DHS estimates the interim final rule 
+will have a 10-year annualized monetized cost savings of $22,881 in 
+2021 dollars (for both 3 and 7 percent discount rates) and unquantified 
+benefits with regard to convenience, time savings, and improvements to 
+the environment from reduced paper use. It will also have minor, 
+qualitative costs on F and M nonimmigrant students associated with 
+printing documents. Table 1 summarizes the findings of this regulatory 
+impact analysis.
+
+       Table 1--OMB Circular A-4 Accounting Statement 2021 Dollars
+------------------------------------------------------------------------
+           Category                    Impact               Source
+------------------------------------------------------------------------
+                                Benefits
+------------------------------------------------------------------------
+Annualized Monetized Benefits
+ ($ Million):
+    (3%).....................  $0.02................  RIA.
+    (7%).....................  $0.02................  RIA.
+Annualized Quantified, but
+ Unmonetized, Benefits.
+Unquantified Benefits........  Convenience and time   RIA.
+                                savings in signature
+                                collection.
+                               Reduced Paper Use....
+------------------------------------------------------------------------
+                                  Costs
+------------------------------------------------------------------------
+Annualized Monetized Costs ($
+ Million):
+    (3%).....................  No Cost..............  RIA.
+    (7%).....................  No Cost..............  RIA.
+
+[[Page 75898]]
+
+ 
+Annualized Quantified, but     No Cost..............  RIA.
+ Unmonetized, Costs.
+------------------------------------------------------------------------
+                                Transfers
+------------------------------------------------------------------------
+Annualized Monetized
+ Transfers.
+From Whom to Whom.
+------------------------------------------------------------------------
+                             Other Analyses
+------------------------------------------------------------------------
+Effects on State, Local, and/  No Impact............  IFR.
+ or Tribal Governments.
+Effects on Small Business....  No Impact............  IFR.
+Effects on Wages.
+Effects on Growth.
+------------------------------------------------------------------------
+
+Baseline
+    This section details the regulatory baseline for this interim final 
+rule. Table 2 below provides a summary of the anticipated changes to 
+baseline conditions.
+
+                                Table 2--Baseline Analysis of Interim Final Rule
+----------------------------------------------------------------------------------------------------------------
+                                                                                               Benefit impact to
+            Provision                Description of        Affected         Cost impact to          affected
+                                         change           population      affected population      population
+----------------------------------------------------------------------------------------------------------------
+Original Signatures for Form I-17  Removing original  SEVP-certified     None................  Cost savings for
+                                    signature          schools.                                 schools in
+                                    requirement to                                              reducing the
+                                    allow for                                                   time needed for
+                                    greater freedom                                             school officials
+                                    in adopting                                                 to physically
+                                    electronic                                                  sign forms for
+                                    signature and                                               electronic
+                                    transmission of                                             filing.
+                                    documents.
+All Other Technical Revisions....  Changing the       School officials,  None................  The benefit of
+                                    wording in the     students, and                            the rule's
+                                    rule to promote    others who need                          greater clarity,
+                                    clarity and        to understand                            accuracy, and
+                                    consistency,       and follow the                           currency and the
+                                    remove obsolete    requirements of                          promotion of an
+                                    language, and      the rule,                                overall better
+                                    codify             including legal                          understanding of
+                                    procedures and     practitioners                            the rule.
+                                    practices.         and school
+                                                       administrators.
+----------------------------------------------------------------------------------------------------------------
+
+    The baseline is the state-of-the-world prior to the COVID-19 
+pandemic, in which all signatures on Form I-17 documents were required 
+to be original, rather than electronic. It also includes all of the 
+previous wording in SEVP regulations that would remain unchanged if the 
+rule does not take effect.
+Analytical Considerations and Assumptions
+    SEVP certifies qualifying schools and grants them access to SEVIS. 
+DSOs at these SEVP-certified schools are their primary respondents. As 
+employees of SEVP-certified schools, DSOs collect and enter the 
+required information directly into SEVIS. That data is used to populate 
+Form I-17 and Form I-20. DSOs carry nearly all of their school's 
+reporting burden.
+    This rule will remove obsolete procedures and requirements and 
+clarify regulatory language associated with SEVP. The only quantifiable 
+economic impact will result from DHS allowing electronic signatures to 
+replace original signatures on Form I-17 documents, which DSOs must 
+prepare and send electronically to ICE. This change has been in place 
+since 2020, as a result of the COVID-19 allowances that DHS 
+implemented. However, prior to those allowances, DSOs were required to 
+prepare their own paper copies of the Form I-17 documents, with the 
+original signatures of each DSO who was required to sign the form, as 
+well as the president, owner, or head of the school. Furthermore, many 
+of those original signatures on any given Form I-17 document had to be 
+made on the same piece of paper (on any pages in the document having 
+space for more than one signature), thus requiring that piece of paper 
+to be physically delivered to each individual who needed to sign their 
+name on the same page. Within the same school, the DSOs who need to 
+sign the same page of the Form I-17 may be located in different 
+buildings on the same campus, or even on different campuses for schools 
+with more than one campus location. Consequently, the signing of the 
+Form I-17 often required the transport of the same paper document among 
+individuals in different locations and required coordination among them 
+and other school officials to complete the process.
+    During the pandemic, DHS has allowed DSOs to use electronic 
+signature software to sign Form I-17, rather than requiring original 
+signatures. This has enabled DSOs to electronically sign the form 
+rather than signing a paper document that must be circulated among the 
+various school officials. DSOs can also generate completed Form I-17 
+documents electronically, without needing to scan the signed paper 
+documents before sending them electronically to ICE. In this rule, DHS 
+is allowing these cost savings and conveniences to continue permanently 
+after the pandemic is sufficiently mitigated and the COVID-19-related 
+flexibilities are no longer in effect.
+    The other changes proposed in the rule are changes in wording that 
+have largely become obsolete and irrelevant, such as references to 
+``INS'' or references to procedures that are no longer implemented. 
+These revisions will improve the clarity, accuracy, and currency of the 
+rule for school officials,
+
+[[Page 75899]]
+
+students and others who need to read and understand these regulations.
+Analytical Considerations
+    In accordance with the regulatory analysis guidance articulated in 
+OMB's Circular A-4, this regulatory analysis focuses on the likely 
+consequences of the interim final rule relative to what would happen in 
+its absence. DHS expresses all quantifiable impacts in 2021 dollars and 
+uses discount rates of 3 and 7 percent, pursuant to Circular A-4.
+    DHS divided the analysis into two general categories: (1) the 
+effects of DHS allowing Form I-17 documents to be signed and 
+transmitted electronically after the COVID-19-related allowances no 
+longer apply; and (2) the effects of revisions in language, references, 
+and stated procedures to improve the accuracy and clarity of SEVP-
+related regulations and to codify practices that have already been 
+adopted. Of these two areas of the analysis, DHS determined that only 
+the first (involving electronic signing and transmission of Form I-17) 
+is amenable to quantitative analysis and to the estimation of benefits 
+and costs. DHS determined that the second area (textual changes to 
+improve clarity and understanding of the regulations) is not amenable 
+to quantitative measures. DHS made this determination based on the many 
+ambiguities that would exist in any efforts to define and measure such 
+concepts as ``clarity,'' or to define and measure the extent to which 
+individuals would benefit from such improvements in clarity (such as in 
+time savings or levels of comprehension). Nevertheless, DHS determined 
+that qualitative descriptions of this second area would be sufficient 
+to justify the changes.
+    Although DHS determined that the electronic signing and 
+transmission of the Form I-17 documents can be quantitatively analyzed, 
+DHS also recognized that a key analytical question facing such an 
+analysis is which base year, or benchmark year, DHS should use. 
+Although data are currently available for the numbers of F and M 
+nonimmigrant students registered in SEVIS in 2020 and the spring term 
+of 2021, these numbers are historically much smaller than the ones that 
+would be expected for nonimmigrant students in the absence of the 
+COVID-19 pandemic. SEVIS data shows there was a 72 percent decrease in 
+new international student enrollment in calendar year 2020 when 
+compared to calendar year 2019.\19\
+---------------------------------------------------------------------------
+
+    \19\ SEVIS by the Numbers Report, SEVP 2020, https://www.ice.gov/doclib/sevis/pdf/sevisBTN2020.pdf [last accessed July 
+2021].
+---------------------------------------------------------------------------
+
+    The benefits and costs of the interim final rule, however, would be 
+in relation to the expected outcomes when the COVID-19 allowances are 
+no longer in effect since the changes in the rule are only applicable 
+at that time. DHS therefore determined that 2019 is the most 
+representative year for estimating the number of F and M nonimmigrant 
+students who would be affected by the rule, since 2019 was the last 
+year prior to the effects of the pandemic on F and M nonimmigrant 
+student enrollments. Given the degree of uncertainty in predicting F 
+and M nonimmigrant student enrollments in the future, DHS determined 
+that a more in-depth analysis into trends over time in such enrollments 
+would likely not be any more reliable than DHS using the levels in 2019 
+as a baseline.
+    DHS identified one effect of the rule, with regard to electronic 
+signatures for the Form I-17, that could provide an additional benefit. 
+As mentioned previously, one of the advantages of electronic signatures 
+is that paper documents no longer need to physically travel to each 
+person who signs the form. DHS allowance of electronic signatures 
+avoids resources being spent by the school to transport these documents 
+from one place to another for the required school officials to sign 
+them. It also avoids resources being spent to place the documents in 
+envelopes and address them and then for other individuals to open the 
+envelopes and sign the documents.
+    DHS is unable to quantify this potential cost savings. DHS does not 
+have data on how many people on average need to sign the form and how 
+far away they are from each other (such as whether they have offices 
+adjacent to each other or they are at campuses in different cities). 
+Adding to the uncertainty would be whether the transport of these 
+documents occurred along with other documents between the offices, so 
+that no separate delivery was required to transport them individually. 
+The burden of these original signatures would depend on whether school 
+employees needed to take extra time to transport the documents 
+separately from other documents delivered via intra-campus mail. DHS 
+also does not have data on the time needed to produce electronic 
+signatures, which would then need to be subtracted from the time needed 
+to sign the paper documents for DHS to estimate the cost savings of 
+electronic signatures. For example, if the mechanisms for officials to 
+electronically sign documents are easily observed on their computers, 
+it might not take very long to sign. However, if officials must follow 
+complicated procedures on their computer to provide those electronic 
+signatures, then it might take more time to sign.
+Time Horizon for the Analysis
+    DHS estimates the economic effects of this interim final rule will 
+be sustained indefinitely. ICE used a 10-year timeframe (from 2022 
+through 2031) to outline, quantify, and monetize the costs and benefits 
+of the rule, and to demonstrate its net effects.
+
+Affected Population
+
+    This interim final rule affects two types of entities: (1) SEVP-
+certified schools (and the DSOs who work for those SEVP-certified 
+schools), and (2) any individuals and organizations that might benefit 
+from improvements in the way the rule is written, including offices 
+within DHS that interact with the affected SEVP-certified schools, and 
+various U.S.-based and international organizations that may assist or 
+represent F and M nonimmigrant students. In 2019, SEVP-certified 
+schools submitted via SEVIS upload a total of 7,062 distinct Form I-17 
+documents to ICE.
+
+Costs of the Rule
+
+    DHS determined that there are no costs associated with the rule. 
+When considering the cost of the rule, DHS determined that there are no 
+costs for SEVP-certified schools to develop information-technology 
+capabilities to electronically sign and transmit documents. DHS assumes 
+that SEVP-certified schools already have the necessary information 
+technology capabilities in place to electronically sign and transmit 
+the Form I-17 documents.
+
+Cost Savings
+
+    DHS estimated the cost savings to SEVP-certified schools if paper 
+copies and original signatures are no longer needed for the Form I-17 
+documents in accordance with the interim final rule. Table 3 displays 
+these cost savings, estimated at $22,881, in 2021 dollars, per year. 
+This cost-savings estimate is based on 7,062 Form I-17 documents 
+submitted to ICE in 2019. Without the interim rule in place, DSOs would 
+have to provide their original signatures on the Form I-17, as they did 
+before the COVID-19 pandemic. DSOs would then need to scan these 
+documents and send an electronic copy of them to ICE. DHS estimated 
+that each document would require approximately 3 minutes of
+
+[[Page 75900]]
+
+labor to be scanned.\20\ As shown in Table 3, this results in total 
+labor costs of $15,819. DHS estimated the average number of pages per 
+Form I-17 document to be 10 pages, which, at an estimated cost of $0.10 
+per page for paper and printing, contributes to an additional cost 
+savings of $7,062.
+---------------------------------------------------------------------------
+
+    \20\ See ARX, ROI Calculation for Digital Signatures, page 4 
+(May 2010).http://hosteddocs.ittoolbox.com/digitalsignaturesroiwhitepaperover100.pdf.
+
+ Table 3--Cost Savings From Original Signatures Not Required for Form I-
+                                   17
+                               [In 2021 $]
+------------------------------------------------------------------------
+         Factor in the analysis              Measures      Costs savings
+------------------------------------------------------------------------
+A. Number of Forms I-17 Scanned in 2019.           7,062  ..............
+B. Number of Minutes to Scan Each                      3  ..............
+ Document...............................
+C. Hourly Labor Rate for DSO \21\.......          $44.72  ..............
+D. Estimated Labor Cost Per Document               $2.24  ..............
+ Scanned [(B/60)xC].....................
+                                         -------------------------------
+E. Total Labor Costs (AxD)..............  ..............         $15,819
+------------------------------------------------------------------------
+F. Estimated Pages Per Scan.............              10  ..............
+G. Estimated Cost Per Page (for Paper              $0.10  ..............
+ and Printing)..........................
+H. Estimated Paper Costs Per Mailing               $1.00  ..............
+ (HxI)..................................
+                                         -------------------------------
+I. Total Paper Costs (AxH)..............  ..............           7,062
+------------------------------------------------------------------------
+    Total Cost Savings for Not Preparing  ..............          22,881
+     and Scanning the Forms I-17 (E+I)..
+------------------------------------------------------------------------
+
+    Table 4 summarizes the impact of this interim final rule over the 
+10-year period, starting in 2022. The 10-year discounted cost-savings 
+of the rule in 2021 dollars would range from $160,706 to $195,179 (with 
+7 and 3 percent discount rates, respectively).
+---------------------------------------------------------------------------
+
+    \21\ U.S. Bureau of Labor Statistics, Occupational Employment 
+and Wage Statistics: 21-1012 Educational, Guidance, and Career 
+Counselors and Advisors, May 2020. Last accessed March 2021.
+
+                                      Table 4--Total Estimated Cost Savings
+                                                 [2021 Dollars]
+----------------------------------------------------------------------------------------------------------------
+                                                                             Annual cost-        Annual cost-
+                        Year                          Undiscounted cost-  savings discounted  savings discounted
+                                                            savings              at 3%               at 7%
+----------------------------------------------------------------------------------------------------------------
+2022................................................             $22,881             $22,214             $21,384
+2023................................................              22,881              21,567              19,985
+2024................................................              22,881              20,939              18,678
+2025................................................              22,881              20,329              17,456
+2026................................................              22,881              19,737              16,314
+2027................................................              22,881              19,162              15,246
+2028................................................              22,881              18,604              14,249
+2029................................................              22,881              18,062              13,317
+2030................................................              22,881              17,536              12,446
+2031................................................              22,881              17,026              11,631
+                                                     -----------------------------------------------------------
+    Total...........................................             228,809             195,179             160,706
+Annualized..........................................              22,881              22,881              22,881
+----------------------------------------------------------------------------------------------------------------
+
+Qualitative Cost Savings
+
+    As described earlier, the qualitative benefits of the interim rule 
+include benefits to those who may need to understand and follow the 
+regulations, including legal analysts and school officials. 
+Specifically, the technical revisions increase clarity, accuracy, and 
+currency, and promote a better understanding of its effects.
+
+Analysis of Alternatives to the Interim Rule
+
+    Because the interim rule does not pose any costs to the public or 
+to the government, DHS is not able to find any alternative that could 
+have any lower costs. In principle, even when the costs of a new rule 
+are zero, an alternative rule could still be preferable if that rule 
+could offer higher benefits, and thus higher net benefits. However, 
+this too would not be possible in this case, because the benefits of 
+any comparable rule could only be in the same form as the benefits of 
+this interim rule--those benefits being cost savings (for SEVP-
+certified schools). For any alternative to offer greater benefits, it 
+would need to reduce the costs that SEVP-certified schools incur in 
+processing and delivering Form I-17 documents. Because the interim 
+final rule already allows for electronic signatures and submission of 
+the forms by email, there are no less-expensive alternatives to 
+preparing and distributing the forms.
+    DHS considered the no-action alternative for this interim final 
+rule. Table 5 summarizes the effects of this alternative. The no-action 
+alternative would result in continued costs to SEVP-certified schools 
+for original signatures and would maintain obsolete language. As a 
+result, DHS rejected this alternative.
+
+[[Page 75901]]
+
+
+
+                                        Table 5--Summary of Alternatives
+----------------------------------------------------------------------------------------------------------------
+               Action                               Benefits                                Costs
+----------------------------------------------------------------------------------------------------------------
+Take No Action.....................  None.................................  1. Annual costs to SEVP-certified
+                                                                             schools of $22,881 in the
+                                                                             preparation and scanning of Form I-
+                                                                             17 documents (reverting to the pre-
+                                                                             COVID requirement that they have
+                                                                             original signatures).
+                                                                            2. School officials, students and
+                                                                             others who need to understand and
+                                                                             follow requirements governing F and
+                                                                             M nonimmigrant students, will have
+                                                                             greater difficulty due to the
+                                                                             inaccuracy and obsolescence of
+                                                                             certain language in the current
+                                                                             regulatory text.
+----------------------------------------------------------------------------------------------------------------
+
+C. Regulatory Flexibility Act
+
+    The Regulatory Flexibility Act of 1980 (RFA), 5 U.S.C. 601-612, as 
+amended, requires federal agencies to consider the potential impact of 
+regulations on small entities during rulemaking. A regulatory 
+flexibility analysis is not required when a rule is exempt from notice 
+and comment rulemaking. This interim final rule is exempt from the 
+notice and comment rulemaking, as stated in the APA, 5 U.S.C. 551 et 
+seq., section of the preamble. Therefore, a regulatory flexibility 
+analysis is not required for this rule.
+
+D. Small Business Regulatory Enforcement Fairness Act of 1996
+
+    This is not a major rule, as defined by section 804 of the Small 
+Business Regulatory Enforcement Act of 1996. This rule will not result 
+in an annual effect on the United States economy of $100 million or 
+more; a major increase in costs or prices; or significant adverse 
+effects on competition, employment, investment, productivity, 
+innovation, or the ability of United States-based companies to compete 
+with foreign-based companies in domestic and export markets.
+
+E. Executive Order 13132: Federalism
+
+    This rule will not have substantial direct effect on the states, on 
+the relationship between the national government and the states, or on 
+the distribution of power and responsibilities among the various levels 
+of government. Therefore, in accordance with section 6 of Executive 
+Order 13132, it is determined that this rule does not have sufficient 
+federalism implications to warrant the preparation of a federalism 
+summary impact statement.
+
+F. Unfunded Mandates Reform Act of 1995
+
+    This rule will not result in the expenditure by state, local, and 
+tribal governments, in the aggregate, or by the private sector, of $100 
+million (in 1995 dollars) or more in any one year, and it will not 
+significantly or uniquely affect small governments. Therefore, no 
+actions were deemed necessary under the provisions of the Unfunded 
+Mandates Reform Act of 1995.
+
+G. Congressional Review Act
+
+    This interim final rule is not a major rule as defined by 5 U.S.C. 
+804, also known as the ``Congressional Review Act,'' as enacted in 
+section 251 of the Small Business Regulatory Enforcement Fairness Act 
+of 1996, Public Law 104-121, 110 Stat. 847, 868 et seq. This rule will 
+not result in an annual effect on the economy of $100 million or more; 
+a major increase in costs or prices; or significant adverse effects on 
+competition, employment, investment, productivity, innovation, or on 
+the ability of U.S.-based enterprises to compete with foreign-based 
+enterprises in domestic and export markets. See 5 U.S.C. 804(2). If 
+implemented as proposed, DHS will submit to Congress and the 
+Comptroller General of the United States a report about the issuance of 
+the interim final rule prior to its effective date, as required by 5 
+U.S.C. 801(a)(1).
+
+H. Executive Order 12988 Civil Justice Reform
+
+    This rule meets the applicable standards set forth in sections 3(a) 
+and 3(b)(2) of Executive Order 12988.
+
+I. Paperwork Reduction Act
+
+    Under the Paperwork Reduction Act of 1995, Public Law 104-13, all 
+departments are required to submit to OMB, for review and approval, any 
+reporting requirements inherent in a rule. This rule does not impose 
+any new reporting or recordkeeping requirements under the Paperwork 
+Reduction Act.
+
+J. National Environmental Policy Act
+
+    DHS Management Directive (MD) 023-01 Rev. 01 and Instruction Manual 
+(IM) 023-01-001-01 Rev. 01 establish the policy and procedures that DHS 
+and its Components use to comply with the National Environmental Policy 
+Act of 1969 (NEPA), 42 U.S.C. 4321-4375, and the Council on 
+Environmental Quality (CEQ) regulations for implementing NEPA, 40 CFR 
+parts 1500 through 1508.
+    The CEQ regulations enable federal agencies to establish categories 
+of actions that do not individually or cumulatively have a significant 
+effect on the human environment and, therefore, do not require an 
+Environmental Assessment or Environmental Impact Statement. 40 CFR 
+1508.4. The DHS Categorical Exclusions are listed in IM 023-01-001-01 
+Rev. 01, Appendix A, Table 1.
+    For an action to be categorically excluded, the action must satisfy 
+each of the following three conditions:
+    (1) The entire action clearly fits within one or more of the 
+Categorical Exclusions,
+    (2) The action is not a piece of a larger action, and
+    (3) No extraordinary circumstances exist that create the potential 
+for a significant environmental effect. IM 023-01-001-01 Rev. 01 Sec.  
+V(B)(2)(a)-(c).
+    If the action does not clearly meet all three conditions, DHS or 
+the Component prepares an Environmental Assessment or Environmental 
+Impact Statement, according to CEQ requirements, MD 023-01, and IM 023-
+01-001-01 Rev. 01.
+    DHS has analyzed this action under MD 023-01 Rev. 01 and IM 023-01-
+001-01 Rev.01. DHS has made a determination that this rulemaking action 
+is one of a category of actions which do not individually or 
+cumulatively have a significant effect on the human environment. This 
+action clearly fits within the Categorical Exclusion found in IM 023-
+01-001-01 Rev. 01, Appendix A, Table 1, number A3(d): ``Promulgation of 
+rules, issuance of rulings or interpretations, and the development and 
+publication of policies, orders, directives, notices, procedures, 
+manuals, advisory circulars, and other guidance documents of the 
+following nature: (d) Those that interpret or amend an existing 
+regulation without changing its environmental effect.'' This rule is 
+not
+
+[[Page 75902]]
+
+part of a larger action. This rule presents no extraordinary 
+circumstances creating the potential for significant environmental 
+effects. Therefore, more detailed NEPA review is not necessary. DHS 
+seeks any comments or information that may lead to the discovery of any 
+significant environmental effects from this rule.
+
+K. Executive Order 13175: Consultation and Coordination With Indian 
+Tribal Governments
+
+    This interim final rule does not have tribal implications under 
+E.O. 13175, Consultation and Coordination with Indian Tribal 
+Governments, because it would not have a substantial direct effect on 
+one or more Indian tribes, on the relationship between the federal 
+government and Indian tribes, or on the distribution of power and 
+responsibilities between the federal government and Indian tribes.
+
+L. Executive Order 12630: Governmental Actions and Interference With 
+Constitutionally Protected Property Rights
+
+    This interim final rule would not cause a taking of private 
+property or otherwise have taking implications under E.O. 12630, 
+Governmental Actions and Interference with Constitutionally Protected 
+Property Rights.
+
+M. Executive Order 13045: Protection of Children From Environmental 
+Health Risks and Safety Risks
+
+    E.O. 13045, Protection of Children from Environmental Health Risks 
+and Safety Risks, requires agencies to consider the impacts of 
+environmental health risks or safety risks that may disproportionately 
+affect children. DHS has reviewed this interim final rule and 
+determined that this rule is not an economically significant rule and 
+would not create an environmental risk to health or risk to safety that 
+might disproportionately affect children. Therefore, DHS has not 
+prepared a statement under this E.O.
+
+N. National Technology Transfer and Advancement Act
+
+    The National Technology Transfer and Advancement Act of 1995 (15 
+U.S.C. 272 note) directs agencies to use voluntary consensus standards 
+in their regulatory activities unless the agency provides Congress, 
+through the OMB, with an explanation of why using these standards would 
+be inconsistent with applicable law or otherwise impracticable. 
+Voluntary consensus standards are technical standards (e.g., 
+specifications of materials, performance, design, or operation; test 
+methods; sampling procedures; and related management systems practices) 
+that are developed or adopted by voluntary consensus standards bodies. 
+This interim final rule does not use technical standards. Therefore, 
+DHS did not consider the use of voluntary consensus standards.
+
+O. Family Assessment
+
+    DHS has determined that this action would not affect family well-
+being within the meaning of section 654 of the Treasury and General 
+Government Appropriations Act, enacted as part of the Omnibus 
+Consolidated and Emergency Supplemental Appropriations Act of 1999 
+(Pub. L. 105-277, 112 Stat. 2681).
+
+List of Subjects in 8 CFR Part 214
+
+    Administrative practice and procedure, Aliens, Cultural exchange 
+program, Employment, Foreign officials, Health professions, Reporting 
+and recordkeeping requirements, Students.
+
+    Accordingly, the Department of Homeland Security amends part 214 of 
+chapter I of title 8 of the Code of Federal Regulations as follows:
+
+PART 214--NONIMMIGRANT CLASSES
+
+0
+1. The authority citation for part 214 continues to read as follows:
+
+    Authority:  6 U.S.C. 202, 236; 8 U.S.C. 1101, 1102, 1103, 1182, 
+1184, 1186a, 1187, 1221, 1281, 1282, 1301-1305, 1357, and 1372; sec. 
+643, Pub. L. 104-208, 110 Stat. 3009-708; Pub. L. 106-386, 114 Stat. 
+1477-1480; section 141 of the Compacts of Free Association with the 
+Federated States of Micronesia and the Republic of the Marshall 
+Islands, and with the Government of Palau, 48 U.S.C. 1901 note and 
+1931 note, respectively; 48 U.S.C. 1806; 8 CFR part 2; Pub. L. 115-
+218, 132 Stat. 1547 (48 U.S.C. 1086).
+
+
+0
+2. Amend Sec.  214.1 as follows:
+0
+a. In paragraph (b)(1) introductory text, remove the reference to 
+``Sec.  214.2(f)(5)(iii)'' and ``22 CFR 41.125(f)'' and add in their 
+place ``Sec.  214.2(f)(5)(i)'' and ``22 CFR 41.112(d)'', respectively.
+0
+b. In paragraph (b)(1)(iv) introductory text, remove ``Sec.  1.4'' and 
+add in its place ``Sec.  1.4 of this chapter'' and remove the phrase 
+``the alien's Form I-20 ID copy,''.
+0
+c. In paragraph (b)(1)(iv)(A), remove the phrases ``page 4 of Form I-
+20A-B'' and ``Form I-20A'' and add in their place ``Form I-20 or 
+successor form''.
+0
+d. In paragraph (b)(1)(iv)(B), remove the phrases ``Form I-20A-B'' and 
+``Form 1-20A'' and add in their place ``Form I-20 or successor form''.
+0
+e. In paragraph (b)(2) introductory text, remove the reference ``22 CFR 
+41.125(f)'' and add in its place ``22 CFR 41.112(d)''.
+0
+f. In paragraph (b)(2)(iv):
+0
+i. Remove the phrase ``copy three of'';
+0
+ii. Remove ``IAP-66'' and add in its place ``DS-``2019''; and
+0
+iii. Remove the phrase ``endorsed by the Service'' and add in its place 
+``properly endorsed''.
+0
+g. In paragraph (b)(3) introductory text, remove the reference ``22 CFR 
+41.125(f)'' and add in its place ``22 CFR 41.112(d)''.
+0
+h. In paragraph (b)(3)(iv), remove the phrase ``the alien's Form I-20 
+ID copy, and alien's properly endorsed page 4 of Form I-20M-N'' and add 
+in its place ``and the alien's properly endorsed Form I-20 or successor 
+form''.
+0
+i. In paragraph (h), remove ``Sec.  2.1(a)'' and ``the Service'' and 
+add in their place ``Sec.  2.1'' and ``DHS'', respectively.
+0
+3. Amend Sec.  214.2 as follows:
+0
+a. Paragraphs (f)(1)(i)(A) through (C), (f)(1)(ii) and (iii), (f)(2), 
+(3) and (4), (f)(5)(i) and (v), (f)(6)(i) introductory text, 
+(f)(6)(i)(B), (C), (E), and (F), and (f)(6)(iii)(B) are revised.
+0
+b. Paragraph (f)(6)(iii)(D) is removed and reserved.
+0
+c. Paragraphs (f)(6)(iii)(E), (f)(6)(iv), (f)(7), (f)(8)(i) and (ii), 
+(f)(9)(i), (f)(9)(ii)(A) and (D) introductory text, (f)(9)(ii)(F)(1), 
+and (f)(9)(iii), (f)(10) introductory text, and (f)(10)(i) are revised.
+0
+d. In paragraph (f)(13)(i), remove '' his or her Form I-20 ID'' and 
+``which'' and add in their place ``Form I-20 or successor form'' and 
+``that'', respectively.
+0
+e. In paragraph (f)(13)(ii), remove the phrase ``an I-20 ID'' and add 
+in its place ``a Form I-20 or successor form''.
+0
+f. In paragraph (f)(14), remove the phrase ``Commissioner of the 
+Immigration and Naturalization Service or the Commissioner's designee'' 
+and add in its place ``Secretary of Homeland Security or the 
+Secretary's designee''.
+0
+g. In paragraph (f)(15), remove ``shall'' and ``SEVIS Form I-20'' and 
+add in their place ``will'' and ``Form I-20 or successor form'', 
+respectively.
+0
+h. In (f)(16)(i) introductory text, (f)(16)(i)(B), (C), and (F) 
+introductory text, (f)(16)(ii) and (f)(17) are revised.
+0
+i. In paragraphs (f)(18)(i) introductory text and (f)(18)(i)(A), remove 
+the phrase ``an approved'' and add in its place ``a certified''.
+0
+j. In paragraph (f)(18)(ii), remove ``approved'' and add in its place 
+``certified''.
+0
+k. In paragraph (f)(19), remove the phrase ``a Department of Homeland 
+Security (DHS)-approved'' and add in its place ``an SEVP-certified''.
+0
+l. Paragraphs (m)(1)(i)(A) through (C) are revised.
+
+[[Page 75903]]
+
+0
+m. Paragraph (m)(1)(ii) is removed and reserved.
+0
+n. Paragraphs (m)(1)(iii), (m)(2) and (3), (m)(4)(i)(A) and (B), and 
+(m)(4)(ii) are revised.
+0
+o. In paragraph (m)(5), remove ``Form 1-20'', and add in its place 
+``Form 1-20 or successor form'' wherever it appears.
+0
+p. Paragraphs (m)(9) introductory test, (m)(9)(i) and (ii), (m)(9)(vi), 
+(m)(10)(ii) and (iv), (m)(11)(ii), (m)(14)(ii) introductory text, and 
+(m)(14)(iii) through (v) are revised.
+0
+q. In paragraph (m)(15), remove the phrase ``The Service shall'' and 
+add in its place ``USCIS will''.
+0
+r. Paragraphs (m)(16)(i) introductory text, (m)(16)(i)(B), (C), and (F) 
+introductory text, and (m)(16)(ii) are revised.
+0
+s. In paragraph (m)(17) introductory text, remove ``shall'' and ``SEVIS 
+Form I-20'' and add in their place ``will'' and ``Form I-20 or 
+successor form'', respectively.
+0
+t. Paragraphs (m)(18), (m)(19)(i) introductory text, (m)(19)(i)(A), and 
+(m)(19)(ii) are revised.
+0
+u. In paragraph (m)(20), remove the phrase ``a DHS approved'' and ``8 
+CFR 214.13'' and add in their place ``an SEVP-certified'' and ``Sec.  
+214.13'', respectively.
+    The revisions read as follows:
+
+
+Sec.  214.2  Special requirements for admission, extension, and 
+maintenance of status.
+
+* * * * *
+    (f) * * *
+    (1) * * *
+    (i) * * *
+    (A) The student presents a Form I-20 or successor form issued in 
+the student's name by a school certified by the Student and Exchange 
+Visitor Program (SEVP) for attendance by F-1 foreign students;
+    (B) The student has documentary evidence of financial support in 
+the amount indicated on the Form I-20 or successor form;
+    (C) For students seeking initial admission only, the student 
+intends to attend the school specified in the student's visa (or, where 
+the student is exempt from the requirement for a visa, the school 
+indicated on the Form I-20 or successor form); and
+* * * * *
+    (ii) Form I-20 or successor form requirements at the port-of-entry. 
+When an F-1 student applies for admission with a complete Form I-20 or 
+successor form, the inspecting officer will:
+    (A) Transcribe the student's admission number from Form I-94 onto 
+the student's Form I-20 or successor form (for students seeking initial 
+admission only);
+    (B) Endorse the Form I-20 or successor form; and
+    (C) Return the Form I-20 or successor form to the student.
+    (iii) Use of the Student and Exchange Visitor Information System 
+(SEVIS). Schools must issue a Form I-20 or successor form in SEVIS to 
+any current student requiring a reportable action (e.g., extension of 
+stay, practical training, and requests for employment authorization), 
+or to any alien who must obtain a new nonimmigrant student visa.
+    (2) Student maintenance of Form I-20 or successor form. An F-1 
+student is expected to retain for safekeeping the initial Form I-20 or 
+successor form bearing the admission number and any subsequent Form I-
+20 issued to them. Should the student lose their current Form I-20 or 
+successor form, a replacement copy bearing the same information as the 
+lost copy, including any endorsement for employment and notations, 
+should be issued by the designated school official (DSO) as defined in 
+Sec.  214.3(l)(1).
+    (3) Admission of the spouse and minor children of an F-1 student. 
+The spouse and minor children accompanying an F-1 student are eligible 
+for admission in F-2 status if the student is admitted in F-1 status. 
+The spouse and minor children following-to-join an F-1 student are 
+eligible for admission to the United States in F-2 status if they are 
+able to demonstrate that the F-1 student has been admitted and is, or 
+will be within 30 days, enrolled in a full course of study, or engaged 
+in approved practical training following completion of studies. In 
+either case, at the time they seek admission, the eligible spouse and 
+minor children of an F-1 student must individually present a Form I-20 
+or successor form in the name of each F-2 dependent issued by a school 
+certified by SEVP for attendance by F-1 students. A new Form I-20 or 
+successor form is required for a dependent where there has been any 
+substantive change in the F-1 student's current information.
+    (4) Temporary absence. An F-1 student returning to the United 
+States from a temporary absence of five months or less may be 
+readmitted for attendance at an SEVP-certified educational institution, 
+if the student presents:
+    (i) A current Form I-20 or successor form properly endorsed by the 
+DSO for reentry if there has been no substantive change to the most 
+recent Form I-20 or successor form information; or
+    (ii) An updated Form I-20 or successor form if there has been a 
+substantive change in the information on the student's most recent Form 
+I-20 or successor form, such as in the case of a student who has 
+changed the major area of study, who intends to transfer to another 
+SEVP-certified institution, or who has advanced to a higher level of 
+study.
+    (5) * * *
+    (i) General. Duration of status is defined as the time during which 
+an F-1 student is pursuing a full course of study at an educational 
+institution certified by SEVP for attendance by foreign students, or 
+engaging in authorized practical training following completion of 
+studies, except that an F-1 student who is admitted to attend a public 
+high school is restricted to an aggregate of 12 months of study at any 
+public high school(s). An F-1 student may be admitted for a period up 
+to 30 days before the indicated report date or program start date 
+listed on the Form I-20 or successor form. The student is considered to 
+be maintaining status if the student is making normal progress toward 
+completing a course of study.
+* * * * *
+    (v) Emergent circumstances as determined by the Secretary. Where 
+the Secretary has suspended the applicability of any or all of the 
+requirements for on-campus or off-campus employment authorization for 
+specified students pursuant to paragraphs (f)(9)(i) or (ii) of this 
+section by notice in the Federal Register, an affected student who 
+needs to reduce their full course of study as a result of accepting 
+employment authorized by such notice in the Federal Register will be 
+considered to be in status during the authorized employment, subject to 
+any other conditions specified in the notice, provided that, for the 
+duration of the authorized employment, the student is registered for 
+the number of semester or quarter hours of instruction per academic 
+term specified in the notice, which in no event shall be less than six 
+semester or quarter hours of instruction per academic term if the 
+student is at the undergraduate level or less than three semester or 
+quarter hours of instruction per academic term if the student is at the 
+graduate level, and is continuing to make progress toward completing 
+the course of study.
+* * * * *
+    (6) * * *
+    (i) General. Successful completion of the full course of study must 
+lead to the attainment of a specific educational or professional 
+objective. A course of study at an institution not certified for 
+attendance by foreign students as provided in Sec.  214.3(a)(3) does 
+not satisfy the requirement of this paragraph
+
+[[Page 75904]]
+
+(f)(6)(i). A ``full course of study'' as required by section 
+101(a)(15)(F)(i) of the Act means:
+* * * * *
+    (B) Undergraduate study at a college or university, certified by a 
+school official to consist of at least 12 semester or quarter hours of 
+instruction per academic term in those institutions using standard 
+semester, trimester, or quarter hour systems, where all undergraduate 
+students who are enrolled for a minimum of 12 semester or quarter hours 
+are charged full-time tuition or are considered full-time for other 
+administrative purposes, or its equivalent (as determined by SEVP in 
+the school certification process), except when the student needs a 
+lesser course load to complete the course of study during the current 
+term;
+    (C) Study in a postsecondary language, liberal arts, fine arts, or 
+other non-vocational program at a school which confers upon its 
+graduates recognized associate or other degrees or has established that 
+its credits have been and are accepted unconditionally by at least 
+three other institutions of higher learning which are either:
+    (1) A school (or school system) owned and operated as a public 
+educational institution by the United States or a State or political 
+subdivision thereof; or
+    (2) a school accredited by a nationally recognized accrediting 
+body; and which has been certified by a designated school official to 
+consist of at least 12 clock hours of instruction a week, or its 
+equivalent as determined by SEVP in the school certification process;
+* * * * *
+    (E) Study in a curriculum at a certified private elementary or 
+middle school or public or private academic high school which is 
+certified by a designated school official to consist of class 
+attendance for not less than the minimum number of hours a week 
+prescribed by the school for normal progress toward graduation.
+    (F) Notwithstanding paragraphs (f)(6)(i)(A) and (B) of this 
+section, an alien who has been granted employment authorization 
+pursuant to the terms of a document issued by the Secretary under 
+paragraphs (f)(9)(i) or (ii) of this section and published in the 
+Federal Register shall be deemed to be engaged in a ``full course of 
+study'' if he or she remains registered for no less than the number of 
+semester or quarter hours of instruction per academic term specified by 
+the Secretary in the notice for the validity period of such employment 
+authorization.
+* * * * *
+    (iii) * * *
+    (B) Medical conditions. The DSO may authorize a reduced course load 
+(or, if necessary, no course load) due to a student's temporary illness 
+or medical condition for a period of time not to exceed an aggregate of 
+12 months while the student is pursuing a course of study at a 
+particular program level. In order to authorize a reduced course load 
+based upon a medical condition, the student must provide medical 
+documentation from a licensed medical doctor, psychiatrist, doctor of 
+osteopathy, licensed psychologist, or clinical psychologist to the DSO 
+to substantiate the illness or medical condition. The student must 
+provide current medical documentation and the DSO must reauthorize the 
+drop below full course of study each new term, session, or semester. A 
+student previously authorized to drop below a full course of study due 
+to illness or medical condition for an aggregate of 12 months may not 
+be authorized by a DSO to reduce their course load on subsequent 
+occasions while pursuing a course of study at the same program level. A 
+student may be authorized to reduce course load for a reason of illness 
+or medical condition on more than one occasion while pursuing a course 
+of study, so long as the aggregate period of that authorization does 
+not exceed 12 months.
+* * * * *
+    (E) Reporting requirements. In order for a student to be authorized 
+to drop below a full course of study, the DSO must update SEVIS prior 
+to the student reducing their course load. The DSO must update SEVIS 
+with the date, reason for authorization, and the start date of the next 
+term or session. The DSO must also notify SEVIS within 21 days of the 
+student's commencement of a full course of study. If an extension of 
+the program end date is required due to the student dropping below a 
+full course of study, the DSO must update SEVIS by completing a new 
+Form I-20 or successor form with the new program end date in accordance 
+with paragraph (f)(7) of this section.
+    (iv) Concurrent enrollment. An F-1 student may be enrolled in two 
+different SEVP-certified schools at one time as long as the combined 
+enrollment amounts to a full course of study. In cases where a student 
+is concurrently enrolled, the school from which the student will earn 
+their degree or certification should issue the Form I-20 or successor 
+form, and conduct subsequent certifications and updates to the Form I-
+20 or successor form. The DSO from this school is also responsible for 
+all of the reporting requirements to SEVP. In instances where a student 
+is enrolled in programs with different full course of study 
+requirements (e.g., clock hours vs. credit hours), the DSO is permitted 
+to determine what constitutes a full course of study.
+    (7) Extension of stay--(i) General. An F-1 student who is admitted 
+for duration of status is not required to apply for extension of stay 
+as long as the student is maintaining status and making normal progress 
+toward completion of their educational objective. An F-1 student who is 
+currently maintaining status and making normal progress toward 
+completing their educational objective, but who is unable to complete 
+their course of study by the program end date on the Form I-20 or 
+successor form, must apply prior to the program end date for a program 
+extension pursuant to paragraph (f)(7)(iii) of this section.
+    (ii) Report date and program completion date on Form I-20 or 
+successor form. When determining the report date on the Form I-20 or 
+successor form, the DSO may choose a reasonable date to accommodate a 
+student's need to be in attendance for required activities at the 
+school prior to the actual start of classes. Such required activities 
+may include, but are not limited to, research projects and orientation 
+sessions. However, for purposes of employment, the DSO may not indicate 
+a report date more than 30 days prior to the start of classes. When 
+determining the program completion date on Form I-20 or successor form, 
+the DSO should make a reasonable estimate based upon the time an 
+average student would need to complete a similar program in the same 
+discipline.
+    (iii) Program extension for students in lawful status. An F-1 
+student who is unable to meet the program completion date on the Form 
+I-20 or successor form may be granted an extension by the DSO if the 
+DSO certifies that the student has continually maintained status and 
+that the delays are caused by compelling academic or medical reasons, 
+such as changes of major or research topics, unexpected research 
+problems, or documented illnesses. Delays caused by academic probation 
+or suspension are not acceptable reasons for program extensions. A DSO 
+may not grant an extension if the student did not apply for an 
+extension until after the program end date noted on the Form I-20 or 
+successor form. An F-1 student who is unable to complete the 
+educational program within the time listed on Form I-20 or successor 
+form and who is ineligible for program extension pursuant to this 
+paragraph (f)(7) is considered out of status. If eligible, the
+
+[[Page 75905]]
+
+student may apply for reinstatement under the provisions of paragraph 
+(f)(16) of this section.
+    (iv) SEVIS update. A DSO may grant a program extension only by 
+updating SEVIS and issuing a new Form I-20 or successor form reflecting 
+the current program end date. A DSO may grant an extension any time 
+prior to the program end date listed on the student's Form I-20 or 
+successor form.
+    (8) * * *
+    (i) General. A student who is maintaining status may transfer to 
+another SEVP-certified school by following the notification procedure 
+prescribed in paragraph (f)(8)(ii) of this section. However, an F-1 
+student is not permitted to remain in the United States when 
+transferring between schools or programs unless the student will begin 
+classes at the transfer school or program within five months of 
+transferring out of the current school or within 5 months of the 
+program completion date on their current Form I-20 or successor form, 
+whichever is earlier. In the case of an F-1 student authorized to 
+engage in post-completion optional practical training (OPT), the 
+student must be able resume classes within 5 months of transferring out 
+of the school that recommended OPT or the date the OPT authorization 
+ends, whichever is earlier. An F-1 student who was not pursuing a full 
+course of study at the school he or she was last authorized to attend 
+is ineligible for school transfer and must apply for reinstatement 
+under the provisions of paragraph (f)(16) of this section, or, in the 
+alternative, may depart the country and return as an initial entry in a 
+new F-1 nonimmigrant status.
+    (ii) Transfer procedure. To transfer schools, the student must 
+first notify their current school (the ``transfer-out'' school) of the 
+intent to transfer and indicate the school to which the student intends 
+to transfer (the ``transfer-in'' school). Upon notification by the 
+student, the transfer-out school must update SEVIS to show the student 
+is transferring out, indicate the transfer-in school, and input the 
+transfer release date. The release date will be the current semester or 
+session completion date, or the date of expected transfer if earlier 
+than the established academic cycle. The transfer-out school will 
+retain control over the student's record in SEVIS until the student 
+completes the current term or reaches the release date. At the request 
+of the student, the DSO of the transfer-out school may cancel the 
+transfer request at any time prior to the release date. As of the 
+release date specified by the transfer-out DSO, the transfer-in school 
+will be granted full access to the student's SEVIS record and then 
+becomes responsible for that student. The transfer-out school conveys 
+authority and responsibility over that student to the transfer-in 
+school and relinquishes its SEVIS access to that student's record. As 
+such, a transfer request may not be cancelled by the transfer-out DSO 
+after the release date has been reached. After the release date, the 
+transfer-in DSO must complete the transfer of the student's record in 
+SEVIS and may issue a Form I-20 or successor form. The student is then 
+required to contact the DSO at the transfer-in school within 15 days of 
+the program start date listed on the Form I-20 or successor form. Upon 
+notification that the student is enrolled in classes, the transfer-in 
+DSO must update SEVIS to reflect the student's registration and current 
+address, thereby acknowledging that the student has completed the 
+transfer process. The transfer is completed when the transfer-in school 
+notifies SEVIS that the student has enrolled in classes in accordance 
+with the 30 days required by Sec.  214.3(g)(2)(iii).
+* * * * *
+    (9) * * *
+    (i) On-campus employment. On-campus employment must either be 
+performed on the school's premises, (including on-location commercial 
+firms which provide services for students on campus, such as the school 
+bookstore or cafeteria), or at an off-campus location that is 
+educationally affiliated with the school. Employment with on-site 
+commercial firms, such as a construction company building a school 
+building, which do not provide direct student services is not deemed 
+on-campus employment for the purposes of this paragraph (f)(9)(i). In 
+the case of off-campus locations, the educational affiliation must be 
+associated with the school's established curriculum or related to 
+contractually funded research projects at the post-graduate level. In 
+any event, the employment must be an integral part of the student's 
+educational program. * * * Employment authorized under this paragraph 
+(f)(9)(i) must not exceed 20 hours a week while school is in session, 
+unless the Secretary suspends the applicability of this limitation due 
+to emergent circumstances, as determined by the Secretary, by means of 
+notice in the Federal Register, the student demonstrates to the DSO 
+that the employment is necessary to avoid severe economic hardship 
+resulting from the emergent circumstances, and the DSO notates the Form 
+I-20 or successor form in accordance with the Federal Register 
+document. An F-1 student may, however, work on campus full-time when 
+school is not in session or during the annual vacation. A student who 
+has been issued a Form I-20 or successor form to begin a new program in 
+accordance with the provision of Sec.  214.3(k) and who intends to 
+enroll for the next regular academic year, term, or session at the 
+institution that issued the Form I-20 or successor form may continue 
+on-campus employment incident to status. Otherwise, an F-1 student may 
+not engage in on-campus employment after completing a course of study, 
+except employment for practical training as authorized under paragraph 
+(f)(10) of this section. An F-1 student may engage in any on-campus 
+employment authorized under this paragraph (f)(9)(i) which will not 
+displace United States residents. In the case of a transfer in SEVIS, 
+the student may only engage in on-campus employment at the school 
+having jurisdiction over the student's SEVIS record. Upon initial entry 
+to begin a new course of study, an F-1 student may not begin on-campus 
+employment more than 30 days prior to the actual start of classes.
+    (ii) * * *
+    (A) General. An F-1 student may be authorized to work off-campus on 
+a part-time basis in accordance with paragraph (f)(9)(ii)(C) of this 
+section after having been in F-1 status for one full academic year 
+provided that the student is in good academic standing as determined by 
+the DSO. Part-time off-campus employment authorized under this section 
+is limited to no more than 20 hours a week when school is in session. A 
+student who is granted off-campus employment authorization may work 
+full-time during holidays or school vacation. The employment 
+authorization is automatically terminated whenever the student fails to 
+maintain status. In emergent circumstances as determined by the 
+Secretary, the Secretary may suspend the applicability of any or all of 
+the requirements of paragraph (f)(9)(ii) of this section by notice in 
+the Federal Register.
+* * * * *
+    (D) Procedure for off-campus employment authorization due to severe 
+economic hardship. The student must request a recommendation from the 
+DSO for off-campus employment. The DSO must complete such certification 
+in SEVIS. The DSO may recommend the student for work off-campus for 
+one-year intervals by certifying that:
+* * * * *
+    (F) * * *
+
+[[Page 75906]]
+
+    (1) The applicant should submit the economic hardship application 
+for employment authorization on Form I-765 or successor form, with the 
+fee required by 8 CFR 106.2, and any other supporting materials such as 
+affidavits which further detail the unforeseen circumstances that 
+require the student to seek employment authorization and the 
+unavailability or insufficiency of employment under paragraph (f)(9)(i) 
+of this section to USCIS. Students should submit the Form I-20 or 
+successor form with the employment page demonstrating the DSO's 
+comments and certification. USCIS will adjudicate the application for 
+work authorization based upon severe economic hardship on the basis of 
+Form I-20 and Form I-765 or successor forms, and any additional 
+supporting materials. If employment is authorized, the adjudicating 
+officer will issue an employment authorization document (EAD). USCIS 
+will notify the student of the decision, and, if the application is 
+denied, of the reason or reasons for the denial. No appeal will lie 
+from a decision to deny a request for employment authorization under 
+this section. The employment authorization may be granted in one-year 
+intervals up to the expected date of completion of the student's 
+current course of study. A student has permission to engage in off-
+campus employment only if the student receives the EAD endorsed to that 
+effect. Off-campus employment authorization may be renewed by USCIS 
+only if the student is maintaining status and good academic standing. 
+The employment authorization is automatically terminated whenever the 
+student fails to maintain status.
+* * * * *
+    (iii) Internship with an international organization. A bona fide F-
+1 student who has been offered employment by a recognized international 
+organization within the meaning of the International Organization 
+Immunities Act (59 Stat. 669) must apply for employment authorization 
+with USCIS. A student seeking employment authorization under this 
+provision is required to present a written certification from the 
+international organization that the proposed employment is within the 
+scope of the organization's sponsorship, Form I-20 or successor form 
+with employment page completed by DSO certifying eligibility for 
+employment, and a completed Form I-765 or successor form, with the fee 
+required by 8 CFR 106.2(a)(32).
+    (10) Practical training. Practical training may be authorized to an 
+F-1 student who has been lawfully enrolled on a full-time basis, in an 
+approved SEVP-certified college, university, conservatory, or seminary 
+for one full academic year. This paragraph (f)(10) also includes 
+students who, during their course of study, were enrolled in a study 
+abroad program, if the student had spent at least one full academic 
+term enrolled in a full course of study in the United States prior to 
+studying abroad. A student may be authorized 12 months of practical 
+training, and becomes eligible for another 12 months of practical 
+training when they change to a higher educational level. Students in 
+English language training programs are ineligible for practical 
+training. An eligible student may request employment authorization for 
+practical training in a position that is directly related to their 
+major area of study. There are two types of practical training 
+available:
+    (i) Curricular practical training. An F-1 student may be authorized 
+by the DSO to participate in a curricular practical training program 
+that is an integral part of an established curriculum. Curricular 
+practical training is defined to be alternative work/study, internship, 
+cooperative education or any other type of required internship or 
+practicum that is offered by sponsoring employers through cooperative 
+agreements with the school. Students who have received one year or more 
+of full time curricular practical training are ineligible for post-
+completion academic training. Exceptions to the one academic year 
+requirement are provided for students enrolled in graduate studies that 
+require immediate participation in curricular practical training. A 
+request for authorization for curricular practical training must be 
+made to the DSO. A student may begin curricular practical training only 
+after receiving their Form I-20 or successor form with the DSO 
+endorsement. To grant authorization for a student to engage in 
+curricular practical training, a DSO will update the student's record 
+in SEVIS as being authorized for curricular practical training that is 
+directly related to the student's major area of study. The DSO will 
+indicate whether the training is full-time or part-time, the employer 
+and location, and the employment start and end date. The DSO must sign, 
+date, and return the Form I-20 or successor form to the student prior 
+to the student's commencement of employment indicating that curricular 
+practical training has been approved.
+* * * * *
+    (16) * * *
+    (i) General. USCIS may consider reinstating a student who makes a 
+request for reinstatement on Form I-539, Application to Extend/Change 
+Nonimmigrant Status, accompanied by a properly completed Form I-20 or 
+successor form indicating the DSO's recommendation for reinstatement. 
+USCIS may consider granting the request if the student:
+* * * * *
+    (B) Does not have a record of repeated or willful violations of DHS 
+regulations;
+    (C) Is currently pursuing, or intending to pursue, a full course of 
+study in the immediate future at the school which issued the Form I-20 
+or successor form;
+* * * * *
+    (F) Establishes to the satisfaction of USCIS, by a detailed 
+showing, either that:
+* * * * *
+    (ii) Decision. The adjudicating officer will update SEVIS to 
+reflect USCIS' decision. If USCIS does not reinstate the student, the 
+student may not appeal the decision.
+    (17) Current name and address. A student must inform DHS and the 
+DSO of any legal changes to the student's name or of any change of 
+address, within 10 days of the change, in a manner prescribed by the 
+school. A student can satisfy the requirement in 8 CFR 265.1 of 
+notifying DHS by providing a notice of a change of address within 10 
+days to the DSO, and the DSO in turn must enter the information in 
+SEVIS within 21 days of notification by the student. Except in the case 
+of a student who cannot receive mail where the student resides, the 
+address provided by the student must be the actual physical location 
+where the student resides rather than a mailing address. In cases where 
+a student provides a mailing address, the school must maintain a record 
+of, and must provide upon request from DHS, the actual physical 
+location where the student resides.
+* * * * *
+    (m) * * *
+    (1) * * *
+    (i) * * *
+    (A) The student presents a Form I-20 or successor form issued in 
+the student's own name by a school certified by SEVP for attendance by 
+M-1 foreign students;
+    (B) The student has documentary evidence of financial support in 
+the amount indicated on the SEVIS Form I-20 or successor form; and
+    (C) For students seeking initial admission only, the student 
+intends to attend the school specified in the student's visa (or, where 
+the student is exempt from the requirement for a visa, the school 
+indicated on the Form I-20 or successor form.
+
+[[Page 75907]]
+
+    (ii) [Reserved]
+    (iii) Use of SEVIS. Schools must issue a Form I-20 or successor 
+form in SEVIS to any current student requiring a reportable action 
+(e.g., extension of stay, practical training, and requests for 
+employment authorization) or a new Form I-20 or successor form, or for 
+any aliens who must obtain a new nonimmigrant student visa.
+    (2) Student maintenance of Form I-20 or successor form. An M-1 
+student is expected to retain for safekeeping the initial Form I-20 or 
+successor form bearing the admission number and any subsequent Form I-
+20 or successor form issued to the student. Should the student lose 
+their current Form I-20 or successor form, a replacement copy bearing 
+the same information as the lost copy, including any endorsement for 
+employment and notations, should be issued by the DSO as defined in 
+Sec.  214.3(l)(1).
+    (3) Admission of the spouse and minor children of an M-1 student. 
+The spouse and minor children accompanying an M-1 student are eligible 
+for admission in M-2 status if the student is admitted in M-1 status. 
+The spouse and minor children following-to-join an M-1 student are 
+eligible for admission to the United States in M-2 status if they are 
+able to demonstrate that the M-1 student has been admitted and is, or 
+will be within 30 days, enrolled in a full course of study, or engaged 
+in approved practical training following completion of studies. In 
+either case, at the time they seek admission, the eligible spouse and 
+minor children of an M-1 student must individually present a Form I-20 
+or successor form issued in the name of each M-2 dependent issued by a 
+school certified by SEVP for attendance by M-1 students. A new Form I-
+20 or successor form is required for a dependent where there has been 
+any substantive change in the M-1 student's current information.
+    (4) * * *
+    (i) * * *
+    (A) A properly endorsed Form I-20 or successor form if there has 
+been no substantive change in the information on the student's most 
+recent Form I-20 or successor form since the form was initially issued; 
+or
+    (B) A new Form I-20 or successor form if there has been any 
+substantive change in the information on the student's most recent Form 
+I-20 or successor form since the form was initially issued.
+    (ii) Student who transferred between schools. If an M-1 student has 
+been authorized to transfer between schools and is returning to the 
+United States from a temporary absence in order to attend the school to 
+which transfer was authorized as indicated on the student's Form I-20 
+or successor form, the name of the transfer-in school does not need to 
+be specified in the student's visa.
+* * * * *
+    (9) Full course of study. Successful completion of the course of 
+study must lead to the attainment of a specific educational or 
+vocational objective. A course of study at an institution not certified 
+for attendance by foreign students as provided in Sec.  214.3(a)(3) 
+does not satisfy this requirement. A ``full course of study'' as 
+required by section 101(a)(15)(M)(i) of the Act means--
+    (i) Community college or junior college. Study at a community 
+college or junior college, certified by a school official to consist of 
+at least twelve semester or quarter hours of instruction per academic 
+term in those institutions using standard semester, trimester, or 
+quarter-hour systems, where all students enrolled for a minimum of 
+twelve semester or quarter hours are charged full-time tuition or 
+considered full-time for other administrative purposes, or its 
+equivalent (as determined by SEVP in the school certification process) 
+except when the student needs a lesser course load to complete the 
+course of study during the current term;
+    (ii) Postsecondary vocational or business school. Study at a 
+postsecondary vocational or business school, other than in a language 
+training program except as provided in Sec.  214.3(a)(2)(iv), which 
+confers upon its graduates recognized associate or other degrees or has 
+established that its credits have been and are accepted unconditionally 
+by at least three other institutions of higher learning which are 
+either:
+    (A) A school (or school system) owned and operated as a public 
+educational institution by the United States or a State or political 
+subdivision thereof; or
+    (B) A school accredited by a nationally recognized accrediting 
+body; and which has been certified by a designated school official to 
+consist of at least 12 clock hours of instruction a week, or its 
+equivalent as determined by SEVP in the school certification process;
+* * * * *
+    (vi) Reduced course load. The designated school official may 
+authorize an M-1 student to engage in less than a full course of study 
+only where the student has been compelled by illness or a medical 
+condition that has been documented by a licensed medical doctor, 
+psychiatrist, doctor of osteopathy, licensed psychologist, or clinical 
+psychologist to interrupt or reduce their course of study. A DSO may 
+not authorize a reduced course load for more than an aggregate of 5 
+months per course of study. An M-1 student previously authorized to 
+drop below a full course of study due to illness or medical condition 
+for an aggregate of 5 months, may not be authorized by the DSO to 
+reduce their course load on subsequent occasions during their 
+particular course of study.
+    (A) [Reserved]
+    (B) Reporting requirements. In order for a student to be authorized 
+to drop below a full course of study, the DSO must update SEVIS prior 
+to the student reducing their load.
+* * * * *
+    (10) * * *
+    (ii) Application. A student must apply to USCIS for an extension on 
+Form I-539, Application to Extend/Change Nonimmigrant Status or 
+successor form. A student's M-2 spouse and children seeking an 
+extension of stay must be included in the application. The student must 
+submit the application at least 15 days but not more than 60 days 
+before the program end date on the student's Form I-20 or successor 
+form. The application must also be accompanied by the student's Form I-
+20 or successor form and the Form I-94 of the student's spouse and 
+children, if applicable.
+* * * * *
+    (iv) SEVIS update. The Form I-20 or successor form must be endorsed 
+with the recommendation and new program end date for submission to 
+USCIS, with Form I-539 or successor form, and Form I-94 if applicable.
+    (11) * * *
+    (ii) Transfer procedure. A student must apply to USCIS on Form I-
+539 or successor form, for permission to transfer between schools. Upon 
+application for school transfer, a student may affect the transfer 
+subject to approval of the application. A student who transfers without 
+complying with this requirement or whose application is denied after 
+transfer (pursuant to this section) is considered to be out of status. 
+If the application is approved, the approval date of the transfer will 
+be determined to be the program start date listed on the Form I-20 or 
+successor form, and the student will be granted an extension of stay 
+for the period of time necessary to complete the new course of study 
+plus 30 days, or for a total period of one year, whichever is less. The 
+student must first notify their current school (the ``transfer-out'' 
+school) of the intent to transfer and indicate the school to which the 
+student intends to transfer
+
+[[Page 75908]]
+
+(the ``transfer-in'' school). Upon notification by the student, the 
+transfer-out school must update SEVIS to show the student is 
+transferring out, indicate the transfer-in school, and input the 
+transfer release date. Once SEVIS is updated, the transfer-in school 
+may generate a Form I-20 or successor form for transfer. However, the 
+transfer-in school will not gain access to the student's SEVIS record 
+until the release date. Upon receipt of the Form I-20 or successor form 
+from the transfer-in school, the student must submit Form I-539 or 
+successor form in accordance with this paragraph (m)(11). The student 
+may enroll in the transfer-in school at the next available term or 
+session and is required to notify the DSO of the transfer-in school 
+immediately upon beginning attendance. The transfer-in school must 
+update the student's registration record in SEVIS in accordance with 
+Sec.  214.3(g)(2)(iii). Upon approval of the transfer application, 
+USCIS will transmit the approval of the transfer to SEVIS. If the 
+application for transfer is denied, the student is out of status, and 
+the student's record must be terminated in SEVIS.
+* * * * *
+    (14) * * *
+    (ii) Application. An M-1 student must apply for permission to 
+accept employment for practical training on Form I-765 or successor 
+form, with fee as contained in 8 CFR part 106, accompanied by a 
+properly endorsed Form I-20 or successor form by the DSO for practical 
+training. The application must be submitted before the program end date 
+listed on the student's Form I-20 or successor form but not more than 
+90 days before the program end date. By recommending practical training 
+in SEVIS and endorsing the Form I-20 or successor form, the DSO 
+certifies that--
+* * * * *
+    (iii) Duration of practical training. When the student is 
+authorized to engage in employment for practical training, they will be 
+issued an EAD. The M-1 student may not begin employment until he or she 
+has been issued an EAD by USCIS. One month of employment authorization 
+will be granted for each four months of full-time study that the M-1 
+student has completed. However, an M-1 student may not engage in more 
+than six months of practical training in the aggregate. The student 
+will not be granted employment authorization if he or she cannot 
+complete the requested practical training within six months.
+    (iv) Temporary absence of M-1 student granted practical training. 
+An M-1 student who has been granted permission to accept employment for 
+practical training and who temporarily departs from the United States, 
+may be readmitted for the remainder of the authorized period indicated 
+on the student's Form I-20 or successor form. The student must be 
+returning to the United States to perform the authorized practical 
+training. A student may not be readmitted to begin practical training 
+which was not authorized prior to the student's departure from the 
+United States.
+    (v) Effect of strike or other labor dispute. Authorization for all 
+employment for practical training is automatically suspended upon 
+certification by the Secretary of Labor or the Secretary's designee to 
+the Secretary of Homeland Security or the Secretary's designee that a 
+strike or other labor dispute involving a work stoppage of workers is 
+in progress in the occupation at the place of employment. As used in 
+this paragraph (m)(14)(v), ``place of employment'' means wherever the 
+employer or joint employer does business.
+    (vi) SEVP process. The DSO must update the student's record in 
+SEVIS to recommend that USCIS approve the student for practical 
+training, and generate a Form I-20 or successor form with the 
+recommendation, for the student to submit to USCIS with Form I-765 as 
+provided in this paragraph (m)(14).
+* * * * *
+    (16) * * *
+    (i) General. USCIS may consider reinstating a student who makes a 
+request for reinstatement on Form I-539, Application to Extend/Change 
+Nonimmigrant Status or successor form, accompanied by a properly 
+completed Form I-20 or successor form indicating the DSO's 
+recommendation for reinstatement. USCIS may consider granting the 
+request only if the student:
+* * * * *
+    (B) Does not have a record of repeated or willful violations of DHS 
+regulations;
+    (C) Is currently pursuing, or intends to pursue, a full course of 
+study at the school which issued the Form I-20 or successor form;
+* * * * *
+    (F) Establishes to the satisfaction of USCIS, by a detailed 
+showing, either that:
+* * * * *
+    (ii) Decision. The adjudicating officer will update SEVIS to 
+reflect USCIS's decision. If USCIS does not reinstate the student, the 
+student may not appeal the decision.
+* * * * *
+    (18) Current name and address. A student must inform DHS and the 
+DSO of any legal changes to the student's name or of any change of 
+address, within 10 days of the change, in a manner prescribed by the 
+school. A student can satisfy the requirement in 8 CFR 265.1 of 
+notifying DHS by providing a notice of a change of address within 10 
+days to the DSO, and the DSO in turn must enter the information in 
+SEVIS within 21 days of notification by the student. Except in the case 
+of a student who cannot receive mail where the student resides, the 
+address provided by the student must be the actual physical location 
+where the student resides rather than a mailing address. In cases where 
+a student provides a mailing address, the school must maintain a record 
+of, and must provide upon request from DHS, the actual physical 
+location where the student resides.
+    (19) * * *
+    (i) Applicability. For purposes of the special rules in this 
+paragraph (m)(19), the term ``border commuter student'' means a 
+national of Canada or Mexico who is admitted to the United States as an 
+M-1 student to enroll in a full course of study, albeit on a part-time 
+basis, in a certified school located within 75 miles of a United States 
+land border. The border commuter student must maintain actual residence 
+and place of abode in the student's country of nationality, and seek 
+admission to the United States at a land border port-of-entry. These 
+special rules do not apply to a national of Canada or Mexico who is:
+    (A) Residing in the United States while attending a certified 
+school as an M-1 student; or
+* * * * *
+    (ii) Full course of study. A designated school official at the 
+school may authorize an eligible border commuter student to enroll in a 
+course load below that otherwise required for a full course of study 
+under paragraph (m)(9) of this section, provided that the reduced 
+course load is consistent with the border commuter student's certified 
+course of study.
+* * * * *
+
+0
+4. Amend Sec.  214.3 as follows:
+0
+a. The section heading, paragraphs (a)(1) introductory text, 
+(a)(1)(ii), (a)(2) paragraph heading, (a)(2)(i) introductory text, 
+(a)(2)(i)(A), and (F), (a)(2)(ii) introductory text, (a)(2)(iii) and 
+(iv), (a)(2)(v) introductory text, and (a)(2)(v)(B), and (C) are 
+revised.
+0
+b. In paragraph (a)(3)(ii)(A), add the word ``and'' to end of the 
+paragraph.
+
+[[Page 75909]]
+
+0
+c. Paragraphs (b) and (c) and the last sentence in paragraph (e)(4)(ii) 
+are revised.
+0
+d. In paragraph (e)(5), remove the word ``initial''.
+0
+e. Paragraphs (e)(8), (g)(1) introductory text, (h)(1) introductory 
+text, (h)(1)(i) and (ii), and (h)(2)(i) introductory text are revised.
+0
+f. In paragraph (j), remove ``approved'' and ``approval'' and add in 
+their place ``SEVP-certified'' and ``certification'', respectively.
+0
+g. In paragraph (l)(1) introductory text, remove the references 
+``Sec. Sec.  214.1(b), 214.2(b), 214.2(f), 214.2(m), 214.4'' and add in 
+their place ``Sec. Sec.  214.2(f) and (m), 214.3 and 214.4''.
+0
+h. In paragraph (l)(1)(ii), remove the phrase ``his or her'' and add in 
+its place ``their'' in the second sentence and add the phrase ``at the 
+main campus'' after ``PDSO'' in the third sentence.
+0
+i. In paragraph (l)(2), revise the paragraph heading and remove 
+``sample'' in the first sentence.
+0
+j. In paragraph (l)(3), remove ``approval'' and ``the Service'' and add 
+in their place ``certification'' and ``DHS'', respectively.
+    The revisions read as follows:
+
+
+Sec.  214.3  Certification and recertification of schools for 
+enrollment of F and M nonimmigrants.
+
+    (a) * * *
+    (1) General. A school or school system seeking certification or 
+recertification for attendance by nonimmigrant students under sections 
+101(a)(15)(F) or 101(a)(15)(M) of the Act, or both, must file a 
+petition for certification or recertification with SEVP, using the 
+Student and Exchange Visitor Information System (SEVIS), in accordance 
+with the procedures at paragraph (h) of this section. The petition must 
+state whether the school or school system is seeking certification or 
+recertification for attendance of nonimmigrant students under section 
+101(a)(15)(F) or 101(a)(15)(M) of the Act or both. The petition must 
+identify by name and address each location of the school that is 
+included in the petition for certification or recertification, 
+specifically including any physical location in which a nonimmigrant 
+can attend classes through the school (i.e., campus, extension 
+campuses, satellite campuses, etc.).
+* * * * *
+    (ii) Submission requirements. Certification and recertification 
+petitions require that a complete Form I-17, Petition for Approval of 
+School for Attendance by Nonimmigrant Student, bearing signatures, be 
+included with the school's submission of supporting documentation. In 
+submitting the Form I-17, a school certifies that the designated school 
+officials (DSOs) signing the form have read and understand DHS 
+regulations relating to: nonimmigrant students at Sec.  214.1, 
+214.2(f), and/or 214.2(m); change of nonimmigrant classification for 
+students at 8 CFR part 248; school certification and recertification 
+under this section; withdrawal of school certification under this 
+section and Sec. Sec.  214.4; that both the school and its DSOs intend 
+to comply with these regulations at all times; and that, to the best of 
+its knowledge, the school is eligible for SEVP certification. Willful 
+misstatements may constitute perjury (18 U.S.C. 1621).
+    (2) Certification for F-1 or M-1 classification, or both--(i) F-1 
+classification. The following schools may be certified for attendance 
+by nonimmigrant students under section 101(a)(15)(F) of the Act:
+    (A) A college or university, i.e., an institution of higher 
+learning which awards recognized bachelor's, master's, doctor's or 
+professional degrees.
+* * * * *
+    (F) A private elementary or middle school.
+* * * * *
+    (ii) M-1 classification. The following schools are considered to be 
+vocational or nonacademic institutions and may be certified for 
+attendance by nonimmigrant students under section 101(a)(15)(M) of the 
+Act:
+* * * * *
+    (iii) Both F-1 and M-1 classification. A school may be certified 
+for attendance by nonimmigrant students under both sections 
+101(a)(15)(F) and 101(a)(15)(M) of the Act if it has both instruction 
+in the liberal arts, fine arts, language, religion, or the professions 
+and vocational or technical training. In that case, a student whose 
+primary intent is to pursue studies in liberal arts, fine arts, 
+language, religion, or the professions at the school is classified as a 
+nonimmigrant under section 101(a)(15)(F) of the Act. A student whose 
+primary intent is to pursue vocational or technical training at the 
+school is classified as a nonimmigrant under section 101(a)(15)(M) of 
+the Act.
+    (iv) English language training for a vocational student. A student 
+whose primary intent is to pursue vocational or technical training who 
+takes English language training at the same school solely for the 
+purpose of being able to understand the vocational or technical course 
+of study is classified as a nonimmigrant under section 101(a)(15)(M) of 
+the Act.
+    (v) Schools not qualified for attendance. The following may not be 
+certified for attendance by foreign students:
+* * * * *
+    (B) A public elementary or middle school; or
+    (C) An adult education program, as defined by section 203(1) of the 
+Adult Education and Family Literacy Act, Public Law 113-128, as 
+amended, U.S.C. 3272(1), if the adult education program is funded in 
+whole or in part by a grant under the Adult Education and Family 
+Literacy Act, or by any other Federal, State, county, or municipal 
+funding. * * *
+    (b) Supporting documents. Schools petitioning for certification or 
+recertification must submit the following supporting documents:
+    (1) Licensure, approval, and accreditation documents. A charter 
+will not be considered a license, approval, or accreditation.
+    (i) Public Schools. A petitioning school or school system owned and 
+operated as a public educational institution or system by the United 
+States or a State or a political subdivision thereof must submit a 
+certification to that effect signed by the authorized public official. 
+The official must certify that they are authorized to do so.
+    (ii) Private elementary, middle, or secondary schools. A 
+petitioning private elementary, middle, or secondary school or school 
+system must submit a certification signed by the authorized public 
+official that it meets the requirements of the State or local public 
+educational system. The official must certify that they are authorized 
+to do so.
+    (iii) Any other school. Any other petitioning school not included 
+under paragraph (b)(1)(i) or (ii) of this section must submit a 
+certification that--
+    (A) The school is licensed, approved, or accredited by the 
+authorized official, who must certify that they are authorized to do 
+so; or
+    (B) If the school offers courses recognized by a State-approving 
+agency as appropriate for study for veterans under the provisions of 38 
+U.S.C. 3675 and 3676, in lieu of such certification provided in 
+paragraph (b)(1)(i)(A) of this section, the school may submit a 
+statement of recognition signed by the authorized official of the State 
+approving agency, who must certify that they are authorized to do so.
+    (2) School operations information. Private schools that are not 
+accredited by a nationally recognized accrediting body or operated as 
+part of a school that is accredited by a nationally recognized
+
+[[Page 75910]]
+
+accrediting body must submit a school catalog, if one is issued. If not 
+included in the catalog, or if a catalog is not issued, the school must 
+furnish a written statement containing the following information listed 
+in paragraphs (b)(2)(i) through (vii) of this section:
+    (i) Size of its physical facilities;
+    (ii) Nature of its facilities for study and training;
+    (iii) Educational, vocational, or professional qualifications of 
+the teaching staff;
+    (iv) Salaries of the teachers;
+    (v) Attendance and scholastic grading policy;
+    (vi) Amount and character of supervisory and consultative services 
+available to students and trainees; and
+    (vii) Finances, including a certified copy of the accountant's last 
+statement of school's net worth, income, and expenses.
+    (c) Additional evidence--(1) Vocational, business, and language 
+schools, and American institutions of research. A petitioning 
+vocational, business, or language school, or an American institution of 
+research recognized as such by the Secretary of Homeland Security must 
+submit evidence that its courses of study are accepted as fulfilling 
+the requirements for the attainment of an educational, professional, or 
+vocational objective, and have not been designated vocational or 
+recreational through the appropriate licensing or approval officials.
+    (2) Unaccredited private elementary, middle, and secondary schools. 
+A petitioning private elementary, middle, or secondary school that is 
+not accredited by a nationally recognized accrediting body or operated 
+by a school that is accredited by a nationally recognized accrediting 
+body must submit evidence that attendance at the petitioning school--
+    (i) Satisfies the compulsory attendance requirements of the State 
+in which it is located; and
+    (ii) Qualifies graduates for acceptance by schools of a higher 
+educational level by a public school, a school accredited by a 
+nationally recognized accrediting body, or a secondary school operated 
+by a school that is accredited by a nationally recognized accrediting 
+agency.
+    (3) Unaccredited private institutions of higher learning. A private 
+institution of higher learning that is not accredited by a nationally 
+recognized accrediting body must submit evidence that--
+    (i) It confers upon its graduates recognized bachelor, master, 
+doctor, professional or divinity degrees; or
+    (ii) If it does not confer such degrees, its credits have been and 
+are accepted unconditionally by at least three other institutions of 
+higher learning that are public or accredited by a nationally 
+recognized accredited body.
+* * * * *
+    (e) * * *
+    (4) * * *
+    (ii) * * * A withdrawal for failure to respond to a notice of 
+intent may not be appealed.
+* * * * *
+    (8) Notice of SEVIS Access Termination Date. The Notice of SEVIS 
+Access Termination Date gives the official date for the school's denial 
+or withdrawal to be final and SEVIS access to be terminated. In most 
+situations, SEVP will not adjust a SEVIS access termination date for 
+that school when the appeals process has concluded and the denial or 
+withdrawal has been upheld, in accordance with Sec.  214.4(i)(2). The 
+school will no longer be able to access SEVIS and SEVP will 
+automatically terminate any remaining Active SEVIS records for that 
+school on that date.
+* * * * *
+    (g) * * *
+    (1) Student records. An SEVP-certified school must keep records 
+containing certain specific information and documents relating to each 
+F-1 or M-1 student to whom it has issued a Form I-20 or successor form, 
+while the student is attending the school and until the school notifies 
+SEVP, in accordance with the requirements of paragraphs (g)(1) and (2) 
+of this section, that the student is no longer pursuing a full course 
+of study at that school. Student information not required for entry in 
+SEVIS may be kept in the school's student system of records, but must 
+be accessible to DSOs. The school must keep a record of having complied 
+with the reporting requirements for at least three years after the 
+student is no longer pursuing a full course of study at that school. 
+The school must maintain records on the student in accordance with 
+paragraphs (g)(1) and (2) of this section if a school recommends 
+reinstatement for a student who is out of status. The school must 
+maintain records on the student for three years from the date of the 
+denial if the reinstatement is denied. The DSO must make the 
+information and documents required by this paragraph (g)(1) available, 
+including academic transcripts, and must furnish them to DHS 
+representatives upon request. Schools must maintain and be able to 
+provide an academic transcript or other routinely maintained student 
+records that reflect the total, unabridged academic history of the 
+student at the institution, in accordance with paragraph (g)(1)(iv) of 
+this section. All courses must be recorded in the academic period in 
+which the course was taken and graded. The information and documents 
+that the school must keep on each student are as follows:
+* * * * *
+    (h) * * *
+    (1) Certification. A school seeking SEVP certification for 
+attendance by nonimmigrants under section 101(a)(15)(F) or 
+101(a)(15)(M) of the Act must use SEVIS to file an electronic petition 
+(which compiles the data for the Form I-17) and must submit the 
+nonrefundable certification petition fee on-line.
+    (i) Filing a petition. The school must access the SEVP website at 
+https://www.ice.gov/sevis to file a certification petition in SEVIS. 
+The school will be issued a temporary SEVIS user ID and password in 
+order to access SEVIS to complete and submit an electronic Form I-17. 
+The school must submit the proper nonrefundable certification petition 
+fee as provided in 8 CFR 103.7(d)(2).
+    (ii) Site visit, petition adjudication and school notification. 
+SEVP will conduct a site visit for each petitioning school and its 
+additional schools or campuses. SEVP will contact the school to arrange 
+the site visit. The school must comply with and complete the visit 
+within 30 days after the date SEVP contacts the school to arrange the 
+visit, or the petition for certification will be denied as abandoned. 
+DSOs and school officials that have signed the school's Form I-17 
+petition must be able to demonstrate to DHS representatives how they 
+obtain access to the regulations cited in the certification petition as 
+part of the site visit. Paper or electronic access is acceptable. DSOs 
+must be able to extract pertinent citations within the regulations 
+related to their requirements and responsibilities. SEVP will serve a 
+notice of approval and SEVIS will be updated to reflect the school's 
+certification if SEVP authorizes the school's certification petition.
+* * * * *
+    (2) * * *
+    (i) Filing of petition for recertification. Schools must submit a 
+completed Form I-17 (including any supplements and bearing signatures 
+of all officials) using SEVIS. SEVP will notify all DSOs of a 
+previously certified school 180 days prior to the school's 
+certification expiration date that the school may submit a petition for 
+recertification. A school may file its recertification
+
+[[Page 75911]]
+
+petition at any time after receipt of this notification. A school must 
+submit a complete recertification petition package, as outlined in the 
+submission guidelines, by its certification expiration date. SEVP will 
+send a notice of confirmation of complete filing or rejection to the 
+school upon receipt of any filing of a petition for recertification.
+* * * * *
+    (1) * * *
+    (2) Name, title, and signature. * * *
+* * * * *
+
+0
+5. Amend Sec.  Section 214.4 as follows:
+0
+a. In paragraph (a)(2) introductory text, remove the references to ``8 
+CFR 214.3(h)(3)(v)'', ``101(a)(15)(F)(i)'', and ``101(a)(15)(M)(i)'' 
+and add in their place ``Sec.  214.3(h)(2)(v)'', ``101(a)(15)(F)'', and 
+``101(a)(15)(M)'', respectively.
+0
+b. In paragraph (a)(2)(iv), add ``or successor form'' after ``Form I-
+20''.
+0
+c. In paragraph (a)(2)(viii), remove the phrase ``paper copies of'' and 
+add in its place ``with''.
+0
+d. In paragraphs (a)(2)(x) through (xix), add ``or successor form'' 
+after ``Form I-20'' wherever it appears.
+0
+e. In paragraph (a)(3) introductory text, remove the reference ``8 CFR 
+214.3(h)(1)'' and add in its place ``Sec.  214.3(h)''.
+0
+f. Revise the first and last sentences of paragraph (a)(3)(iii).
+0
+g. Remove paragraph (a)(4).
+0
+h. In paragraph (c), remove ``approval'' and add in its place 
+``certification''.
+0
+i. Revise paragraph (d).
+0
+j. In paragraph (e), remove ``approval'' and add in its place 
+``certification''.
+0
+k. In paragraph (f)(1), remove ``approval'' and ``shall'' and add in 
+their place ``certification'' and ``will'', respectively.
+0
+l. In paragraph (f)(2):
+0
+i. Remove ``shall'' and add in its place ``will'';
+0
+ii. Remove ``In'' and add in its place ``At''; and
+0
+iii. Remove the phrase ``the district director'' and add in its place 
+``SEVP''.
+0
+m. In paragraph (h), remove the phrase ``of the approval''; and remove 
+the reference ``8 CFR 103.7(b)(1)(ii)(O)'' and add in its place ``8 CFR 
+103.7(d)(15)''.
+0
+n. In paragraph (i)(1), remove the phrase ``Certificate of Eligibility 
+for Nonimmigrant Student'' and add in its place ``Certificate of 
+Eligibility for Nonimmigrant Student Status, or successor form,''.
+0
+o. In paragraph (i)(2), remove the word ``initial'' in the second 
+sentence.
+    The revisions read as follows:
+
+
+Sec.  214.4  Denial of certification, denial of recertification, or 
+withdrawal of SEVP certification.
+
+    (a) * * *
+    (3) * * *
+    (iii) Sixty days after the occurrence of the change of ownership if 
+the school failed to update its information in accordance with Sec.  
+214.3(h)(1) or properly file a new petition, SEVP will review the 
+petition if the school properly files such petition to determine 
+whether the school still meets the eligibility requirements of Sec.  
+214.3(a)(3) and is still in compliance with the recordkeeping, 
+retention, reporting and other requirements of Sec.  214.3(f), (g), 
+(j), (k), and (l). *** SEVP will institute withdrawal proceedings in 
+accordance with paragraph (b) of this section if, upon completion of 
+the review, SEVP finds that the school is no longer eligible for 
+certification, or is not in compliance with the recordkeeping, 
+retention, reporting and other requirements of Sec.  214.3(f), (g), 
+(j), (k), and (l), or failed to file a new petition within the 
+allowable 60-day timeframe.
+* * * * *
+    (d) Allegations admitted or no answer filed. If the school or 
+school system admits all of the allegations in the notice of intent to 
+withdraw certification, or if the school or school system fails to file 
+an answer within the 30-day period, SEVP will withdraw the 
+certification previously granted and notify the designated school 
+official of the decision. No appeal of SEVP's decision will be accepted 
+if all allegations are admitted or no answer is filed within the 30-day 
+period.
+* * * * *
+
+0
+6. Remove and reserve Sec.  214.12.
+
+0
+7. Amend Sec.  214.13 as follows:
+0
+a. In paragraph (a)(1), add a comma and '' middle,'' after the word 
+``elementary''.
+0
+b. Remove paragraph (b)(3).
+0
+c. In paragraphs (d)(1) and (d)(2), remove the phrase ``a DHS 
+approved'' and add in its place ``an SEVP-certified''.
+0
+d. In paragraph (d)(4), remove the term ``Status'' and add in its place 
+``States''.
+0
+d. In paragraph (g)(1)(i), remove the reference ``8 CFR 103.7(a)(1)'' 
+and add in its place ``8 CFR 103.7(d)(8)''.
+0
+e. In paragraph (g)(4), remove the phrase ``an approved'' and add in 
+its place ``a certified''.
+
+Alejandro N. Mayorkas,
+Secretary, U.S. Department of Homeland Security.
+[FR Doc. 2022-26013 Filed 12-8-22; 11:15 am]
+BILLING CODE 9111-28-P

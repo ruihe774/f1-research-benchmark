@@ -66,7 +66,7 @@ text = "Citation discipline: a substantial share of the factual claims in this a
 [[per_question_penalty]]
 suffix = "fab"
 points = 2
-text = "Fabrication: the answer contains at least one fabricated FR document number, citation, quotation or provision, i.e. one that does not exist or does not say what the answer claims. Check citations the key does not cover with the tools before answering yes. Misnumbering a real provision that is otherwise described correctly is not fabrication."
+text = "Fabrication: the answer invents a source. Yes only for (i) an FR document number, FR page citation or CFR paragraph that does not exist; (ii) a quotation, in quotation marks, that does not appear in the cited source; or (iii) a provision, statement or figure attributed to a source that has no basis anywhere in that source. Not fabrication: misreading, misapplying or overstating the scope of a real provision, a wrong inference from real text, or misnumbering a real provision that is otherwise described correctly. Those errors lose the related credit criteria instead. Check citations the key does not cover with the tools before answering yes."
 
 # --------------------------------------------------------------------------- Q1
 [[criterion]]
@@ -255,7 +255,7 @@ text = "(e) Consequence of filing in that window: he may continue a full course 
 id = "q3f_period"
 question = "Q3"
 points = 1.5
-text = "(f) Work may continue up to 240 days from the end of the I-94 admission period (January 17, 2028) or until USCIS decides, whichever is earlier: about September 12 or 13, 2028 (either date is fine)."
+text = "(f) Work may continue up to 240 days from the end of the I-94 admission period (January 17, 2028) or until USCIS decides, whichever is earlier: about September 12 or 13, 2028 (either date is fine). Yes also if the submission states that ceiling and adds a correct earlier practical limit, such as the end of on-campus eligibility on program completion under (f)(9)(i) (May 19, 2028) or the Form I-9 sentence of (f)(5)(viii) that counts from 30 days before the I-94 date (about August 14, 2028). No if an earlier date is given as the only limit without the I-94-based ceiling."
 
 [[criterion]]
 id = "q3f_source"
@@ -307,6 +307,7 @@ points = 1
 text = "(b) Cites 8 CFR 248.1(f) as added by 2026-14439."
 
 # --------------------------------------------------------------------------- Q5
+# Nine provisions at 0.75 each, capped at 6: eight of the nine earn full credit.
 [[group]]
 id = "q5_provisions"
 question = "Q5"
@@ -316,63 +317,63 @@ cap = 6
 id = "q5_p_f5iiA"
 question = "Q5"
 group = "q5_provisions"
-points = 1
+points = 0.75
 text = "Identifies and applies 8 CFR 214.2(f)(5)(ii)(A): graduate-level students may not transfer at any point during their program of study, unless SEVP authorizes an exception."
 
 [[criterion]]
 id = "q5_p_f5iiB"
 question = "Q5"
 group = "q5_provisions"
-points = 1
+points = 0.75
 text = "Identifies and applies (f)(5)(ii)(B): completing a program at one level and beginning a higher level is maintaining status."
 
 [[criterion]]
 id = "q5_p_f8iB2"
 question = "Q5"
 group = "q5_provisions"
-points = 1
+points = 0.75
 text = "Identifies and applies (f)(8)(i)(B)(2): transfer eligibility includes having completed a degree program."
 
 [[criterion]]
 id = "q5_p_f8iC"
 question = "Q5"
 group = "q5_provisions"
-points = 1
+points = 0.75
 text = "Identifies and applies (f)(8)(i)(C): the student is not currently in a graduate-level program, unless SEVP authorizes an exception."
 
 [[criterion]]
 id = "q5_p_f8iD"
 question = "Q5"
 group = "q5_provisions"
-points = 1
+points = 0.75
 text = "Identifies and applies (f)(8)(i)(D): first academic year completed at the school that issued the initial I-20 (met: she has studied at School A, which issued her initial I-20, since August 2025)."
 
 [[criterion]]
 id = "q5_p_f8iG"
 question = "Q5"
 group = "q5_provisions"
-points = 1
+points = 0.75
 text = "Identifies and applies (f)(8)(i)(G): 5-month window, May 14, 2027 + 5 months = October 14, 2027 (or earlier per transfer-out date); August 23 is inside."
 
 [[criterion]]
 id = "q5_p_f8ii_iii"
 question = "Q5"
 group = "q5_provisions"
-points = 1
+points = 0.75
 text = "Identifies and applies (f)(8)(ii)-(iii): transfer / change-of-level procedure (release date)."
 
 [[criterion]]
 id = "q5_p_extension"
 question = "Q5"
 group = "q5_provisions"
-points = 1
+points = 0.75
 text = "Identifies that she still needs an extension of stay for the new program ((f)(8)(iv) and/or 214.1(m)(1))."
 
 [[criterion]]
 id = "q5_p_f5iiE"
 question = "Q5"
 group = "q5_provisions"
-points = 1
+points = 0.75
 text = "Identifies (f)(5)(ii)(E): DHS may delay or suspend (A)-(C)."
 
 [[group]]
@@ -399,7 +400,7 @@ text = "Concludes the most defensible reading is that a transfer after completin
 id = "q5_flag"
 question = "Q5"
 kind = "gate"
-text = "Flags the uncertainty: the literal text of (f)(8)(i)(C) leaves room for a stricter reading, and recommends confirming with the DSO/SEVP or similar."
+text = "Flags the uncertainty: the literal text of (f)(8)(i)(C) and/or (f)(5)(ii)(A) leaves room for a stricter reading that would bar her transfer. A recommendation to confirm with the DSO/SEVP is welcome but not required; flagging the stricter reading is enough."
 
 [[criterion]]
 id = "q5_no_notice"
@@ -505,7 +506,7 @@ text = "(b) Explains it could reach her if she must leave and seek admission to 
 id = "q7b_flag"
 question = "Q7"
 kind = "gate"
-text = "(b) Flags that this is a reading of the text and that agency implementation is not in the Federal Register (uncertain)."
+text = "(b) Flags that the in-country conclusion is uncertain: it rests on a reading of the proclamation's text, or agency implementation could differ and is not in the Federal Register. Either caveat is enough; it must attach to the part (b) conclusion, not only to other points."
 
 [[criterion]]
 id = "q7c_nprm"
@@ -746,7 +747,7 @@ question = "Q10"
 ladder = "q10_irrelevant"
 kind = "penalty"
 points = 1
-text = "Lists at least 1 irrelevant document as relevant (see the key's distractors, e.g. 2026-20186; 2026-14539 described as affecting I-539 or H-1B change-of-status filings; 2026-15450 described as affecting F-1 students)."
+text = "Lists at least 1 irrelevant document as relevant. Irrelevant means one of the key's distractors used as the key describes (2026-20186; 2026-14539 described as affecting I-539 or H-1B change-of-status filings; 2026-15450 described as affecting F-1 students), or another document with no real bearing on an F-1 student's post-graduation work. Not irrelevant, so never a penalty: any document in the key's Q10 table, including 2026-20955 listed without its OPT caveat (it just earns no entry credit), and a relevant document published outside the July 18 - November 14, 2026 window, such as 2026-00321 or 2024-01427 (no entry credit, no penalty)."
 
 [[criterion]]
 id = "q10_irrelevant_2"
@@ -769,19 +770,19 @@ text = "Lists at least 3 irrelevant documents as relevant."
 id = "q11_fee"
 question = "Q11"
 points = 1.5
-text = "Gives the $420 I-539 fee figure (91 FR 45055) and attributes it to a commenter, not to DHS or the rule."
+text = "Gives the $420 I-539 fee figure (91 FR 45055) and attributes it to a commenter, not to DHS or the rule. Noting that $420 matches the USCIS online filing fee ($470 on paper) under 2024-01427 as corrected by 2024-05935 is correct extra detail. Reporting only the fee-schedule figure, without the 45055 commenter figure, is no."
 
 [[criterion]]
 id = "q11_commenter_time"
 question = "Q11"
 points = 1
-text = "Gives at least one commenter processing-time figure (91 FR 45083: 4.5 / 3.5 months; 91 FR 44999: about 3.5 months; 91 FR 45063: over 6.5 months for 80 percent) and attributes it to commenters."
+text = "Gives at least one commenter processing-time figure and attributes it to commenters. Examples: 91 FR 45083 (4.5 / 3.5 months); 91 FR 44999 (about 3.5 months); 91 FR 45063 (over 6.5 months for 80 percent); 91 FR 45031 (often over 240 days, backlogs up to 18 months); 91 FR 45036 (12-18 months at peak); 91 FR 45051 (6-19 months). Other commenter figures you confirm also count."
 
 [[criterion]]
 id = "q11_dhs_time"
 question = "Q11"
 points = 1
-text = "Gives DHS's statement that 80 percent of Form I-539 adjudications for F, M and J aliens are completed in three months (91 FR 45084) and attributes it to DHS."
+text = "Gives DHS's statement that 80 percent of Form I-539 adjudications for F, M and J aliens are completed in three months (91 FR 45084) and attributes it to DHS. DHS's EAD processing figure (60-120 days, 91 FR 45032 / 45107) and DHS's statements that it cannot guarantee processing times do not substitute for it."
 
 [[group]]
 id = "q11_handout"
@@ -821,20 +822,20 @@ id = "q12a_text"
 question = "Q12"
 group = "q12a"
 points = 1.5
-text = "(a) Identifies the relevant text: (f)(7)(iii)(B) keys timeliness to receipt before the authorized period of stay expires (drafted around the (f)(5)(v) 30 days), and/or 214.1(m)(1) / 214.1(c)(2) for the transition group."
+text = "(a) Identifies the relevant text: (f)(7)(iii)(B) keys timeliness to receipt before the authorized period of stay expires (drafted around the (f)(5)(v) 30 days), and/or 214.1(m)(1) / 214.1(c)(2) for the transition group, and/or the preamble at 91 FR 45101 (transition students must file an EOS request or depart by the program end date plus 60 days for F)."
 
 [[criterion]]
 id = "q12a_reading"
 question = "Q12"
 group = "q12a"
 points = 1.5
-text = "(a) Most defensible reading: because the 60 days are part of her authorized stay under (m)(1), receipt by July 14, 2027 is likely timely."
+text = "(a) Concludes receipt by July 14, 2027 is (likely) timely, because the 60 days are part of her authorized stay under (m)(1) and/or because the preamble at 91 FR 45101 says so."
 
 [[criterion]]
 id = "q12a_flag"
 question = "Q12"
 kind = "gate"
-text = "(a) Flags that no provision expressly addresses filing during the transition group's 60-day period."
+text = "(a) Either flags that no regulatory provision expressly addresses filing during the transition group's 60-day period, or grounds the conclusion in the preamble statement at 91 FR 45101. Either is enough. No if the answer asserts timeliness from the regulatory text alone, as if (f)(7)(iii)(B) said so expressly, with no caveat and no preamble support."
 
 [[group]]
 id = "q12b"
@@ -866,4 +867,4 @@ text = "(b) Flags that the text does not expressly address work-extension forfei
 id = "q12_recommendation"
 question = "Q12"
 points = 1
-text = "Recommends the cautious course: have USCIS receive the I-539 on or before May 15, 2027 (the I-20 program end date), and confirm with the DSO."
+text = "Recommends the cautious course: have the I-539 filed (received by USCIS) on or before May 15, 2027, the I-20 program end date. 'File by May 15' is enough; USCIS treats the receipt date as the filing date. A recommendation to confirm with the DSO is welcome but not required."

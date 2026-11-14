@@ -1,0 +1,676 @@
+Federal Register, Volume 89 Issue 56 (Thursday, March 21, 2024)
+
+
+[Federal Register Volume 89, Number 56 (Thursday, March 21, 2024)]
+[Rules and Regulations]
+[Pages 20101-20105]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2024-05935]
+
+
+
+ ========================================================================
+ Rules and Regulations
+                                                 Federal Register
+ ________________________________________________________________________
+ 
+ This section of the FEDERAL REGISTER contains regulatory documents 
+ having general applicability and legal effect, most of which are keyed 
+ to and codified in the Code of Federal Regulations, which is published 
+ under 50 titles pursuant to 44 U.S.C. 1510.
+ 
+ The Code of Federal Regulations is sold by the Superintendent of Documents. 
+ 
+ ========================================================================
+ 
+
+  Federal Register / Vol. 89, No. 56 / Thursday, March 21, 2024 / Rules 
+and Regulations  
+
+[[Page 20101]]
+
+
+
+DEPARTMENT OF HOMELAND SECURITY
+
+8 CFR Parts 103, 106, 204, 212, 214, 240, 244, 245, 245a, 264, and 
+274a
+
+[CIS No. 2687-21; DHS Docket No. USCIS 2021-0010]
+RIN 1615-AC68
+
+
+U.S. Citizenship and Immigration Services Fee Schedule and 
+Changes to Certain Other Immigration Benefit Request Requirements; 
+Correction
+
+AGENCY: U.S. Citizenship and Immigration Services (USCIS), Department 
+of Homeland Security (DHS).
+
+ACTION: Final rule; correction.
+
+-----------------------------------------------------------------------
+
+SUMMARY: USCIS is correcting a final rule that appeared in the Federal 
+Register on January 31, 2024. The final rule amended DHS regulations to 
+adjust certain immigration and naturalization benefit request fees 
+charged by USCIS and made certain changes.
+
+DATES: Effective April 1, 2024.
+
+FOR FURTHER INFORMATION CONTACT: Carol Cribbs, Deputy Chief Financial 
+Officer, U.S. Citizenship and Immigration Services, Department of 
+Homeland Security, 5900 Capital Gateway Dr., Camp Springs, MD 20746; 
+telephone 240-721-3000 (this is not a toll-free number).
+
+SUPPLEMENTARY INFORMATION:
+
+I. Background
+
+    On January 31, 2024, the Department of Homeland Security (DHS) 
+published a final rule in the Federal Register at 89 FR 6194 changing 
+immigration and naturalization benefit request fees charged by U.S. 
+Citizenship and Immigration Services (USCIS), fee exemptions and fee 
+waiver requirements, premium processing time limits, and intercountry 
+adoption processing (FR Doc. 2024-01427). After review of the published 
+document, DHS identified a few errors in the preamble and regulatory 
+text.
+    In the final rule, there were a number of technical and 
+typographical errors that are identified and corrected by the 
+Correction of Errors and Technical Amendments section of this 
+correcting document. The provisions in this correcting document are 
+effective as if they had been included in the final rule document that 
+appeared in the January 31, 2024, Federal Register.
+    Accordingly, the corrections are effective on April 1, 2024, at 12 
+a.m. Eastern Time. This document, and the corrections included in this 
+document, do not change how DHS will apply the final rule; i.e., DHS 
+will apply the corrected final rule only to applications and petitions 
+postmarked (or, if applicable, submitted electronically) on or after 
+April 1, 2024. Applications and petitions already pending with USCIS on 
+April 1, 2024, (i.e., postmarked before April 1, 2024) will not be 
+subject to the final rule.
+
+II. Summary and Explanation of Corrections
+
+A. Fee Exemptions and Waivers
+
+    As discussed in the preamble, the final rule expands fee exemptions 
+for certain filing categories.\1\ DHS identified a number of places 
+where these fee exemptions were not accurately contained in either the 
+preamble or regulatory text:
+---------------------------------------------------------------------------
+
+    \1\ See 89 FR at 6196; id. at 6212-32.
+---------------------------------------------------------------------------
+
+Form I-765, Application for Employment Authorization
+    The final rule created fee exemptions for a renewal or replacement 
+Form I-765, Application for Employment Authorization, when filed by the 
+following groups:
+     Persons seeking or granted special immigrant visa or 
+status as an Afghan or Iraqi translator or interpreter, Iraqi nationals 
+employed by or on behalf of the U.S. Government, Afghan nationals 
+employed by or on behalf of the U.S. Government or employed by the 
+International Security Assistance Force (ISAF), and their 
+derivatives.\2\
+---------------------------------------------------------------------------
+
+    \2\ See 89 FR at 6214; id. at 6227-32, Tables 5B, 5C; RIA Tables 
+46, 47.
+---------------------------------------------------------------------------
+
+     Abused spouses and children of U.S. citizens and lawful 
+permanent residents seeking cancellation of removal under INA 
+240A(b)(2), 8 U.S.C. 1229b(b)(2).\3\
+---------------------------------------------------------------------------
+
+    \3\ See 89 FR at 6214; id. at 6227-32, Tables 5B, 5C; RIA Tables 
+46, 47.
+---------------------------------------------------------------------------
+
+     Current and former U.S. armed forces service members.\4\
+---------------------------------------------------------------------------
+
+    \4\ See 89 FR at 6214; id. at 6227-32, Tables 5B, 5C; RIA Tables 
+46, 47.
+---------------------------------------------------------------------------
+
+    The final rule's summary of changes (II.C), Tables 5B and 5C, and 
+supporting documents all confirm these additional fee exemptions. 
+However, DHS inadvertently omitted the exemptions for the above groups 
+in the regulatory text, which only listed the fee exemptions for an 
+initial I-765 as was provided in the proposed rule.\5\ Therefore, DHS 
+corrects the regulatory text portion of the final rule, 8 CFR 
+106.2(a)(44)(iv)(E) (on page 6389, first column); 8 CFR 106.3(b)(3)(vi) 
+(on page 6392, third column); and 8 CFR 106.3(b)(8)(i) (on page 6393, 
+second column), to provide that a replacement or renewal Form I-765 is 
+fee exempt for the groups identified above.
+---------------------------------------------------------------------------
+
+    \5\ Cf. 88 FR 402, 592-95 (Jan. 4, 2023) (proposed 8 CFR 
+106.2(a)(43)(v), (b)(3)(vi), (b)(8)(ii)).
+---------------------------------------------------------------------------
+
+Form I-290B, Notice of Appeal or Motion
+    The fee for Form I-290B is waivable for any benefit where the 
+underlying form fee is free or waived.\6\ However, in the preamble DHS 
+inadvertently omitted a fee waiver for Form I-765V, Application for 
+Employment Authorization for Abused Nonimmigrant Spouse, in Table 
+5C.\7\ Therefore, in Table 5C in the preamble (page 6230) in the row 
+entitled ``Abused Spouses of A, E-3, G, and H Nonimmigrants,'' DHS adds 
+the text ``Form I-290B'' to the third column to indicate that a 
+requester can submit a request to waive the fee for filing a motion to 
+reopen or reconsider the denial of their I-765V.
+---------------------------------------------------------------------------
+
+    \6\ See 8 CFR 106.3(a)(3)(ii)(D); see also 8 CFR 
+106.3(a)(3)(iii).
+    \7\ See 89 FR 6230.
+---------------------------------------------------------------------------
+
+Form I-601A, Application for Provisional Unlawful Presence Waiver
+    The final rule also created an additional fee exemption for Form I-
+601A, Application for Provisional Unlawful Presence Waiver, when filed 
+by a person seeking or granted Special Immigrant Juvenile (SIJ) 
+classification.\8\
+
+[[Page 20102]]
+
+However, DHS inadvertently omitted this fee exemption from the 
+regulatory text and Table 5C. Therefore, in Table 5C in the preamble 
+(on page 6231), in the row entitled ``SIJs,'' DHS is adding the text 
+``Form I-601A'' to the second column. In the regulatory text portion of 
+the final rule, DHS adds 8 CFR 106.3(b)(1)(vii) (on page 6392) in the 
+first column to indicate that Form I-601A is fee exempt for persons 
+seeking or granted SIJ classification.
+---------------------------------------------------------------------------
+
+    \8\ See 89 FR 6214 (``DHS also provides a fee exemption for SIJs 
+filing Form I-601A . . . .''); Table 5B; RIA Tables 46, 47.
+---------------------------------------------------------------------------
+
+Adoption Fees
+    The final rule provides fee exemptions for adoption-related forms 
+and summarizes the new exemptions in Table 7: Adoption Fees.\9\ 
+However, this table was mistakenly referred to as ``Table 8'' in the 
+preamble.\10\ DHS corrects the preamble on page 6307, third column, of 
+the final rule to include proper reference to Table 7.
+---------------------------------------------------------------------------
+
+    \9\ See 89 FR 6308.
+    \10\ See 89 FR at 6307 (``A summary of the new exemptions is 
+listed in Table 8 below.'')
+---------------------------------------------------------------------------
+
+Special Rule Cancellation of Removal
+    The final rule allows persons to request a waiver of any fee 
+associated with a request for special rule cancellation of removal as a 
+spouse or child that has been battered or subjected to extreme 
+cruelty.\11\ The regulation text cites 8 U.S.C. 1229(b)(2) as the 
+statute for this underlying benefit; however, the proper statutory 
+citation is 8 U.S.C. 1229b(b)(2). The final rule mistakenly repeats a 
+typo that originated in the proposed rule.\12\ Therefore, DHS corrects 
+the regulatory text, 8 CFR 106.3(a)(3)(iii) (on page 6392, first 
+column) with the proper legal citation for special rule cancellation of 
+removal for spouses and children who have been battered or subjected to 
+extreme cruelty.\13\
+---------------------------------------------------------------------------
+
+    \11\ See 8 CFR 106.3(a)(3)(iii); 89 FR at 6392.
+    \12\ See 88 FR at 594.
+    \13\ See 88 FR at 6392, first column.
+---------------------------------------------------------------------------
+
+B. Online Filing Fee for Form I-539, Application To Extend/Change 
+Nonimmigrant Status
+
+    In the preamble, DHS incorrectly stated the final online filing fee 
+for Form I-539, Application to Extend/Change Nonimmigrant Status. The 
+final rule preamble stated that the Form I-539 fee for paper filing was 
+$470 and the online filing fee was also $470.\14\ While DHS used the 
+paper filing fee twice in the same sentence, it meant to include the 
+$50 discount for online filing, making the Form I-539 fee $420 when 
+filed online.\15\ DHS used the correct online filing fee of $420 
+elsewhere in the preamble, including Table 1.\16\ In the regulatory 
+text, DHS did not exempt Form I-539 from the online filing 
+discount.\17\ DHS corrects the preamble of the final rule on page 6329, 
+second column, to include the proper online filing fee for Form I-
+539.\18\
+---------------------------------------------------------------------------
+
+    \14\ See 89 FR 6329, second column.
+    \15\ See 8 CFR 106.1(g).
+    \16\ See, e.g., 89 FR 6200-6201.
+    \17\ See 8 CFR 106.2(a)(26).
+    \18\ See 89 FR 6329, second column.
+---------------------------------------------------------------------------
+
+C. Corrections to Final Regulatory Flexibility Analysis Tables
+
+    DHS corrects three tables in the Final Regulatory Flexibility 
+Analysis section of the preamble. DHS identified that the note under 
+Table 12b, in the preamble, on page 6362, inadvertently states the CNMI 
+Educational Fund fee is $30.\19\ The note should have stated that the 
+CNMI Educational Fund fee is $210. This correction does not impact the 
+analysis of the regulation.
+---------------------------------------------------------------------------
+
+    \19\ See 89 FR at 6362.
+---------------------------------------------------------------------------
+
+    DHS corrects two rows in both Table 15 on page 6365, and Table 17 
+on page 6366. The dollar amount in the columns A through F in the row 
+labeled ``L-1A/L-1B/LZ Blanket'' and the dollar amounts in columns A 
+through F in the row labeled O-1/O-2 petitions were transposed in both 
+tables. The correct amounts are shown in Table 1 on page 6198 of the 
+final rule. These corrections do not impact the analysis of the 
+regulation.
+
+D. Definition of Nonprofits
+
+    DHS defined the term ``nonprofit'' on page 6386, column 2, in the 
+final rule to offer discounts to the Asylum Program Fee and Form I-129, 
+Petition for Nonimmigrant Worker, and Form I-129CW, Petition for a 
+CNMI-Only Nonimmigrant Transitional Worker.\20\ DHS intended to 
+administer the discount for petitioners in the final rule consistent 
+with the discount provided from the American Competitiveness and 
+Workforce Improvement Act (ACWIA).\21\ As stated in the final rule 
+preamble, the INA provides for a reduced ACWIA fee if a petitioner is a 
+primary or secondary education institution, an institution of higher 
+education, as defined in section 1001(a) of title 20, a nonprofit 
+entity related to or affiliated with any such institution, a nonprofit 
+entity which engages in established curriculum-related clinical 
+training of students registered at any such institution, a nonprofit 
+research organization, or a governmental research organization.\22\ The 
+INA does not define ``nonprofit'' in terms of the Internal Revenue Code 
+(IRC) and the definitions of ``institution of higher education'' and 
+``government research organization'' in 8 CFR 214.2(h)(19)(iv)(B) are 
+not tied to the IRC. However, DHS inadvertently omitted educational 
+organizations from the definition in 8 CFR 106.1(f)(2). In this 
+correction, DHS clarifies the definition to include not-for-profit 
+primary or secondary educational institutions, or institutions of 
+higher education, as defined in section 101(a) of the Higher Education 
+Act of 1965, 20 U.S.C. 1001(a). This correction is consistent with the 
+preamble and DHS' intent.\23\
+---------------------------------------------------------------------------
+
+    \20\ See 89 FR 6209-6210, 8 CFR 106.1(f)(2).
+    \21\ 89 FR 6209-10.
+    \22\ Id.; INA section 214(c)(9)(A), 8 U.S.C. 1184(c)(9)(A).
+    \23\ See 8 CFR 214.2(h)(19)(iii).
+---------------------------------------------------------------------------
+
+E. Online Filing Fee for Small Employers and Nonprofits
+
+    The final rule implements various discounted fees, sometimes with 
+exceptions. For example, DHS provides discounted fees to small 
+employers and nonprofits for Forms I-129 and I-129CW and the Asylum 
+Program Fee.\24\ DHS also revised the range of online filing fees that 
+were in the proposed rule to instead use a $50 discount for online 
+filing in most cases.\25\ DHS made exceptions to the $50 discount in 
+limited circumstances, like when the form fee is already provided at a 
+substantial discount or USCIS is prohibited by law from charging a full 
+cost recovery level fee.\26\
+---------------------------------------------------------------------------
+
+    \24\ See 89 FR 6195-6196, 6208-6210, 6196, 8 CFR 106.2(a)(3), 8 
+CFR 106.2(a)(4), 8 CFR 106.2(c)(13).
+    \25\ See, e.g., 89 FR 6196, 6211-6212.
+    \26\ See, e.g., 89 FR 6211, 8 CFR 106.2(a)(7)(vi), 8 CFR 
+106.2(a)(50)(iv).
+---------------------------------------------------------------------------
+
+    DHS did not intend for customers to combine both the discounts for 
+online filing and for small employer and nonprofit fees. DHS applies 
+the same definition of small employers and nonprofits to both the 
+Asylum Program Fee and the fees for Forms I-129 and I-129CW.\27\ The 
+preamble and regulatory text specify that the online filing discount 
+does not apply to the H-1B registration fee and the Asylum Program 
+Fee.\28\ DHS did not intend to apply online filing discount in addition 
+to providing small employer and nonprofit discounts for the fees for 
+Forms I-129 and I-129CW. Various statements and tables in the preamble 
+and supporting documentation support this assertion. Table 1 in the 
+preamble lists online and paper filing fees for various benefit 
+requests as well as the full fee and small employer and nonprofit fees 
+for Forms I-129 and I-129CW, but it does not list
+
+[[Page 20103]]
+
+rows that combine both discounts.\29\ In Table 5 of the Regulatory 
+Impact Analysis, DHS identifies paper filing and online filing fees for 
+various benefit requests and Form I-129 rows do not have this 
+distinction.\30\ The same table does have the distinct fees for small 
+employers and nonprofits filing Form I-129.
+---------------------------------------------------------------------------
+
+    \27\ See, e.g., 89 FR 6195-6196, 6208-6210, 6291, 8 CFR 
+106.1(f). DHS clarifies the definition of small employer and 
+nonprofit elsewhere in this notice.
+    \28\ See 8 CFR 106.2(c)(11)(iii), 8 CFR 106.2(c)(13)(iii).
+    \29\ See 89 FR 6198-6204.
+    \30\ See U.S. Citizenship and Immigr. Servs., U.S. Dep't of 
+Homeland Security, Regulatory Impact Analysis (Jan. 2024), https://www.regulations.gov/document/USCIS-2021-0010-8179.
+---------------------------------------------------------------------------
+
+    DHS corrects the final rule to clarify the $50 online filing 
+discount does not apply to the small employer and nonprofit petitions 
+fees for Forms I-129, I-129CW and the Asylum Program Fee by amending 8 
+CFR 106.2(a)(3); adding 8 CFR 106.2(a)(3)(xi) to state, ``The online 
+filing discount in Sec.  106.1(g) does not apply to the fee for small 
+employers and nonprofits in paragraphs (a)(3)(i), (a)(3)(iii), 
+(a)(3)(v), and (a)(3)(ix) of this section.''; and clarifying 8 CFR 
+106.2(a)(4)(ii).
+
+F. Fee for Form I-129CW for a Small Employer and Nonprofit
+
+    As discussed in the preamble to the final rule, for nonprofits and 
+businesses with 25 or fewer FTE employees (including any affiliates and 
+subsidiaries) filing Forms I-129 and I-129CW for the applicable 
+nonimmigrant classification, DHS is setting the fee at either the 
+current $460 fee or half of the new fee whichever is higher.\31\ The 
+full fee for Form I-129CW is $1,015.\32\ Half of $1,015 rounded to the 
+nearest $5 is $510.
+---------------------------------------------------------------------------
+
+    \31\ See 8 CFR 106.2(a)(3)(i), (a)(3)(iii), (a)(3)(ix), and 
+(a)(4)(ii). See 89 FR 6194, 6386-7.
+    \32\ See 8 CFR 106.2(a)(4)(i); 89 FR at 6386-7. See also 89 FR 
+at 6198, Table 1; 89 FR at 6362, Table 12b.
+---------------------------------------------------------------------------
+
+    The final rule for filing Form I-129CW listed a small employer and 
+nonprofit fee of $510 in various text and tables in the final rule 
+preamble.\33\ Various supporting documents in the docket likewise list 
+the fee as $510. For example, Tables 5 and 27 of the Regulatory Impact 
+Analysis (RIA) for the final rule lists the small employers and 
+nonprofits fee for Form I-129CW as $510.\34\ Likewise, Table 6 of the 
+supporting documentation for the final rule lists the small employers 
+and nonprofits fee for Form I-129CW as $510.\35\ However, the 
+regulatory text for Form I-129CW inadvertently listed the prior fee 
+which was $460 at 8 CFR 106.2(a)(4)(ii). Therefore, DHS corrects the 
+regulatory text portion of the final rule on page 6387, column 1, 8 CFR 
+106.2(a)(4)(ii), to indicate that small employers and nonprofits must 
+submit a fee of $510 with Form I-129CW.
+---------------------------------------------------------------------------
+
+    \33\ See, e.g., 89 FR at 6199, Table 1, 89 FR at 6362, Table 
+12b.
+    \34\ See U.S. Citizenship and Immigr. Servs., U.S. Dep't of 
+Homeland Security, Regulatory Impact Analysis (Jan. 2024), https://www.regulations.gov/document/USCIS-2021-0010-8179.
+    \35\ See U.S. Citizenship and Immigr. Servs., U.S. Dep't of 
+Homeland Security, Immigration Examinations Fee Account, Fee Review 
+Supporting Documentation with Addendum (Nov. 2023), https://www.regulations.gov/document/USCIS-2021-0010-8176.
+---------------------------------------------------------------------------
+
+G. References to Form Instructions
+
+    As stated in the final rule, USCIS is removing fee, fee waiver, fee 
+exemption, and fee payment information from the individual information 
+collection (IC) instructions by consolidating it into the USCIS Form G-
+1055, Fee Schedule, and placing it online on the USCIS website 
+www.uscis.gov.\36\ Form instructions will no longer list fees. However, 
+DHS inadvertently provided regulatory text in parts of the final rule 
+that stated or implied that the form instructions would include fees. 
+For example, the final rule provided that the fraud detection and 
+prevention fee for filing certain H-1B and L petitions as described in 
+8 U.S.C. 1184(c) ``and USCIS form instructions'' was $500. 89 FR 6391. 
+Therefore, DHS corrects the regulatory text portion of the final rule 
+to remove ``and USCIS form instructions'' and similar language 
+indicating that the form instructions will contain fee information in 
+the following places: (1) Page 6391, in the first column, 8 CFR 106.2 
+(c)(4); (2) Page 6391, in the first column, 8 CFR 106.2(c)(5)(i); (3) 
+Page 6391, in the first column, 8 CFR 106.2 (c)(5)(ii); (4) Page 6391, 
+in the first column, in 8 CFR 106.2(c)(6); (5) Page 6398, in the second 
+column, 8 CFR 214.2 (w)(5). The reference to form instructions is not 
+removed in 8 CFR(c)(7), on page 6391, first column, because the CNMI 
+education funding fee will be included in the form instructions for 
+Form I-129CW.
+---------------------------------------------------------------------------
+
+    \36\ See 89 FR 6383.
+---------------------------------------------------------------------------
+
+H. H-1B Registration Fee Regulatory Text
+
+    DHS exempted the H-1B Registration Fee from the $50 online filing 
+discount in the regulatory text.\37\ However, it created an unnecessary 
+third level paragraph without a (i) or (ii) preceding the (iii) at 8 
+CFR 106.2(c)(11)(iii). As such, DHS corrects the regulatory text to add 
+the text from the third level at 8 CFR 106.2(c)(11)(iii) to the second 
+level at 8 CFR 106.2(c)(11).
+---------------------------------------------------------------------------
+
+    \37\ See 89 FR 6391, 8 CFR 106.2(c)(11)(iii).
+---------------------------------------------------------------------------
+
+I. Form I-800 Fee Regulatory Text
+
+    As discussed in the preamble to the final rule, DHS is setting the 
+fee for Form I-800, Petition to Classify Convention Adoptee as an 
+Immediate Relative, at $920, unless an exemption applies. See e.g., 89 
+FR 6311 (Table 7). However, the regulatory text at 8 CFR 106.2(a)(46) 
+on page 6389, second column, inadvertently left blank the fee amount 
+for this form. DHS corrects the final rule to indicate the fee for Form 
+I-800 by amending the introductory paragraph to 8 CFR 106.2(a)(46) to 
+state, ``For filing a petition to classify a Convention adoptee as an 
+immediate relative: $920.''
+
+III. Administrative Procedure Act
+
+    Section 553(b) of the Administrative Procedure Act (APA) generally 
+requires agencies to publish a notice of proposed rulemaking in the 
+Federal Register to provide a period for public comment before the 
+provisions of a rule take effect. 5 U.S.C. 553(b). In addition, section 
+553(d) of the APA requires agencies to delay the effective date of 
+final rules by a minimum of 30 days after the date of their publication 
+in the Federal Register. 5 U.S.C. 553(d). Both of these requirements 
+can be waived if an agency finds, for good cause, that the notice and 
+comment process and/or delayed effective date is impracticable, 
+unnecessary, or contrary to the public interest, and incorporates a 
+statement of the finding and the reasons therefore in the notice. 5 
+U.S.C. 553(b)(B), (d)(3).
+    DHS believes there is good cause for publishing this correction 
+document without prior notice and opportunity for public comment and 
+with an effective date of less than 30 days because DHS finds that such 
+procedures are unnecessary. This document corrects technical and 
+typographic errors in the preamble (including tables) and regulatory 
+text, but does not make substantive changes to the policies that were 
+adopted in the final rule. This document merely conforms erroneous 
+portions of the final rule to the agency's clearly expressed 
+contemporaneous intent. As a result, this correcting document's sole 
+function is to ensure that the information in the January 31, 2024 
+final rule accurately reflects the policies adopted in that final rule, 
+prior to which DHS issued a notice of proposed rulemaking and received 
+public comment. Therefore, DHS believes that it has good cause to waive 
+the notice and comment and effective date requirements of section 553 
+of the APA.
+
+[[Page 20104]]
+
+IV. Correction of Errors and Technical Amendments
+
+    Accordingly, the publication final rule at 89 FR 6194, (FR Doc. 
+2024-01427) is corrected as follows:
+
+A. Correction of Errors in the Preamble
+
+    1. On page 6230, in Table 5C: Forms for Fee Waivers and Fee 
+Exemptions, as of Effective Date of this Final Rule, the eighth row in 
+the table labeled ``Abused spouses of A, E-3, G, and H Nonimmigrants'' 
+and the third column (Fee Waiver Eligibility), Table 5C is corrected by 
+removing ``Not applicable'' and inserting a new bullet reading 
+`` Form I-290B.''
+    2. On page 6231, in Table 5C: Forms for Fee Waivers and Fee 
+Exemptions, as of Effective Date of this Final Rule, the tenth row in 
+the table labeled, SIJs, and the second column (Fee Exemptions), Table 
+5C is corrected by inserting a new bullet reading `` Form I-
+601A'' after the bullet reading `` Form I-601.''
+    3. On page 6307, in the third column, line eight, the language 
+``Table 8 below'' is corrected by removing the number 8 and adding in 
+its place the number 7.
+    4. On page 6329, in the second column, Section, e. Form I-539 
+Extend/Change Nonimmigrant Status, Response, line eight, remove the 
+sentence ``For these reasons, this Final Rule lowers the proposed Form 
+I-539 fee from $620 to $470 for paper filings, and from $525 to $470 
+for online filings.'' and add in its place a sentence to read: ``For 
+these reasons, this Final Rule lowers the proposed Form I-539 fee from 
+$620 to $470 for paper filings, and from $525 to $420 for online 
+filings.''
+    5. On page 6362, Table 12b. Fee Summary Table for Form I-129 
+Petitioners (Matched Only), row 12, Note, in Table 12b of the table, is 
+corrected by removing ``$30'' and adding its place ``$210.''
+    6. On page 6365, in Table 15, USCIS Final Fees for Form 1-129 
+Petition for Nonimmigrant Worker by Classification, for Small Entities 
+with 25 or Fewer FTE Employees, correct the ninth and tenth rows of the 
+table, labeled as ``L-1A/L-1B/LZ Blanket'' and ``O-1/O-2'', by removing 
+the values in columns A through F of row nine labeled ``L-1A/L-1B/LZ 
+Blanket'' and adding in their place the dollar amounts in columns A 
+through F of the row labeled ``O-1/O-2'' and removing the dollar 
+amounts in row ten labeled ``O-1/O-2'' with the dollar amounts in 
+columns A through F of the row labeled ``L-1A/L-1B/LZ Blankets.'' The 
+corrected rows read as follows:
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+L-1A/L-1B/LZ         $460                   $695                  $300                  $995                  $535                  116.3%
+ Blanket
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+O-1/O-2              $460                   $530                  $300                  $830                  $370                  80.4%
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    7. On page 6366, in Table 17. USCIS Final Fees for Form 1-129 
+Petition for Nonimmigrant Worker by Classification, for Nonprofit Small 
+Entities, correct the ninth and tenth rows of the table, labeled as 
+``L-1A/L-1B/LZ Blanket'' and ``O-1/O-2'', by moving all the values in 
+row nine labeled ``L-1A/L-1B/LZ Blanket'' to row ten, labeled ``O-1/O-
+2'' and moving all the values in row ten labeled, ``O-1/O-2'' up to row 
+nine, labeled ``L-1A/L-1B/LZ Blanket.''. The corrected rows read as 
+follows:
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+L-1A/L-1B/LZ         $460                   $695                  $0                    $695                  $235                  51.1%
+ Blanket
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+O-1/O-2              $460                   $530                  $0                    $530                  $70                   15.2%
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+B. Correction of Errors in the Regulatory Text
+
+0
+1. On page 6386, in the second column, in instruction 7 in Sec.  106.1, 
+correct paragraph (f)(2) to read as follows:
+
+
+Sec.  106.1  [Corrected]
+
+* * * * *
+    (f) * * *
+    (2) Nonprofit means not-for-profit primary or secondary educational 
+institutions, or institutions of higher education, as defined in 
+section 101(a) of the Higher Education Act of 1965, 20 U.S.C. 1001(a); 
+organizations organized as tax exempt under the Internal Revenue Code 
+of 1986, section 501(c)(3), 26 U.S.C. 501(c)(3); or governmental 
+research organizations as defined under 8 CFR 214.2(h)(19)(iii)(C).
+* * * * *
+
+0
+2. Starting on page 6386, in the third column, in instruction 7 correct 
+Sec.  106.2 by:
+0
+a. Adding paragraph (a)(3)(xi);
+0
+b. On page 6387, in the first column, correcting paragraph (a)(4)(ii);
+0
+c. On page 6389, in the second column, adding paragraph (a)(44)(iv)(E);
+0
+d. Revising paragraph (a)(46) introductory text;
+0
+e. On page 6391, in the first column, in paragraph (c)(4) removing the 
+words ``and USCIS form instructions''.
+0
+f. On page 6391, in the first column, in paragraph (c)(5)(i) removing 
+the words ``and USCIS form instructions''.
+0
+g. On page 6391, in the first column, in paragraph (c)(5)(ii) removing 
+the words ``and USCIS form instructions''.
+0
+h. On page 6391, in the first column, in paragraph (c)(6) removing the 
+words ``and USCIS form instructions''.
+0
+i. On page 6391, in the second column, revising paragraph (c)(11).
+    The additions and revisions read as follows:
+
+
+Sec.  106.2  [Corrected]
+
+    (a) * * *
+    (3) * * *
+    (xi) The online filing discount in Sec.  106.1(g) does not apply to 
+the fee for small employers and nonprofits in paragraphs (a)(3)(i), 
+(a)(3)(iii), (a)(3)(v), and (a)(3)(ix) of this section.''
+    (4) * * *
+    (ii) For small employers and nonprofits: $510. For the Semiannual 
+Report for CW-1 Employers (Form I- 129CWR): No fee. The online filing 
+discount in Sec.  106.1(g) does not apply.
+* * * * *
+    (44) * * *
+    (iv) * * *
+    (E) Current or former U.S. armed forces service members.
+* * * * *
+    (46) Petition to Classify Convention Adoptee as an Immediate 
+Relative, Form I-800. For filing a petition to classify a Convention 
+adoptee as an immediate relative: $920.
+* * * * *
+    (c) * * *
+    (11) Registration requirement for petitioners seeking to file H-1B 
+petitions on behalf of cap-subject aliens. For each registration 
+submitted to register for the H-1B cap or advanced degree exemption 
+selection process: $215. This fee is not subject to the online discount 
+provided in Sec.  106.1(g).
+* * * * *
+
+[[Page 20105]]
+
+
+0
+3. Starting on page 6392, in the first column, in instruction 7, 
+correct Sec.  106.3 by:
+0
+a. In paragraph (a)(3)(iii) removing the citation to ``8 U.S.C. 
+1229(b)(2) and adding in its place the citation ``8 U.S.C. 
+1229b(b)(2)'';
+0
+b. On page 6392, in the second column, adding paragraph (b)(1)(vii);
+0
+c. On page 6392, in the third column, in paragraph (b)(3)(vi) removing 
+the word ``initial'';
+0
+d. On page 6393, in the second column, in paragraph (b)(8)(i) removing 
+the words ``for their initial request''.
+    The addition reads as follows:
+
+
+Sec.  106.3  [Corrected]
+
+* * * * *
+    (b)
+    (1)
+    (vii) Application for Provisional Unlawful Presence Waiver (Form I-
+601A).
+* * * * *
+
+
+Sec.  214.2  [Corrected]
+
+0
+4. On page 6398, in the second column, in Sec.  214.2, paragraph (w)(5) 
+is corrected by removing the words ``the form instructions and''.
+
+Christina E. McDonald,
+Associate General Counsel for Regulatory Affairs, Department of 
+Homeland Security.
+[FR Doc. 2024-05935 Filed 3-19-24; 4:15 pm]
+BILLING CODE 9111-97-P
