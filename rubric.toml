@@ -150,7 +150,7 @@ text = "(d) NPRM publication date August 28, 2025."
 id = "q1e_review"
 question = "Q1"
 points = 0.5
-text = "(e) Explains that the rule is a major rule subject to congressional review and that if the effective date changes DHS will publish a document setting the actual effective date or terminating the rule (DATES section)."
+text = "(e) Explains that the rule is a major rule subject to congressional review and that if the effective date changes DHS will publish a document setting the actual effective date or terminating the rule (DATES section). Both parts are required: no if the answer explains congressional review and the later document without identifying the rule as a major rule."
 
 [[criterion]]
 id = "q1e_none"
@@ -389,7 +389,7 @@ id = "q5_p_f8ii_iii"
 question = "Q5"
 group = "q5_provisions"
 points = 0.75
-text = "Identifies and applies (f)(8)(ii)-(iii): transfer / change-of-level procedure (release date)."
+text = "Identifies and applies (f)(8)(ii)-(iii): transfer / change-of-level procedure (release date). (iii) is required: the answer must say that a change of educational level (master's to PhD) follows the (ii) transfer procedure. No if it describes only the (ii) transfer and release-date steps."
 
 [[criterion]]
 id = "q5_p_extension"
@@ -535,7 +535,7 @@ text = "(b) Explains it could reach her if she must leave and seek admission to 
 id = "q7b_flag"
 question = "Q7"
 kind = "gate"
-text = "(b) Flags that the in-country conclusion is uncertain: it rests on a reading of the proclamation's text, or agency implementation could differ and is not in the Federal Register. Either caveat is enough; it must attach to the part (b) conclusion, not only to other points."
+text = "(b) Flags that the in-country conclusion is uncertain: it rests on a reading of the proclamation's text, or agency implementation could differ and is not in the Federal Register. Either caveat is enough; it must attach to the part (b) conclusion, not only to other points. No if the part (b) conclusion is stated categorically and the only caveats concern litigation over implementing guidance, travel after the change of status, or other parts."
 
 [[criterion]]
 id = "q7c_nprm"
@@ -776,7 +776,7 @@ question = "Q10"
 ladder = "q10_irrelevant"
 kind = "penalty"
 points = 1
-text = "Lists at least 1 irrelevant document as relevant. Irrelevant means one of the key's distractors used as the key describes (2026-20186; 2026-14539 described as affecting I-539 or H-1B change-of-status filings; 2026-15450 described as affecting F-1 students), or another document with no real bearing on an F-1 student's post-graduation work. Not irrelevant, so never a penalty: any document in the key's Q10 table, including 2026-20955 listed without its OPT caveat (it just earns no entry credit), and a relevant document published outside the July 18 - November 14, 2026 window, such as 2026-00321 or 2024-01427 (no entry credit, no penalty). Also not a penalty: 2026-14539 (public charge) limited to visa applications, re-entry or adjustment of status (for example, a later employment-based green card); 2026-20016 (EB-5 fee final rule) with its relevance accurately limited to EB-5 investors (no entry credit). 2026-20016 described as affecting OPT, H-1B or I-539 filings counts as irrelevant."
+text = "Lists at least 1 irrelevant document as relevant. Irrelevant means one of the key's distractors used as the key describes (2026-20186; 2026-14539 described as affecting I-539 or H-1B change-of-status filings; 2026-15450 described as affecting F-1 students; 2026-14698, a correction that only restores asylum EAD processing language in 8 CFR 208.7, listed as relevant in any description), or another document with no real bearing on an F-1 student's post-graduation work (the distractor list is not exhaustive; for example, a rule on asylum-based employment authorization is irrelevant). Not irrelevant, so never a penalty: any document in the key's Q10 table, including 2026-20955 listed without its OPT caveat (it just earns no entry credit), and a relevant document published outside the July 18 - November 14, 2026 window, such as 2026-00321 or 2024-01427 (no entry credit, no penalty). Also not a penalty: 2026-14539 (public charge) limited to visa applications, re-entry or adjustment of status (for example, a later employment-based green card); 2026-20016 (EB-5 fee final rule) with its relevance accurately limited to EB-5 investors (no entry credit). 2026-20016 described as affecting OPT, H-1B or I-539 filings counts as irrelevant."
 
 [[criterion]]
 id = "q10_irrelevant_2"
@@ -824,7 +824,7 @@ id = "q11_handout_sources"
 question = "Q11"
 group = "q11_handout"
 points = 1
-text = "Drafts one or two handout sentences that give the figures (at least the $420 fee and one processing-time figure), each with its correct source. No if the handout leaves the figures out (for example, says only that the rule sets no fee or processing time), or makes an incorrect statement about the rule, such as that all employment continues while the extension is pending ((f)(5)(viii) covers only on-campus, CPT and severe-economic-hardship employment, up to 240 days)."
+text = "Drafts one or two handout sentences that give at least one cost or processing-time figure, each with its correct source. Any of these counts: the $420 commenter fee (91 FR 45055); the fee-schedule $470 paper / $420 online (2024-01427, 2024-05935); DHS's 80 percent within three months (91 FR 45084); a commenter processing time. The handout need not include both a fee and a time. No if the handout gives no figure at all (for example, says only that the rule sets no fee or processing time), or makes an incorrect statement about the rule, such as that all employment continues while the extension is pending ((f)(5)(viii) covers only on-campus, CPT and severe-economic-hardship employment, up to 240 days)."
 
 [[criterion]]
 id = "q11_handout_caveat"
@@ -890,7 +890,7 @@ text = "(b) Concludes that the likely outcome is no automatic extension of on-ca
 id = "q12b_flag"
 question = "Q12"
 kind = "gate"
-text = "(b) Flags that the text does not expressly address work-extension forfeiture for the transition group."
+text = "(b) Flags that the text does not expressly address work-extension forfeiture for the transition group. Noting the 30-day / 60-day mismatch is not enough if the answer still calls the forfeiture result settled, clearly resolved or not open to a contrary reading; a caveat only about timeliness (part (a)) does not count."
 
 [[criterion]]
 id = "q12_recommendation"
@@ -1154,7 +1154,7 @@ id = "q16d_reading"
 question = "Q16"
 group = "q16d"
 points = 1.5
-text = "(d) Says that on readmission in August 2030 CBP may admit her to the I-20 program end date, which is then less than four years away, plus 30 days (about June 13, 2033), and that if it does she no longer needs the extension of stay. Cites 214.1(a)(4)(i) and/or the preamble (91 FR 45001 'may also travel and reenter with a period of admission to complete the remaining program of study', 45024 'It is not necessary to do both', 45045-45046 depart and re-enter as the alternative to an extension, or 45098-45099, aliens who departed without an approved EOS). The 'four-year maximum every time' sentence at 91 FR 45040 is about grade-school (K-12) students; citing it alone, without one of these, is a no. No if the answer says the September 2031 date necessarily carries over, or if its conclusion is that the 2031 date most likely carries over and it mentions the 2033 admission only as a possibility."
+text = "(d) Says that on readmission in August 2030 CBP may admit her to the I-20 program end date, which is then less than four years away, plus 30 days (about June 13, 2033), and that if it does she no longer needs the extension of stay. Cites 214.1(a)(4)(i) and/or the preamble (91 FR 45001 'may also travel and reenter with a period of admission to complete the remaining program of study', 45024 'It is not necessary to do both', 45045-45046 depart and re-enter as the alternative to an extension, or 45098-45099, aliens who departed without an approved EOS). The 'four-year maximum every time' sentence at 91 FR 45040 is about grade-school (K-12) students; citing it alone, without one of these, is a no. Yes if the answer presents the 2033 admission as what CBP may do, even conditionally and alongside the 2031 outcome if CBP does not; that uncertainty is what q16d_flag asks for. No if the answer says the September 2031 date necessarily carries over, or concludes that the 2031 date most likely carries over and mentions the 2033 admission only as a remote possibility."
 
 [[criterion]]
 id = "q16d_flag"
