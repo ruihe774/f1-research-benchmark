@@ -77,7 +77,8 @@ def main(argv=None) -> int:
         result = hc.run_agent(
             client, model=a.model, effort=a.effort, reasoning_summary=a.reasoning_summary,
             input_items=initial_input, tools=hc.FR_TOOLS, text_format=Answer,
-            transcript=transcript, max_turns=a.max_turns, context_budget=a.context_budget)
+            transcript=transcript, max_turns=a.max_turns, context_budget=a.context_budget,
+            provider=a.provider)
     except BaseException as e:
         transcript.finish("error", error="%s: %s" % (type(e).__name__, e))
         raise

@@ -396,10 +396,15 @@ def _brief_args(arguments: str, limit: int = 160) -> str:
     return s if len(s) <= limit else s[:limit] + "..."
 
 
+def provider_extra_body(provider: str) -> dict:
+    """OpenRouter provider routing: only this provider, no fallbacks."""
+    return {"provider": {"only": [provider], "allow_fallbacks": False}}
+
+
 def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
               reasoning_summary: str, input_items: list, tools: list[Tool],
               text_format: type[BaseModel], transcript: Transcript, max_turns: int,
-              context_budget: int) -> AgentResult:
+              context_budget: int, provider: str | None = None) -> AgentResult:
     """Drive a stateless tool-calling loop until the model returns a parsed answer.
 
     Every request carries the full history: the initial input plus every output
@@ -429,6 +434,8 @@ def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
     )
     if reasoning:
         request["reasoning"] = reasoning
+    if provider:
+        request["extra_body"] = provider_extra_body(provider)
     nudges = 0
     limit = None  # the limit reached, once the final answer has been asked for
     context = 0  # estimated input tokens of the next request
@@ -579,6 +586,9 @@ def add_agent_args(ap: argparse.ArgumentParser, *, default_max_turns: int,
                     help="input tokens after which the model is asked for its final answer "
                     "instead of overflowing the context window; keep it below the model's "
                     "input limit; 0 disables (default %d)" % DEFAULT_CONTEXT_BUDGET)
+    ap.add_argument("--provider", default=None,
+                    help="OpenRouter provider to route to, e.g. deepseek (no fallbacks; "
+                    "only supported by OpenRouter's Responses API)")
     ap.add_argument("--timeout", type=float, default=3600,
                     help="per-request timeout in seconds (default 3600)")
 
@@ -592,6 +602,7 @@ def agent_config(a: argparse.Namespace, client: openai.OpenAI) -> dict:
         "max_turns": a.max_turns,
         "context_budget": a.context_budget,
         "timeout_s": a.timeout,
+        "provider": a.provider,
         "store": False,
         "base_url": str(client.base_url),
         "openai_sdk": openai.__version__,
@@ -608,7 +619,7 @@ def static_request(tools: list[Tool], text_format: type[BaseModel],
                    a: argparse.Namespace) -> dict:
     """The request fields that are identical on every turn, for the transcript."""
     from openai.lib._parsing._responses import type_to_text_format_param
-    return {
+    request = {
         "model": a.model,
         "reasoning": {"effort": a.effort, "summary": a.reasoning_summary},
         "max_output_tokens": MAX_OUTPUT_TOKENS,
@@ -616,6 +627,9 @@ def static_request(tools: list[Tool], text_format: type[BaseModel],
         "tools": [t.param() for t in tools],
         "text": {"format": type_to_text_format_param(text_format)},
     }
+    if a.provider:
+        request.update(provider_extra_body(a.provider))
+    return request
 
 
 def slug(s: str) -> str:
