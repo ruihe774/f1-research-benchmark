@@ -1,0 +1,288 @@
+## Q1
+
+**Answer:**
+(a) The final rule is FR Doc. 2026-14439, 91 FR 44976–45131, “Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media.”
+
+(b) Published July 17, 2026; effective September 15, 2026.
+
+(c) DHS docket ICEB-2025-0001; RIN 1653-AA95.
+
+(d) It finalized proposed rule FR Doc. 2025-16554, 90 FR 42070–42115, published August 28, 2025.
+
+(e) I found no later Federal Register document changing the effective date. The final rule states that, if congressional review changes the date, DHS will publish a document establishing the actual date or terminating the rule.
+
+**Basis:**
+Final-rule dates and metadata: 2026-14439, 91 FR 44976; proposed-rule metadata: 2025-16554, 90 FR 42070. The final regulatory text includes 8 CFR 214.2(f)(5)(i), as amended by 2026-14439.
+
+**Uncertainty:**
+The Federal Register search does not establish whether litigation or other developments outside the Register affect the rule. Congressional review is a qualification stated in the rule, not evidence that the date actually changed.
+
+## Q2
+
+**Answer:**
+(a) Assuming Priya remains in the United States and maintains the applicable requirements, through July 14, 2027: May 15, 2027 program end + 60 days = July 14, 2027. The transition provision is 8 CFR 214.1(m)(1).
+
+(b) The outer transition dates are November 14, 2030 for F nonimmigrants and October 15, 2030 for J nonimmigrants: September 15, 2026 + four years = September 15, 2030; + 60 days for F = November 14, and + 30 days for J = October 15. These are maximums, not dates automatically available to everyone.
+
+(c) The August 24, 2027 start is within five months of her May 15 completion: May 15 + five months = October 15, 2027. The start must also be within five months of the transfer-out date; working backward, that date must be no earlier than March 24, 2027. The other transfer requirements and release-date procedure still apply.
+
+(d) Yes. Her new program extends beyond her July 14 authorized stay, and the transition provision expressly requires an extension request for someone who wants to start a new program. She needs the USCIS-designated extension application, presently Form I-539, with the properly endorsed new I-20 and other required materials.
+
+(e) On these alternative facts, she needs the timely Form I-765 but not Form I-539 for the requested OPT: March 1, 2027 is before the express March 18 transition cutoff, and she has not been readmitted before filing. If approved as requested, June 13, 2028 EAD end + 60 days = August 12, 2028.
+
+**Basis:**
+Final text: 8 CFR 214.1(m)(1), (m)(1)(i), (ii); 214.2(f)(5)(ii)(B), (D), (f)(7)(iii), (f)(8)(i)(G), (ii), (iii), and (iv), as amended by 2026-14439, 91 FR 45123, 45125–45127. The OPT start requested is also within the final rule’s 30-day start window: May 15 + 30 days = June 14, 2027; see 214.2(f)(11)(i)(D), amended by 2026-14439.
+
+**Uncertainty:**
+Transfer timing alone does not establish all transfer or extension eligibility. The result for OPT assumes proper DSO recommendation, timely and approvable I-765, and no intervening departure and fixed-date readmission before filing.
+
+## Q3
+
+**Answer:**
+(a) December 13, 2026: January 12, 2027 start minus 30 days.
+
+(b) January 17, 2028: December 18, 2027 program end + 30 days. The December 20, 2026 entry is within the permitted arrival window.
+
+(c) Yes. An unexpected change of faculty advisor is an example of an unexpected research problem and compelling academic reason. Academic probation or suspension is an example of an unacceptable reason.
+
+(d) The DSO must enter the extension before the most recent I-20 end date passes. If the entry is made after that date, Tomás must request reinstatement, not merely rely on the late I-20 update.
+
+(e) To preserve the automatic employment extension, USCIS should receive the extension application no later than December 18, 2027, before the I-94 departure period starts. Receipt from December 19 through January 17, 2028 would still be timely for the stay application, but would not give the automatic employment extension; he could continue a full course of study, subject to the rule, but must wait for approval before working.
+
+(f) If properly filed before that departure period, the automatic extension is up to 240 days after the I-94 end, or until an earlier decision: January 17, 2028 + 240 days is approximately September 13, 2028. The job remains subject to the underlying on-campus employment requirements; that outer date is not a guarantee that a job can continue after program completion.
+
+(g) If the extension is granted through the new program end, May 19, 2028 + 30 days = June 18, 2028. If USCIS denies it after his authorized admission has expired, he and any dependents must depart immediately.
+
+**Basis:**
+Final text: 8 CFR 214.2(f)(5)(i), (v), (viii), (f)(7)(i)(C)(2)(i), (iii)(B), (vi)–(viii), as amended by 2026-14439, 91 FR 45124–45127. The 240-day and departure-period distinction is explained in DHS’s preamble at 91 FR 45035 and 45106–45107, 2026-14439.
+
+**Uncertainty:**
+The 240-day figure is an outer limit, not a promise of employment eligibility through that date. Actual continuation also depends on the job’s underlying authorization, the continued program, and USCIS’s decision.
+
+## Q4
+
+**Answer:**
+(a) Travel is not automatically fatal to a timely pending F-1 extension. Tomás returns January 5, 2028 before his January 17, 2028 authorized end. If he seeks admission for the balance of the previously authorized period, the rule says USCIS will not consider the extension abandoned. If he seeks admission using an I-20 with a later program end to obtain a new, longer admission, the pending extension may be deemed abandoned. He should carry the I-797C receipt and evidence of the proposed length of stay, including the I-20.
+
+(b) A timely application to change to another nonimmigrant status is considered abandoned if the applicant departs while it is pending.
+
+**Basis:**
+Final text: 8 CFR 214.1(a)(4)(i)(B), (c)(8)(i)–(iii), and 248.1(f), as amended by 2026-14439, 91 FR 45122–45123, 45131. DHS discusses the choice between the old balance and a new admission in the preamble at 91 FR 45098, 2026-14439.
+
+**Uncertainty:**
+There is some overlap in the text: paragraph (c)(8)(i) protects a request for the old balance, while (c)(8)(ii) says an application may be abandoned if the traveler seeks admission with an I-20 showing a later end date. The preamble describes the traveler as choosing the admission period, but carrying an updated I-20 alone does not eliminate the textual risk. Admission itself is discretionary and requires proper documents.
+
+## Q5
+
+**Answer:**
+A transfer **after completion** is a defensible reading, but it is not an unconditional yes. Mei completes the master’s on May 14, 2027 and progresses to a higher level; May 14 + five months = October 14, 2027, so an August 23 start satisfies the program-completion branch of the timing rule. The start must also be within five months of transfer-out: August 23 minus five months = March 23, 2027. She completed the first academic year at the initially issuing school, is assumed to have maintained status, and has completed a degree.
+
+The difficulty is the graduate restriction. The ban in paragraph (f)(5)(ii)(A) is framed as a transfer *during* a graduate program; after completing the master’s and before beginning the PhD, the best reading is that Mei is not currently in that completed program. But paragraph (f)(8)(i)(C) independently requires that she not be “currently in a graduate level program of study,” unless SEVP authorizes an exception. The rule does not define precisely when a completed graduate student ceases to be “currently” in that program for transfer purposes, or resolve the release-date mechanics at that boundary. The transfer should not be treated as assured without resolving that question.
+
+If transferred, she also needs an extension for the new program beyond her transition stay. DHS may delay or suspend specified educational-objective provisions through September 14, 2028, with Federal Register notification. I found no later Register notification doing so as of November 14, 2026.
+
+**Basis:**
+Final text: 8 CFR 214.2(f)(5)(ii)(A)–(E), especially the during-program graduate restriction, higher-level progression, same/lower-level prohibition, extension, and possible suspension; 214.2(f)(8)(i)(A)–(H), (ii)–(iv), including status, completed-degree, graduate-program, first-year, probation, repeated-failure, timing, procedure and extension conditions; and 214.1(m)(1), as amended by 2026-14439, 91 FR 45123, 45125, 45127. The procedure sets a release date at session completion or an earlier expected transfer date; paragraph (f)(8)(i)(H)’s separate OPT timing condition is not implicated on these facts. DHS describes the graduate restriction as applying during the program and higher-level progression as permitted in the preamble, 91 FR 45097 and 45104, 2026-14439.
+
+**Uncertainty:**
+The interaction of the broader word “currently” in (f)(8)(i)(C), the completion condition in (f)(8)(i)(B), and the release-date procedure is not expressly resolved. An SEVP exception requires extenuating circumstances; admission to a PhD alone is not stated to be such an exception. Future Federal Register action could suspend provisions, and sources outside the Federal Register were not available.
+
+## Q6
+
+**Answer:**
+(a) Under the rule in force today, neither transfer nor a new admission supplies F-1 status for the MBA: Ahmed completed a U.S. master’s after September 15, 2026, and the MBA is at the same educational level. The prohibition expressly covers maintaining, being admitted, or otherwise being provided F-1 status through a same- or lower-level program.
+
+(b) Independently, August 2027 is too late under the five-month completion-date test: December 11, 2026 + five months = May 11, 2027. A transfer also requires classes within five months of transfer-out, whichever deadline is earlier.
+
+(c) December 11, 2026 + 60 days = February 9, 2027, under the D/S transition provision, assuming no other filings or intervening change.
+
+(d) Yes. Through September 14, 2028, DHS may delay or suspend implementation of the same/lower-level provision if it determines implementation infeasible, announcing the action in the Federal Register. Future rulemaking could also change the law. No such suspension was found in the Register through November 14, 2026.
+
+**Basis:**
+Final text: 8 CFR 214.2(f)(5)(ii)(C), (E), (f)(8)(i)(G), and 214.1(m)(1), as amended by 2026-14439, 91 FR 45123, 45125, 45127. DHS’s preamble expressly discusses application to departure and readmission, 91 FR 45104, 2026-14439.
+
+**Uncertainty:**
+A future suspension or amendment is possible, not established. Suspending the same-level restriction would not by itself satisfy the independent five-month transfer rule.
+
+## Q7
+
+**Answer:**
+(a) Presidential Proclamation 11069, FR Doc. 2026-19554, signed September 18, 2026 and published at 91 FR 60497–60500, imposes the current restriction and $100,000 payment exception. Its operative section gives an effective time of 12:01 a.m. EDT September 21, 2026 and an expiration 12 months later, absent extension: September 21, 2027. It extends/replaces the restriction in Proclamation 10973, FR Doc. 2025-18601, 90 FR 46027. Executive Order 14431, FR Doc. 2026-19555, 91 FR 60501, separately addresses H-1B interagency review and employer layoffs.
+
+(b) On the stated facts, Lena is in the United States and seeks an in-country change of status; the proclamation is an entry restriction and its petition-decision restriction addresses workers currently outside the United States. It does not make every domestic change-of-status petition subject to $100,000. It could matter if she is outside the United States, uses consular processing, or must seek admission to effectuate the H-1B approval, subject to the proclamation’s terms and national-interest exception. Cap exemption alone is not an exemption from that proclamation.
+
+(c) Two distinct DHS fee rulemakings matter. First, proposed 2026-17324, 91 FR 54817, would add $103,265 to every cap-subject H-1B petition, including the advanced-degree allocation; Lena’s expressly cap-exempt petition is outside it. It remains a proposal; comments closed September 24, 2026. Correction C1-2026-17324, 91 FR 57516, September 10, 2026, corrected a receipt table, not the proposed fee. Second, final rule 2026-16231, 91 FR 51360, effective September 9, 2026, requires the existing $4,000 H-1B biometric fee from covered employers—at least 50 U.S. employees and over 50% in H-1B/L-1 status—also for extensions without employer change. It continues to apply to covered initial petitions; a cap-exempt university is not automatically exempt. Whether it applies to Lena’s initial petition depends on the university’s workforce. The rule applies to petitions filed through September 30, 2027.
+
+(d) No. The F-1 cap-gap provision applies to qualifying H-1B petitions subject to the numerical cap, not this cap-exempt university petition.
+
+(e) Departure while the change-of-status request is pending causes USCIS to consider that change-of-status request abandoned. The regulation addresses that request; it does not say the underlying H-1B petition is automatically denied.
+
+**Basis:**
+Presidential documents 2026-19554 §§ 1–3, 2025-18601, and 2026-19555; proposed 2026-17324 and correction C1-2026-17324; final 8 CFR 106.2(c)(8), amended by 2026-16231, 91 FR 51380; and final 8 CFR 214.2(f)(5)(vii), 248.1(f), amended by 2026-14439, 91 FR 45125, 45131.
+
+**Uncertainty:**
+Proclamation 11069’s introductory text describes expiration as 12:00 a.m. September 21, 2027, while its operative section starts the 12 months at 12:01 a.m. The Register text does not resolve every later-travel scenario following an already effective domestic change of status. The university’s employee composition is not supplied, and proposed fees could change before finalization.
+
+## Q8
+
+**Answer:**
+(a) The report concerns proposed rule 2026-18631, “Eliminating the Discretionary 60-Day Grace Period,” 91 FR 57807. It would remove 8 CFR 214.1(l)(2), the discretionary period of up to 60 days after qualifying employment ceases for E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1 and TN workers and their dependents.
+
+(b) It is a proposal, not a final rule; comments were due November 10, 2026. I found no later final action in its docket through November 14.
+
+(c) It does not remove Priya’s F-1 transition departure period. Her 60 days arise under 8 CFR 214.1(m)(1), a different provision for D/S students, not the employment-cessation grace period in (l)(2).
+
+(d) It could matter to Lena later if she obtains H-1B status and her qualifying employment ceases, if the proposal is finalized and applicable then. It does not eliminate the other students’ F-1 transition periods.
+
+**Basis:**
+Proposed 2026-18631, 91 FR 57807–57809; final 8 CFR 214.1(m)(1), amended by 2026-14439, 91 FR 45123.
+
+**Uncertainty:**
+The proposal may be changed, withdrawn, or finalized later; no future outcome is assumed.
+
+## Q9
+
+**Answer:**
+Changes from the 2025 proposal to the final text include:
+
+1. DHS allowed an SEVP-authorized exception for extenuating circumstances to the graduate-level transfer ban: 8 CFR 214.2(f)(5)(ii)(A), (f)(8)(i)(C); 2026-14439, 91 FR 45097.
+2. It specified that the same/lower-level restriction counts programs completed *after* the rule’s effective date: (f)(5)(ii)(C); 91 FR 45097.
+3. It limited DHS’s implementation-delay/suspension authority to September 14, 2028 and added Federal Register notification: (f)(5)(ii)(E); 91 FR 45097.
+4. It expressly addressed early completion: the student and dependents must depart or otherwise seek to maintain lawful status within 30 days: (f)(5)(v); 91 FR 45097.
+5. It clarified that a post-completion OPT applicant may seek CBP admission after travel, instead of only an extension: (f)(10)(ii)(D); 91 FR 45097.
+6. It changed the allowable requested OPT start-date window from 60 to 30 days after program end, a change DHS says it overlooked in the proposal: (f)(11)(i)(D); 91 FR 45097, 45105.
+7. It clarified that an OPT transfer student must be able to “begin or resume” classes, rather than merely “resume”: (f)(8)(i)(H); 91 FR 45097.
+
+**Basis:**
+DHS’s comparison of the proposal and final rule is in the preamble to 2026-14439, 91 FR 45096–45097; the final amendments are at 91 FR 45124–45127. The proposal is 2025-16554, 90 FR 42070.
+
+**Uncertainty:**
+These are changes between the proposal and final rule, not necessarily changes from the pre-rule regulations.
+
+## Q10
+
+**Answer:**
+The following are additional documents published between July 18 and November 14, 2026:
+
+- **2026-16231**, final rule, August 10, 2026: expands the $4,000 H-1B biometric fee to covered employers’ same-employer extensions; effective September 9, 2026, with initial petitions still covered. 91 FR 51360.
+- **2026-16313**, interim final rule, August 11, 2026: permits USCIS to designate benefit requests for mandatory electronic filing, with notice and waiver procedures; effective August 11, but does not itself prove every F-1 form has been designated. 91 FR 51924.
+- **2026-17324**, proposed rule, August 25, 2026: would add $103,265 to cap-subject H-1B petitions; not in force. Correction **C1-2026-17324**, September 10, corrected a table. 91 FR 54817, 57516.
+- **2026-19554**, presidential proclamation, September 23, 2026: continues a $100,000-payment exception to restrictions on certain H-1B entry; in force from September 21, 2026, subject to its terms. 91 FR 60497.
+- **2026-20660**, proposed rule, October 8, 2026: would impose school-paid OPT recommendation fees of $70,000 and, in specified subsequent cases, $30,000; not in force. 91 FR 64566.
+- **2026-20941**, proposed rule, October 14, 2026: would remove required deference to certain prior I-129 determinations, potentially affecting later H-1B extensions; not in force. 91 FR 65119.
+- **2026-20955**, final rule, October 14, 2026: finalizes removal of the general automatic renewal-EAD extension for covered filings after October 29, 2025; effective October 14, 2026. It does not expressly repeal the separately codified STEM OPT 180-day provision. 91 FR 65306.
+- **2026-18631**, proposed rule, September 11, 2026: would remove the discretionary employment-cessation grace period for specified worker classifications, potentially relevant after a move to H-1B; not in force. 91 FR 57807.
+
+**Basis:**
+The cited documents distinguish final rules, an interim final rule, proposed rules, a correction, and a presidential proclamation. For STEM OPT’s distinct automatic extension, see 8 CFR 274a.12(b)(6)(iv), discussed in 2016-04828, 81 FR 13100, and 2026-14439, 91 FR 45037.
+
+**Uncertainty:**
+The general EAD rule’s interaction with other independently authorized extensions requires applying its “otherwise provided by law” exception; it does not specifically discuss STEM OPT. A future final rule or designation could differ from these documents.
+
+## Q11
+
+**Answer:**
+The fixed-admission final rule requires the appropriate fee but does not itself set a new numerical I-539 fee. A professional-association commenter cited $420, not a DHS regulatory determination, at 91 FR 45055; DHS refers readers to its separate cost analysis at 91 FR 45082 and estimates $490 average outside-assistance cost for the affected subset at 91 FR 45083. The separate fee regulation specifies $470 for Form I-539, generally reduced by $50 to $420 for eligible online filing.
+
+For timing, DHS says 80% of F, M and J I-539 adjudications were completed in three months, citing data accessed February 23, 2026; a commenter separately reported 3.5 months for extensions. Neither is a guarantee, and DHS expressly says it cannot guarantee processing times.
+
+Suggested handout: “An extension application requires the applicable USCIS fee; the published I-539 schedule is $470, generally $420 if eligible for online filing. USCIS processing times vary: DHS reported that 80% of F, M and J I-539 adjudications were completed within three months, but this is not a deadline or guarantee.”
+
+**Basis:**
+Final regulatory text 8 CFR 214.2(f)(7)(iii)(A), 2026-14439, 91 FR 45126; fee schedule 8 CFR 106.2(a)(26) and online discount 106.1(g), 2024-01427, 89 FR 6386, 6388; commenter’s $420, 2026-14439, 91 FR 45055; DHS and commenter processing statements, 91 FR 45025, 45083–45084.
+
+**Uncertainty:**
+Actual cost can depend on filing method, eligibility, assistance and subsequent fee changes. The final rule’s cited processing data are historical, not a current case-specific estimate.
+
+## Q12
+
+**Answer:**
+(a) The most defensible reading is yes, if USCIS receives a properly filed extension request by the end of Priya’s authorized transition stay: May 15, 2027 + 60 days = July 14, 2027. The timeliness rule measures receipt against expiration of the authorized stay; the transition provision supplies her 60-day period.
+
+(b) Do not assume an automatic employment extension. The express exclusion in 8 CFR 214.2(f)(5)(viii) addresses filing during the *30-day* departure period in paragraph (f)(5)(v), whereas Priya has a separate 60-day transition period. The rule does not expressly map that exclusion onto either the whole 60 days or its final 30 days. The automatic provision also refers to current employment and an I-94 fixed date, while her transition admission was D/S. Her existing program-based work authorization and ordinary employment eligibility must be considered separately.
+
+For advising, plan for USCIS receipt before the May 15 program end if continuity of eligible employment matters, rather than relying on a grace-period filing, and obtain case-specific guidance on the transition ambiguity. Earlier filing alone does not authorize a job after its underlying eligibility ends.
+
+**Basis:**
+Final 8 CFR 214.1(m)(1), 214.2(f)(5)(v), (viii), and (f)(7)(iii)(B), as amended by 2026-14439, 91 FR 45123, 45125–45126. DHS explains the 30-day employment exclusion at 91 FR 45035, 2026-14439.
+
+**Uncertainty:**
+The regulatory text does not expressly decide how the 30-day employment exclusion or fixed-I-94 mechanics apply to the separate 60-day D/S transition period. Priya’s stated facts do not establish that she currently has an on-campus or CPT job.
+
+## Q13
+
+**Answer:**
+(a) On ordinary fixed-date readmission with the same I-20, Sofia may be admitted through June 13, 2027: May 14, 2027 program end + 30 days. Her January 9, 2027 return replaces reliance on the D/S transition admission with a fixed admission; the 60-day transition departure period is not the period to assume after that return.
+
+(b) Yes, on the stated no-further-travel facts. Because she departed *before* filing the I-765 and was readmitted for a fixed period, the transition rule expressly requires both I-765 and I-539. USCIS must receive the extension by the authorized-stay end, ordinarily June 13, 2027, including the 30-day departure period.
+
+(c) If approved as requested, June 9, 2028 OPT end + 30 days = July 9, 2028.
+
+(d) If she instead files the timely I-765 on February 22 while still in the transition group and only then travels, she qualifies for the temporary I-539 exemption for that requested OPT period. On return with the I-765 pending, CBP may admit her through the DSO-recommended June 9, 2028 OPT end + 30 days = July 9, 2028. She should carry the I-765 receipt and latest OPT-endorsed I-20 showing the recommended end, plus required travel documents. Pending I-765 receipt is not itself authorization to work.
+
+**Basis:**
+Final 8 CFR 214.1(a)(4)(iii), (m)(1)(i)–(ii), 214.2(f)(5)(i), (v), (f)(7)(iii)(B), and (f)(10)(ii)(D), as amended by 2026-14439, 91 FR 45122–45127. DHS explains D/S transition travel and fixed-date readmission at 91 FR 45100–45101, and OPT admission documents at 91 FR 45098, 2026-14439.
+
+**Uncertainty:**
+CBP admission is discretionary and depends on valid documentation and eligibility. Paragraph 214.1(m)(1)(ii) expressly requires both forms when travel and fixed readmission precede filing; the separate regulatory provision also permits seeking admission after OPT travel in other circumstances.
+
+## Q14
+
+**Answer:**
+(a) The report concerns DHS/ICE proposed rule 2026-20660, 91 FR 64566–64600, docket ICEB-2026-0100, RIN 1653-AB01. It is not final. General comments were due November 9, 2026; information-collection comments are due December 7, 2026. DHS proposes an effective date 60 days after publication of a future final rule; no actual final-rule date has been set.
+
+(b) The proposed transition text points to **$70,000**, not $30,000, for Daniel’s first recommendation dated on or after the effective date. Although he has already participated in OPT, the $30,000 subsequent fee requires both previous participation and prior payment of the $70,000 fee; neither the facts nor the proposal establish such prior payment. Proposed 8 CFR 214.13(i)(2)–(3).
+
+(c) The SEVP-certified school pays before the DSO recommends OPT and records the payment in SEVIS. Without prior payment the DSO may not properly recommend it, and USCIS may not grant the employment authorization. A school may request a discretionary, case-by-case refund before the associated EAD is issued, after removing the recommendation; no refund is available after issuance. The school may seek funds from other sources subject to applicable law; the proposed regulatory obligation to pay is the school’s.
+
+(d) As proposed, the new fee applies to a DSO recommendation dated on or after the final rule’s effective date, proposed as final publication + 60 days. A recommendation dated before that effective date would keep that recommendation outside the proposed fee, even if processing continues afterward; a later, separate recommendation can trigger the fee.
+
+(e) Under today’s rules, his April 12, 2027 STEM I-765 is after the express March 18 transition-exemption cutoff. If he remains in the United States, he needs a timely I-539 extension as well as the timely STEM I-765 and endorsed I-20. Timely STEM filing before the June 30, 2027 EAD expiration permits the separate automatic work extension until the USCIS decision or 180 days, whichever is earlier: June 30 + 180 days = December 27, 2027. If a full 24-month STEM extension is approved, July 1, 2027 to June 30, 2029, then June 30, 2029 + 30 days = July 30, 2029 authorized stay.
+
+**Basis:**
+Proposal 2026-20660, 91 FR 64566, 64577–64579, 64599–64600, proposed 8 CFR 214.2(f)(11)(ii)–(iii), 214.13(i)(1)–(3). Current final text: 8 CFR 214.1(m)(1), (m)(1)(i), (iii), and 214.2(f)(7)(vi), amended by 2026-14439, 91 FR 45123, 45126; STEM extension and its 180-day work rule, 8 CFR 214.2(f)(11)(i)(C), 274a.12(b)(6)(iv), 2016-04828, 81 FR 13100, 13120. The later general EAD rule is 2026-20955, 91 FR 65306.
+
+**Uncertainty:**
+The $70,000 conclusion is the proposed transition text’s result, not an existing charge; the final rule could differ. DHS can extend the I-539 exemption in six-month increments by Federal Register notification, and no such notification was found through November 14, 2026. The general EAD rule does not expressly discuss the separate STEM provision; the specific STEM regulation remains published.
+
+## Q15
+
+**Answer:**
+1. **Incorrect.** USCIS must receive a properly filed extension by the authorized-stay expiration, ordinarily including the 30-day departure period—not necessarily before the I-20 program end. Separately, a DSO entry extending the current program after the old I-20 end requires reinstatement. Reword to distinguish these two dates. 8 CFR 214.2(f)(7)(iii)(B), (viii), 2026-14439.
+
+2. **Incorrect.** Reword: “For an initial program admission, the four-year maximum is calculated from the I-20 program start/report date; the permitted advance-arrival and departure periods do not count.” 8 CFR 214.2(f)(5)(i); DHS explanation at 91 FR 45098, 2026-14439.
+
+3. **Correct, subject to eligibility.** Reword: “A timely filer may remain in an authorized period of stay and continue a full course of study while the application remains pending; the automatic on-campus work extension ends after at most 240 days from the I-94 end, or earlier upon decision.” The work benefit is subject to its other conditions. 8 CFR 214.2(f)(5)(viii), and preamble at 91 FR 45106–45107, 2026-14439.
+
+4. **Partly correct as a description of possible regulatory eligibility, but unsafe as a categorical claim.** The final text limits an English-language student’s *admission period* to 24 months, while the general extension text permits medical reasons and does not expressly say a separate extension cannot exceed an aggregate 24 months. DHS’s preamble nevertheless says illness does not justify going beyond its intended aggregate 24-month cap. The regulatory text controls over the preamble; the text does not clearly resolve the aggregate-extension question. Reword: “Medical circumstances can support an extension request, but DHS says standalone English-language study remains subject to a 24-month aggregate limit; the regulatory wording leaves the extension issue uncertain.” 8 CFR 214.2(f)(5)(i)(A), (f)(7)(i)(C)(2)(ii), (vi); 91 FR 45039, 2026-14439.
+
+5. **Incorrect.** A five-year program can remain a five-year program on the I-20; a qualifying student may request an extension before the authorized stay ends. Reword accordingly. 8 CFR 214.2(f)(7)(i)(C)(1), (iii), (vi); DHS preamble, 91 FR 45039–45040, 2026-14439.
+
+6. **Partly correct.** CBP may grant a new admission period in specified circumstances, but a later I-20 alone does not guarantee a new period or eliminate every need for an extension. The final text expressly addresses expired prior admission, pending extension, and approved extension; it does not clearly address every unexpired-admission/no-pending-extension return. If a pending extension traveler seeks a later admission, the application may be deemed abandoned. Reword in those conditional terms. 8 CFR 214.1(a)(4)(i), (c)(8); preamble, 91 FR 45098, 2026-14439.
+
+7. **Incorrect.** September 15, 2026 + six calendar months = March 15, 2027, but the controlling regulatory text expressly says **on or before March 18, 2027**, subject to its other conditions. Reword with that date, and note DHS may extend it by Federal Register notification. 8 CFR 214.1(m)(1)(i), (iii), 2026-14439.
+
+**Basis:**
+All cited CFR paragraphs are final amendments in 2026-14439, 91 FR 45122–45127. The preamble passages identified above are explanations, not substitutes for the regulatory text.
+
+**Uncertainty:**
+The English-language aggregate cap and ordinary readmission with an unexpired prior admission are not fully resolved by the regulatory wording. The six-month description in the preamble does not override the express March 18 date.
+
+## Q16
+
+**Answer:**
+(a) On initial admission, August 23, 2027 program start + four years = August 23, 2031; + 30 days = **September 22, 2031**. The August 2 entry is within the 30-day arrival window, which does not consume the four years.
+
+(b) To remain beyond the authorized admission without a new admission, Lin must timely request an extension from USCIS, generally on I-539, with a properly endorsed I-20 showing remaining program time, evidence of sufficient funds, required fee and any required biometrics. The final text permits eligibility where a currently issued I-20 shows additional time remains; it alternatively lists documented compelling academic, medical or beyond-control reasons. A normal longer program is not required to be shortened. The rule sets no earliest I-539 filing date, although DHS encourages filing within the six months before expiration. If granted through completion: May 14, 2033 + 30 days = **June 13, 2033**.
+
+(c) An incidental master’s awarded during the same continuing PhD does not, by itself, require a new same- or lower-level program; Lin is continuing toward the higher-level PhD. The answer depends on whether this is in fact one continuing program rather than a separate completed program and change of objective.
+
+(d) Ordinary readmission in August 2030 could give CBP discretion to admit her for the remaining period shown on the I-20, up to four years plus 30 days; under that reading, May 14, 2033 + 30 days = June 13, 2033, and an I-539 would not be needed to cover that newly granted period. But this is not certain: the express admission clauses address a prior period that has expired, a pending extension, or an approved extension, not squarely an unexpired prior admission with no application pending. The general four-year calculation from the 2027 program start could instead be read to preserve the September 22, 2031 limit. The preamble favors a new admission on a valid I-20, but actual CBP admission and its I-94 control the practical result.
+
+(e) The husband’s F-2 stay may not exceed Lin’s actual authorized stay, notwithstanding his later I-94. Thus the ceiling is her applicable I-94/approved stay—for example, September 22, 2031 if the original period remains in effect, or June 13, 2033 if she is admitted through that date as described above. He may be included in Lin’s extension application or file separately. DHS says a dependent included on I-539A with the principal’s I-539 requires one fee; a separate I-539 requires a separate fee. Joint family extensions are subject to the shortest granted period.
+
+**Basis:**
+Final 8 CFR 214.1(a)(4)(i), (c)(2), 214.2(f)(5)(i), (i)(E), (ii)(A)–(C), (f)(7)(i), (iii)–(vi), as amended by 2026-14439, 91 FR 45122–45127. DHS’s initial four-year arithmetic and readmission discussion: 91 FR 45098; long-program example: 91 FR 45039–45040; earliest filing and dependent-fee explanation: 91 FR 45107, 45110, all 2026-14439.
+
+**Uncertainty:**
+The rule does not expressly resolve every unexpired-admission readmission scenario or define every embedded-degree arrangement. Readmission is discretionary, may depend on the route and documentation, and could result in a different I-94. A qualifying extension is not guaranteed.

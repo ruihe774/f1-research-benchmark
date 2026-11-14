@@ -1,0 +1,791 @@
+{
+  "Q1": {
+    "q1a_number": {
+      "rationale": "Identifies 2026-14439, 91 FR 44976.",
+      "verdict": "yes"
+    },
+    "q1a_pages": {
+      "rationale": "Gives pages 44976–45131.",
+      "verdict": "yes"
+    },
+    "q1b_published": {
+      "rationale": "States publication on July 17, 2026.",
+      "verdict": "yes"
+    },
+    "q1b_effective": {
+      "rationale": "States the September 15, 2026 effective date.",
+      "verdict": "yes"
+    },
+    "q1c_docket": {
+      "rationale": "Gives ICEB-2025-0001.",
+      "verdict": "yes"
+    },
+    "q1c_rin": {
+      "rationale": "Gives RIN 1653-AA95.",
+      "verdict": "yes"
+    },
+    "q1d_number": {
+      "rationale": "Identifies proposed rule 2025-16554, 90 FR 42070.",
+      "verdict": "yes"
+    },
+    "q1d_date": {
+      "rationale": "Gives August 28, 2025 as the NPRM publication date.",
+      "verdict": "yes"
+    },
+    "q1e_review": {
+      "rationale": "Explains congressional review of the major rule and DHS publication of an actual effective date or termination document if needed.",
+      "verdict": "yes"
+    },
+    "q1e_none": {
+      "rationale": "Reports no subsequent FR document changing or terminating the September 15 date as of November 14, 2026.",
+      "verdict": "yes"
+    },
+    "q1_cite": {
+      "rationale": "The answer and basis supply document numbers, citations, and the DATES location.",
+      "verdict": "no"
+    },
+    "q1_fab": {
+      "rationale": "The identified documents and attributed DATES statement are real; no invented source appears.",
+      "verdict": "no"
+    }
+  },
+  "Q2": {
+    "q2a_date": {
+      "rationale": "Concludes July 14, 2027.",
+      "verdict": "yes"
+    },
+    "q2a_basis": {
+      "rationale": "Applies 214.1(m)(1), explains the program-end/EAD rule, and shows May 15 plus 60 days.",
+      "verdict": "yes"
+    },
+    "q2b_f": {
+      "rationale": "Gives November 14, 2030 and the four-years-plus-60-days basis.",
+      "verdict": "yes"
+    },
+    "q2b_j": {
+      "rationale": "Gives October 15, 2030 and the four-years-plus-30-days basis.",
+      "verdict": "yes"
+    },
+    "q2c_yes": {
+      "rationale": "Says the August 24 start satisfies the timing rule and cites (f)(8)(i)(G).",
+      "verdict": "yes"
+    },
+    "q2c_deadline": {
+      "rationale": "States the earlier-of-transfer-out-or-completion rule and calculates October 15, 2027 from completion.",
+      "verdict": "yes"
+    },
+    "q2d_yes": {
+      "rationale": "Says she needs a USCIS extension of stay if remaining for the new program.",
+      "verdict": "yes"
+    },
+    "q2d_cites": {
+      "rationale": "Correctly describes 214.1(m)(1), 214.1(c)(2), and (f)(8)(iv), with additional supporting provisions.",
+      "verdict": "yes"
+    },
+    "q2e_no_i539": {
+      "rationale": "Applies the March 18 cutoff and within-admission requirement in (m)(1)(i), finding the March 1 filing exempt from I-539.",
+      "verdict": "yes"
+    },
+    "q2e_date": {
+      "rationale": "Calculates June 13, 2028 plus 60 days as August 12, 2028.",
+      "verdict": "yes"
+    },
+    "q2_cite": {
+      "rationale": "The material claims have CFR paragraph and FR page citations.",
+      "verdict": "no"
+    },
+    "q2_fab": {
+      "rationale": "No invented source, quotation, or unsupported source attribution appears.",
+      "verdict": "no"
+    }
+  },
+  "Q3": {
+    "q3a": {
+      "rationale": "Calculates January 12 minus 30 days as December 13, 2026 and cites (f)(5)(i).",
+      "verdict": "yes"
+    },
+    "q3b_date": {
+      "rationale": "Calculates December 18, 2027 plus 30 days as January 17, 2028.",
+      "verdict": "yes"
+    },
+    "q3b_basis": {
+      "rationale": "Cites 214.1(a)(4)(i)(A), (f)(5)(i), and (f)(5)(v) for fixed admission and departure time.",
+      "verdict": "yes"
+    },
+    "q3c_yes": {
+      "rationale": "Identifies unexpected faculty-advisor change as an express compelling academic reason under (f)(7)(i)(C)(2)(i).",
+      "verdict": "yes"
+    },
+    "q3c_not": {
+      "rationale": "Names probation, suspension, and repeated inability or unwillingness to complete study as unacceptable reasons.",
+      "verdict": "yes"
+    },
+    "q3d_deadline": {
+      "rationale": "Although denying a separate standalone deadline, it explicitly identifies December 18 as the boundary after which SEVIS entry requires reinstatement. This conveys the operative deadline.",
+      "verdict": "yes"
+    },
+    "q3d_missed": {
+      "rationale": "Says entry after the current I-20 end date requires reinstatement under (f)(7)(viii).",
+      "verdict": "yes"
+    },
+    "q3e_work": {
+      "rationale": "Requires USCIS receipt by December 18 to preserve uninterrupted employment and explains the departure-period forfeiture.",
+      "verdict": "yes"
+    },
+    "q3e_late": {
+      "rationale": "States that receipt by January 17, 2028 remains timely under (f)(7)(iii)(B).",
+      "verdict": "yes"
+    },
+    "q3e_consequence": {
+      "rationale": "Explains that filing during the 30 days permits study but not practical training or other employment until approval.",
+      "verdict": "yes"
+    },
+    "q3f_period": {
+      "rationale": "Gives the correct I-94-based 240-day ceiling and September 13 date, but does not state that the automatic extension ends upon an earlier USCIS decision.",
+      "verdict": "no"
+    },
+    "q3f_source": {
+      "rationale": "The basis expressly cites (f)(5)(viii) for the employment extension.",
+      "verdict": "yes"
+    },
+    "q3g_approved": {
+      "rationale": "Calculates May 19, 2028 plus 30 days as June 18, 2028 under (f)(7)(vi).",
+      "verdict": "yes"
+    },
+    "q3g_denied": {
+      "rationale": "States that the student and dependents must depart immediately after a post-expiration denial.",
+      "verdict": "yes"
+    },
+    "q3_cite": {
+      "rationale": "The answer supplies provisions and FR locations throughout.",
+      "verdict": "no"
+    },
+    "q3_fab": {
+      "rationale": "The sources and provisions are real; the identified omission is not fabrication.",
+      "verdict": "no"
+    }
+  },
+  "Q4": {
+    "q4a_safe": {
+      "rationale": "Applies (c)(8)(i): return before January 17 and seek only the balance of the existing period.",
+      "verdict": "yes"
+    },
+    "q4a_presentation": {
+      "rationale": "Explains that seeking admission on the May 19 I-20 may cause abandonment under (c)(8)(ii).",
+      "verdict": "yes"
+    },
+    "q4a_carry": {
+      "rationale": "Recommends the I-797C receipt and I-20 evidencing the proposed stay, citing (c)(8)(iii).",
+      "verdict": "yes"
+    },
+    "q4b_abandoned": {
+      "rationale": "States that departure while the change-of-status application is pending causes it to be considered abandoned.",
+      "verdict": "yes"
+    },
+    "q4b_cite": {
+      "rationale": "Cites 8 CFR 248.1(f), 91 FR 45131, in the final-rule context.",
+      "verdict": "yes"
+    },
+    "q4_cite": {
+      "rationale": "Both parts have precise regulatory and FR page citations.",
+      "verdict": "no"
+    },
+    "q4_fab": {
+      "rationale": "No invented source or quotation appears.",
+      "verdict": "no"
+    }
+  },
+  "Q5": {
+    "q5_p_f5iiA": {
+      "rationale": "Describes the graduate mid-program transfer prohibition and SEVP exception, applying it to Mei before completion.",
+      "verdict": "yes"
+    },
+    "q5_p_f5iiB": {
+      "rationale": "Uses higher-level progression under (f)(5)(ii)(B) to support her master's-to-PhD transfer.",
+      "verdict": "yes"
+    },
+    "q5_p_f8iB2": {
+      "rationale": "Identifies completed-degree transfer eligibility and applies it to post-completion transfer.",
+      "verdict": "yes"
+    },
+    "q5_p_f8iC": {
+      "rationale": "Identifies the not-currently-in-graduate-study condition and explains its stricter-reading problem.",
+      "verdict": "yes"
+    },
+    "q5_p_f8iD": {
+      "rationale": "States the first-academic-year requirement and finds it met by her study at initial-I-20 School A since August 2025.",
+      "verdict": "yes"
+    },
+    "q5_p_f8iG": {
+      "rationale": "For the proposed post-completion transfer, calculates May 14 plus five months as October 14 and finds August 23 inside the window.",
+      "verdict": "yes"
+    },
+    "q5_p_f8ii_iii": {
+      "rationale": "Identifies the transfer procedure and explains that (iii) permits change of level through the (ii) transfer procedures.",
+      "verdict": "yes"
+    },
+    "q5_p_extension": {
+      "rationale": "Explains that (f)(8)(iv) and 214.1(m)(1) require an extension for the PhD beyond her transition stay.",
+      "verdict": "yes"
+    },
+    "q5_p_f5iiE": {
+      "rationale": "Identifies DHS's delay or suspension authority under (f)(5)(ii)(E).",
+      "verdict": "yes"
+    },
+    "q5_tension_identified": {
+      "rationale": "Contrasts the graduate-transfer bars with completed-degree eligibility and higher-level progression provisions.",
+      "verdict": "yes"
+    },
+    "q5_best_reading": {
+      "rationale": "Concludes a post-completion transfer to the higher-level PhD is permitted, supported by a coherent reading of the interacting provisions.",
+      "verdict": "yes"
+    },
+    "q5_flag": {
+      "rationale": "Expressly warns that the text does not clearly exclude completed graduate students from the bar and allows a stricter reading.",
+      "verdict": "yes"
+    },
+    "q5_no_notice": {
+      "rationale": "Reports no FR delay or suspension notice through November 14, 2026.",
+      "verdict": "yes"
+    },
+    "q5_delay_mechanism": {
+      "rationale": "Gives September 14, 2028, FR notification, and SEVP website announcement requirements.",
+      "verdict": "yes"
+    },
+    "q5_cite": {
+      "rationale": "The analysis identifies the relevant CFR paragraphs and the final-rule document and pages.",
+      "verdict": "no"
+    },
+    "q5_fab": {
+      "rationale": "No invented source appears. Tool checks also confirm the additional severability provisions in (f)(20) and 214.1(m)(4).",
+      "verdict": "no"
+    }
+  },
+  "Q6": {
+    "q6a_no": {
+      "rationale": "Concludes that neither transfer nor departure and re-entry can provide F-1 status for this MBA.",
+      "verdict": "yes"
+    },
+    "q6a_rule": {
+      "rationale": "Correctly applies the post-September-15 completion and same-level bar in (f)(5)(ii)(C).",
+      "verdict": "yes"
+    },
+    "q6a_both_routes": {
+      "rationale": "Explicitly explains why 'be admitted' also bars re-entry using a new I-20.",
+      "verdict": "yes"
+    },
+    "q6b_no": {
+      "rationale": "Says August 2027 also fails the five-month transfer timing rule.",
+      "verdict": "yes"
+    },
+    "q6b_date": {
+      "rationale": "Calculates December 11 plus five months as May 11, 2027 and states the earlier-transfer-out qualification.",
+      "verdict": "yes"
+    },
+    "q6c": {
+      "rationale": "Calculates December 11, 2026 plus 60 days as February 9, 2027 under 214.1(m)(1).",
+      "verdict": "yes"
+    },
+    "q6d_power": {
+      "rationale": "Explains delay or suspension through September 14, 2028 with both FR and SEVP website announcements.",
+      "verdict": "yes"
+    },
+    "q6d_none": {
+      "rationale": "States that no such FR notice was found as of November 14, 2026.",
+      "verdict": "yes"
+    },
+    "q6_cite": {
+      "rationale": "All substantive conclusions have relevant regulatory citations.",
+      "verdict": "no"
+    },
+    "q6_fab": {
+      "rationale": "No invented source or attributed statement appears.",
+      "verdict": "no"
+    }
+  },
+  "Q7": {
+    "q7a_proclamation": {
+      "rationale": "Identifies Proclamation 11069, its September 18 signing date, 91 FR 60497, and document 2026-19554 in the basis.",
+      "verdict": "yes"
+    },
+    "q7a_dates": {
+      "rationale": "Gives 12:01 a.m. EDT September 21, 2026 and September 21, 2027 expiration absent extension.",
+      "verdict": "yes"
+    },
+    "q7a_related": {
+      "rationale": "Identifies Executive Order 14431 and Proclamation 10973, explaining that the latter is continued; the original proclamation's FR document is supplied in the basis.",
+      "verdict": "yes"
+    },
+    "q7b_text": {
+      "rationale": "Excludes Lena's in-country change of status based on the entry and currently-outside-the-U.S. language.",
+      "verdict": "yes"
+    },
+    "q7b_reach": {
+      "rationale": "Explains that being outside the United States or seeking H-1B admission to effectuate approval could bring her within the restriction.",
+      "verdict": "yes"
+    },
+    "q7b_flag": {
+      "rationale": "The conclusion is categorical. The uncertainty field addresses only discretionary national-interest exceptions, not uncertainty in the in-country interpretation or implementation.",
+      "verdict": "no"
+    },
+    "q7c_nprm": {
+      "rationale": "Identifies 2026-17324, 91 FR 54817, as proposing $103,265 for cap-subject petitions including advanced-degree-exemption petitions.",
+      "verdict": "yes"
+    },
+    "q7c_lena": {
+      "rationale": "Correctly excludes Lena's cap-exempt university petition from the proposed fee.",
+      "verdict": "yes"
+    },
+    "q7c_status": {
+      "rationale": "Reports proposed status and the correction identifier, but does not identify the correction's replacement of Table 13 or confirm that the fee is unchanged.",
+      "verdict": "no"
+    },
+    "q7c_comments": {
+      "rationale": "Gives September 24, 2026 as the comment deadline.",
+      "verdict": "yes"
+    },
+    "q7d_no": {
+      "rationale": "Concludes there is no automatic F-1 bridge to her July 1 H-1B start.",
+      "verdict": "yes"
+    },
+    "q7d_capgap": {
+      "rationale": "Cites the current (f)(5)(vii) and explains its INA 214(g)(1)(A), cap-subject limitation.",
+      "verdict": "yes"
+    },
+    "q7e": {
+      "rationale": "States abandonment under 8 CFR 248.1(f).",
+      "verdict": "yes"
+    },
+    "q7_cite": {
+      "rationale": "The material assertions are supported with proclamation sections, FR documents, and CFR paragraphs.",
+      "verdict": "no"
+    },
+    "q7_fab": {
+      "rationale": "The deficiencies concern uncertainty and incomplete correction research, not invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q8": {
+    "q8a_doc": {
+      "rationale": "Identifies 2026-18631, 91 FR 57807, and removal of 214.1(l)(2).",
+      "verdict": "yes"
+    },
+    "q8a_scope": {
+      "rationale": "Lists all eight covered employment classifications, their dependents, and cessation of employment as the trigger.",
+      "verdict": "yes"
+    },
+    "q8b_status": {
+      "rationale": "Clearly labels the measure proposed, not final or in force.",
+      "verdict": "yes"
+    },
+    "q8b_deadline": {
+      "rationale": "Gives the now-past November 10, 2026 comment deadline.",
+      "verdict": "yes"
+    },
+    "q8c": {
+      "rationale": "Distinguishes Priya's 214.1(m)(1) departure period from the targeted employment grace period.",
+      "verdict": "yes"
+    },
+    "q8d": {
+      "rationale": "Explains potential relevance to Lena after obtaining H-1B status while excluding the students' present F-1 periods.",
+      "verdict": "yes"
+    },
+    "q8_cite": {
+      "rationale": "Supplies the relevant NPRM, final rule, provisions, and page locations.",
+      "verdict": "no"
+    },
+    "q8_fab": {
+      "rationale": "No invented source or quotation appears.",
+      "verdict": "no"
+    }
+  },
+  "Q9": {
+    "q9_valid_1": {
+      "rationale": "Counted five clear qualifying changes: graduate-transfer exception (A), prospective same/lower-level bar (C), limited delay authority (E), early-completion rule (v), and OPT start-date limit (f)(11)(i)(D).",
+      "verdict": "yes"
+    },
+    "q9_valid_2": {
+      "rationale": "The five counted changes are the graduate-transfer exception, prospective same/lower-level bar, limited delay authority, early-completion rule, and OPT start-date limit.",
+      "verdict": "yes"
+    },
+    "q9_valid_3": {
+      "rationale": "The five counted changes are the graduate-transfer exception, prospective same/lower-level bar, limited delay authority, early-completion rule, and OPT start-date limit.",
+      "verdict": "yes"
+    },
+    "q9_valid_4": {
+      "rationale": "The five counted changes are the graduate-transfer exception, prospective same/lower-level bar, limited delay authority, early-completion rule, and OPT start-date limit.",
+      "verdict": "yes"
+    },
+    "q9_valid_5": {
+      "rationale": "The five counted changes are the graduate-transfer exception, prospective same/lower-level bar, limited delay authority, early-completion rule, and OPT start-date limit, each tied to a final paragraph.",
+      "verdict": "yes"
+    },
+    "q9_located_1": {
+      "rationale": "All five counted changes—graduate exception, prospective bar, delay limit, early completion, and OPT start limit—are accurately located in Section V.A at 91 FR 45097.",
+      "verdict": "yes"
+    },
+    "q9_located_2": {
+      "rationale": "All five counted changes—graduate exception, prospective bar, delay limit, early completion, and OPT start limit—have accurate Section V.A locations.",
+      "verdict": "yes"
+    },
+    "q9_located_3": {
+      "rationale": "All five counted changes—graduate exception, prospective bar, delay limit, early completion, and OPT start limit—have accurate Section V.A locations.",
+      "verdict": "yes"
+    },
+    "q9_located_4": {
+      "rationale": "All five counted changes—graduate exception, prospective bar, delay limit, early completion, and OPT start limit—have accurate Section V.A locations.",
+      "verdict": "yes"
+    },
+    "q9_located_5": {
+      "rationale": "All five counted changes—graduate exception, prospective bar, delay limit, early completion, and OPT start limit—have accurate Section V.A locations at 91 FR 45097.",
+      "verdict": "yes"
+    },
+    "q9_cite": {
+      "rationale": "Every listed change is tied to a regulatory paragraph and preamble location.",
+      "verdict": "no"
+    },
+    "q9_fab": {
+      "rationale": "The counted changes and cited sources are genuine.",
+      "verdict": "no"
+    }
+  },
+  "Q10": {
+    "q10_entry_1": {
+      "rationale": "Counted four complete entries: 2026-20660 (OPT fees), 2026-17324 (H-1B fee), 2026-19554 (entry restriction), and 2026-18631 (employment grace period), with correct types, dates, and effects.",
+      "verdict": "yes"
+    },
+    "q10_entry_2": {
+      "rationale": "Counted 2026-20660, 2026-17324, 2026-19554, and 2026-18631; each has the correct document number, type, publication date, and effect.",
+      "verdict": "yes"
+    },
+    "q10_entry_3": {
+      "rationale": "Counted 2026-20660, 2026-17324, 2026-19554, and 2026-18631; each has the correct document number, type, publication date, and effect.",
+      "verdict": "yes"
+    },
+    "q10_entry_4": {
+      "rationale": "Counted 2026-20660, 2026-17324, 2026-19554, and 2026-18631; all four satisfy the entry requirements without needing the additional entries.",
+      "verdict": "yes"
+    },
+    "q10_status_1": {
+      "rationale": "All four counted entries have correct status: 20660, 17324, and 18631 are proposed; 19554 is in force.",
+      "verdict": "yes"
+    },
+    "q10_status_2": {
+      "rationale": "All four counted entries have correct status: 20660, 17324, and 18631 are proposed; 19554 is in force.",
+      "verdict": "yes"
+    },
+    "q10_status_3": {
+      "rationale": "All four counted entries have correct status: 20660, 17324, and 18631 are proposed; 19554 is in force.",
+      "verdict": "yes"
+    },
+    "q10_status_4": {
+      "rationale": "All four counted entries have correct status: 20660, 17324, and 18631 are proposed; 19554 is in force.",
+      "verdict": "yes"
+    },
+    "q10_irrelevant_1": {
+      "rationale": "No irrelevant documents are listed; all six entries are among the key's relevant landscape documents.",
+      "verdict": "no"
+    },
+    "q10_irrelevant_2": {
+      "rationale": "Zero irrelevant entries are counted; the six listed documents all have recognized relevance.",
+      "verdict": "no"
+    },
+    "q10_irrelevant_3": {
+      "rationale": "Zero irrelevant entries are counted.",
+      "verdict": "no"
+    },
+    "q10_cite": {
+      "rationale": "Each entry includes an FR document number and citation.",
+      "verdict": "no"
+    },
+    "q10_fab": {
+      "rationale": "The listed sources are real. Tool metadata confirms 2026-20955 finalizes the earlier EAD-extension IFR; scope qualifications are interpretive issues, not fabrication.",
+      "verdict": "no"
+    }
+  },
+  "Q11": {
+    "q11_fee": {
+      "rationale": "Does not report the commenter's $420 figure at 91 FR 45055; instead incorrectly says no dollar amount appears in the final rule.",
+      "verdict": "no"
+    },
+    "q11_commenter_time": {
+      "rationale": "Provides no commenter processing-time figure.",
+      "verdict": "no"
+    },
+    "q11_dhs_time": {
+      "rationale": "Omits DHS's statement that 80 percent of F, M, and J I-539 adjudications are completed in three months.",
+      "verdict": "no"
+    },
+    "q11_handout_sources": {
+      "rationale": "The handout supplies neither requested fee nor processing-time figures, so it does not provide correctly sourced figures for the handout.",
+      "verdict": "no"
+    },
+    "q11_handout_caveat": {
+      "rationale": "Both handout sentences emphasize that the rule sets no fee amount and guarantees no processing time.",
+      "verdict": "yes"
+    },
+    "q11_handout_no_misattribution": {
+      "rationale": "The handout attributes no commenter figures to DHS or the rule.",
+      "verdict": "yes"
+    },
+    "q11_cite": {
+      "rationale": "The claims it does make have regulatory or FR page citations.",
+      "verdict": "no"
+    },
+    "q11_fab": {
+      "rationale": "The omissions and false absence claim are not invented sources. Tool checks confirm the additional $233 DSO cost and $443.1–$448.6 million annualized figures appear in the rule.",
+      "verdict": "no"
+    }
+  },
+  "Q12": {
+    "q12a_text": {
+      "rationale": "Identifies 214.1(m)(1) and the authorized-stay framework, contrasting it with the general 30-day wording in (f)(7)(iii)(B).",
+      "verdict": "yes"
+    },
+    "q12a_reading": {
+      "rationale": "Concludes receipt by July 14, 2027 is timely because the transition authorization includes 60 days.",
+      "verdict": "yes"
+    },
+    "q12a_flag": {
+      "rationale": "Expressly says the transition 60-day authorization and general 30-day timeliness text are not expressly reconciled and calls its answer the most defensible reading.",
+      "verdict": "yes"
+    },
+    "q12b_text": {
+      "rationale": "Treats the employment forfeiture as applying to 'the departure period' generally. It does not identify (viii)'s specific 30-day/I-94 limitation or quote (m)(1)'s employment-end sentence.",
+      "verdict": "no"
+    },
+    "q12b_reading": {
+      "rationale": "Concludes that filing after May 15 produces no automatic extension of on-campus or CPT employment, citing the closest employment provisions.",
+      "verdict": "yes"
+    },
+    "q12b_flag": {
+      "rationale": "Does not specifically flag the regulatory gap concerning transition-group work-extension forfeiture; its uncertainty discussion concerns timeliness reconciliation.",
+      "verdict": "no"
+    },
+    "q12_recommendation": {
+      "rationale": "Recommends filing before May 15 rather than waiting until July 14 and emphasizes USCIS receipt.",
+      "verdict": "yes"
+    },
+    "q12_cite": {
+      "rationale": "The answer supplies the relevant CFR paragraphs and FR locations.",
+      "verdict": "no"
+    },
+    "q12_fab": {
+      "rationale": "The employment error overextends real provisions; it does not invent a source.",
+      "verdict": "no"
+    }
+  },
+  "Q13": {
+    "q13a_date": {
+      "rationale": "Calculates May 14, 2027 plus 30 days as June 13, 2027.",
+      "verdict": "yes"
+    },
+    "q13a_basis": {
+      "rationale": "Explains conversion from transition treatment upon travel and readmission, citing fixed-admission provisions and the preamble.",
+      "verdict": "yes"
+    },
+    "q13b_yes": {
+      "rationale": "Requires both forms because departure preceded the OPT filing, applying 214.1(m)(1)(ii).",
+      "verdict": "yes"
+    },
+    "q13b_deadline": {
+      "rationale": "Gives June 13, 2027 as the USCIS receipt deadline under (f)(7)(iii)(B).",
+      "verdict": "yes"
+    },
+    "q13c_date": {
+      "rationale": "Calculates June 9, 2028 plus 30 days as July 9, 2028.",
+      "verdict": "yes"
+    },
+    "q13d_no_i539": {
+      "rationale": "On the no-December-travel alternative, applies the exemption to the February 22 filing before departure and separately addresses travel while that application is pending.",
+      "verdict": "yes"
+    },
+    "q13d_admission": {
+      "rationale": "Applies (m)(1)(ii)'s last sentence and (a)(4)(iii) to admission through the DSO-recommended end date plus 30 days, July 9, 2028.",
+      "verdict": "yes"
+    },
+    "q13d_documents": {
+      "rationale": "Specifies the I-797C for the I-765 and the latest I-20 showing the OPT recommendation.",
+      "verdict": "yes"
+    },
+    "q13_cite": {
+      "rationale": "The material conclusions have regulatory and FR citations.",
+      "verdict": "no"
+    },
+    "q13_fab": {
+      "rationale": "No invented source appears; the analysis relies on real transition and admission provisions.",
+      "verdict": "no"
+    }
+  },
+  "Q14": {
+    "q14a_id": {
+      "rationale": "Identifies 2026-20660, Optional Practical Training Fees, 91 FR 64566, as an NPRM.",
+      "verdict": "yes"
+    },
+    "q14a_docket": {
+      "rationale": "Gives ICEB-2026-0100 and RIN 1653-AB01.",
+      "verdict": "yes"
+    },
+    "q14a_status": {
+      "rationale": "Gives the November 9 comment deadline and states that, as of November 14, the measure is proposed, not final or in force.",
+      "verdict": "yes"
+    },
+    "q14a_pra": {
+      "rationale": "Provides the separate, still-future December 7 information-collection comment deadline.",
+      "verdict": "yes"
+    },
+    "q14b_amount": {
+      "rationale": "Incorrectly selects $30,000 rather than $70,000.",
+      "verdict": "no"
+    },
+    "q14b_basis": {
+      "rationale": "Recites the prior-$70,000-payment condition but fails to apply it to Daniel, who has never paid that fee.",
+      "verdict": "no"
+    },
+    "q14c_who_when": {
+      "rationale": "Identifies the SEVP-certified school as payer before the DSO enters the recommendation in SEVIS.",
+      "verdict": "yes"
+    },
+    "q14c_consequence": {
+      "rationale": "States that the DSO cannot enter the recommendation and USCIS cannot grant authorization without payment.",
+      "verdict": "yes"
+    },
+    "q14c_refund": {
+      "rationale": "Describes discretionary case-by-case refunds only before EAD issuance, removal of the recommendation, and no refund after issuance.",
+      "verdict": "yes"
+    },
+    "q14d_timing": {
+      "rationale": "Gives both the 60-days-after-final-publication effective date and the on-or-after recommendation-date trigger, excluding earlier recommendations.",
+      "verdict": "yes"
+    },
+    "q14e_i539": {
+      "rationale": "Requires both I-765 and I-539 because April 12 is after the March 18 exemption cutoff.",
+      "verdict": "yes"
+    },
+    "q14e_pending": {
+      "rationale": "Explicitly states that a pending STEM application permits up to 180 days of work after EAD expiration. Its additional general approvals caveat also appears in the cited preamble at 91 FR 45024.",
+      "verdict": "yes"
+    },
+    "q14e_approved": {
+      "rationale": "Gives August 29, 2029 using 60 days and leaves the conflict unresolved, rather than concluding fixed-date stay through the STEM end date plus 30 days.",
+      "verdict": "no"
+    },
+    "q14_cite": {
+      "rationale": "The answer provides document, proposed-paragraph, and final-rule citations.",
+      "verdict": "no"
+    },
+    "q14_fab": {
+      "rationale": "The $30,000 and 60-day errors misapply real provisions. Tool text confirms the additional STEM/approval caveat at 91 FR 45024; it is not fabricated.",
+      "verdict": "no"
+    }
+  },
+  "Q15": {
+    "q15_1_text": {
+      "rationale": "Rejects the program-end receipt deadline and gives the authorized-stay deadline including the 30 days under (f)(7)(iii)(B).",
+      "verdict": "yes"
+    },
+    "q15_1_conflict": {
+      "rationale": "Does not locate the conflicting leave-of-absence preamble statement at 91 FR 45048.",
+      "verdict": "no"
+    },
+    "q15_2": {
+      "rationale": "Rejects counting from entry, cites counting from the program start, and excludes the arrival/departure periods.",
+      "verdict": "yes"
+    },
+    "q15_3": {
+      "rationale": "Calls the statement correct and affirms the split between continuing authorized stay pending decision and the 240-day employment ceiling.",
+      "verdict": "yes"
+    },
+    "q15_4_verdict": {
+      "rationale": "Treats the specific 24-month ELT cap as controlling and rejects an illness-based extension beyond it.",
+      "verdict": "yes"
+    },
+    "q15_4_preamble": {
+      "rationale": "Does not identify DHS's explicit illness/disability/emergency discussion at 91 FR 45039.",
+      "verdict": "no"
+    },
+    "q15_5": {
+      "rationale": "Rejects a shortening/two-I-20 requirement and mentions EOS, but does not affirm that the I-20 states the full program length or give the pre-expiration filing requirement.",
+      "verdict": "no"
+    },
+    "q15_6_verdict": {
+      "rationale": "Treats travel and CBP readmission as an alternative to USCIS EOS, citing the preamble's 'not both' explanation.",
+      "verdict": "yes"
+    },
+    "q15_6_caveat": {
+      "rationale": "Warns that a pending EOS may be deemed abandoned when seeking a longer admission under (c)(8)(ii).",
+      "verdict": "yes"
+    },
+    "q15_7_verdict": {
+      "rationale": "Corrects March 15 to the regulatory March 18, 2027 cutoff.",
+      "verdict": "yes"
+    },
+    "q15_7_conflict": {
+      "rationale": "Does not locate the six-month wording at 91 FR 45033 or 45034. The separate I-9 discussion does not satisfy this requirement.",
+      "verdict": "no"
+    },
+    "q15_cite": {
+      "rationale": "The statements are generally accompanied by specific provisions and FR locations.",
+      "verdict": "no"
+    },
+    "q15_fab": {
+      "rationale": "The deficiencies are omitted passages and incomplete explanations, not invented authorities.",
+      "verdict": "no"
+    }
+  },
+  "Q16": {
+    "q16a_date": {
+      "rationale": "Calculates August 23, 2027 plus four years, then 30 days, as September 22, 2031.",
+      "verdict": "yes"
+    },
+    "q16a_basis": {
+      "rationale": "Explicitly counts from program start rather than August 2 entry and excludes the arrival/departure periods.",
+      "verdict": "yes"
+    },
+    "q16b_eos": {
+      "rationale": "Identifies I-539, the remaining-program ground, and supporting items, but does not state the required receipt deadline before authorized stay expires.",
+      "verdict": "no"
+    },
+    "q16b_early": {
+      "rationale": "States that no earliest filing date is imposed and cites the preamble footnote and six-month encouragement.",
+      "verdict": "yes"
+    },
+    "q16b_until": {
+      "rationale": "Calculates May 14, 2033 plus 30 days as June 13, 2033 under (f)(7)(vi).",
+      "verdict": "yes"
+    },
+    "q16c_result": {
+      "rationale": "Explains that an incidental master's does not turn continuing the higher-level PhD into a prohibited same/lower-level program.",
+      "verdict": "yes"
+    },
+    "q16c_preamble": {
+      "rationale": "Does not locate the explicit incidental-master's discussion at 91 FR 45042–45043.",
+      "verdict": "no"
+    },
+    "q16d_reading": {
+      "rationale": "Incorrectly says the unchanged I-20 necessarily reproduces the 2031 cap and still requires EOS, rather than recognizing possible admission through June 13, 2033.",
+      "verdict": "no"
+    },
+    "q16d_flag": {
+      "rationale": "Expressly gives only moderate certainty and says the text does not expressly address continuing-student readmission on the unchanged long I-20.",
+      "verdict": "yes"
+    },
+    "q16e_stay": {
+      "rationale": "States that the husband's later I-94 cannot authorize stay beyond Lin's period.",
+      "verdict": "yes"
+    },
+    "q16e_fee": {
+      "rationale": "Identifies inclusion or separate filing, but omits the one-fee-through-I-539A versus separate-I-539-fee explanation at 91 FR 45110.",
+      "verdict": "no"
+    },
+    "q16_cite": {
+      "rationale": "The answer supplies extensive CFR and FR citations despite several substantive omissions and one wrong inference.",
+      "verdict": "no"
+    },
+    "q16_fab": {
+      "rationale": "No invented source appears. Tool checks confirm the family-unit provision and earliest-filing footnote; the readmission error misinterprets real text.",
+      "verdict": "no"
+    }
+  },
+  "rubric_feedback": "For Q14(e), 91 FR 45024 expressly contains both the unchanged 180-day STEM OPT continuation statement and the general statement that OPT employment may begin or continue only after EOS and employment authorization approval absent specified relief. The submission repeats both. I credited its explicit 180-day statement under q14e_pending; the key could acknowledge this potentially confusing preamble qualification."
+}
