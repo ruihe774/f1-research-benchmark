@@ -25,17 +25,18 @@ import pydantic
 from dotenv import load_dotenv
 from pydantic import BaseModel, Field
 
-import fr_tool
-
 ROOT = Path(__file__).resolve().parent
+# OPENAI_API_KEY and, optionally, OPENAI_BASE_URL and FR_TOOL_CACHE come from
+# .env. Neither the SDK nor fr_tool reads .env files, and fr_tool reads its
+# settings when imported, so load it first.
+load_dotenv(ROOT / ".env")
+
+import fr_tool  # noqa: E402
+
 TASK_PATH = ROOT / "TASK.md"
 ANSWER_KEY_PATH = ROOT / "ANSWER_KEY.md"
 RUBRIC_PATH = ROOT / "rubric.toml"
 RUNS_DIR = ROOT / "runs"
-
-# OPENAI_API_KEY and (optionally) OPENAI_BASE_URL come from .env. The SDK reads
-# them from the process environment but does not read .env files itself.
-load_dotenv(ROOT / ".env")
 
 # "Today" in TASK.md. The tools hide every document published after it, so a
 # run gives the same Federal Register whenever it is made.
@@ -104,7 +105,9 @@ class FrTocArgs(BaseModel):
 
 class FrGrepArgs(BaseModel):
     document_number: str = Field(description="FR document number.")
-    pattern: str = Field(description="Python regular expression, matched line by line.")
+    pattern: str = Field(
+        description="Python regular expression, searched over the whole text (a match may "
+        "span lines). ^ and $ match at line boundaries; . does not match a newline.")
     ignore_case: bool | None = Field(description="Case-insensitive match (default false).")
     context: int | None = Field(
         description="Lines of context around each match (default 2, at most %d)."
@@ -183,8 +186,8 @@ FR_TOOLS = [
          "Outline of a document's full text: headings with line numbers. " + _HINTS,
          FrTocArgs, _run_toc),
     Tool("fr_grep",
-         "Regex search inside one document's full text. Shows matching lines with "
-         "line numbers, context lines and the FR page of each match. " + _HINTS,
+         "Regex search inside one document's full text. Shows the lines of each match "
+         "with line numbers, context lines and the FR page of each match. " + _HINTS,
          FrGrepArgs, _run_grep),
     Tool("fr_text",
          "Read a document's full text by line range, with line numbers. "

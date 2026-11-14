@@ -14,7 +14,8 @@ Commands
            CFR parts affected, docket, RIN, corrections, page range...).
   toc      Show an outline (headings with line numbers) of a document's text.
   text     Print a document's full text, by line range, with line numbers.
-  grep     Regex search inside one document's full text, with context.
+  grep     Regex search inside one document's full text, with context. The
+           regex runs over the whole text, so a match may span lines.
 
 Examples
 --------
@@ -50,6 +51,7 @@ They raise FRToolError (instead of exiting) on bad input or failed downloads.
 """
 
 import argparse
+import bisect
 import datetime
 import hashlib
 import html
@@ -508,33 +510,53 @@ def toc(document_number, max_entries=400):
 
 
 def grep(document_number, pattern, ignore_case=False, context=2, max_matches=25):
-    """Regex search within a document's full text, with context lines."""
+    """Regex search within a document's full text, with context lines.
+
+    The pattern is run, as written, against the whole document rather than
+    line by line, so it can match across line breaks (the text is hard-wrapped)
+    if it allows for them, e.g. with `\\s+`. `^` and `$` anchor at line
+    boundaries (re.MULTILINE) and `.` does not match a newline. Empty matches
+    are ignored.
+    """
     try:
-        rx = re.compile(pattern, re.IGNORECASE if ignore_case else 0)
+        rx = re.compile(pattern, re.MULTILINE | (re.IGNORECASE if ignore_case else 0))
     except re.error as e:
         raise FRToolError("Bad regex: %s" % e) from None
-    lines = get_full_text(document_number).split("\n")
+    text = get_full_text(document_number)
+    lines = text.split("\n")
+    starts = [0]
+    for ln in lines[:-1]:
+        starts.append(starts[-1] + len(ln) + 1)
     context = max(0, context)
-    hits = [i for i, ln in enumerate(lines) if rx.search(ln)]
-    out = ["[%d matching line(s) for /%s/ in %s (%d lines)]"
+    # (first line, last line) of each match, not counting whitespace at its edges.
+    hits = []
+    for m in rx.finditer(text):
+        a, b = m.start(), m.end()
+        if a == b:
+            continue
+        found = m.group()
+        if found.strip():
+            a, b = a + len(found) - len(found.lstrip()), a + len(found.rstrip())
+        hits.append((bisect.bisect_right(starts, a) - 1, bisect.bisect_right(starts, b - 1) - 1))
+    out = ["[%d match(es) for /%s/ in %s (%d lines)]"
            % (len(hits), pattern, document_number, len(lines))]
-    shown, last_end = 0, -1
-    for i in hits:
-        if shown >= max_matches:
-            out.append("[... %d more matches; raise --max or narrow the pattern]"
-                       % (len(hits) - shown))
-            break
-        lo, hi = max(0, i - context), min(len(lines), i + context + 1)
+    matched = set()
+    for first, last in hits[:max_matches]:
+        matched.update(range(first, last + 1))
+    last_end = -1
+    for first, last in hits[:max_matches]:
+        lo, hi = max(0, first - context), min(len(lines), last + context + 1)
         if lo <= last_end:
             lo = last_end + 1
         else:
-            pg = _page_at(lines, i)
+            pg = _page_at(lines, first)
             out.append("--" + (" (FR page %s)" % pg if pg else ""))
         for j in range(lo, hi):
-            mark = ">" if j == i or rx.search(lines[j]) else " "
-            out.append("%6d%s %s" % (j + 1, mark, lines[j]))
-        last_end = hi - 1
-        shown += 1
+            out.append("%6d%s %s" % (j + 1, ">" if j in matched else " ", lines[j]))
+        last_end = max(last_end, hi - 1)
+    if len(hits) > max_matches:
+        out.append("[... %d more matches; raise --max or narrow the pattern]"
+                   % (len(hits) - max_matches))
     return "\n".join(out)
 
 
@@ -616,7 +638,8 @@ def main(argv=None):
 
     g = sub.add_parser("grep", help="regex search within a document's full text")
     g.add_argument("document_number")
-    g.add_argument("pattern", help="Python regular expression")
+    g.add_argument("pattern", help="Python regular expression, searched over the whole "
+                   "text: ^ and $ match at line boundaries, . does not match a newline")
     g.add_argument("-i", "--ignore-case", action="store_true")
     g.add_argument("--context", type=int, default=2, help="lines of context (default 2)")
     g.add_argument("--max", type=int, default=25, help="max matches shown (default 25)")
