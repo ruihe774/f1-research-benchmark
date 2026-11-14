@@ -396,9 +396,16 @@ def _brief_args(arguments: str, limit: int = 160) -> str:
     return s if len(s) <= limit else s[:limit] + "..."
 
 
-def provider_extra_body(provider: str) -> dict:
-    """OpenRouter provider routing: only this provider, no fallbacks."""
-    return {"provider": {"only": [provider], "allow_fallbacks": False}}
+def request_extra_body(model: str, provider: str | None) -> dict:
+    """OpenRouter extras: provider routing (only this provider, no fallbacks), and
+    automatic prompt caching for Anthropic models, which OpenRouter does not enable
+    by itself (without it every turn is billed as uncached input)."""
+    body = {}
+    if provider:
+        body["provider"] = {"only": [provider], "allow_fallbacks": False}
+    if model.startswith("anthropic/"):
+        body["cache_control"] = {"type": "ephemeral"}
+    return body
 
 
 def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
@@ -434,8 +441,9 @@ def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
     )
     if reasoning:
         request["reasoning"] = reasoning
-    if provider:
-        request["extra_body"] = provider_extra_body(provider)
+    extra_body = request_extra_body(model, provider)
+    if extra_body:
+        request["extra_body"] = extra_body
     nudges = 0
     limit = None  # the limit reached, once the final answer has been asked for
     context = 0  # estimated input tokens of the next request
@@ -627,8 +635,7 @@ def static_request(tools: list[Tool], text_format: type[BaseModel],
         "tools": [t.param() for t in tools],
         "text": {"format": type_to_text_format_param(text_format)},
     }
-    if a.provider:
-        request.update(provider_extra_body(a.provider))
+    request.update(request_extra_body(a.model, a.provider))
     return request
 
 
