@@ -395,7 +395,7 @@ def _brief_args(arguments: str, limit: int = 160) -> str:
 def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
               reasoning_summary: str, input_items: list, tools: list[Tool],
               text_format: type[BaseModel], transcript: Transcript, max_turns: int,
-              context_budget: int, prompt_cache_options: dict) -> AgentResult:
+              context_budget: int) -> AgentResult:
     """Drive a stateless tool-calling loop until the model returns a parsed answer.
 
     Every request carries the full history: the initial input plus every output
@@ -420,7 +420,6 @@ def run_agent(client: openai.OpenAI, *, model: str, effort: str | None,
         text_format=text_format,
         max_output_tokens=MAX_OUTPUT_TOKENS,
         store=False,
-        prompt_cache_options=prompt_cache_options,
     )
     if reasoning:
         request["reasoning"] = reasoning
@@ -593,8 +592,8 @@ def agent_config(a: argparse.Namespace, client: openai.OpenAI) -> dict:
     }
 
 
-def static_request(tools: list[Tool], text_format: type[BaseModel], a: argparse.Namespace,
-                   prompt_cache_options: dict) -> dict:
+def static_request(tools: list[Tool], text_format: type[BaseModel],
+                   a: argparse.Namespace) -> dict:
     """The request fields that are identical on every turn, for the transcript."""
     from openai.lib._parsing._responses import type_to_text_format_param
     return {
@@ -602,7 +601,6 @@ def static_request(tools: list[Tool], text_format: type[BaseModel], a: argparse.
         "reasoning": {"effort": a.effort, "summary": a.reasoning_summary},
         "max_output_tokens": MAX_OUTPUT_TOKENS,
         "store": False,
-        "prompt_cache_options": prompt_cache_options,
         "tools": [t.param() for t in tools],
         "text": {"format": type_to_text_format_param(text_format)},
     }

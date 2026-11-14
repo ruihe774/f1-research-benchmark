@@ -25,8 +25,6 @@ from pydantic import BaseModel, Field, create_model
 
 import harness_common as hc
 
-PROMPT_CACHE_OPTIONS = {"mode": "implicit"}
-
 
 class QuestionAnswer(BaseModel):
     answer: str = Field(description="Direct answer to each lettered part, in order, "
@@ -72,15 +70,14 @@ def main(argv=None) -> int:
                                            "task_file": str(hc.TASK_PATH)}
     transcript = hc.Transcript(
         out_dir / "transcript.json", "bench", config,
-        hc.static_request(hc.FR_TOOLS, Answer, a, PROMPT_CACHE_OPTIONS), initial_input)
+        hc.static_request(hc.FR_TOOLS, Answer, a), initial_input)
     hc.log("bench run %s -> %s" % (run_id, out_dir))
 
     try:
         result = hc.run_agent(
             client, model=a.model, effort=a.effort, reasoning_summary=a.reasoning_summary,
             input_items=initial_input, tools=hc.FR_TOOLS, text_format=Answer,
-            transcript=transcript, max_turns=a.max_turns, context_budget=a.context_budget,
-            prompt_cache_options=PROMPT_CACHE_OPTIONS)
+            transcript=transcript, max_turns=a.max_turns, context_budget=a.context_budget)
     except BaseException as e:
         transcript.finish("error", error="%s: %s" % (type(e).__name__, e))
         raise

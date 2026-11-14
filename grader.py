@@ -472,7 +472,6 @@ def main(argv=None) -> int:
     task_md = hc.read_text(hc.TASK_PATH)
     key_md = hc.read_text(hc.ANSWER_KEY_PATH)
     Verdicts = verdict_model(rubric)
-    cache_options = {"mode": "implicit"}
     initial_input = [
         # Stable prefix: identical for every submission graded with the same
         # task, key, rubric and settings. The explicit breakpoint ends it.
@@ -492,15 +491,14 @@ def main(argv=None) -> int:
     }
     transcript = hc.Transcript(
         out_dir / "transcript.json", "grader", config,
-        hc.static_request(hc.FR_TOOLS, Verdicts, a, cache_options), initial_input)
+        hc.static_request(hc.FR_TOOLS, Verdicts, a), initial_input)
     hc.log("grading %s -> %s" % (answer_path, out_dir))
 
     try:
         result = hc.run_agent(
             client, model=a.model, effort=a.effort, reasoning_summary=a.reasoning_summary,
             input_items=initial_input, tools=hc.FR_TOOLS, text_format=Verdicts,
-            transcript=transcript, max_turns=a.max_turns, context_budget=a.context_budget,
-            prompt_cache_options=cache_options)
+            transcript=transcript, max_turns=a.max_turns, context_budget=a.context_budget)
     except BaseException as e:
         transcript.finish("error", error="%s: %s" % (type(e).__name__, e))
         raise
