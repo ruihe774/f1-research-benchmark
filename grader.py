@@ -103,8 +103,32 @@ def load_rubric(path: Path) -> Rubric:
             criteria.append(Criterion(id="%s_%s" % (qid.lower(), p["suffix"]), question=qid,
                                       text=p["text"], kind="penalty", points=p["points"]))
     rubric = Rubric(questions, criteria, groups, ladders)
+    scale_questions(rubric, data)
     validate_rubric(rubric, data)
     return rubric
+
+
+def scale_questions(r: Rubric, data: dict) -> None:
+    """Rescale questions that declare `criteria_points`.
+
+    A question's criteria may be written on a different scale from the
+    question's weight: `criteria_points` is the total its criteria add up to,
+    `points` is what the question is worth. Every credit, penalty and group cap
+    of the question is multiplied by points / criteria_points, so the question
+    keeps its internal balance at a new weight.
+    """
+    for q in data["question"]:
+        written = q.get("criteria_points")
+        if written is None:
+            continue
+        if written <= 0:
+            raise ValueError("%s: criteria_points must be positive" % q["id"])
+        f = float(q["points"]) / float(written)
+        for c in r.for_question(q["id"]):
+            c.points *= f
+        for g in r.groups.values():
+            if g.question == q["id"] and g.cap is not None:
+                g.cap *= f
 
 
 def validate_rubric(r: Rubric, data: dict) -> None:

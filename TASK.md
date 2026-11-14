@@ -119,3 +119,44 @@ An adviser is preparing a student handout and wants to include what an extension
 ### Q12
 
 Priya (Q2) asks two questions: (a) If USCIS receives her I-539 during the 60 days after her I-20 program end date, is it timely? (b) If she files during those 60 days, does she keep the automatic extension of on-campus or CPT employment while it is pending? Answer each, with your basis, and give the adviser a recommendation.
+
+### Q13
+
+Sofia was admitted in F-1 status for "D/S" in August 2023 and was maintaining status on September 15, 2026. Her I-20 shows a bachelor's program end date of May 14, 2027. She flies home on December 19, 2026 and is readmitted in F-1 status on January 9, 2027 with the same I-20. Her DSO will recommend her for post-completion OPT, and she will file Form I-765 on February 22, 2027, requesting OPT from June 10, 2027 through June 9, 2028.
+
+(a) After her return, until what date is Sofia authorized to remain in the U.S. without filing anything? Name the provisions and show the arithmetic.
+(b) Does she need to file a Form I-539 for the OPT period? If so, by when must USCIS receive it?
+(c) If everything she files is approved as requested, until what date may she remain?
+(d) Alternative facts: Sofia does not travel in December. She files the I-765 on February 22, 2027, completes her program on May 14, 2027, and visits home from May 20 to June 5, 2027 while the I-765 is still pending. Does she need a Form I-539? For what period may she be readmitted, and what should she carry?
+
+### Q14
+
+Daniel (D/S transition group; he has not left the U.S. since his last admission) holds a post-completion OPT EAD valid from July 1, 2026 through June 30, 2027, based on a master's degree in a STEM field. His DSO expects to recommend him for the 24-month STEM OPT extension in April 2027, and he would file Form I-765 on April 12, 2027. An adviser has heard that OPT "will soon cost $70,000, or $30,000 for an extension".
+
+(a) Find the document behind this report. Give its document number, citation, type, agency, docket number, RIN and current status, including every deadline it sets.
+(b) Suppose it were finalized as proposed and in effect before the DSO's April 2027 recommendation. Which amount would apply to Daniel's STEM OPT extension? Explain from the text.
+(c) Under the proposal, who pays, at what point in the process, and what follows if the payment is not made? Is the payment refundable?
+(d) Under the proposal, from when would the fee apply? Is there any timing of the DSO's recommendation that would keep Daniel outside it?
+(e) Separately, under the rules in force today: what must Daniel file with USCIS for the STEM OPT period? What happens to his work authorization while it is pending, and until when may he stay if it is approved?
+
+### Q15
+
+An adviser has drafted seven statements about the final rule for a student newsletter. For each one, say whether it is correct, partly correct or incorrect, cite the provision or passage that decides it, and reword it if needed. Where the regulatory text and the preamble point in different directions, say so, say where, and say which controls.
+
+1. "USCIS must receive an extension-of-stay application before the program end date on the student's I-20."
+2. "The four-year maximum period of admission is counted from the day the student enters the United States."
+3. "If USCIS has still not decided a timely filed extension application 240 days after the I-94 date, the student may stay and keep studying but must stop any on-campus job."
+4. "A student in an English language training program who falls seriously ill can extend beyond 24 months on medical grounds."
+5. "A degree program accredited as a five-year program has to be shortened, or issued on two I-20s, to fit the four-year limit."
+6. "A student who travels abroad and is readmitted on an I-20 with a later program end date gets a new admission period from CBP, and then does not need an extension of stay from USCIS for that time."
+7. "The exemption from filing Form I-539 for OPT applicants covers I-765s filed within six months of the rule's effective date, so the last filing day is March 15, 2027."
+
+### Q16
+
+Lin will begin a six-year PhD program. Her I-20 shows a program start date of August 23, 2027 and a program end date of May 14, 2033. She enters the U.S. in F-1 status on August 2, 2027, together with her husband in F-2 status.
+
+(a) What admit-until date should Lin's I-94 show? Show the arithmetic.
+(b) What must she do to stay beyond that date, what does she submit, and on what ground can it be granted? How early may she file? If it is granted in full, until what date may she stay?
+(c) In 2029 her department awards her a master's degree on the way to the PhD. Does that affect her ability to finish the PhD in F-1 status under the rule's limits on programs at the same or a lower level?
+(d) In August 2030 Lin spends three weeks abroad and is readmitted on her I-20. No extension application is pending. For what period may she be admitted, and does she still need the filing in (b)? Say how certain the answer is.
+(e) Her husband travels separately in 2031, and his I-94 comes back with a later date than Lin's. Until when may he stay? How is he covered when Lin applies under (b), and what does the rule say about the fee?

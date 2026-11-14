@@ -14,48 +14,77 @@
 # another cannot count more than it. A "yes" that breaks either rule is scored
 # as "unclear" and the ladder is listed in the report for human review.
 # A question's score is (credits - penalties), clamped to [0, question points].
+# The per-question penalties below are scaled with Q1-Q12 like their credits.
 # For the headline score, "unclear" counts as "no". score_min / score_max
 # resolve every "unclear" against / in favour of the submission.
 #
 # Where this file and the point split in ANSWER_KEY.md differ, this file
 # decides the points. Criterion text should still be read with the key.
 
+# `points` is what the question is worth. Q1-Q12 were written on an earlier
+# scale: `criteria_points` is the total their criteria add up to, and grader.py
+# multiplies every credit, penalty and cap of the question by
+# points / criteria_points. Q13 onward are written directly in final points.
 [[question]]
 id = "Q1"
-points = 6
+points = 3
+criteria_points = 6
 [[question]]
 id = "Q2"
-points = 10
+points = 6
+criteria_points = 10
 [[question]]
 id = "Q3"
-points = 12
+points = 8
+criteria_points = 12
 [[question]]
 id = "Q4"
-points = 8
+points = 5
+criteria_points = 8
 [[question]]
 id = "Q5"
-points = 10
+points = 7
+criteria_points = 10
 [[question]]
 id = "Q6"
-points = 8
+points = 5
+criteria_points = 8
 [[question]]
 id = "Q7"
-points = 12
+points = 8
+criteria_points = 12
 [[question]]
 id = "Q8"
-points = 7
+points = 4
+criteria_points = 7
 [[question]]
 id = "Q9"
-points = 7
+points = 3
+criteria_points = 7
 [[question]]
 id = "Q10"
-points = 8
+points = 4
+criteria_points = 8
 [[question]]
 id = "Q11"
-points = 5
+points = 4
+criteria_points = 5
 [[question]]
 id = "Q12"
-points = 7
+points = 5
+criteria_points = 7
+[[question]]
+id = "Q13"
+points = 10
+[[question]]
+id = "Q14"
+points = 10
+[[question]]
+id = "Q15"
+points = 9
+[[question]]
+id = "Q16"
+points = 9
 
 # Applied to every question; ids become e.g. "q3_cite".
 [[per_question_penalty]]
@@ -868,3 +897,273 @@ id = "q12_recommendation"
 question = "Q12"
 points = 1
 text = "Recommends the cautious course: have the I-539 filed (received by USCIS) on or before May 15, 2027, the I-20 program end date. 'File by May 15' is enough; USCIS treats the receipt date as the filing date. A recommendation to confirm with the DSO is welcome but not required."
+
+# -------------------------------------------------------------------------- Q13
+[[criterion]]
+id = "q13a_date"
+question = "Q13"
+points = 1.5
+text = "(a) Gives June 13, 2027 as the end of her authorized stay after the January 2027 re-entry: I-20 program end date May 14, 2027 plus 30 days. No if the answer gives July 13, 2027 (plus 60 days) as her date."
+
+[[criterion]]
+id = "q13a_basis"
+question = "Q13"
+points = 1.5
+text = "(a) Explains why: travel abroad after September 15, 2026 ends her treatment under the 214.1(m)(1) transition provision, and on readmission she receives a fixed admission period under 214.1(a)(4) / 214.2(f)(5)(i) and (v) (program end date plus 30 days). Cites the regulatory text and/or the preamble (91 FR 45017, 45018, 45099 or 45101)."
+
+[[criterion]]
+id = "q13b_yes"
+question = "Q13"
+points = 1.5
+text = "(b) Says she must file a Form I-539 as well as the I-765, because under 214.1(m)(1)(ii) a transition student who departs before filing the OPT application and is readmitted for a fixed period must file both, even though her I-765 is filed before March 18, 2027. Citing the same point in the preamble (91 FR 45017 or 45101) is also fine. No if the answer applies the 214.1(m)(1)(i) exemption to her."
+
+[[criterion]]
+id = "q13b_deadline"
+question = "Q13"
+points = 1
+text = "(b) Says USCIS must receive the I-539 on or before the end of her authorized stay, including the 30-day period: June 13, 2027 (214.2(f)(7)(iii)(B)). Yes also if the answer recommends an earlier date (for example concurrent filing, or by May 14, 2027) and gives June 13, 2027 as the outer limit. No if the only limit given is a different date."
+
+[[criterion]]
+id = "q13c_date"
+question = "Q13"
+points = 1.5
+text = "(c) Gives July 9, 2028: the OPT end date June 9, 2028 plus the 30-day period (214.2(f)(10)(ii)(D), (f)(5)(v)). No if the answer gives August 8, 2028 (plus 60 days)."
+
+[[criterion]]
+id = "q13d_no_i539"
+question = "Q13"
+points = 1
+text = "(d) Says no I-539 is needed on the alternative facts: her I-765 was filed before departure, before her admission period expired and on or before March 18, 2027, so 214.1(m)(1)(i) applies; the I-539 requirement in 214.1(m)(1)(ii) is for students who depart before filing. Stating this as the best reading is enough."
+
+[[criterion]]
+id = "q13d_admission"
+question = "Q13"
+points = 1.5
+text = "(d) Says that on return she is admitted for a fixed period under 214.1(a)(4)(iii) (through 214.1(m)(1)(ii), last sentence; preamble 91 FR 45098, 45101): until the DSO's recommended OPT end date while the I-765 is pending, or the EAD end date if approved, plus 30 days. That is July 9, 2028 (June 9, 2028 + 30), not the EAD date plus 60 days."
+
+[[criterion]]
+id = "q13d_documents"
+question = "Q13"
+points = 0.5
+text = "(d) Says she should carry the USCIS receipt notice for the I-765 (Form I-797C) and the I-20 endorsed with the DSO's OPT recommendation (214.1(c)(8)(iii), 214.1(a)(4)(iii), or 91 FR 45098)."
+
+# -------------------------------------------------------------------------- Q14
+[[criterion]]
+id = "q14a_id"
+question = "Q14"
+points = 0.5
+text = "(a) Identifies FR Doc. 2026-20660, 'Optional Practical Training Fees', 91 FR 64566 (pages 64566-64600), a notice of proposed rulemaking by DHS/ICE published October 8, 2026."
+
+[[criterion]]
+id = "q14a_docket"
+question = "Q14"
+points = 0.5
+text = "(a) Gives DHS Docket No. ICEB-2026-0100 and RIN 1653-AB01."
+
+[[criterion]]
+id = "q14a_status"
+question = "Q14"
+points = 0.5
+text = "(a) Says it is a proposed rule that is not in force, that the comment period closed on November 9, 2026, and that no final rule has been published as of November 14, 2026."
+
+[[criterion]]
+id = "q14a_pra"
+question = "Q14"
+points = 0.5
+text = "(a) Notes the separate deadline of December 7, 2026 for comments on the information collection (Paperwork Reduction Act), which is still open on November 14, 2026."
+
+[[criterion]]
+id = "q14b_amount"
+question = "Q14"
+points = 2
+text = "(b) Concludes that Daniel's STEM OPT extension would be subject to the $70,000 fee, not $30,000. No if the answer concludes $30,000, concludes that no fee would apply to him, or leaves the amount open without choosing $70,000 as the result under the proposed text."
+
+[[criterion]]
+id = "q14b_basis"
+question = "Q14"
+points = 1
+text = "(b) Explains the $70,000 result from the text: the $30,000 subsequent fee applies only where the student previously participated in OPT and the $70,000 initial fee was already paid (proposed 8 CFR 214.13(i)(2) and (i)(3), 91 FR 64600), which is not so for OPT recommended before the rule; and/or cites DHS's statements that a subsequent request after the effective date is subject to the fee provisions (91 FR 64579) or that a student for whom no OPT fee has been paid is subject to the initial $70,000, including STEM OPT in the transition year (91 FR 64583, 64594). Noting that proposed 214.13(i)(1) speaks of the 'first time' the student is recommended, which fits Daniel poorly, is correct extra detail."
+
+[[criterion]]
+id = "q14c_who_when"
+question = "Q14"
+points = 1
+text = "(c) Says the SEVP-certified school (educational institution) pays, and must do so before the DSO issues or enters the OPT recommendation in SEVIS, so before the student can file the I-765 (proposed 214.2(f)(11)(ii), 214.13(i); 91 FR 64576-64577, 64599-64600). Noting that DHS expects schools may pass the cost to students or employers (91 FR 64575) is correct extra detail. No if the answer says the student or the employer is the payer under the proposed text."
+
+[[criterion]]
+id = "q14c_consequence"
+question = "Q14"
+points = 0.5
+text = "(c) Says that without payment the DSO may not enter the recommendation and/or USCIS may not grant the employment authorization (proposed 214.2(f)(11)(ii)-(iii))."
+
+[[criterion]]
+id = "q14c_refund"
+question = "Q14"
+points = 0.5
+text = "(c) Describes the refund terms: the school may request a refund only if the student has not been issued the EAD; SEVP decides case by case in its discretion; no refund once the EAD is issued. Mentioning that the DSO must first remove the recommendation, or that the decision cannot be appealed, is correct extra detail."
+
+[[criterion]]
+id = "q14d_timing"
+question = "Q14"
+points = 1
+text = "(d) Says the fee would take effect 60 days after publication of a final rule and apply to DSO recommendations dated on or after that effective date, so an OPT recommendation dated before the effective date would not be subject to it (proposed 214.13(i)(3); 91 FR 64577-64579). Both the 60-day effective date and the recommendation-date trigger are required."
+
+[[criterion]]
+id = "q14e_i539"
+question = "Q14"
+points = 1
+text = "(e) Says Daniel must file both the I-765 and a Form I-539: the 214.1(m)(1)(i) exemption covers a STEM OPT I-765 filed on or before March 18, 2027, and April 12, 2027 is after that date (no notice extending the date under 214.1(m)(1)(iii) has been published). No if the answer applies the exemption to him."
+
+[[criterion]]
+id = "q14e_pending"
+question = "Q14"
+points = 0.5
+text = "(e) Says his post-completion OPT employment authorization is automatically extended while the timely filed STEM OPT application is pending, for up to 180 days (8 CFR 274a.12(b)(6)(iv) / 214.2(f)(11)(i)(C); confirmed as unchanged at 91 FR 45037, 45046 or 45101)."
+
+[[criterion]]
+id = "q14e_approved"
+question = "Q14"
+points = 0.5
+text = "(e) Says that if the extension of stay and STEM OPT are approved, his stay runs to a fixed date: the STEM OPT end date plus 30 days (91 FR 45046-45047; 214.1(m)(1), 214.2(f)(5)(v)), for example about July 30, 2029 for STEM OPT ending June 30, 2029. No if the answer gives the EAD date plus 60 days as the result after an approved extension of stay."
+
+# -------------------------------------------------------------------------- Q15
+[[criterion]]
+id = "q15_1_text"
+question = "Q15"
+points = 0.75
+text = "Statement 1: says it is not correct as written under the regulatory text: an extension application is timely if USCIS receives it on or before the end of the authorized period of stay, which includes the 30-day period after the program end date (214.2(f)(7)(iii)(B)). Noting that a filing after the program end date loses the automatic employment extension, or that the DSO must enter the new end date in SEVIS before the I-20 end date ((f)(7)(viii)), is correct extra detail."
+
+[[criterion]]
+id = "q15_1_conflict"
+question = "Q15"
+points = 0.75
+text = "Statement 1: identifies that the preamble itself contains the statement, at 91 FR 45048 (the leave-of-absence response), that USCIS must receive the request 'prior to the program end date noted on the Form I-20', and says the regulatory text controls over it. A general remark that preamble and text may differ, without locating this passage, is no."
+
+[[criterion]]
+id = "q15_2"
+question = "Q15"
+points = 1
+text = "Statement 2: says it is incorrect: the four-year maximum is counted from the program start date on the I-20, not from the date of entry, and the 30-day arrival and departure periods do not count toward it (214.2(f)(5)(i); 91 FR 45016 or 45098)."
+
+[[criterion]]
+id = "q15_3"
+question = "Q15"
+points = 1
+text = "Statement 3: says it is correct: the automatic extension of on-campus (or CPT / severe economic hardship) employment ends at 240 days, but the student remains in a period of authorized stay and may continue a full course of study until USCIS decides (214.2(f)(5)(viii); 91 FR 45043). No if the answer says the student must stop studying or leave."
+
+[[criterion]]
+id = "q15_4_verdict"
+question = "Q15"
+points = 1
+text = "Statement 4: says it is incorrect: English language training is capped at an admission period of 24 months in aggregate (214.2(f)(5)(i)(A)), and illness does not lift the cap. No if the answer says the medical ground in (f)(7)(i)(C)(2)(ii) allows an extension beyond 24 months of English language training."
+
+[[criterion]]
+id = "q15_4_preamble"
+question = "Q15"
+points = 0.5
+text = "Statement 4: cites DHS's statement at 91 FR 45039 that students who encounter illness, disability or other emergencies 'will still be limited to the 24-month admission period'. Noting the separate treatment of pathway programs or of transition-group students on the same page is correct extra detail."
+
+[[criterion]]
+id = "q15_5"
+question = "Q15"
+points = 1
+text = "Statement 5: says it is incorrect: the I-20 states the full program length; the student is admitted for up to four years and applies for an extension of stay before the authorized stay expires, using the same I-20, and may keep studying while it is pending (91 FR 45039-45040; 214.2(f)(5)(i), (f)(7)(i)(C)(1))."
+
+[[group]]
+id = "q15_6"
+question = "Q15"
+gate = "q15_6_caveat"
+factor = 0.67
+
+[[criterion]]
+id = "q15_6_verdict"
+question = "Q15"
+group = "q15_6"
+points = 1.5
+text = "Statement 6: says it is correct or substantially correct: a student who departs and is readmitted with an I-20 may be admitted by CBP for the period to the program end date (up to four years, plus 30 days), which is an alternative to an extension of stay from USCIS (214.1(a)(4)(i); 91 FR 45040, 45045, 45046 or 45098-45099). No if the answer says an extension of stay is still always required."
+
+[[criterion]]
+id = "q15_6_caveat"
+question = "Q15"
+kind = "gate"
+text = "Statement 6: adds at least one correct caveat: admission and its length are at CBP's discretion ('may be admitted'); or a pending extension application may be deemed abandoned on such a readmission (214.1(c)(8)(ii)); or the student must still be admissible and hold a valid visa and I-20."
+
+[[criterion]]
+id = "q15_7_verdict"
+question = "Q15"
+points = 1
+text = "Statement 7: says the date is wrong: the exemption covers I-765s filed on or before March 18, 2027 (214.1(m)(1)(i)), not March 15, 2027. Noting that DHS may extend the date in 6-month increments by Federal Register notice ((m)(1)(iii)) and that none has been published is correct extra detail."
+
+[[criterion]]
+id = "q15_7_conflict"
+question = "Q15"
+points = 0.5
+text = "Statement 7: identifies where the 'six months' wording comes from: the preamble describes the exemption as covering filings 'within six months of' the effective date (91 FR 45033 or 45034), and says the March 18, 2027 date in the regulatory text controls."
+
+# -------------------------------------------------------------------------- Q16
+[[criterion]]
+id = "q16a_date"
+question = "Q16"
+points = 1
+text = "(a) Gives September 22, 2031 (accept September 21): four years from the August 23, 2027 program start date, to August 23, 2031, plus 30 days. No if the date is counted from her August 2, 2027 entry."
+
+[[criterion]]
+id = "q16a_basis"
+question = "Q16"
+points = 0.5
+text = "(a) Says the four-year maximum runs from the program start date, not the date of entry, and that the 30-day arrival and departure periods do not count toward it (214.2(f)(5)(i); 91 FR 45016 or 45098)."
+
+[[criterion]]
+id = "q16b_eos"
+question = "Q16"
+points = 1
+text = "(b) Says she must file an extension of stay application with USCIS, received before her authorized stay expires, supported by her I-20 showing time left in the program (214.2(f)(7)(i)(C)(1); 91 FR 45039-45040 says the same I-20 is used), with the items in (f)(7)(iii)(A) (endorsed I-20, evidence of funds, biometrics, fee)."
+
+[[criterion]]
+id = "q16b_early"
+question = "Q16"
+points = 1
+text = "(b) On how early she may file: says the rule sets no earliest filing date (the preamble footnote 'there is no prohibition on filing the form before a certain date ahead of expiration', e.g. 91 FR 45040) and/or that DHS suggests applying as early as possible, 180 days before the stay expires (91 FR 45043). Either is enough. No if the answer invents a filing window or says the documents are silent."
+
+[[criterion]]
+id = "q16b_until"
+question = "Q16"
+points = 0.5
+text = "(b) Says a full grant would run to the program end date plus 30 days: May 14, 2033 + 30 = June 13, 2033 (214.2(f)(7)(vi))."
+
+[[criterion]]
+id = "q16c"
+question = "Q16"
+points = 1.5
+text = "(c) Says the master's degree awarded on the way does not bar her from finishing the PhD: DHS states that a student whose I-20 is for a PhD may obtain a master's degree incidental to status while progressing toward the PhD (91 FR 45042-45043), and the bar in 214.2(f)(5)(ii)(C) concerns F-1 status through another program at the same or a lower level, which continuing the PhD is not."
+
+[[group]]
+id = "q16d"
+question = "Q16"
+gate = "q16d_flag"
+factor = 0.5
+
+[[criterion]]
+id = "q16d_reading"
+question = "Q16"
+group = "q16d"
+points = 1.5
+text = "(d) Says that on readmission in August 2030 CBP may admit her to the I-20 program end date, which is then less than four years away, plus 30 days (about June 13, 2033), and that if it does she no longer needs the extension of stay. Cites 214.1(a)(4)(i) and/or the preamble (91 FR 45040 'extended for a four-year maximum every time' the student travels, 45045-45046 depart and re-enter as the alternative to an extension, or 45098). No if the answer says the September 2031 date necessarily carries over."
+
+[[criterion]]
+id = "q16d_flag"
+question = "Q16"
+kind = "gate"
+text = "(d) Says how certain this is: the result depends on CBP's discretion at the port of entry ('may be admitted'), or the regulatory text does not spell out the case of a continuing student readmitted before her period has expired, or she should check the I-94 issued on return and file the extension if it still shows the 2031 date. Any one is enough."
+
+[[criterion]]
+id = "q16e_stay"
+question = "Q16"
+points = 1
+text = "(e) Says her husband may not stay beyond Lin's authorized period of stay whatever his own I-94 shows (214.2(f)(5)(i)(E); 91 FR 45016: dependents must depart at the same time as the principal even if their I-94 has a longer period)."
+
+[[criterion]]
+id = "q16e_fee"
+question = "Q16"
+points = 1
+text = "(e) Says he must be included on Lin's extension application or file his own (214.2(f)(7)(iv)), and gives the fee point at 91 FR 45110: included through Form I-539A on her Form I-539, only one fee is required; a separate Form I-539 needs a separate fee."

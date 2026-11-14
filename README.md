@@ -1,8 +1,8 @@
 # F-1 Research Benchmark
 
-A benchmark for LLM agents doing policy research on the U.S. Federal Register. The agent plays a researcher at a university international student office. Its job is to answer 12 questions about the DHS final rule that ended "duration of status" (D/S) admission for F-1 students. The questions cover the rule's text and the proposed rules, notices and presidential documents around it. The agent gets only Federal Register search and reading tools, and its answers are graded against a confidential answer key.
+A benchmark for LLM agents doing policy research on the U.S. Federal Register. The agent plays a researcher at a university international student office. Its job is to answer 16 questions about the DHS final rule that ended "duration of status" (D/S) admission for F-1 students. The questions cover the rule's text and the proposed rules, notices and presidential documents around it. The agent gets only Federal Register search and reading tools, and its answers are graded against a confidential answer key.
 
-The task states the world as of **November 14, 2026**. The 12 questions are worth 100 points in total.
+The task states the world as of **November 14, 2026**. The 16 questions are worth 100 points in total.
 
 ## What it tests
 
@@ -16,7 +16,7 @@ The task states the world as of **November 14, 2026**. The 12 questions are wort
 
 | Path | Purpose |
 |---|---|
-| `TASK.md` | The agent's only instructions: role, tools, ground rules and Q1–Q12. |
+| `TASK.md` | The agent's only instructions: role, tools, ground rules and Q1–Q16. |
 | `bench.py` | Runs the agent on `TASK.md` and records structured answers. |
 | `grader.py` | Grades a run against `ANSWER_KEY.md` and `rubric.toml`. |
 | `harness_common.py` | Shared code: the agent loop (OpenAI Responses API), the FR function tools, transcript recording. |
@@ -113,19 +113,25 @@ Where `rubric.toml` and the point split in `ANSWER_KEY.md` differ, `rubric.toml`
 
 | Question | Topic | Points |
 |---|---|---|
-| Q1 | The D/S final rule: citation, dates, docket, RIN, NPRM | 6 |
-| Q2 | Authorized stay after program end, transfer timing, OPT filing | 10 |
-| Q3 | Admission period, program extension, filing deadlines, work authorization | 12 |
-| Q4 | Travel while an I-539 is pending | 8 |
-| Q5 | SEVIS transfer from a master's to a PhD program | 10 |
-| Q6 | Whether a second master's-level program is allowed | 8 |
-| Q7 | The H-1B $100,000 payment, fee proposals, change of status | 12 |
-| Q8 | The proposed rule on the 60-day grace period | 7 |
-| Q9 | Changes between the proposed and final rule | 7 |
-| Q10 | Other documents relevant to post-graduation work | 8 |
-| Q11 | Extension-of-stay cost and processing time | 5 |
-| Q12 | Timeliness of filing in the 60-day period, employment | 7 |
+| Q1 | The D/S final rule: citation, dates, docket, RIN, NPRM | 3 |
+| Q2 | Authorized stay after program end, transfer timing, OPT filing | 6 |
+| Q3 | Admission period, program extension, filing deadlines, work authorization | 8 |
+| Q4 | Travel while an I-539 is pending | 5 |
+| Q5 | SEVIS transfer from a master's to a PhD program | 7 |
+| Q6 | Whether a second master's-level program is allowed | 5 |
+| Q7 | The H-1B $100,000 payment, fee proposals, change of status | 8 |
+| Q8 | The proposed rule on the 60-day grace period | 4 |
+| Q9 | Changes between the proposed and final rule | 3 |
+| Q10 | Other documents relevant to post-graduation work | 4 |
+| Q11 | Extension-of-stay cost and processing time | 4 |
+| Q12 | Timeliness of filing in the 60-day period, employment | 5 |
+| Q13 | Travel during the transition period and its effect on stay and OPT filings | 10 |
+| Q14 | The OPT fee proposal applied to a STEM OPT extension | 10 |
+| Q15 | Checking seven draft statements against the rule text and preamble | 9 |
+| Q16 | A six-year program: four-year cap, extension, re-entry, F-2 spouse | 9 |
 | | **Total** | **100** |
+
+Q13–Q16 were added after the first round of runs showed Q1–Q12 close to saturated for the strongest models. Q1–Q12 keep their original criteria and internal point split. Each carries `criteria_points` in `rubric.toml`, and `grader.py` scales its credits, caps and penalties to the weight above.
 
 ## Notes for maintainers
 
