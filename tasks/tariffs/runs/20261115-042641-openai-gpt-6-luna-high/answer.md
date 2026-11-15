@@ -1,0 +1,337 @@
+## Q1
+
+**Answer:**
+(a) The presidential documents in the Canada section 338 series through November 14, 2026 are:
+
+| Proclamation | FR Doc.; first-page citation | Signed; published | What it does; operative date/time and event measured against |
+|---|---|---|---|
+| 11046 | 2026-14991; 91 FR 46639 | July 20; July 23, 2026 | Imposes 50% on listed alcoholic beverages. It printed August 19, 2026, 12:01 a.m. ET, for goods entered for consumption or withdrawn from warehouse for consumption; Proclamation 11056 later moved the operative date to August 22, measured against those same entry/withdrawal events. |
+| 11047 | 2026-14992; 91 FR 46653 | July 20; July 23, 2026 | Same action for listed dairy products; original August 19 date later moved to August 22, measured against consumption entry/warehouse withdrawal. |
+| 11048 | 2026-14997; 91 FR 46663 | July 20; July 23, 2026 | Same action for listed motor vehicles; original August 19 date later moved to August 22, measured against consumption entry/warehouse withdrawal. |
+| 11056 | 2026-17294; 91 FR 54789 | August 18; August 24, 2026 | Suspends the three duties for three days and amends each Annex II chapeau to August 22, 2026, 12:01 a.m. ET. The operative duty trigger remains entry for consumption or withdrawal from warehouse for consumption. |
+| 11061 | 2026-18835; 91 FR 58311 | September 8; September 14, 2026 | Excludes Annex-listed alcoholic beverages from importation on or after September 29, 2026, 12:01 a.m. ET; measured against importation, not consumption entry. |
+| 11062 | 2026-18836; 91 FR 58319 | September 8; September 14, 2026 | Same September 29 import exclusion for Annex-listed dairy products; measured against importation. |
+| 11063 | 2026-18837; 91 FR 58325 | September 8; September 14, 2026 | Same September 29 import exclusion for Annex-listed motor-vehicle products; measured against importation. |
+| 11064 | 2026-18838; 91 FR 58331 | September 8; September 14, 2026 | Changes which alcoholic beverages bear the 50% duty: Annex I, Part A products become subject; Part B products cease to be subject, effective September 15, 2026, 12:01 a.m. ET, for consumption entries/warehouse withdrawals. |
+| 11065 | 2026-18839; 91 FR 58339 | September 8; September 14, 2026 | Changes motor-vehicle duty scope in the same Part A/Part B manner, effective September 15, 2026, 12:01 a.m. ET, for consumption entries/warehouse withdrawals. |
+| 11076 | 2026-22292; 91 FR 68861 | October 23; October 30, 2026 | Further changes motor-vehicle duty scope: Part A products cease to bear the duty; Part B products become subject, effective October 30, 2026, 12:01 a.m. ET, for consumption entries/warehouse withdrawals. |
+
+(b) Alcoholic beverages: 11046 imposed the duty; 11056 delayed its start; 11061 excluded its Annex products from importation; 11064 changed duty scope. Dairy: 11047 imposed; 11056 delayed; 11062 excluded its Annex products; no separate dairy scope-modification proclamation appears in this series. Motor vehicles: 11048 imposed; 11056 delayed; 11063 excluded its Annex products; 11065 and 11076 changed duty scope. The image-only Annex lists determine which individual products these later changes cover; the text alone does not disclose those lists.
+
+**Basis:**
+Proclamations 11046, clauses 9 and (1)–(3), 91 FR 46640–41 (FR Doc. 2026-14991); 11047, clauses 8 and (1)–(4), 91 FR 46654–55 (FR Doc. 2026-14992); 11048, clauses 8 and (1)–(4), 91 FR 46664–66 (FR Doc. 2026-14997); 11056, clause (1), 91 FR 54790 (FR Doc. 2026-17294); 11061, clauses (1)–(3), 91 FR 58312–13 (FR Doc. 2026-18835); 11062, clauses (1)–(3), 91 FR 58320–21 (FR Doc. 2026-18836); 11063, clauses (1)–(3), 91 FR 58326–27 (FR Doc. 2026-18837); 11064, clause (1), 91 FR 58332 (FR Doc. 2026-18838); 11065, clause (1), 91 FR 58340 (FR Doc. 2026-18839); and 11076, clause (1), 91 FR 68862 (FR Doc. 2026-22292).
+
+**Uncertainty:**
+The product lists and tariff-heading tables in the proclamations’ image-only Annexes cannot be checked here. The answer identifies the scope changes and dates, not the individual products on those lists.
+
+## Q2
+
+**Answer:**
+(a) Entry 1, August 20 at 2:00 p.m.: $0. Entry 2, August 21 at 11:59 p.m.: $0. Entry 3, August 22 at 12:01 a.m.: $40,000 × 50% = $20,000.
+
+(b) Proclamation 11056 did not edit the numbered paragraphs (1) and (3) of Proclamation 11046, which still print August 19. Instead, 11056 clause (1) changes the effective date to August 22 and expressly amends the chapeau of Annex II, deleting “August 19” and inserting “August 22.” The later Canada proclamations also state that the suspension lapsed and the duty became effective August 22. Read together, the later specific amendment and later operative/recital account resolve the older printed date in favor of August 22.
+
+(c) Proclamation 11056 says that, to the extent its implementation requires a refund of collected duties, refunds are processed under applicable law and CBP’s standard procedures. It does not promise an automatic refund or decide the importer’s claim. The entry predates the amended effective date, but the documents leave the actual refund process to those procedures.
+
+(d) No further presidential action was made a condition to the duties beginning: 11056 itself set August 22 as the effective date. Later proclamations state that Canada reneged on its commitment on August 21 and that the three-day suspension lapsed at 12:01 a.m. ET on August 22, when the duties became effective.
+
+(e) The original August 19 date follows the 30-day waiting period stated in the proclamations: the President signed the finding proclamations July 20; counting July 21 as day 1, August 19 is day 30. The stated statutory trigger is 30 days after the President’s proclamation finding, not 30 days after Federal Register publication on July 23.
+
+**Basis:**
+Proclamation 11046, clauses 9–10 and (1), 91 FR 46640–41 (FR Doc. 2026-14991); Proclamation 11056, clauses (1) and (4), 91 FR 54790–91 (FR Doc. 2026-17294); and Proclamation 11064, recitals 3–4, 91 FR 58331 (FR Doc. 2026-18838). The $20,000 calculation is the 50% rate in 11046 clause (1) applied to the stated $40,000 value.
+
+**Uncertainty:**
+The refund clause is conditional and refers to applicable law and CBP procedures; these documents do not determine whether this particular deposit will be refunded or how.
+
+## Q3
+
+**Answer:**
+(a) Each shipment is $30,000; the 50% duty, when applicable, is $15,000.
+
+- A: May be imported; $15,000. Its September 10 import predates the September 29 exclusion, and its September 14 entry predates the September 15 scope change.
+- B: May be withdrawn; $15,000. It was imported before September 29 but remained unentered; the exclusion proclamation expressly preserves the 50% duty for such pre-September 29 imports.
+- C: May be entered; $15,000. It was imported at 11:30 p.m. September 28, before the exclusion’s importation cutoff. The pre-September 29 import rule preserves the duty even though the consumption entry is the next morning.
+- D: It is excluded from importation; no lawful consumption entry is available. The goods arrive after the import ban’s September 29, 12:01 a.m. effective time.
+
+(b) E was imported before September 29, so the later import exclusion does not bar its October 6 withdrawal. It remains subject to $30,000 × 50% = $15,000 on withdrawal. Because it was admitted to the FTZ on September 25, after the section 338 duty’s effective date, it must be in privileged foreign status unless eligible for domestic status.
+
+(c) If the alcohol import ban is invalidated as to this beer, Proclamation 11061 clause (9)(b) makes the 50% duty imposed by Proclamation 11046 apply to imports to which the ban had applied before invalidation. The provision does not reinstate the ban.
+
+(d) No. The import exclusion affects only the products in its Annex. Proclamation 11061 clause (3) says it does not otherwise affect the other products subject to the duty, as established by the scope-modification proclamation.
+
+**Basis:**
+Proclamation 11061, clauses (1)–(3) and (9)(b), 91 FR 58312–13 (FR Doc. 2026-18835); Proclamation 11046, clauses (1) and (4), 91 FR 46641; and Proclamation 11056, clause (1), 91 FR 54790. The exclusion uses “goods imported” on or after September 29; its clause (2) preserves the 50% duty on goods imported before that date but not yet entered/withdrawn. The FTZ rule is 11046 clause (4), 91 FR 46641.
+
+**Uncertainty:**
+The exclusion Annex is an image; the scenario stipulates that the beer is on it. Whether an article is eligible for FTZ domestic status is not established by the scenario.
+
+## Q4
+
+**Answer:**
+(a) September 10 entries: X: section 232 = $100,000 × 25% = $25,000; section 338 = $0. Y: section 232 = $25,000; section 338 = $0. Z: section 232 = $25,000; section 338 = $0.
+
+(b) October 1 entries: X: section 232 = $25,000; section 338 = $100,000 × 50% = $50,000. Y: section 232 = $25,000; section 338 = $50,000. Z: section 232 = $25,000; section 338 = $50,000.
+
+(c) The original alcoholic-beverage, dairy, and motor-vehicle proclamations say section 338 duties do not apply to articles subject to section 232. The September scope proclamations then say the duties, as modified, apply “in addition to” section 232 duties, effective September 15. Thus the September 10 entries receive only the stated section 232 duty; October 1 entries receive both layers. No total across layers was requested.
+
+**Basis:**
+Proclamations 11046, 11047, and 11048, clause (2), respectively, 91 FR 46641, 46655, and 46665; Proclamation 11064, clause (1), 91 FR 58332; and Proclamation 11065, clause (1), 91 FR 58340. Each September scope clause says the modified section 338 duties apply in addition to section 232 duties on entries/withdrawals on or after September 15.
+
+**Uncertainty:**
+The scenario stipulates that none is on an exclusion or other list; the image-only Annexes otherwise cannot be independently checked.
+
+## Q5
+
+**Answer:**
+(a) “Yes” means the 50% duty applies; “no” means it does not.
+
+| Product | Sep 14, 3 p.m. | Sep 15, 12:01 a.m. | Oct 29, 4 p.m. | Oct 30, 12:01 a.m. | Nov 3 | Basis |
+|---|---|---|---|---|---|---|
+| P | No | Yes | Yes | Yes | Yes | Added to duty scope by September Part A; no October change removes it. |
+| Q | Yes | No | No | No | No | Original Annex II product; September Part B removes it from duty scope. |
+| R | Yes | Yes | Yes | No | No | Original Annex II product; October Part A removes it effective October 30. |
+| S | No | No | No | Yes | Yes | October Part B makes it subject effective October 30. |
+
+The original duty was effective from August 22. The September scope change governs entries/withdrawals beginning September 15; the October change governs those beginning October 30.
+
+(b) Proclamation 11076 was signed October 23, filed with the Office of the Federal Register October 29 at 11:15 a.m., and published October 30. It applies from 12:01 a.m. ET October 30, measured against consumption entry or warehouse withdrawal. It does not say that its scope changes apply to earlier entries and does not provide refunds.
+
+(c) P became dutiable seven days after the September scope proclamation was signed (September 8 to September 15); S became dutiable seven days after the October scope proclamation was signed (October 23 to October 30). The scope proclamations do not expressly explain how those seven-day scope changes relate to section 338’s stated 30-day period. A defensible reading is that these modify an already-effective duty, whose initial finding was signed July 20 and whose start was later delayed to August 22; the texts do not expressly resolve the issue for newly covered products.
+
+**Basis:**
+Proclamation 11065, clause (1), 91 FR 58340; Proclamation 11076, clauses (1)–(2), signature and filing lines, 91 FR 68862–63 (FR Doc. 2026-22292); original duty date in Proclamation 11048, clause (1), as amended by Proclamation 11056, clause (1), 91 FR 46665 and 54790. Section 338’s 30-day description appears in Proclamation 11048 clause 9, 91 FR 46664.
+
+**Uncertainty:**
+The Annex product lists are images; scenario assumptions identify the listed products. The proclamations do not expressly explain the 30-day waiting-period question for these later scope additions.
+
+## Q6
+
+**Answer:**
+(a) The calculation is on $100,000. MFN at 4% is $4,000 in every case. “Total” is MFN plus section 301.
+
+| Origin | Section 301 | MFN | Total |
+|---|---:|---:|---:|
+| Switzerland | $100,000 × 8.5% = $8,500 | $4,000 | $12,500 |
+| Norway | $100,000 × 12.5% = $12,500 | $4,000 | $16,500 |
+| United Kingdom | $100,000 × 10% = $10,000 | $4,000 | $14,000 |
+| Germany (EU) | $100,000 × (10% − 4%) = $6,000 | $4,000 | $10,000 |
+| Taiwan | $100,000 × (10% − 4%) = $6,000 | $4,000 | $10,000 |
+| Türkiye | $100,000 × 12.5% = $12,500 | $4,000 | $16,500 |
+| Japan | $100,000 × (12.5% − 4%) = $8,500 | $4,000 | $12,500 |
+| Liechtenstein | $0; not one of the 60 investigated economies named in the action | $4,000 | $4,000 |
+| Hong Kong | $100,000 × 12.5% = $12,500 | $4,000 | $16,500 |
+| India | $100,000 × 10% = $10,000 | $4,000 | $14,000 |
+
+(b) Germany, MFN 12%: section 301 $0 (MFN is at least the EU 10% target). Japan, MFN 12%: $100,000 × (12.5% − 12%) = $500. Taiwan, exactly 10% MFN: $0. South Korea, exactly 10% MFN: $100,000 × (12.5% − 10%) = $2,500. Switzerland, MFN-free: $100,000 × 12.5% = $12,500.
+
+(c) Adopted treatment differs for Switzerland, Germany/EU, Taiwan, Japan, and India. For Switzerland and Japan, the proposal used 12.5% rather than an MFN-net 12.5% cap; with 4% MFN, adopted section 301 is 8.5%. For Germany/EU and Taiwan, the proposal used 10% rather than an MFN-net 10% cap; at 4% MFN, adopted section 301 is 6%. India was proposed at 12.5% but adopted at 10% after India adopted a forced-labor import prohibition after the June proposal. Liechtenstein was not one of the investigated economies; the documents do not give it a rate under this action. Norway, the UK, Türkiye, and Hong Kong retain the same fixed treatment relevant here.
+
+**Basis:**
+Presidential memorandum, section 1(a)(i)–(iii), 91 FR 47720 (FR Doc. 2026-15274); USTR action notice, economy determinations, 91 FR 47320–28 (FR Doc. 2026-15181), including EU p. 47323, India p. 47324, Japan p. 47324, South Korea and Switzerland p. 47327, Taiwan p. 47327, and UK p. 47328. June proposal rates and categories: 91 FR 34274 (FR Doc. 2026-11296). India’s later adoption of a prohibition is stated in the presidential memorandum, 91 FR 47720, and USTR notice, 91 FR 47324.
+
+**Uncertainty:**
+The action does not establish a special rule for Liechtenstein. It is not included in the 60-economy list; the conclusion of no section 301 duty is limited to this action.
+
+## Q7
+
+**Answer:**
+(a) France is an EU member state. Column 1 duty: 2,000 kg × $0.03 = $60. Equivalent rate: $60 ÷ $12,000 = 0.5%. Section 301 to reach 10% total: 10% − 0.5% = 9.5%; $12,000 × 9.5% = $1,140.
+
+(b) MFN payable is ($20,000 × 4%) + (4,000 kg × $0.25) = $800 + $1,000 = $1,800, an equivalent rate of $1,800 ÷ $20,000 = 9%.
+- Italy (EU): 10% target − 9% = 1%; $20,000 × 1% = $200.
+- Japan: 12.5% target − 9% = 3.5%; $20,000 × 3.5% = $700.
+- Brazil: fixed 12.5%; $20,000 × 12.5% = $2,500.
+
+(c) MFN equivalent: $2,200 ÷ $20,000 = 11%. Taiwan’s target is 10%, so 11% is at/above the cap and section 301 is $0. Switzerland’s target is 12.5%; 12.5% − 11% = 1.5%; $20,000 × 1.5% = $300.
+
+(d) The specific/compound-rate conversion rule is U.S. note 52(k): divide the Column 1 duty payable by the customs value. The same note states that for the specified 10% or 12.5% target headings, where Column 1 rate is at least the target, the additional section 301 duty is zero.
+
+**Basis:**
+USTR notice U.S. note 52(k), 91 FR 47394 (FR Doc. 2026-15181); EU, Japan, Taiwan, and Switzerland rates: notice economy determinations, 91 FR 47323–27; other-economy 12.5% rate: presidential memorandum section 1(a)(iii), 91 FR 47720.
+
+**Uncertainty:**
+None, assuming no product exemption applies.
+
+## Q8
+
+**Answer:**
+(a) Dominican Republic is subject to the 12.5% rate. On $80,000, the duty is $80,000 × 12.5% = $10,000 when applicable.
+1. July 29 entry: $10,000. It was loaded before July 24 and in transit, but the entry is after the July 28 cutoff for the transit exception.
+2. July 27, 3 p.m. entry: $0. It meets the vessel-in-transit exception and was entered before July 28, 12:01 a.m.
+3. July 28, 12:01 a.m. entry: $10,000. It is at/after the transit exception cutoff.
+4. Loaded July 24 at 6 a.m.; July 27 entry: $10,000. It was not loaded before the July 24 effective time, so it does not meet the transit exception.
+5. July 23 entry: $0. The rate applies only to entries/withdrawals on or after July 24, 12:01 a.m.
+6. June arrival, July 26 warehouse withdrawal: $10,000. The withdrawal is after the effective time; this warehouse shipment is not within the stated vessel-in-transit exception.
+7. Direct air shipment loaded July 23, entered July 25: $10,000. The exception is limited to goods loaded onto a vessel; air freight does not meet it.
+
+(b) The transit rule is exactly in the action notice’s DATES line: goods “loaded onto a vessel at the port of loading and in transit on the final mode of transit” before July 24, and entered/withdrawn before July 28, are not subject to the additional duty.
+
+(c) The President signed the memorandum July 23, 2026; the notice makes the rates applicable from July 24, 2026, 12:01 a.m. ET (subject to the stated transit exception); the presidential memorandum/action notice was published July 28, 2026.
+
+(d) July 30 entry: $80,000 × 12.5% = $10,000 section 301 duty. August 3 entry: $0. The adopted notice’s July 31 HTSUS modification adds patented pharmaceutical articles in headings 9903.04.60–9903.04.66 to the exception.
+
+**Basis:**
+USTR notice DATES line and Annex I effective-date text, 91 FR 47318 and 47336 (FR Doc. 2026-15181); Dominican Republic is among the economies assigned the 12.5% rate, 91 FR 47321–28; patented-pharmaceutical amendment effective July 31, Annex I, section B, 91 FR 47394.
+
+**Uncertainty:**
+The product is assumed not to be covered by another text-readable exemption. The transit exception expressly says vessel; the notice does not extend it to aircraft.
+
+## Q9
+
+**Answer:**
+(a) Thailand’s 12.5% rate applies to the value assembled abroad less U.S. components: $100,000 − $35,000 = $65,000; $65,000 × 12.5% = $8,125.
+
+(b) Israel’s 12.5% rate applies to the repair value under 9802.00.50: $6,000 × 12.5% = $750.
+
+(c) Mexico: (i) USMCA duty-free entry: $0 section 301; (ii) no USMCA claim: $50,000 × 10% = $5,000.
+
+(d) $0. The passenger car is provided for in section 232 heading 9903.94.01, and the adopted section 301 note exempts the specified passenger vehicles under that heading.
+
+(e) $100,000 × 12.5% = $12,500. The adopted text exempts specified metal products/headings and specified other section 232 goods; the scenario’s unnamed section 232 heading is not one of the listed exceptions.
+
+(f) The June proposal described exemptions for informational materials, donations, accompanied baggage, and all articles/parts subject to section 232. The adopted USTR note does not provide those same blanket exemptions: it expressly exempts personal-use accompanied baggage and lists specific section 232 headings/products, but not a general exemption for informational materials, donations, or every section 232 good. Product-specific Annex exemptions may still apply, but the Annex lists are images.
+
+**Basis:**
+USTR notice U.S. note 52(a), 91 FR 47352; headings 9903.05.86 and note 52(f), 91 FR 47361–63; USMCA Canada/Mexico provisions, note 52(g)–(h), 91 FR 47363; repair/assembly valuation, note 52(a), 91 FR 47352; Japan passenger-vehicle exception, note 52(f)(2), 91 FR 47362. June proposal: 91 FR 34274 (FR Doc. 2026-11296). Adopted rates: 91 FR 47320–28 and memorandum section 1, 91 FR 47720.
+
+**Uncertainty:**
+For (f), the product lists in the proposal/adopted Annexes are images and cannot be checked; no claim is made that no individual Annex listing could exempt a particular article.
+
+## Q10
+
+**Answer:**
+(a) September 10, 2026: MFN $200,000 × 3% = $6,000; section 232 $200,000 × 50% = $100,000; section 338 $0 because the September 15 scope change has not yet taken effect; section 301 $0 because the item is an aluminum article entered under 9903.82.02. Total of specified layers: $106,000.
+
+(b) September 16, 2026: MFN $6,000; section 232 $100,000; section 338 $200,000 × 50% = $100,000; section 301 $0. Total: $206,000.
+
+(c) The initial section 338 proclamation excluded articles subject to section 232; the September scope proclamation states the modified section 338 duty applies in addition to section 232. The forced-labor note expressly excludes the specified aluminum/steel/copper headings, including 9903.82.02.
+
+(d) September 1 rye whisky, USMCA duty-free entry: section 338 $60,000 × 50% = $30,000; section 301 $0 under the Canada/USMCA exception; total $30,000. Without USMCA claim: section 338 $30,000; section 301 $60,000 × 10% = $6,000; total $36,000. The alcohol import exclusion has not yet taken effect on September 1.
+
+(e) An October 2 arrival of the Annex-listed whisky is prohibited from importation under the September 29 import ban. There is no lawful consumption entry on the stated facts, so a lawful duty total cannot be calculated; the import restriction, rather than an ordinary section 338 duty entry, controls.
+
+(f) No. The northern-border IEEPA duties were terminated by Executive Order 14389, signed February 20, 2026. The temporary surcharge was limited through 12:01 a.m. ET July 24, 2026. Neither is in force for September entries.
+
+**Basis:**
+Section 232 rates and full-value treatment: Proclamation 11021, clauses (1)–(2), 91 FR 18203–04 (FR Doc. 2026-06960). Section 338: original clauses (2), 91 FR 46641/46655/46665, and 11065 clause (1), 91 FR 58340. Section 301 metal and USMCA exceptions: USTR note 52(f)(1), (g), 91 FR 47362–63; Canada rate, 91 FR 47322. Alcohol ban: Proclamation 11061 clause (1), 91 FR 58312. IEEPA termination: EO 14389 sections 1–2, 91 FR 9437–38 (FR Doc. 2026-03832). Surcharge end date: Proclamation 11012 clause (7), 91 FR 9342–43 (FR Doc. 2026-03824).
+
+**Uncertainty:**
+The October 2 shipment is stipulated to be on the alcohol exclusion Annex; if it were not, the result would differ. The documents state the import ban, not a duty amount for an unlawfully imported shipment.
+
+## Q11
+
+**Answer:**
+(a) Section 338 date mismatch: Proclamations 11046, 11047, and 11048 each retain operative paragraphs (1) and (3) saying August 19, 2026 (respectively 91 FR 46641, 46655, 46665). Proclamation 11056 clause (1) says the effective date “shall be” August 22 and specifically amends only each Annex II chapeau from August 19 to August 22 (91 FR 54790). Later September recitals say the suspension lapsed and the duties became effective August 22 (for example, 11064 recitals 3–4, 91 FR 58331). The older numbered paragraphs were not conformed; the later express date and subsequent account state the operative result.
+
+(b) Section 232 mismatch: The original 11046/11047/11048 clause (2) says the section 338 duties “shall not apply” to articles subject to section 232 (91 FR 46641, 46655, 46665). The later scope proclamations say the modified duties “shall apply in addition to” section 232 duties (11064 clause (1), 91 FR 58332; 11065 clause (1), 91 FR 58340). The later operative scope clauses change the earlier rule for the modified duties, but the documents do not rewrite the original clause (2) text.
+
+(c) No other clear text-to-operative-text discrepancy can be established from the readable text without relying on image-only Annexes. In particular, differences between the June proposal and final adopted treatment (including the specific section 232 exemption and narrowed chemical exemptions) are changes in what was adopted, not by themselves misstatements of the proposal or final operative text.
+
+**Basis:**
+Proclamations 11046–11048, clauses (1)–(3), 91 FR 46641, 46655, 46665; 11056 clause (1), 91 FR 54790; 11064 recitals 3–4 and clause (1), 91 FR 58331–32; 11065 clause (1), 91 FR 58340.
+
+**Uncertainty:**
+This is limited to discrepancies determinable from readable text. The task excludes image-only Annex content, which could reveal additional scope-specific differences.
+
+## Q12
+
+**Answer:**
+(a) Cambodia: $0, because the text exempts this product; Malaysia: $60,000 × 10% = $6,000.
+
+(b) Malaysia: $0; Taiwan: $0; Bangladesh: $100,000 × 10% = $10,000; Argentina: $100,000 × 10% = $10,000.
+
+(c) Taiwan: $0; Japan: $100,000 × (12.5% − 4%) = $8,500; Indonesia: $100,000 × 10% = $10,000.
+
+(d) Japan, Mexico, and Thailand: each $0. Sesame seeds for sowing in subheading 1207.40.00 are expressly exempt from the section 301 duties.
+
+(e) Cambodia: $0; Thailand: $40,000 × 12.5% = $5,000; El Salvador: $40,000 × 10% = $4,000; Italy (EU): $40,000 × (10% − 2%) = $3,200.
+
+**Basis:**
+Specific article exemptions: USTR notice note 52(j)(4)(ii), Malaysia, 91 FR 47365; note 52(j)(5)(ii), Cambodia, 91 FR 47366; note 52(j)(10)(ii), Taiwan, 91 FR 47384. Sesame-sowing exemption: note 52(c)(4), 91 FR 47356. Rates: memorandum section 1(a), 91 FR 47720; USTR country determinations for EU, Indonesia, Bangladesh, Cambodia, Malaysia, Taiwan, Argentina, Japan, Thailand, and El Salvador, 91 FR 47320–28. No psyllium-specific exemption is stated for Thailand or El Salvador in the readable provisions.
+
+**Uncertainty:**
+Image-only Annex exemptions are not applied; the scenario does not identify these products as being on one of those image lists.
+
+## Q13
+
+**Answer:**
+(a) Canada, USMCA-qualified, $60,000 U.S.-produced parts: non-U.S. content = $200,000 − $60,000 = $140,000; $140,000 × 25% = $35,000 section 232 duty.
+
+(b) No U.S. content: $200,000 × 25% = $50,000.
+
+(c) Not USMCA-qualified, $60,000 U.S. parts: the USMCA content rule does not apply; $200,000 × 25% = $50,000.
+
+(d) Japan, 2.5% MFN: the clause 2(b) total target is 15%; section 232 = 15% − 2.5% = 12.5%; $200,000 × 12.5% = $25,000.
+
+(e) Only parts produced in the United States count as U.S. content under clause 2(d). The additional $30,000 of U.S.-smelted/cast aluminum is in a part made in Canada and is not a U.S.-produced part. Non-U.S. content = $200,000 − $20,000 = $180,000; $180,000 × 25% = $45,000. The given fact that most metal weight is foreign also does not meet the 85%-U.S.-metal threshold for deeming the metal content entirely U.S.-origin.
+
+(f) October 6: the readable text establishes the clause 2(d) baseline for USMCA Canada products (25% on non-U.S. content, subject to a 15% whole-product minimum), which for these values yields $45,000 absent a lower applicable modification. But Proclamation 11032 says its Annex IV modifies the HTSUS from June 8, and its preamble specifically says mobile industrial machinery is temporarily modified. The exact Annex IV treatment is image-only, so the exact October 6 duty cannot be confirmed from readable text; it may differ from the baseline.
+
+(g) U.S.-produced parts = $140,000; non-U.S. content = $60,000; 25% of that = $15,000. The clause 2(d) minimum is 15% of the $200,000 product value = $30,000. The minimum governs; section 232 duty = $30,000.
+
+(h) Clause 2’s special rates for Annex I-C products run through 11:59 p.m. EST December 31, 2027. From January 1, 2028, clause 3(a) directs that Annex I-C products receive the rates in clause (3) of Proclamation 11021. For this product, that means the later clause-3 regime rather than the temporary Canada/USMCA non-U.S.-content calculation; the described foreign-metal machine is subject to the applicable 25% rate under that regime.
+
+**Basis:**
+Proclamation 11032, clauses (1)–(4), 91 FR 34087–88 (FR Doc. 2026-11314): June 8 effective date; Annex I-C rates; clause 2(b) 15% MFN-net rate for Japan; clause 2(d) Canada/Mexico USMCA non-U.S. content and 15% floor; clause (4) 85% weight test; clause 3(a) January 1, 2028 transition. Mobile machinery treatment is identified in the preamble, 91 FR 34085–86, and made through Annex IV. Proclamation 11021 clause (3), 91 FR 18204, supplies the later 25% default regime.
+
+**Uncertainty:**
+The exact special treatment for mobile industrial machinery on October 6 depends on Proclamation 11032 Annex IV, which is image-only. The scenario’s Annex I-C classification does not reveal that separate Annex IV modification.
+
+## Q14
+
+**Answer:**
+1. **Partly correct.** The memorandum’s preamble says USTR advised that TRQs would be feasible by September 1, 2026; the operative directive is “as soon as” USTR determines feasibility, not an express September 1 deadline. 91 FR 47720, 47720–21.
+
+2. **Incorrect as stated about the proposal.** The over-450 comments/nearly-60 witnesses belong to the earlier March investigation stage, 91 FR 34273. For the June proposed action, USTR later reported over 1,600 comments and over 100 witnesses, 91 FR 47319 and 47328.
+
+3. **Incorrect.** The memorandum identifies six economies that adopted import prohibitions after the June proposal and Jordan as an ART commitment; it does not say all seven moved from 12.5% because of bans. Cambodia and Guatemala were already in the proposal’s 10% ART group; Jordan’s change followed an ART commitment, not an import ban. India’s later prohibition is specifically cited for its 10% adopted rate. 91 FR 47720; proposal 91 FR 34274; adopted India determination, 91 FR 47324.
+
+4. **Incorrect.** Commenters argued against exemptions for beef and avocados, but USTR determined not to remove those products from the exemption list. 91 FR 47331.
+
+5. **Incorrect.** Japan and South Korea receive MFN-net treatment but have no separate negotiated Annex II parts in the notice’s contents; dedicated negotiated product lists include EU, Switzerland, and Taiwan among others. 91 FR 47324, 47327, 47395.
+
+6. **Partly correct.** USTR states it added 471 products for each investigated economy, and its additional list includes “certain sugar and sugar containing products,” not all sugar and sugar-containing products. 91 FR 47331–32.
+
+7. **Incorrect.** 12.5% is the section 301 additional rate for many economies, not a total-duty ceiling. Only the named MFN-net economies have a 10% or 12.5% total target. The ordinary 12.5% rate is additional to Column 1 duty. Memorandum section 1(a), 91 FR 47720; USTR note 52(a), 91 FR 47352.
+
+8. **Correct.** The adopted notice requires privileged foreign status for covered goods admitted to an FTZ once the additional duty applies, except goods eligible for domestic status. 91 FR 47321.
+
+9. **Correct.** The adopted notice’s severability section says the applicable tariff applies to imports to which an invalidated exemption applied before invalidation; the memorandum says the same. 91 FR 47335; 91 FR 47723.
+
+10. **Correct, with scope qualification.** USTR says it adopted all products proposed for exemption except non-pharmaceutical applications of certain chemicals. That is a limitation of chemical exemptions, not a removal of other products from the proposed exemption list. 91 FR 47330–31.
+
+**Basis:**
+The operative and explanatory passages are cited for each statement above: presidential memorandum sections 1–2 and preamble, 91 FR 47720–23; USTR June proposal, 91 FR 34274; USTR adopted notice, 91 FR 47319, 47324, 47328, 47330–35, and 47395.
+
+**Uncertainty:**
+The proposal/adopted Annex product tables are images. Conclusions about whether every individual tariff line was retained depend on those unreadable tables; statement 10 is based on USTR’s readable description of its decision.
+
+## Q15
+
+**Answer:**
+All amounts below are **additional to MFN**, which is excluded from the requested totals. Value is $100,000. Section 232 aluminum rates are zero for Canada before March 12, 2025 under the Canada alternative arrangement; 25% from March 12, 2025, then 50% from June 4, 2025. For entries where a non-USMCA IEEPA northern-border tariff applies, EO 14289’s retroactive non-stacking rule prevents the section 232 aluminum duty from being collected cumulatively. From April 6, 2026, this extrusion is subject to the 50% section 232 rate on full value; it is not in June’s Annex I-C lower-rate list. The forced-labor action’s specific aluminum heading exemption removes section 301 for this item. The section 338 duty is unavailable on section 232 goods until the September 15, 2026 scope rule expressly makes the modified section 338 duty additive.
+
+| Entry date | Case N: no USMCA qualification | Case U: USMCA-qualified and claimed |
+|---|---|---|
+| 1. Feb. 10, 2025 | No additional duty: $0 total. Section 232 Canada exemption remained; northern-border IEEPA duties were paused. | Same: $0. |
+| 2. Mar. 6, 2025 | Northern-border IEEPA: $100,000 × 25% = $25,000. Section 232: $0. Total $25,000. | Northern-border IEEPA: $25,000; the USMCA exemption did not begin until March 7. Section 232: $0. Total $25,000. |
+| 3. Mar. 10, 2025 | Northern-border IEEPA: $25,000. Section 232: $0. Total $25,000. | No additional duty: USMCA exemption effective March 7 and Canada section 232 aluminum exclusion still effective. Total $0. |
+| 4. Mar. 14, 2025 | Northern-border IEEPA: $25,000. Section 232 is not cumulative under EO 14289. Total $25,000. | Section 232: $100,000 × 25% = $25,000; IEEPA is excluded by USMCA. Total $25,000. |
+| 5. June 3, 2025 | Northern-border IEEPA: $25,000; section 232 does not stack. Total $25,000. | Section 232: $25,000; IEEPA is excluded. Total $25,000. |
+| 6. June 10, 2025 | Northern-border IEEPA: $25,000; section 232 does not stack. Total $25,000. | Section 232: $100,000 × 50% = $50,000; IEEPA excluded. Total $50,000. |
+| 7. Aug. 5, 2025 | Northern-border IEEPA: $100,000 × 35% = $35,000; section 232 does not stack. Total $35,000. | Section 232: $50,000; USMCA bars the northern-border duty. Total $50,000. |
+| 8. Mar. 2, 2026 | Section 232: $100,000 × 50% = $50,000. IEEPA duties ended; section 122 surcharge does not apply in addition to section 232. Total $50,000. | Same section 232 $50,000; also USMCA surcharge exception. Total $50,000. |
+| 9. June 10, 2026 | Section 232, full customs value: $50,000. Total $50,000. | Same: $50,000. |
+| 10. July 27, 2026 | Section 232 $50,000; section 301 $0 under the aluminum-heading exemption; surcharge expired. Total $50,000. | Same: $50,000. |
+| 11. Aug. 25, 2026 | Section 232 $50,000; section 338 $0 because its section 232 exclusion remains effective until September 15; section 301 $0. Total $50,000. | Same: $50,000. |
+| 12. Sep. 14, 2026 | Section 232 $50,000; section 338 $0; section 301 $0. Total $50,000. | Same: $50,000. |
+| 13. Sep. 16, 2026 | Section 232 $50,000 + section 338 ($100,000 × 50%) $50,000 = $100,000 total. Section 301 $0. | Same: $100,000. |
+| 14. Nov. 10, 2026 | Section 232 $50,000 + section 338 $50,000 = $100,000 total. Section 301 $0. | Same: $100,000. |
+
+Other Canada duties: Reciprocal duties do not add to the listed 2025 entries because the Canada border-duty provisions govern and EO 14289 bars stacking between border IEEPA and aluminum section 232; EO 14389 terminated the listed IEEPA tariff actions in February 2026. The temporary section 122 surcharge is absent before its February 24, 2026 start, excluded on this section 232 product while effective, and ended July 24, 2026. The Canada section 338 duty is not owed before September 15 on this section 232 article; after that date the scope proclamation explicitly makes the modified section 338 duty additional to section 232. Section 301 is not owed because U.S. note 52(f)(1) exempts the specified aluminum headings, including 9903.82.02. Case U also independently qualifies for the Canada-USMCA section 301 exception.
+
+**Basis:**
+Canada IEEPA rate and Feb. pause: EO 14193 section 2(a), 90 FR 9114, as paused by EO 14197 section 3, 90 FR 9183–84; USMCA exemption effective March 7: EO 14231 section 2, 90 FR 11785. Increase to 35% from August 1: EO 14325 section 2, 90 FR 37958. Canada aluminum exclusion through March 11, then 25% from March 12: Proclamation 10895 clauses (1)–(2), 90 FR 9810–11; increase to 50% June 4: Proclamation 10947 clauses (1)–(2), 90 FR 24200–01. Non-stacking and retroactivity: EO 14289 sections 3 and 5(d), 90 FR 18908–09. Full customs value and April 6, 2026 section 232 rate: Proclamation 11021 clauses (1)–(2), 91 FR 18203–04; the June 2026 lower regime is only for Annex I-C products, clause 2, 91 FR 34087. IEEPA termination: EO 14389 sections 1–2, 91 FR 9437–38. Section 122 surcharge dates/exceptions: Proclamation 11012 paragraphs 14(k)–(l) and clauses (4), (7), 91 FR 9341–43. Section 301 metal exception: USTR note 52(f)(1), 91 FR 47362; Canada USMCA exception: note 52(g), 91 FR 47363. Section 338 initial section 232 exclusion: 11048 clause (2), 91 FR 46665; additive September rule: 11065 clause (1), 91 FR 58340.
+
+**Uncertainty:**
+This assumes the Canada aluminum exclusion in force before March 12 applies to the stated extrusion, as the scenario describes it as an aluminum article but does not identify it as non-alloyed unwrought aluminum. The answer treats the stipulated 2026 section 232 classification/heading as controlling. The unreadable Annex lists are taken as stipulated; no additional image-only exemption or list status is inferred.

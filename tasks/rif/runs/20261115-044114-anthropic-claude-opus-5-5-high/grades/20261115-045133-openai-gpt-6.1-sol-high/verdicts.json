@@ -1,0 +1,643 @@
+{
+  "Q1": {
+    "q1a_rule": {
+      "rationale": "Identifies 2026-15665, 91 FR 49178–49227, both dates, docket OPM-2025-0107, and RIN 3206-AO86 correctly.",
+      "verdict": "yes"
+    },
+    "q1b_nprm": {
+      "rationale": "Identifies 2026-04377, 91 FR 10904, published March 5, 2026.",
+      "verdict": "yes"
+    },
+    "q1c_first": {
+      "rationale": "Lists 2026-17335 with the correct publication and effective dates and describes its typographical, clerical, and cross-reference corrections.",
+      "verdict": "yes"
+    },
+    "q1c_second": {
+      "rationale": "Lists 2026-18800, published and effective September 15, and correctly explains restoration of 330.602's displaced-definition subparagraphs.",
+      "verdict": "yes"
+    },
+    "q1d_applicability": {
+      "rationale": "Correctly distinguishes notices issued before September 2 from those issued on or after it, citing DATES and Implementation Considerations.",
+      "verdict": "yes"
+    },
+    "q1e_appeals": {
+      "rationale": "Lists 2026-15666, replacement of subpart I, September 2 effectiveness, and its current in-force status.",
+      "verdict": "yes"
+    },
+    "q1e_leave": {
+      "rationale": "Lists 2026-21320, revision of 351.806, November 18 effectiveness, and says it is not yet in force.",
+      "verdict": "yes"
+    },
+    "q1e_senior": {
+      "rationale": "Lists 2026-21316 and its amendments to 351.203 and 351.503, effective November 18 and not yet in force.",
+      "verdict": "yes"
+    },
+    "q1_cite": {
+      "rationale": "The answer consistently supplies document numbers, FR citations, dates, and relevant provisions.",
+      "verdict": "no"
+    },
+    "q1_fab": {
+      "rationale": "No invented source, quotation, or unsupported regulatory text is identified.",
+      "verdict": "no"
+    }
+  },
+  "Q2": {
+    "q2a_abbott": {
+      "rationale": "Gives 7+5+5=17, zero preference points, and total 17.",
+      "verdict": "yes"
+    },
+    "q2a_bianchi": {
+      "rationale": "Gives 5+0+3=8, plus five preference points, totaling 13.",
+      "verdict": "yes"
+    },
+    "q2a_castillo": {
+      "rationale": "Gives 17+0=17 and correctly applies the retiree restrictions in 351.504(b), including the major-or-above condition.",
+      "verdict": "yes"
+    },
+    "q2a_dalton": {
+      "rationale": "Calculates proxy 3.5, performance credit 10.5, and total 13.5 after three preference points.",
+      "verdict": "yes"
+    },
+    "q2a_eze": {
+      "rationale": "Gives total 15 with no preference points and correctly places the term appointee in tenure subgroup II.",
+      "verdict": "yes"
+    },
+    "q2a_fontaine": {
+      "rationale": "Applies the one-rating formula, 5×3=15, with total 15.",
+      "verdict": "yes"
+    },
+    "q2b_order": {
+      "rationale": "Gives Abbott, Castillo, Fontaine, Eze, Dalton, Bianchi and explains both the SCD tie and the tenure-subgroup tie.",
+      "verdict": "yes"
+    },
+    "q2b_released": {
+      "rationale": "Explicitly identifies Bianchi and Dalton as the two released employees.",
+      "verdict": "yes"
+    },
+    "q2c_old": {
+      "rationale": "Says Bianchi formerly ranked above Abbott because veterans' subgroup preceded adjusted service date, relying expressly on the 2026 preamble and tables.",
+      "verdict": "yes"
+    },
+    "q2d_records": {
+      "rationale": "Describes access to the complete register, other employees' names, credit, SCDs, related registers, and records under 351.506.",
+      "verdict": "yes"
+    },
+    "q2_cite": {
+      "rationale": "The basis identifies the governing document and provisions for scoring, ranking, veterans' preference, records, and the earlier rules.",
+      "verdict": "no"
+    },
+    "q2_fab": {
+      "rationale": "No fabrication identified. Tool inspection also confirms the additional Privacy Act and two-year records provisions in 351.506(e)–(f).",
+      "verdict": "no"
+    }
+  },
+  "Q3": {
+    "q3a_case_a": {
+      "rationale": "Correctly gives no preference eligibility, zero points, subgroup B, with the applicable retirement and disability restrictions.",
+      "verdict": "yes"
+    },
+    "q3a_case_b": {
+      "rationale": "Correctly explains that disability alone does not satisfy (b)(4) without one of (b)(1)–(3); gives zero points and subgroup B.",
+      "verdict": "yes"
+    },
+    "q3a_case_c": {
+      "rationale": "Gives preference eligibility, five points, subgroup AD, and cites the armed-conflict disability and major-or-above provisions.",
+      "verdict": "yes"
+    },
+    "q3a_case_d": {
+      "rationale": "Gives no preference eligibility, zero points, subgroup B, because none of the retirement exceptions applies.",
+      "verdict": "yes"
+    },
+    "q3a_case_e": {
+      "rationale": "Correctly relies on retirement before twenty years and rank below major; gives three points and subgroup A.",
+      "verdict": "yes"
+    },
+    "q3b_scd_a": {
+      "rationale": "Subtracts the two campaign years from September 7, 2010, producing September 7, 2008 under 351.505(b)(2)(i).",
+      "verdict": "yes"
+    },
+    "q3b_scd_c": {
+      "rationale": "Credits all fourteen active-service years and computes September 7, 1996 under 351.505(b)(2)(ii).",
+      "verdict": "yes"
+    },
+    "q3c_labels": {
+      "rationale": "Explains that AD/A/B are register identifiers, not ranking steps or tie-breakers; preference operates through added points.",
+      "verdict": "yes"
+    },
+    "q3_cite": {
+      "rationale": "Each case and calculation is tied to relevant CFR paragraphs and 2026-15665 FR pages.",
+      "verdict": "no"
+    },
+    "q3_fab": {
+      "rationale": "No invented authority or quotation identified.",
+      "verdict": "no"
+    }
+  },
+  "Q4": {
+    "q4a_farah": {
+      "rationale": "Selects the three most recent eligible ratings and calculates 7+3+3=13.",
+      "verdict": "yes"
+    },
+    "q4b_cutoff_date": {
+      "rationale": "Computes September 3 minus 45 days as July 20, 2026 and shows the day arithmetic.",
+      "verdict": "yes"
+    },
+    "q4b_credit": {
+      "rationale": "Excludes the August rating and calculates 3+3+5=11.",
+      "verdict": "yes"
+    },
+    "q4c_not_on_record": {
+      "rationale": "Says no because availability to the register-building office occurred after the cutoff, citing 351.503(c)(2)–(3).",
+      "verdict": "yes"
+    },
+    "q4d_gina": {
+      "rationale": "Excludes the August 2022 rating, computes proxy four, and gives 5+3+4=12.",
+      "verdict": "yes"
+    },
+    "q4e_modal": {
+      "rationale": "States that Hank's credit must be based on the modal rating for his position's summary-level pattern under 351.503(f)(1).",
+      "verdict": "yes"
+    },
+    "q4e_flag": {
+      "rationale": "Explicitly notes the unprinted modal-rating definition and missing conversion formula; its times-three suggestion is qualified rather than settled.",
+      "verdict": "yes"
+    },
+    "q4_cite": {
+      "rationale": "The answer supplies the governing document, relevant CFR paragraphs, and FR page range.",
+      "verdict": "no"
+    },
+    "q4_fab": {
+      "rationale": "No fabrication identified; the suggested modal calculation is expressly presented as an uncertain inference.",
+      "verdict": "no"
+    }
+  },
+  "Q5": {
+    "q5a_i_rules": {
+      "rationale": "Correctly applies the earlier rules to the August 28 notice despite the later RIF effective date.",
+      "verdict": "yes"
+    },
+    "q5a_i_result": {
+      "rationale": "Uses twelve and twenty years of credit, computes adjusted dates in 1986 and 1999, and identifies Park for release.",
+      "verdict": "yes"
+    },
+    "q5a_ii": {
+      "rationale": "Applies the amended rules on September 2, calculates Lee nine and Park twenty-one, and releases Lee.",
+      "verdict": "yes"
+    },
+    "q5a_iii": {
+      "rationale": "Correctly releases Lee under the amended rules for the September 3 notice.",
+      "verdict": "yes"
+    },
+    "q5b_no_recalc": {
+      "rationale": "Explicitly cites 351.805(b) and explains that an amendment solely postponing effectiveness does not require recalculation.",
+      "verdict": "yes"
+    },
+    "q5c_version": {
+      "rationale": "Identifies agency issuance of the notice as the version-selecting event and cites DATES and Implementation.",
+      "verdict": "yes"
+    },
+    "q5c_window": {
+      "rationale": "Identifies issuance of notices, or an agency cutoff, as the end of the ratings period under 351.503(c).",
+      "verdict": "yes"
+    },
+    "q5c_standing": {
+      "rationale": "Correctly identifies employee receipt as fixing tenure subgroup and retention standing, citing 351.502 and 351.507(a).",
+      "verdict": "yes"
+    },
+    "q5_cite": {
+      "rationale": "Citations cover applicability, the old arithmetic, rating windows, standing, and amended notices.",
+      "verdict": "no"
+    },
+    "q5_fab": {
+      "rationale": "No invented source or quotation identified.",
+      "verdict": "no"
+    }
+  },
+  "Q6": {
+    "q6a_reach": {
+      "rationale": "Correctly includes positions 1–3 and excludes 4–7 for grade distance, higher standing, schedule, and competitive-area reasons.",
+      "verdict": "yes"
+    },
+    "q6a_offer": {
+      "rationale": "Requires Ellis's GS-12 as the available position with the least representative-rate reduction.",
+      "verdict": "yes"
+    },
+    "q6b_five": {
+      "rationale": "States the five-grade limit, includes Hana's GS-9, and retains Ellis's GS-12 as the required offer.",
+      "verdict": "yes"
+    },
+    "q6c_level1": {
+      "rationale": "Says Level 1 confers no assignment right because 351.701(a) requires Level 2 or higher.",
+      "verdict": "yes"
+    },
+    "q6d_excepted": {
+      "rationale": "Explains that excepted-service rights depend on an agency's discretionary adoption under 351.705(a).",
+      "verdict": "yes"
+    },
+    "q6e_level2": {
+      "rationale": "Correctly states that OPM eliminated former 351.701(d)'s restriction on Level 2 employees displacing higher-rated holders.",
+      "verdict": "yes"
+    },
+    "q6e_bump": {
+      "rationale": "Explains replacement of separate bumping and retreating concepts with a single lower-retention-standing assignment right.",
+      "verdict": "yes"
+    },
+    "q6_cite": {
+      "rationale": "The answer cites 351.701, 351.705(a), and the relevant preamble discussion at 91 FR 49204.",
+      "verdict": "no"
+    },
+    "q6_fab": {
+      "rationale": "No fabricated authority identified.",
+      "verdict": "no"
+    }
+  },
+  "Q7": {
+    "q7a_mspb": {
+      "rationale": "Concludes MSPB hears the appeal because the August 31 notice predates September 2, citing 2026-15666's applicability statement.",
+      "verdict": "yes"
+    },
+    "q7a_board_rule": {
+      "rationale": "Cites 2026-16456, 91 FR 51997–51998, and accurately reports its notice-date preservation statement.",
+      "verdict": "yes"
+    },
+    "q7b_opm": {
+      "rationale": "Correctly identifies OPM as the appeal forum for the October 19 notice.",
+      "verdict": "yes"
+    },
+    "q7b_count": {
+      "rationale": "Shows December 19 as day one and Sunday, January 17 as day thirty, followed by the next-workday rule.",
+      "verdict": "yes"
+    },
+    "q7b_date": {
+      "rationale": "Gives Tuesday, January 19, 2027, accounting for the January 18 federal holiday.",
+      "verdict": "yes"
+    },
+    "q7b_efile": {
+      "rationale": "Requires OPM's identified electronic filing system and gives 11:59 p.m. Eastern Time as the filing deadline.",
+      "verdict": "yes"
+    },
+    "q7c_burden": {
+      "rationale": "Places the preponderance burden on Morgan to establish RIF-law or regulation noncompliance and resulting prejudice.",
+      "verdict": "yes"
+    },
+    "q7c_hearing": {
+      "rationale": "States there is no hearing entitlement and correctly describes written-record review and OPM's necessary-and-efficient exception.",
+      "verdict": "yes"
+    },
+    "q7d_text": {
+      "rationale": "Reports subpart I exclusivity and the negotiated-grievance and arbitration prohibitions in 351.901(c).",
+      "verdict": "yes"
+    },
+    "q7d_flag": {
+      "rationale": "Reports the preamble's nonretroactivity statements, renegotiation qualification, and referral of existing-agreement questions to chapter 71 forums.",
+      "verdict": "yes"
+    },
+    "q7e_court": {
+      "rationale": "Correctly reports the rule's judicial-review bar and absence of further appeal from final OPM decisions.",
+      "verdict": "yes"
+    },
+    "q7f_tolling": {
+      "rationale": "Applies 351.902(b)(3), identifies OSC, and calculates the later deadline as April 9, 2027.",
+      "verdict": "yes"
+    },
+    "q7g_where": {
+      "rationale": "Locates applicability in the DATES paragraph and preamble and expressly says it is not in subpart I's regulatory text.",
+      "verdict": "yes"
+    },
+    "q7_cite": {
+      "rationale": "The answer supplies governing paragraphs and document/page citations throughout.",
+      "verdict": "no"
+    },
+    "q7_fab": {
+      "rationale": "No fabricated source or quotation identified; the Board-rule inconsistency is accurately flagged.",
+      "verdict": "no"
+    }
+  },
+  "Q8": {
+    "q8a_adopted": {
+      "rationale": "Identifies 2026-21320's revision of 351.806, effective November 18, and clearly distinguishes it from today's operative version.",
+      "verdict": "yes"
+    },
+    "q8a_new_text": {
+      "rationale": "Provides both the ordinary-duty-status provision and the adopted administrative-leave authorization conditioned on appropriateness and part 630 compliance.",
+      "verdict": "yes"
+    },
+    "q8a_today": {
+      "rationale": "Correctly reports the existing section's 'when possible' duty-status standard using the 2026 rule's preamble.",
+      "verdict": "yes"
+    },
+    "q8b_consent": {
+      "rationale": "Says consent is unnecessary and supports this with 630.1403(c)(10) and the preamble's with-or-without-consent explanation.",
+      "verdict": "yes"
+    },
+    "q8b_cap": {
+      "rationale": "Discusses the notice period and investigative-leave limit but entirely omits the required governmentwide twelve-week-limit issue.",
+      "verdict": "no"
+    },
+    "q8b_flag": {
+      "rationale": "Clearly says the adopted rule is not yet effective and notes that further part 630 limitations were not fully reviewed.",
+      "verdict": "yes"
+    },
+    "q8c_guidance": {
+      "rationale": "Identifies CPM 2025-12, its July 30, 2025 date, and the preexisting notice-to-separation leave authorization reported in the FR preamble.",
+      "verdict": "yes"
+    },
+    "q8d_no_effect": {
+      "rationale": "Says paid non-duty status does not change substantive or procedural RIF requirements, registers, standing, notice, or appeal rights.",
+      "verdict": "yes"
+    },
+    "q8_cite": {
+      "rationale": "Document, paragraph, and FR page citations support the principal claims.",
+      "verdict": "no"
+    },
+    "q8_fab": {
+      "rationale": "No fabrication identified. Failure to address the twelve-week issue is an omission, not an invented source.",
+      "verdict": "no"
+    }
+  },
+  "Q9": {
+    "q9_s1": {
+      "rationale": "Calculates fifty-seven days, applies the ninety-day threshold, and requires submission to OPM for advance approval.",
+      "verdict": "yes"
+    },
+    "q9_s3": {
+      "rationale": "Correctly distinguishes supervisory probation from initial probation and requires Ortiz to be ranked as a competing employee.",
+      "verdict": "yes"
+    },
+    "q9_s4": {
+      "rationale": "Computes the September 13 cutoff and excludes the October 2 rating under 351.503(c)(2), also noting inconsistent application.",
+      "verdict": "yes"
+    },
+    "q9_s5": {
+      "rationale": "Correctly computes proxy six and total eighteen rather than fifteen under 351.503(f)(2).",
+      "verdict": "yes"
+    },
+    "q9_s6": {
+      "rationale": "Explains that additional award points are unavailable under the single five-level pattern, notwithstanding advance written criteria.",
+      "verdict": "yes"
+    },
+    "q9_s8": {
+      "rationale": "Applies 351.602(a)'s prohibition on retaining a specifically limited temporary promotee while releasing a competing employee.",
+      "verdict": "yes"
+    },
+    "q9_s10": {
+      "rationale": "Gives all three assessment requirements: skill demonstration, job analysis, and no sole or principal reliance on automated self-assessment.",
+      "verdict": "yes"
+    },
+    "q9_s11": {
+      "rationale": "Explicitly applies 351.608(a)(3)'s prohibition on sequencing or stacking temporary exceptions.",
+      "verdict": "yes"
+    },
+    "q9_s12": {
+      "rationale": "Correctly requires notice of appeal to OPM rather than MSPB, citing 2026-15666 and 351.802(a)(6).",
+      "verdict": "yes"
+    },
+    "q9_ok": {
+      "rationale": "Marks steps 2, 7, and 9 in order and gives the correct deciding provision for each.",
+      "verdict": "yes"
+    },
+    "q9_false2": {
+      "rationale": "Step 2 is expressly marked 'In order.'",
+      "verdict": "no"
+    },
+    "q9_false7": {
+      "rationale": "Step 7 is expressly marked 'In order.'",
+      "verdict": "no"
+    },
+    "q9_false9": {
+      "rationale": "Step 9 is marked 'In order'; its qualifications do not change that conclusion for the stated facts.",
+      "verdict": "no"
+    },
+    "q9_cite": {
+      "rationale": "Every step is supported by a specific provision, with document and FR citations in the basis.",
+      "verdict": "no"
+    },
+    "q9_fab": {
+      "rationale": "No invented authority or quotation identified.",
+      "verdict": "no"
+    }
+  },
+  "Q10": {
+    "q10a_gap": {
+      "rationale": "Correctly describes the introductory-text-only definition on September 10 and explains instruction 11's removal of the two subparagraphs effective September 2.",
+      "verdict": "yes"
+    },
+    "q10b_doc": {
+      "rationale": "Identifies 2026-18800, published and effective September 15, as restoring both subparagraphs.",
+      "verdict": "yes"
+    },
+    "q10b_reason": {
+      "rationale": "Explains good cause, no substantive change, restoration of text not proposed for removal, and effectiveness on publication.",
+      "verdict": "yes"
+    },
+    "q10c_lower": {
+      "rationale": "Correctly says declining the lower-rate full-time offer preserves displaced status under paragraph (1)(i).",
+      "verdict": "yes"
+    },
+    "q10c_same": {
+      "rationale": "Correctly says declining the same-rate full-time offer ends displaced status under paragraph (1)(i).",
+      "verdict": "yes"
+    },
+    "q10_cite": {
+      "rationale": "Cites instruction 11, both documents, FR pages, and the restored definition.",
+      "verdict": "no"
+    },
+    "q10_fab": {
+      "rationale": "No invented source or quotation identified.",
+      "verdict": "no"
+    }
+  },
+  "Q11": {
+    "q11_valid_10": {
+      "rationale": "Counted 40 paragraph-level differences: #1; #2's heading, three timing paragraphs, appointment limit, (3), and (4); #3–4; #6–9; #10's four timing paragraphs; #11(a)(1),(d),(e)(1),(e)(2); #12's three subparagraphs; #13–19; #20 headings and Level-2 label; #21(iii),(v); #22 introduction,(a)(2),(a)(3); #23. Excluded #5 and #21(iv), which corrections reversed.",
+      "verdict": "yes"
+    },
+    "q11_valid_16": {
+      "rationale": "Counted 40: #1; #2 heading, three timing paragraphs, appointment limit, (3),(4); #3–4; #6–9; #10 four timing paragraphs; #11(a)(1),(d),(e)(1),(e)(2); #12(a)(1)–(3); #13–19; #20 headings and label; #21(iii),(v); #22 introduction,(a)(2),(a)(3); #23. This exceeds sixteen; correction-reversed items are excluded.",
+      "verdict": "yes"
+    },
+    "q11_valid_22": {
+      "rationale": "Counted 40: #1; #2 heading, three timing paragraphs, appointment limit, (3),(4); #3–4; #6–9; #10 four timing paragraphs; #11(a)(1),(d),(e)(1),(e)(2); #12(a)(1)–(3); #13–19; #20 headings and label; #21(iii),(v); #22 introduction,(a)(2),(a)(3); #23. This exceeds twenty-two.",
+      "verdict": "yes"
+    },
+    "q11_valid_28": {
+      "rationale": "Counted 40: #1; #2 heading, three timing paragraphs, appointment limit, (3),(4); #3–4; #6–9; #10 four timing paragraphs; #11(a)(1),(d),(e)(1),(e)(2); #12(a)(1)–(3); #13–19; #20 headings and label; #21(iii),(v); #22 introduction,(a)(2),(a)(3); #23. This exceeds twenty-eight.",
+      "verdict": "yes"
+    },
+    "q11_valid_34": {
+      "rationale": "Counted 40: #1; #2 heading, three timing paragraphs, appointment limit, (3),(4); #3–4; #6–9; #10 four timing paragraphs; #11(a)(1),(d),(e)(1),(e)(2); #12(a)(1)–(3); #13–19; #20 headings and label; #21(iii),(v); #22 introduction,(a)(2),(a)(3); #23. Tool comparisons confirmed the paragraph-level timing, cross-reference, and mandatory-identification changes; thirty-four is met.",
+      "verdict": "yes"
+    },
+    "q11_deep": {
+      "rationale": "States all eleven listed categories: notice timing; Level-2 label; should/must; retiree cross-reference; access wording/savings; assessments; notice content; adverse-action procedures; CTAP cross-reference; pre-41521 qualifier; added statutory authorities.",
+      "verdict": "yes"
+    },
+    "q11_cite": {
+      "rationale": "Each item identifies the provision, and the basis identifies both documents and their regulatory-text FR page ranges.",
+      "verdict": "no"
+    },
+    "q11_fab": {
+      "rationale": "No fabricated source identified. Tool checks confirm the disputed text; correction-reversed differences are accurately disclosed, although not countable.",
+      "verdict": "no"
+    }
+  },
+  "Q12": {
+    "q12_quinn": {
+      "rationale": "Excludes Quinn from the register as an initial probationer and explains the agency may retain her while releasing competing employees.",
+      "verdict": "yes"
+    },
+    "q12_ab": {
+      "rationale": "Correctly gives Alvarez 7+7+5=19 and Brandt 3+5+0+5=13.",
+      "verdict": "yes"
+    },
+    "q12_chen": {
+      "rationale": "Excludes the September 30, 2022 rating, computes proxy six, and gives total eighteen.",
+      "verdict": "yes"
+    },
+    "q12_dube": {
+      "rationale": "Computes proxy five, performance credit fifteen, and total eighteen after preference points.",
+      "verdict": "yes"
+    },
+    "q12_estrada": {
+      "rationale": "Excludes the post-notice October 20 rating and gives 5+3+5+3=16.",
+      "verdict": "yes"
+    },
+    "q12_farouk_score": {
+      "rationale": "Applies 3×3=9 with zero preference points and places Farouk last in ordinary standing.",
+      "verdict": "yes"
+    },
+    "q12_tie": {
+      "rationale": "Gives the complete correct order and explains Chen outranks Dube on tenure subgroup I versus II at equal totals.",
+      "verdict": "yes"
+    },
+    "q12_protect": {
+      "rationale": "Explains Farouk's restoration protection, its applicable period, and the prohibition on releasing him when another competing employee can be released; cites 351.606(a).",
+      "verdict": "yes"
+    },
+    "q12_released": {
+      "rationale": "Identifies exactly Brandt, Estrada, and Dube, with Dube replacing protected Farouk.",
+      "verdict": "yes"
+    },
+    "q12_assign_dube": {
+      "rationale": "Selects Gomez's GS-12, total seventeen, as Dube's available offer with the least reduction.",
+      "verdict": "yes"
+    },
+    "q12_assign_estrada": {
+      "rationale": "Selects Hill's GS-11, total fourteen, and excludes Gomez's GS-12 because seventeen exceeds Estrada's sixteen.",
+      "verdict": "yes"
+    },
+    "q12_assign_brandt": {
+      "rationale": "Selects Ikeda's GS-9 and explains the higher scores of the other holders and Brandt's five-grade disability-preference limit.",
+      "verdict": "yes"
+    },
+    "q12_final": {
+      "rationale": "Identifies Gomez, Hill, and Ikeda as separated, Jones as retained, and no GS-13 employee as leaving the agency.",
+      "verdict": "yes"
+    },
+    "q12_cite": {
+      "rationale": "The basis supplies governing provisions for exclusions, scoring, ranking, restoration protection, and assignment.",
+      "verdict": "no"
+    },
+    "q12_fab": {
+      "rationale": "No invented source or unsupported quotation identified.",
+      "verdict": "no"
+    }
+  },
+  "Q13": {
+    "q13_valid_1": {
+      "rationale": "Counted two valid mismatches: #1, competitive-area modification timing and approval; #3, temporary-or-term versus temporary-only subgroup exclusion. Both sides are located.",
+      "verdict": "yes"
+    },
+    "q13_valid_2": {
+      "rationale": "Counted #1 and #3. They correctly compare the preamble with 351.402(c) and 351.502(a)(3), respectively.",
+      "verdict": "yes"
+    },
+    "q13_valid_3": {
+      "rationale": "Only #1 and #3 count. #2, #4, and #5 are unlisted shorthand clarified elsewhere; #6 is expressly excluded by the rubric.",
+      "verdict": "no"
+    },
+    "q13_valid_4": {
+      "rationale": "Only two qualify: #1 competitive-area safeguard and #3 tenure-subgroup appointment category. The remaining four do not supply additional qualifying mismatches.",
+      "verdict": "no"
+    },
+    "q13_valid_6": {
+      "rationale": "Counted only #1 and #3. The five-year and excluded-category summaries are shorthand; 'emergency shutdown furlough' describes the furlough exception; restoration-date wording is excluded.",
+      "verdict": "no"
+    },
+    "q13_valid_8": {
+      "rationale": "Only #1 and #3 qualify, for a total of two rather than eight.",
+      "verdict": "no"
+    },
+    "q13_valid_10": {
+      "rationale": "Only #1 and #3 qualify, for a total of two rather than ten.",
+      "verdict": "no"
+    },
+    "q13_valid_12": {
+      "rationale": "Only #1 and #3 qualify, for a total of two rather than twelve.",
+      "verdict": "no"
+    },
+    "q13_cite": {
+      "rationale": "All six proposed comparisons include FR pages and regulatory provisions or instructions.",
+      "verdict": "no"
+    },
+    "q13_fab": {
+      "rationale": "Tool checks confirm the cited preamble and regulatory language. The rejected comparisons involve interpretation or shorthand, not fabricated sources.",
+      "verdict": "no"
+    }
+  },
+  "Q14": {
+    "q14_valid_3": {
+      "rationale": "Counted 15: (i)1–4; (ii)1's FLRA omission and agency-policy supersession omission, (ii)2,3,4's sanctions discretion and proportionality,5,6,7; (iii)1–2 together as one internal-trigger item, plus (iii)3. This exceeds three.",
+      "verdict": "yes"
+    },
+    "q14_valid_6": {
+      "rationale": "Counted 15: (i)1–4; (ii)1 FLRA and agency-policy omissions; (ii)2–3; (ii)4 discretion and proportionality; (ii)5–7; one combined internal Board-trigger comparison from (iii)1–2; and (iii)3. This exceeds six.",
+      "verdict": "yes"
+    },
+    "q14_valid_9": {
+      "rationale": "Counted 15: (i)1–4; (ii)1 FLRA and agency-policy omissions; (ii)2–3; (ii)4 discretion and proportionality; (ii)5–7; (iii)1–2 combined; (iii)3. The service-clock wording item is within the wording-only allowance.",
+      "verdict": "yes"
+    },
+    "q14_valid_12": {
+      "rationale": "Counted 15: four preamble/text comparisons; nine proposal/final differences—FLRA, agency policies, 1201.21, authority, sanctions discretion, proportionality, information/directives, response wording, e-filer exemption—and two Board-jurisdiction comparisons.",
+      "verdict": "yes"
+    },
+    "q14_valid_15": {
+      "rationale": "Counted exactly 15: (i)1–4; (ii)1's two omissions; (ii)2; (ii)3; (ii)4's discretion and proportionality changes; (ii)5; (ii)6; (ii)7; (iii)1–2 combined as one; and (iii)3.",
+      "verdict": "yes"
+    },
+    "q14_valid_18": {
+      "rationale": "Only 15 count: (i)1–4; nine changes in (ii), counting its bundled omissions and sanctions changes separately; and two distinct comparisons in (iii), consolidating its repeated internal-trigger issue.",
+      "verdict": "no"
+    },
+    "q14_valid_21": {
+      "rationale": "Counted 15: (i)1–4; (ii)1's two omissions,2,3,4's two sanctions changes,5,6,7; (iii)1–2 combined and (iii)3. Twenty-one is not reached.",
+      "verdict": "no"
+    },
+    "q14_valid_24": {
+      "rationale": "Counted 15: (i)1–4; (ii)1's two omissions,2,3,4's two sanctions changes,5,6,7; (iii)1–2 combined and (iii)3. Twenty-four is not reached.",
+      "verdict": "no"
+    },
+    "q14_wrong_3": {
+      "rationale": "No three invalid comparisons are identified. The repeated internal Board-trigger issue is consolidated rather than counted twice.",
+      "verdict": "no"
+    },
+    "q14_wrong_4": {
+      "rationale": "There are not four invalid items; the listed substantive comparisons match the key and verified source language.",
+      "verdict": "no"
+    },
+    "q14_wrong_5": {
+      "rationale": "There are not five invalid items; repetition of the internal Board-trigger issue does not establish this penalty.",
+      "verdict": "no"
+    },
+    "q14_cite": {
+      "rationale": "Comparisons identify both documents and relevant FR pages or CFR paragraphs throughout.",
+      "verdict": "no"
+    },
+    "q14_fab": {
+      "rationale": "No invented source or quotation identified. Tool inspection confirms the additional summary wording concerning the responsible agency.",
+      "verdict": "no"
+    }
+  },
+  "rubric_feedback": ""
+}
