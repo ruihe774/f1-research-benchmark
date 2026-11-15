@@ -1,0 +1,930 @@
+Federal Register, Volume 73 Issue 137 (Wednesday, July 16, 2008)
+
+
+[Federal Register Volume 73, Number 137 (Wednesday, July 16, 2008)]
+[Rules and Regulations]
+[Pages 40722-40727]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: E8-15622]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HOMELAND SECURITY
+
+Bureau of Customs and Border Protection
+
+19 CFR Parts 0, 4, 7, 12, 18, 24, 101, 103, 115, 123, 134, 141, 
+177, and 181
+
+[CBP Dec. 08-25]
+
+
+Technical Corrections to Customs and Border Protection 
+Regulations
+
+AGENCY: Customs and Border Protection, Department of Homeland Security.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: Customs and Border Protection (CBP) periodically reviews its 
+regulations to ensure that they are current, correct, and consistent. 
+Through this review process, CBP discovered a number of discrepancies. 
+This document amends various sections of title 19 of the Code of 
+Federal Regulations to remedy those discrepancies.
+
+DATES: The final rule is effective July 16, 2008.
+
+FOR FURTHER INFORMATION CONTACT: Craig Walker, Regulations and Rulings, 
+Office of International Trade, (202) 572-8836.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    It is the policy of Customs and Border Protection (CBP) to 
+periodically review its regulations (title 19 of the Code of Federal 
+Regulations) to ensure that they are as accurate and up-to-date as 
+possible so that the importing and general public are aware of CBP 
+programs, requirements, and procedures regarding import-related 
+activities. As part of this review policy, CBP has determined that 
+certain corrections are necessary affecting parts 0, 4, 7, 12, 18, 24, 
+101, 103, 115, 123, 134, 141, 177, and 181 of the CBP regulations (19 
+CFR parts 0, 4, 7, 12, 18, 24, 101, 103, 115, 123, 134, 141, 177, 181).
+
+Discussion of Changes
+
+    Part 0 of the CBP regulations (19 CFR 0), concerning transferred or 
+delegated authority, is being amended to replace all references to 
+``Customs regulations'' with ``CBP regulations''. This is consistent 
+with the transfer of the legacy U.S. Customs Service of the Department 
+of the Treasury to the Department of Homeland Security (DHS) in 2003 
+and the subsequent renaming of the agency as U.S. Customs and Border 
+Protection by DHS on March 31, 2007 (see 72 FR 20131, dated April 23, 
+2007).
+    Certain specific authorities for part 4 of the CBP regulations (19 
+CFR part 4), concerning vessels in foreign and domestic trades, and 
+coastwise procedures, are being amended to reflect the reorganization 
+and re-codification of Title 46, United States Code (U.S.C.), pursuant 
+to Pub. L. 109-304, 120 Stat. 1632 (October 6, 2006). Title 46 includes 
+the coastwise laws (generally, the Jones Act and the Passenger Vessel 
+Services Act), as well as other navigation laws that are administered 
+by CBP. The re-codification does not change the substance of these 
+laws, but merely reorganizes them. Accordingly, the outdated citations 
+to the former Appendix to Title 46 in the specific authorities for part 
+4 are being removed, and the new citations to Title 46 are being added.
+    Part 4 of the CBP regulations contains references to the Great 
+Lakes endorsement of the Certification of Documentation issued by the 
+U.S. Coast Guard. Section 12107 of Title 46, United States Code (46 
+U.S.C. 12107), which pertained to the Great Lakes endorsement of U.S. 
+vessel documentation laws, was repealed by Pub. L. 104-324, Title XI, 
+Sec.  1115(a), 110 Stat. 3972 (Oct. 19, 1996). Accordingly, the 
+outdated references to the Great Lakes endorsement are being deleted 
+from Sec. Sec.  4.0(c), 4.60(b)(2), 4.80(a)(2), 4.80(d), 4.82(c), 
+4.87(a), 4.88(a), 4.90(d), and 4.92. In addition, Sec.  4.80(e), 
+relating to restrictions on coastwise trade, is being amended to 
+reflect amendments to the first and second provisos to 46 U.S.C. App. 
+883 (first proviso now found at 46 U.S.C. 12132(a), and second proviso 
+now found at 46 U.S.C. 12101(a) and 12132(b)) affected by Sec.  1120(e) 
+of Pub. L. 104-324.
+    Sections 7.2 through 7.4 of the CBP regulations (19 CFR 7.2-7.4), 
+relating to customs relations with U.S. insular possessions, are being 
+amended in this document to replace references to the ``United States 
+Customs Service'' and ``Customs'' with ``U.S. Customs and Border 
+Protection'' and ``CBP'', respectively, consistent with the
+
+[[Page 40723]]
+
+nomenclature changes effected by the transfer of CBP to the DHS.
+    Section 12.38 of the CBP regulations (19 CFR 12.38), involving the 
+labeling requirements for shipments of liquor, contains a typographical 
+error in the reference to ``18 U.S.C. 1263 214''. This document amends 
+Sec.  12.38 to reflect the correct statutory citation, which is ``18 
+U.S.C. 1263''.
+    Section 12.104b(a) of the CBP regulations (19 CFR 12.104b(a)) 
+contains a table listing the State Parties to the Convention on the 
+Means of Prohibiting and Preventing the Illicit Import, Export, and 
+Transfer of Ownership of Cultural Property adopted by the General 
+Conference of the United Nations Educational, Scientific, and Cultural 
+Organization (UNESCO). As the State Party of Colombia, in the table, is 
+misspelled, this document amends Sec.  12.104b(a) to correct the 
+spelling error.
+    Section 18.7(a) of the CBP regulations (19 CFR 18.7(a)), involving 
+reporting requirements upon the arrival of any portion of an in-bond 
+shipment at the port of exportation, contains an error in the 
+parenthetical expression in the first sentence. The conjunction ``and'' 
+is missing between the words ``document'' and ``any''. This document 
+amends Sec.  18.7(a) to correct the error to make clear that the 
+carrier is required to submit the in-bond document and any related 
+carnet.
+    Section 24.3a(c)(1) of the CBP regulations (19 CFR 24.3a(c)(1)), 
+concerning the determination of the rate of interest to be charged on 
+overdue CBP bills, is being amended in this document to reflect that 
+the applicable interest rates are determined by the Internal Revenue 
+Service and published by CBP on a quarterly basis, rather than on a 
+semiannual basis as this provision currently provides.
+    Section 24.3a(d)(1) of the CBP regulations (19 CFR 24.3a(d)(1)) 
+provides for notification to the principal of bills from CBP and sets 
+forth those elements that normally appear on billing notices. 
+Currently, the regulation provides that the principal is to be notified 
+at the time of the initial billing, and every 30 days after the due 
+date until the bill is paid or otherwise closed. In order to remedy the 
+situation where notifications are repeatedly returned to CBP for non-
+delivery, Sec.  24.3a(d)(1) is being amended to state that when a 
+notification is returned to CBP because of an incorrect mailing 
+address, the billing may be stopped. Section 24.3a is also being 
+updated in this document by replacing references to ``Customs'' with 
+``CBP''.
+    Section 24.24(e) of the CBP regulations (19 CFR 24.24(e)), 
+concerning the procedures for making quarterly payments and 
+supplemental payments of harbor maintenance fees and for requesting 
+refunds of such fees, contains incorrect mailing addresses in 
+paragraphs (e)(1)(ii), (e)(2)(iii), and (e)(4)(i). The mailing 
+addresses are being updated to reflect the Indianapolis, Indiana 
+address to which payments should be sent. It is noted that payments 
+sent to an outdated address will be automatically forwarded to the 
+correct address. The mailing address in Sec.  24.24(e) to which 
+requests for refunds of harbor maintenance fees are to be sent is also 
+being updated. In addition, Sec.  24.24(e) is being amended by 
+replacing references to ``Customs'' and ``U.S. Customs Service'' with 
+``CBP'' and ``U.S. Customs and Border Protection'', respectively.
+    Section 24.24(g) of the CBP regulations (19 CFR 24.24(g)), 
+concerning the maintenance of documentation necessary for Customs to 
+verify the accuracy of fee computations, is being amended in this 
+document to correct an outdated office name and mailing address.
+    Section 101.6 of the CBP regulations (19 CFR 101.6), pertaining to 
+the hours of business for CBP offices, contains a list of national 
+holidays in paragraph (a). This list is being updated in this document 
+by adding the national holiday honoring the birthday of Martin Luther 
+King, Jr. on the third Monday in January. This federal holiday was 
+enacted by Congress in 1983 (see 5 U.S.C. 6103). Section 101.6 is also 
+being amended in this document by replacing references to ``Customs'' 
+and ``Commissioner of Customs'' with ``CBP'' and ``Commissioner of 
+Customs and Border Protection'', respectively.
+    Section 103.31(e) of the CBP regulations (19 CFR 103.31(e)), 
+providing for access to information on vessel manifests and summary 
+statistical reports, and for the submission of written requests for 
+manifest data on magnetic tapes, is being amended in this document to 
+reflect the change in the agency name and to correct outdated office 
+names, addresses and phone numbers. In addition, as CBP no longer 
+issues magnetic tapes but instead uses CD-ROMs, this document also 
+amends Sec.  102.31(e) to reflect this current technology.
+    Section 115.6(c) of the CBP regulations (19 CFR 115.6(c)), 
+regarding the designated certifying authority for containers and road 
+vehicles for international transport, is being amended to update the 
+address of the National Cargo Bureau, Inc.
+    The specific authority for Sec.  123.2 of the CBP regulations (19 
+CFR 123.2), relating to penalties for failure to report arrival from 
+Mexico or Canada or for proceeding without a permit, is cited as ``19 
+U.S.C. 1460''. However, that provision was repealed by Pub. L. 99-570, 
+title III, Sec.  3115(b), 100 Stat. 3207-82 (October 27, 1986). 
+Accordingly, part 123 of the CBP regulations (19 CFR part 123) is being 
+amended in this document to reflect the correct authority citation for 
+Sec.  123.2, which is 19 U.S.C. 1459.
+    Paragraphs (a) and (b) of Sec.  134.3 of the CBP regulations (19 
+CFR 134.3(a) and (b)), concerning the delivery and redelivery 
+requirements applicable to imported goods that are not properly marked 
+with their country of origin, is being amended in this document by 
+replacing references to ``Customs'' with ``CBP''. Section 134.3(b) is 
+also being amended to correct a typographical error at the beginning of 
+the second sentence by replacing the lower case ``a'' with an upper 
+case ``A''.
+    In Sec.  141.102(a) of the CBP regulations (19 CFR 141.102(a)), 
+regarding when the payment of internal revenue taxes for cigars and 
+cigarettes is not required, the cross-reference to ``Sec.  11.2(a)'' 
+should properly read ``Sec.  11.2a''. This document amends Sec.  
+141.102(a) accordingly.
+    Section Sec.  177.21 of the CBP regulations (19 CFR 177.21), 
+regarding the issuance of country-of-origin advisory rulings and final 
+determinations for Government procurement purposes, contains outdated 
+citations to the ``Federal Procurement Regulations (41 CFR part 1-6)'' 
+and the ``Defense Acquisition Regulations (32 CFR section VI)''. These 
+regulations were re-codified and moved to Title 48 of the Code of 
+Federal Regulations. The re-codification does not change the substance 
+of these laws, but merely reorganizes them. This document amends Sec.  
+177.21 to reflect that the Federal Acquisition Regulations are found in 
+chapter 1 of Title 48, and the Defense Acquisition Regulations are 
+found in chapter 2 of Title 48.
+    Section 181.93(a) of the CBP regulations (19 CFR 181.93(a)) is 
+being amended in this document to reflect the change in the agency 
+name, as well as to update the addresses to which NAFTA advance ruling 
+requests should be sent.
+
+Inapplicability of Notice and Delayed Effective Date
+
+    Because the technical corrections set forth in this document merely 
+conform to existing law and regulation, CBP finds that good cause 
+exists for dispensing with notice and public procedure as unnecessary 
+under 5 U.S.C. 553(b)(B). For this same reason, pursuant to 5 U.S.C. 
+553(d)(3), CBP
+
+[[Page 40724]]
+
+finds that good cause exists for dispensing with the requirement for a 
+delayed effective date.
+
+Regulatory Flexibility Act
+
+    Because this document is not subject to the notice and public 
+procedure requirements of 5 U.S.C. 553, it is not subject to the 
+provisions of the Regulatory Flexibility Act (5 U.S.C. 601 et seq.)
+
+Executive Order 12866
+
+    These amendments do not meet the criteria for a ``significant 
+regulatory action'' as specified in Executive Order 12866.
+
+Signing Authority
+
+    This document is limited to technical corrections of the CBP 
+regulations. Accordingly, it is being signed under the authority of 19 
+CFR 0.1(b)(1).
+
+List of Subjects
+
+19 CFR Part 0
+
+    Transferred or Delegated Authority, Departments of the Treasury and 
+Homeland Security.
+
+19 CFR Part 4
+
+    Administrative practice and procedure, Cargo vessels, Coastal zone, 
+Coastwise trade, Common carriers, Customs duties and inspection, 
+Freight, Imports, Inspection, Landing, Maritime carriers, Merchandise, 
+Shipping, Vessels.
+
+19 CFR Part 7
+
+    Customs duties and inspection, Imports, Insular possessions, 
+Reporting and recordkeeping requirements.
+
+19 CFR Part 12
+
+    Cultural property, Customs duties and inspection, Entry of 
+merchandise, Imports, Labeling, Licensing, Liquor, Marking.
+
+19 CFR Part 18
+
+    Bonds, Common carriers, Customs duties and inspection, Exports, 
+Merchandise in transit, Reporting and recordkeeping requirements, 
+Transportation in bond.
+
+19 CFR Part 24
+
+    Accounting, Claims, Customs duties and inspection, Fees, Financial 
+and accounting procedures, Reporting and recordkeeping requirements.
+
+19 CFR Part 101
+
+    Administrative practice and procedure, Customs duties and 
+inspection, Exports, Imports, Organization and functions (Government 
+agencies), Reporting and recordkeeping requirements.
+
+19 CFR Part 103
+
+    Administrative practice and procedure, Computer technology, 
+Confidential business information, Electronic filing, Exports, Freedom 
+of Information, Imports, Law enforcement, Privacy, Reporting and 
+recordkeeping requirements.
+
+19 CFR Part 115
+
+    Containers, Customs duties and inspection, Freight, International 
+conventions, Reporting and recordkeeping requirements.
+
+19 CFR Part 123
+
+    Administrative practice and procedure, Customs duties and 
+inspection, Imports, International boundaries (Land border), Reporting 
+and recordkeeping requirements, Vehicles, Vessels.
+
+19 CFR Part 134
+
+    Country of origin, Customs duties and inspection, Imports, 
+Labeling, Marking, Packaging and containers, Reporting and 
+recordkeeping requirements.
+
+19 CFR Part 141
+
+    Customs duties and inspection, Entry of merchandise, Reporting and 
+recordkeeping requirements.
+
+19 CFR Part 177
+
+    Administrative practice and procedure, Customs duties and 
+inspection, Government procurement, Reporting and recordkeeping 
+requirements, Rulings, Trade agreements.
+
+19 CFR Part 181
+
+    Administrative practice and procedure, Canada, Customs duties and 
+inspection, Imports, Mexico, Reporting and recordkeeping requirements, 
+Trade agreements.
+
+Amendments to CBP Regulations
+
+0
+For the reasons set forth above, parts 0, 4, 7, 12, 18, 24, 101, 103, 
+115, 123, 134, 141, 177, and 181 of the CBP regulations (19 CFR parts 
+0, 4, 7, 12, 18, 24, 101, 103, 115, 123, 134, 141, 177, and 181) are 
+amended as set forth below.
+
+PART 0--TRANSFERRED OR DELEGATED AUTHORITY
+
+0
+1. The authority citation for part 0, CBP Regulations, continues to 
+read as follows:
+
+    Authority: 5 U.S.C. 301, 6 U.S.C. 101 et seq., 19 U.S.C. 66, 19 
+U.S.C. 1624, 31 U.S.C. 321.
+
+
+Sec.  0.1  [Amended]
+
+0
+2. In Sec.  0.1, paragraph (a)(1) is amended by removing the words 
+``Customs regulations'' each place they appear in the first sentence 
+and adding, in their place, the words ``CBP regulations''.
+
+
+Sec.  0.2  [Amended]
+
+0
+3. In Sec.  0.2, the section heading and paragraph (a) are each amended 
+by removing the words ``Customs regulations'' and adding, in their 
+place, the words ``CBP regulations''.
+
+PART 4--VESSELS IN FOREIGN AND DOMESTIC TRADES
+
+0
+4. The general authority citation for part 4, CBP regulations, 
+continues to read, and the specific authority citations for certain 
+sections within part 4 are revised to read, as follows:
+
+    Authority: 5 U.S.C. 301; 19 U.S.C. 66, 1431, 1433, 1434, 1624, 
+2071 note; 46 U.S.C. 501, 60105.
+
+    Section 4.1 also issued under 19 U.S.C. 1581(a); 46 U.S.C. 
+60101;
+* * * * *
+    Section 4.3 also issued under 19 U.S.C. 288, 1441;
+* * * * *
+    Section 4.7 also issued under 19 U.S.C. 1581(a); 46 U.S.C. 
+12139, 12151;
+* * * * *
+    Section 4.20 also issued under 46 U.S.C. 2107(b), 8103, 14306, 
+14502, 14511-14513, 14701, 14702, 60301-60306, 60312;
+    Section 4.21 also issued under 19 U.S.C. 1441; 46 U.S.C. 60301-
+60310, 60312;
+* * * * *
+    Section 4.36 also issued under 19 U.S.C. 1431, 1457, 1458; 46 
+U.S.C. 60107;
+* * * * *
+    Section 4.61 also issued under 46 U.S.C. 12101, 12120, 12132, 
+55102, 55105-55108, 55110, 55115-55117, 55119;
+* * * * *
+    Section 4.66 also issued under 46 U.S.C. 60105;
+    Section 4.66a also issued under 33 U.S.C. 1321; 46 U.S.C. 60105;
+* * * * *
+    Section 4.68 also issued under 46 U.S.C. 44101-44106;
+* * * * *
+    Section 4.74 also issued under 46 U.S.C. 60105;
+    Section 4.75 also issued under 46 U.S.C. 60105;
+* * * * *
+    Sections 4.80, 4.80a, and 4.80b also issued under 19 U.S.C. 
+1706a; 28 U.S.C. 2461 note; 46 U.S.C. 12112, 12118, 50501-55106, 
+55107, 55108, 55110, 55114, 55115, 55116, 55117, 55119, 56101, 
+55121, 56101, 57109; Pub. L. 108-7, Division B, Title II, Sec.  211;
+    Section 4.81 also issued under 19 U.S.C. 1442, 1486; 46 U.S.C. 
+12101, 12120, 12132,
+
+[[Page 40725]]
+
+55102, 55105-55108, 55110, 55114-55117, 55119;
+    Section 4.81a also issued under 46 U.S.C. 12101, 12120, 12132, 
+55102, 55105-55108, 55110, 55114-55117, 55119;
+    Section 4.82 also issued under 19 U.S.C. 293, 294; 46 U.S.C. 
+60308;
+    Section 4.83 also issued under 46 U.S.C. 60105, 60308;
+    Section 4.84 also issued under 46 U.S.C. 12118;
+* * * * *
+    Section 4.92 also issued under 28 U.S.C. 2461 note; 46 U.S.C. 
+55111;
+    Section 4.93 also issued under 19 U.S.C. 1322(a); 46 U.S.C. 
+12101, 12120, 12132, 55102, 55105-55108, 55110, 55114-55117, 55119;
+    Section 4.94 also issued under 19 U.S.C. 1441; 46 U.S.C. 60504;
+* * * * *
+    Section 4.96 also issued under 46 U.S.C. 12101(a)(1), 12108, 
+55114;
+* * * * *
+
+
+Sec.  4.0  [Amended]
+
+0
+5. In Sec.  4.0, paragraph (c) is amended:
+0
+a. By removing the words ``(3) Great Lakes endorsement (generally, 
+entitles a vessel to engage in the coastwise trade on the Great Lakes 
+and their tributary and connecting waters, in trade with Canada, and in 
+other employments for which another endorsement is not required),'' in 
+the second sentence;
+0
+b. By removing the parenthetical numbers ``(4)'' and ``(5)'' in the 
+second sentence and adding in their place the parenthetical numbers 
+``(3)'' and ``(4)'', respectively; and
+0
+c. By removing the words ``, Great Lakes,'' in the fourth sentence.
+
+
+Sec.  4.60  [Amended]
+
+0
+6. Section 4.60 is amended by removing paragraph (b)(2) and by 
+redesignating paragraphs (b)(3) and (b)(4) as paragraphs (b)(2) and 
+(b)(3), respectively.
+
+
+0
+7. Section 4.80 is amended by revising paragraphs (a)(2), (d), and (e) 
+to read as follows:
+
+
+Sec.  4.80  Vessels entitled to engage in coastwise trade.
+
+    (a) * * *
+    (2) Owned by a citizen, is exempt from documentation, and is 
+entitled to or, except for its tonnage, would be entitled to be 
+documented with a coastwise endorsement.
+* * * * *
+    (d) No vessel owned by a corporation which is a citizen of the 
+United States under the Act of September 2, 1958 (46 U.S.C. 12118), 
+shall be used in any trade other than the coastwise and shall not be 
+used in that trade unless it is properly documented for such use or is 
+exempt from documentation and is entitled to or, except for its 
+tonnage, would be entitled to a coastwise license. Such a vessel shall 
+not be documented for nor engage in the foreign trade or the fisheries 
+and shall not transport merchandise or passengers coastwise for hire 
+except as a service for a parent or a subsidiary corporation as defined 
+in the aforesaid Act or while under demise or bareboat charter at 
+prevailing rates for use otherwise than in trade with noncontiguous 
+territory of the United States to a common or contract carrier subject 
+to Part III of the Interstate Commerce Act, as amended (49 U.S.C. 901 
+through 923), which otherwise qualifies as a citizen of the United 
+States under section 2 of the Shipping Act, 1916, as amended (46 U.S.C. 
+50501), and which is not connected, directly or indirectly, by way of 
+ownership or control with such owning corporation.
+    (e) No vessel which has acquired the lawful right to engage in the 
+coastwise trade, by virtue of having been built or documented under the 
+laws of the United States, will have the right to engage in such trade 
+if it:
+    (1) Thereafter has been sold foreign in whole or in part or placed 
+under foreign registry, unless such vessel is 200 gross tons or less 
+(as measured under chapter 143 of title 46, United States Code); or
+    (2) Has been rebuilt, unless the entire rebuilding, including the 
+construction of any major components of the hull or superstructure of 
+the vessel, was effected within the United States.
+* * * * *
+
+
+Sec.  4.82  [Amended]
+
+0
+8. In Sec.  4.82, paragraph (c) is amended by removing the words 
+``unless the vessel is properly operating under a document with Great 
+Lakes license endorsement'' in the first sentence.
+
+
+Sec.  4.87  [Amended]
+
+0
+9. In Sec.  4.87, paragraph (a) is amended by removing the words ``or, 
+where appropriate, a Great Lakes license''.
+
+
+Sec.  4.88  [Amended]
+
+0
+10. In Sec.  4.88, paragraph (a) is amended by removing the words ``or, 
+where appropriate, a Great Lakes license''.
+
+
+Sec.  4.90  [Amended]
+
+0
+11. In Sec.  4.90, paragraph (d) is amended by removing the words ``or, 
+where appropriate, a Great Lakes license''.
+
+
+Sec.  4.92  [Amended]
+
+0
+12. Section 4.92 is amended by removing the words ``or Great Lakes'' in 
+the first sentence.
+
+PART 7--CUSTOMS RELATIONS WITH INSULAR POSSESSIONS AND GUANTANAMO 
+BAY NAVAL STATION
+
+0
+13. The authority citation for part 7, CBP regulations, continues to 
+read as follows:
+
+    Authority: 19 U.S.C. 66, 1202 (General Note 3(i), Harmonized 
+Tariff Schedule of the United States), 1623, 1624; 48 U.S.C. 1406i.
+
+
+Sec.  7.2  [Amended]
+
+0
+14. In Sec.  7.2, paragraph (c) is amended by removing the words 
+``United States Customs Service'' in the first sentence and adding, in 
+their place, the words ``U.S. Customs and Border Protection''.
+
+
+Sec.  7.3  [Amended]
+
+0
+15. In Sec.  7.3, paragraph (f)(1) is amended by removing the words 
+``Customs Form 3229'' in the first sentence and adding in their place 
+the words ``CBP Form 3229''.
+
+
+Sec.  7.4  [Amended]
+
+0
+16. Section 7.4 is amended by removing the word ``Customs'' each place 
+it appears and adding, in its place, the term ``CBP''.
+
+PART 12--SPECIAL CLASSES OF MERCHANDISE
+
+0
+17. The general authority citation for part 12, CBP regulations, 
+continues to read as follows:
+
+    Authority: 5 U.S.C. 301; 19 U.S.C. 66, 1202 (General Note 3(i), 
+Harmonized Tariff Schedule of the United States (HTSUS)), 1624;
+* * * * *
+
+
+Sec.  12.38  [Amended]
+
+0
+18. Section 12.38 is amended by removing the number ``214''.
+
+
+Sec.  12.104b  [Amended]
+
+0
+19. In Sec.  12.104b, paragraph (a) is amended in the ``State Party'' 
+column by removing the word ``Columbia'' and adding, in its place, the 
+word ``Colombia''.
+
+PART 18--TRANSPORTATION IN BOND AND MERCHANDISE IN TRANSIT
+
+0
+20. The general authority citation for part 18, CBP regulations, 
+continues to read as follows:
+
+    Authority: 5 U.S.C. 301; 19 U.S.C. 66, 1202 (General Note 3(i), 
+Harmonized Tariff Schedule of the United States), 1551, 1552, 1553, 
+1623, 1624;
+* * * * *
+
+
+Sec.  18.7  [Amended]
+
+0
+21. In Sec.  18.7, paragraph (a) is amended by adding the word ``and'' 
+between the
+
+[[Page 40726]]
+
+words ``document'' and ``any'' in the parenthetical text in the first 
+sentence.
+
+PART 24--CUSTOMS FINANCIAL AND ACCOUNTING PROCEDURE
+
+0
+22. The general authority citation for part 24, CBP regulations, 
+continues to read as follows:
+
+    Authority: 5 U.S.C. 301; 19 U.S.C. 58a-58c, 66, 1202 (General 
+Note 3(i), Harmonized Tariff Schedule of the United States), 1505, 
+1520, 1624; 26 U.S.C. 4461, 4462; 31 U.S.C. 9701; Public Law 107-
+296, 116 Stat. 2135 (6 U.S.C. 1 et seq.).
+* * * * *
+
+0
+23. In Sec.  24.3a:
+0
+a. The section heading and paragraphs (a) and (b) are amended by 
+removing the word ``Customs'' each place it appears and adding, in its 
+place, the term ``CBP'';
+0
+b. Paragraph (c)(1) is revised;
+0
+c. Paragraph (c)(5) is amended by removing the word ``Customs'' and 
+adding, in its place, the term ``CBP'';
+0
+d. The introductory text to paragraph (d)(1) is revised; and
+0
+e. Paragraph (d)(1)(vii), the introductory text to paragraph (d)(2)(i), 
+and paragraphs (d)(2)(i)(H) and (d)(2)(ii) are amended by removing the 
+word ``Customs'' and adding, in its place, the term ``CBP''.
+    The revisions read as follows:
+
+
+Sec.  24.3a  CBP bills; interest assessment; delinquency; notice to 
+principal and surety.
+
+* * * * *
+    (c) * * *
+    (1) The percentage rate of interest to be charged on such bills 
+will be based upon the quarterly rate(s) established under sections 
+6621 and 6622 of the Internal Revenue Code of 1954 (26 U.S.C. 6621, 
+6622). The current rate of interest will appear on the CBP bill and may 
+be obtained from the IRS or the CBP Office of Finance, Indianapolis, 
+Indiana. For the convenience of the importing public and CBP personnel, 
+CBP publishes the current interest rate(s) in the Customs Bulletin and 
+Decisions and Federal Register on a quarterly basis.
+* * * * *
+    (d) Notice--(1) Principal. The principal will be notified at the 
+time of the initial billing, and every 30 days after the due date until 
+the bill is paid or otherwise closed. Where the notification is 
+returned to CBP due to an incorrect mailing address, the bill may be 
+stopped. The following elements will normally appear on the bill:
+* * * * *
+
+
+Sec.  24.24  [Amended]
+
+0
+24. In Sec.  24.24:
+0
+a. Paragraph (e)(1)(ii) is amended by removing the words ``Customs Form 
+349, to U.S. Customs Service, P.O. Box 70915, Chicago, Illinois 60673-
+0915'' and adding, in their place, the words ``CBP Form 349, to: U.S. 
+Customs and Border Protection, 6650 Telecom Drive, Suite 100, 
+Indianapolis, IN 46278'';
+0
+b. Paragraph (e)(2)(iii) is amended by removing the words ``Customs 
+Form 349, to U.S. Customs Service, P.O. Box 70915, Chicago, Illinois 
+60673-0915'' and adding, in their place, the words ``CBP Form 349, to: 
+U.S. Customs and Border Protection, 6650 Telecom Drive, Suite 100, 
+Indianapolis, IN 46278'';
+0
+c. Paragraph (e)(4)(i) is amended by removing the fourth sentence and 
+adding, in its place, ``The address to mail supplemental payments of 
+quarterly paid harbor maintenance fees is: U.S. Customs and Border 
+Protection, 6650 Telecom Drive, Suite 100, Indianapolis, IN 46278.'';
+0
+d. Paragraph (e)(4)(i) is further amended by removing the words ``U.S. 
+Customs Service, HMT Refunds, 6026 Lakeside Blvd., Indianapolis, IN 
+46278'' in the last (fifth) sentence and adding, in their place, the 
+words ``U.S. Customs and Border Protection, 6650 Telecom Drive, Suite 
+100, Indianapolis, IN 46278.''
+0
+e. Paragraph (g) is amended by removing the words ``Director, 
+Accounting Services--Accounts Receivable, P.O. Box 68903, Indianapolis, 
+Indiana 46268'' in the third sentence and adding, in their place, the 
+words ``Director, Revenue Division, 6650 Telecom Drive, Suite 100, 
+Indianapolis, IN 46278''; and
+0
+f. Paragraph (g) is further amended by removing the words ``Director of 
+Accounting Services, shall'' in the fourth sentence and adding, in 
+their place, the words ``Director, Revenue Division, must''.
+
+PART 101--GENERAL PROVISIONS
+
+0
+25. The general authority citation for part 101, CBP regulations, 
+continues to read as follows:
+
+    Authority: 5 U.S.C. 301; 19 U.S.C. 2, 66, 1202 (General Note 
+3(i), Harmonized Tariff Schedule of the United States), 1623, 1624, 
+1646a.
+* * * * *
+
+0
+26. In Sec.  101.6:
+0
+a. The introductory text to the section is amended by removing the word 
+``Customs'' each place it appears and adding, in its place, the term 
+``CBP'';
+0
+b. The introductory text to paragraph (a) is amended by removing the 
+word ``Customs'' and adding, in its place, the term ``CBP'';
+0
+c. Paragraph (a) is further amended by re-designating paragraphs (a)(2) 
+through (a)(9) as paragraphs (a)(3) through (a)(10), respectively, and 
+by adding a new paragraph (a)(2);
+0
+d. Paragraph (b) is amended by adding the words ``and Border 
+Protection'' immediately following the words ``Commissioner of 
+Customs'', and by removing the word ``Customs'' immediately before the 
+word ``office'' and adding, in its place, the term ``CBP''; and
+0
+e. Paragraphs (c) through (g), including the headings to paragraphs (e) 
+through (g), are amended by removing the word ``Customs'' each place it 
+appears and adding, in its place, the term ``CBP''.
+    The addition reads as follows:
+
+
+Sec.  101.6  Hours of business.
+
+* * * * *
+    (a) * * *
+    (2) The third Monday of January.
+* * * * *
+
+PART 103--AVAILABILITY OF INFORMATION
+
+0
+27. The general authority citation for part 103, CBP regulations, and 
+the specific authority for Sec.  103.31 continue to read as follows:
+
+    Authority: 5 U.S.C. 301, 552, 552a; 19 U.S.C. 66, 1624; 31 
+U.S.C. 9701. (General Note 3(i), Harmonized Tariff Schedule of the 
+United States), 1623, 1624, 1646a.
+
+    Section 103.31 also issued under 19 U.S.C. 1431.
+* * * * *
+
+
+Sec.  103.31  [Amended]
+
+0
+28. In Sec.  103.31:
+0
+a. Paragraph (e) is amended by removing the words ``magnetic tapes'' in 
+the paragraph heading and adding, in their place, the term ``CD-ROMS'', 
+by removing the words ``magnetic tape'' in paragraphs (e)(1) and (e)(3) 
+and adding, in their place, the term ``CD-ROM'', and by removing the 
+word ``tapes'' each place it appears in paragraphs (e)(1) and (e)(2) 
+and adding, in its place, the term ``CD-ROM'';
+0
+b. Paragraph (e)(2) is amended by removing the words ``U.S. Customs 
+Service, Accounting Services--Accounts Receivable, P.O. Box 68907, 
+Indianapolis, Indiana 46278'' in the first sentence and adding, in 
+their place, the words ``U.S. Customs and Border Protection, National 
+Finance Center, Collections Section, P.O. Box 68907, Indianapolis, 
+Indiana 46268, or 6026 Lakeside Blvd., Indianapolis, Indiana 46278'';
+0
+b. Paragraph (e)(2) is further amended by removing the words 
+``Accounting Services--Accounts Receivable at (317) 298-1330'' in the 
+third sentence and
+
+[[Page 40727]]
+
+adding, in their place, the words ``Collections Section at (317) 614-
+4514'';
+0
+c. Paragraph (e)(2) is further amended by removing the words ``Customs 
+Data Center'' in the fifth and eighth sentences and adding, in their 
+place, the words ``CBP Data Center'';
+0
+d. Paragraph (e)(2) is further amended by removing the word ``Customs'' 
+in the sixth and seventh sentences and adding, in its place, the term 
+``CBP''; and
+0
+e. Paragraph (e)(2) is further amended by removing the words ``U.S. 
+Customs Data Center, on (703-644-5200)'' in the last sentence and 
+adding, in their place, the words ``CBP Data Center, on (703-921-
+6000)''.
+
+PART 115--CARGO CONTAINER AND ROAD VEHICLE CERTIFICATION PURSUANT 
+TO INTERNATIONAL CUSTOMS CONVENTIONS
+
+0
+29. The authority citation for part 115, CBP regulations, continues to 
+read as follows:
+
+    Authority: 5 U.S.C. 301, 19 U.S.C. 66, 1624; E.O. 12445 of 
+October 17, 1983.
+
+
+Sec.  115.6  [Amended]
+
+0
+30. In Sec.  115.6, paragraph (c) is amended by removing the words 
+``One World Trade Center, Suite 2757, New York, New York 10048'' and 
+adding, in their place, the words ``17 Battery Place, Suite 1232, New 
+York, New York 10004-1110''.
+
+PART 123--CUSTOMS RELATIONS WITH CANADA AND MEXICO
+
+0
+31. The general authority for part 123, CBP regulations, continues to 
+read, and the specific authority for Sec.  123.2 is revised to read, as 
+follows:
+
+    Authority: 19 U.S.C. 66, 1202 (General Note 3(i), Harmonized 
+Tariff Schedule of the United States) (HTSUS), 1431, 1433, 1436, 
+1448, 1624, 2071 note.
+
+* * * * *
+    Section 123.2 also issued under 19 U.S.C. 1459.
+* * * * *
+
+PART 134--COUNTRY OF ORIGIN MARKING
+
+0
+32. The authority citation for part 134, CBP regulations, continues to 
+read as follows:
+
+    Authority: 5 U.S.C. 301; 19 U.S.C. 66, 1202 (General Note 3(i), 
+Harmonized Tariff Schedule of the United States), 1304, 1624.
+
+
+Sec.  134.3  [Amended]
+
+0
+33. In Sec.  134.3:
+0
+a. Paragraph (a) is amended by removing the word ``Customs'' and adding 
+in its place the term ``CBP'', and by removing the word ``shall'' and 
+adding, in its place, the word ``will''; and
+0
+b. The paragraph (b) introductory text is amended by removing the word 
+``Customs'' and adding, in its place, the term ``CBP'', by removing the 
+lower case ``a'' at the beginning of the second sentence and adding, in 
+its place, the upper case ``A'', and by removing the word ``shall'' in 
+the second sentence and adding, in its place, the word ``will''.
+
+PART 141--ENTRY OF MERCHANDISE
+
+0
+34. The general authority citation for part 141, CBP regulations, 
+continues to read as follows:
+
+    Authority: 19 U.S.C. 66, 1448, 1484, 1624.
+* * * * *
+
+
+Sec.  141.102  [Amended]
+
+0
+35. In Sec.  141.102, paragraph (a) is amended by removing the 
+reference to ``Sec.  11.2(a)'' and adding in its place ``Sec.  11.2a''.
+
+PART 177--ADMINISTRATIVE RULINGS
+
+0
+36. The authority citation for part 177, CBP regulations, continues to 
+read as follows:
+
+    Authority: 5 U.S.C. 301; 19 U.S.C. 66, 1202 (General Note 3(i), 
+Harmonized Tariff Schedule of the United States), 1502, 1624, 1625.
+
+
+Sec.  177.21  [Amended]
+
+0
+37. Section 177.21 is amended by removing the words ``Federal 
+Procurement Regulations (41 CFR part 1-6)'' and adding, in their place, 
+the words ``Federal Acquisition Regulations (48 CFR chapter 1)'', and 
+by removing the parenthetical citation ``(32 CFR section VI)'' and 
+adding, in its place, the parenthetical citation ``(48 CFR chapter 
+2)''.
+
+PART 181--NORTH AMERICAN FREE TRADE AGREEMENT
+
+0
+38. The general authority citation for part 181, CBP regulations, 
+continues to read as follows:
+
+    Authority: 19 U.S.C. 66, 1202 (General Note 3(i), Harmonized 
+Tariff Schedule of the United States), 1624, 3314;
+* * * * *
+
+0
+39. Section 181.93 is amended by revising the second and third 
+sentences of paragraph (a) to read as follows:
+
+
+Sec.  181.93  Submission of advance ruling requests.
+
+    (a) * * * For any subject matter specified in Sec.  
+181.92(b)(6)(i), (v), (vi), (vii), (viii), or (ix) of this part, the 
+request may be directed either to the Commissioner of Customs and 
+Border Protection, Attention: Regulations and Rulings, Office of 
+International Trade, U.S. Customs and Border Protection, 1300 
+Pennsylvania Avenue, NW. (Mint Annex), Washington, DC 20229, or to the 
+National Commodity Specialist Division, U.S. Customs and Border 
+Protection, One Penn Plaza, 10th Floor, New York, NY 10119. For any 
+subject matter specified in Sec.  181.92(b)(6)(ii), (iii), or (iv) of 
+this part, the request must be directed to the Commissioner of Customs 
+and Border Protection, Attention: Regulations and Rulings, Office of 
+International Trade, U.S. Customs and Border Protection, 1300 
+Pennsylvania Avenue, NW. (Mint Annex), Washington, DC 20229.
+* * * * *
+
+    Dated: July 3, 2008.
+Jayson P. Ahern,
+Acting Commissioner, U.S. Customs and Border Protection.
+[FR Doc. E8-15622 Filed 7-15-08; 8:45 am]
+BILLING CODE 9111-14-P

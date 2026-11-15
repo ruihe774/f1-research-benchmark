@@ -1,0 +1,219 @@
+Federal Register, Volume 91 Issue 177 (Tuesday, September 15, 2026)
+
+
+[Federal Register Volume 91, Number 177 (Tuesday, September 15, 2026)]
+[Notices]
+[Pages 58523-58524]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-18863]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Motor Carrier Safety Administration
+
+[Docket No. FMCSA-2026-0760]
+
+
+Agency Information Collection Activities; Renewal of an Approved 
+Information Collection Request: 391.41 CMV Driver Medication Form
+
+AGENCY: Federal Motor Carrier Safety Administration (FMCSA), Department 
+of Transportation (DOT).
+
+ACTION: Notice and request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: In accordance with the Paperwork Reduction Act of 1995, FMCSA 
+announces its plan to submit the Information Collection Request (ICR) 
+described below to the Office of Management and Budget (OMB) for review 
+and approval. This Information Collection (IC) is voluntary and may be 
+utilized by medical examiners (ME) responsible for issuing Medical 
+Examiner's Certificates (MECs) to commercial motor vehicle (CMV) 
+drivers. MEs that choose to use this IC do so to communicate with 
+treating healthcare professionals who are responsible for prescribing 
+certain medications, so that the ME fully understands the reasons the 
+medications have been prescribed. The information obtained by the ME 
+when utilizing this IC assists the ME in determining if the driver is 
+medically qualified and ensures that there are no disqualifying medical 
+conditions or underlying medical conditions and prescribed medications 
+that could adversely affect their safe driving ability or cause 
+incapacitation constituting a risk to the public. One comment was 
+received in response to the 60-day Federal Register publication.
+
+DATES: Comments on this notice must be received on or before October 
+15, 2026.
+
+ADDRESSES: Written comments and recommendations for the proposed 
+information collection should be submitted within 30 days of 
+publication of this notice to www.reginfo.gov/public/do/PRAMain. Find 
+this information collection by selecting ``Currently under 30-day 
+Review--Open for Public Comments'' or by using the search function.
+
+FOR FURTHER INFORMATION CONTACT: Ms. Christine A. Hydock, Medical 
+Programs Division, DOT, FMCSA, 1200 New Jersey Avenue SE, Washington, 
+DC 20590-0001; (202) 366-4001; [email protected].
+
+SUPPLEMENTARY INFORMATION: 
+    Title: 391.41 CMV Driver Medication Form.
+    OMB Control Number: 2126-0064.
+    Type of Request: Renewal of a currently approved ICR.
+    Respondents: Prescribing healthcare professionals.
+    Estimated Number of Respondents: Up to 1,470,185 (total number of 
+prescribing healthcare providers in the United States).
+    Estimated Time per Response: 8 minutes.
+    Expiration Date: September 30, 2026.
+    Frequency of Response: Other (use of this IC is optional so there 
+is no required collection frequency).
+    Estimated Total Annual Burden: 311,375 hours.
+
+Background
+
+    FMCSA's primary mission is to reduce crashes, injuries, and 
+fatalities involving large trucks and buses. The Secretary of 
+Transportation has delegated to FMCSA its responsibility under 49 
+U.S.C. 31136 and 31502 to prescribe regulations that ensure CMVs are 
+operated safely. As part of this mission, the Agency's Medical Programs 
+Division works to ensure that CMV drivers engaged in interstate 
+commerce are physically qualified and able to safely perform their 
+work.
+    The public interest in, and right to have, safe highways require 
+the assurance that drivers of CMVs can safely perform the increased 
+physical and mental demands of their duties. FMCSA's physical 
+qualification standards provide this assurance by requiring drivers to 
+be examined and medically certified as physically and mentally 
+qualified to drive.
+    The purpose of this voluntary IC is to assist the ME in determining 
+if the driver is medically qualified under 49 Code of Federal 
+Regulations (CFR) 391.41 and to ensure that there are no disqualifying 
+medical conditions that could adversely affect their safe driving 
+ability or cause incapacitation constituting a risk to the public. 
+Under Sec.  391.41(b)(12), a person is physically qualified to drive a 
+CMV if that person does not use any drug or substance identified in 21 
+CFR 1308.11 Schedule I, an amphetamine, a narcotic, or other habit-
+forming drug; and does not use any non-Schedule I drug or substance 
+that is identified in the other Schedules in 21 CFR part 1308 except 
+when the use is prescribed by a licensed medical practitioner, as 
+defined in 49 CFR 382.107, who is familiar with the driver's medical 
+history and has advised the driver that the substance will not 
+adversely affect the driver's ability to safely operate a CMV.
+    The use of this IC is at the discretion of the ME and facilitates 
+communication with treating healthcare professionals who are 
+responsible for prescribing certain medications so that the ME fully 
+understands the reasons the medications have been prescribed. This 
+information assists the ME in determining whether the underlying 
+medical condition and the prescribed medication will impact the 
+driver's safe operation of a CMV. Therefore, there is no required 
+collection frequency.
+    The ``391.41 CMV Driver Medication Form, MCSA-5895,'' may be 
+downloaded from the FMCSA website. Prescribing healthcare providers are 
+also able to either fax or scan and email the report to the certified 
+ME. Consistent with OMB's commitment to minimizing respondents' 
+recordkeeping and paperwork burdens and the increased use of secure 
+electronic modes of
+
+[[Page 58524]]
+
+communication, the Agency believes that approximately 50 percent of the 
+``391.41 CMV Driver Medication Forms, MCSA-5895,'' are transmitted 
+electronically.
+    The information collected from the ``391.41 CMV Driver Medication 
+Form, MCSA-5895,'' is used by the certified ME that requested the 
+completion of the form. The ``391.41 CMV Driver Medication Form, MCSA-
+5895,'' is attached to the ``Medical Examination Report Form, MCSA-
+5875,'' which becomes part of the CMV driver's record maintained by the 
+certified ME. The information is not available to the public. The 
+Federal Motor Carrier Safety Regulations covering driver physical 
+qualification records are found at Sec.  391.43, which specify that a 
+medical examination must be performed on CMV drivers subject to part 
+391 who operate in interstate commerce. The results of the examination 
+must be recorded in accordance with the requirements set forth in that 
+section. MEs are required to maintain records of the CMV driver medical 
+examinations they conduct.
+    The initial 60-day Federal Register notice was published May 7, 
+2026 (91 FR 24958) and one comment was received. The National 
+Transportation Safety Board (NTSB) supported the renewal of the 
+collection but continues to recommend revising the collection to 
+improve the quality and usefulness of the information available to MEs. 
+NTSB reiterated the same recommendations it made in response to the 
+collection's previous request for comment on the 60-day Federal 
+Register notice published on September 8, 2022 (87 FR 55077). NTSB 
+specifically recommended the following:
+     Revise the ``391.41 CMV Driver Medication Form, MCSA-
+5895,'' to include all medications (prescriptions, non-prescriptions, 
+supplements) that the provider is aware the driver uses and all medical 
+conditions that the provider is aware the driver has, regardless of 
+whether those conditions are treated with medications.
+     Do not limit the IC to cases with known potentially 
+impairing medications by removing the sentence on the form that states, 
+``During the medical evaluation, it was determined this individual is 
+taking medication(s) that may impair his/her ability to safely operate 
+a CMV.''
+     Clarify what is being asked of responding providers by 
+removing all reference to regulations from the instructions and 
+clarifying that the responding provider is expected only to list 
+medications/medical conditions and to give a medical opinion on safety, 
+not to apply medical certification standards, which is the 
+responsibility solely of the ME.
+     Enable responding providers to give complete medical 
+opinions by revising item 4 to ask the responding provider's medical 
+opinion about whether any of the driver's known medications or medical 
+conditions pose a risk to safe CMV operation, to provide the item with 
+a third response option (``yes/no/unsure''), and to include a field for 
+any clarifying comments.
+
+FMCSA Response
+
+    FMCSA acknowledges NTSB's comment. However, FMCSA maintains its 
+original response, published in the 30-day Federal Register notice on 
+February 3, 2023 (88 FR 7514). FMCSA still finds that NTSB's 
+recommendation would not enhance the ``391.41 CMV Driver Medication 
+Form, MCSA-5895,'' because the form is intended to be used as a tool to 
+supplement the information obtained from the ``Medical Examination 
+Report Form, MCSA-5875,'' from the driver during the ME's review of the 
+driver's health history, and from the physical examination conducted by 
+the ME.
+    The ``Medical Examination Report Form, MCSA-5875,'' already 
+provides the ME with a complete health history for the driver including 
+all current medications (prescriptions, non-prescriptions, supplements) 
+and medical conditions as reported by the driver. The form specifically 
+address medication(s) that may impair the driver's ability to safely 
+operate a CMV so that the ME fully understands the reasons the 
+medications have been prescribed and can consider the impact the 
+medication(s) and medical conditions for which the medication(s) has 
+been prescribed may have on the driver to make an informed physical 
+qualification determination.
+    FMCSA maintains that the ``391.41 CMV Driver Medication Form, MCSA-
+5895,'' contains information regarding the driver's role and regulation 
+in Sec.  391.41(b)(12) as a reference for healthcare professionals and 
+does not indicate that the healthcare professional must interpret the 
+regulation. The ``391.41 CMV Driver Medication Form, MCSA-5895,'' 
+clearly states what is and is not expected of the healthcare 
+professional completing the form by requesting the healthcare 
+professional review the regulation provided, complete the form, and 
+return it to the ME. The form explains that the final determination as 
+to whether the individual listed on the form is physically qualified to 
+drive a CMV will be made by the certified ME.
+    Lastly, item 4 was specifically intended to obtain the medical 
+opinion of the healthcare professional completing the form regarding 
+the specific medication(s) they have prescribed to the driver for a 
+particular medical condition(s). It is the responsibility of the ME to 
+use the information provided by the healthcare professional completing 
+the ``391.41 CMV Driver Medication Form, MCSA-5895,'' as a tool to 
+assist them in making a physical qualification determination.
+    Public Comments Invited: You are asked to comment on any aspect of 
+this information collection, including: (1) whether the proposed 
+collection is necessary for the performance of FMCSA's functions; (2) 
+the accuracy of the estimated burden; (3) ways for FMCSA to enhance the 
+quality, usefulness, and clarity of the collected information; and (4) 
+ways that the burden could be minimized without reducing the quality of 
+the collected information.
+
+    Issued under the authority of 49 CFR 1.87.
+Nicole S. Michel,
+Acting Associate Administrator, Office of Research and Registration.
+[FR Doc. 2026-18863 Filed 9-14-26; 8:45 am]
+BILLING CODE 4910-EX-P
