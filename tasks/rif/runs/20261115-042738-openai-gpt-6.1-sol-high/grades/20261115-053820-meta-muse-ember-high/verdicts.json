@@ -1,0 +1,647 @@
+{
+  "Q1": {
+    "q1a_rule": {
+      "rationale": "States 2026-15665, 91 FR 49178-49227, Aug 3 2026, Sep 2 2026, OPM-2025-0107, RIN 3206-AO86.",
+      "verdict": "yes"
+    },
+    "q1b_nprm": {
+      "rationale": "States 2026-04377, 91 FR 10904-10934, Mar 5 2026.",
+      "verdict": "yes"
+    },
+    "q1c_first": {
+      "rationale": "Lists 2026-17335 Aug 25/Sep 2 correcting amendatory instructions, cross-references and typographical errors.",
+      "verdict": "yes"
+    },
+    "q1c_second": {
+      "rationale": "Lists 2026-18800 Sep 15/15 restoring (1)(i)-(ii) of displaced in 330.602 inadvertently removed.",
+      "verdict": "yes"
+    },
+    "q1d_applicability": {
+      "rationale": "Notice before Sep 2 under old rules, on/after under amended, DATES 49178 and 49206-49207.",
+      "verdict": "yes"
+    },
+    "q1e_appeals": {
+      "rationale": "Lists 2026-15666 Sep 2 in force, revises subpart I 351.901-909 and 351.802(a)(6)/807(e).",
+      "verdict": "yes"
+    },
+    "q1e_leave": {
+      "rationale": "Lists 2026-21320 revising 351.806, effective Nov 18 2026, not in force Nov 14.",
+      "verdict": "yes"
+    },
+    "q1e_senior": {
+      "rationale": "Lists 2026-21316 revising rating of record in 351.203 and 351.503, Nov 18 2026, not in force.",
+      "verdict": "yes"
+    },
+    "q1_cite": {
+      "rationale": "Claims consistently give FR doc numbers, CFR paragraphs and FR pages, e.g. DATES 91 FR 49178, 49206-49207.",
+      "verdict": "no"
+    },
+    "q1_fab": {
+      "rationale": "No invented document, quotation or unprinted CFR text; all cited documents are in key.",
+      "verdict": "no"
+    }
+  },
+  "Q2": {
+    "q2a_abbott": {
+      "rationale": "Abbott 7+5+5=17, 0, total 17.",
+      "verdict": "yes"
+    },
+    "q2a_bianchi": {
+      "rationale": "Bianchi 5+0+3=8, +5=13, Level2=0.",
+      "verdict": "yes"
+    },
+    "q2a_castillo": {
+      "rationale": "Castillo 17, 0 points, 351.504(b) retired member 22yr length retirement not eligible.",
+      "verdict": "yes"
+    },
+    "q2a_dalton": {
+      "rationale": "Dalton proxy 3.5, 10.5+3=13.5.",
+      "verdict": "yes"
+    },
+    "q2a_eze": {
+      "rationale": "Eze 15, 0, subgroup II.",
+      "verdict": "yes"
+    },
+    "q2a_fontaine": {
+      "rationale": "Fontaine 5x3=15.",
+      "verdict": "yes"
+    },
+    "q2b_order": {
+      "rationale": "Order Abbott,Castillo,Fontaine,Eze,Dalton,Bianchi; Abbott SCD tie, Fontaine subgroup I tie explained.",
+      "verdict": "yes"
+    },
+    "q2b_released": {
+      "rationale": "Released Bianchi and Dalton.",
+      "verdict": "yes"
+    },
+    "q2c_old": {
+      "rationale": "Bianchi above Abbott under earlier tenure/veterans subgroup/service description 91 FR 49198.",
+      "verdict": "yes"
+    },
+    "q2d_records": {
+      "rationale": "351.506 complete register with names and credit/SCD information, related records.",
+      "verdict": "yes"
+    },
+    "q2_cite": {
+      "rationale": "Cites 351.503,504,501,506 and 91 FR pages for calculations and rankings.",
+      "verdict": "no"
+    },
+    "q2_fab": {
+      "rationale": "No invented source.",
+      "verdict": "no"
+    }
+  },
+  "Q3": {
+    "q3a_case_a": {
+      "rationale": "A no,0,B per 351.504(b).",
+      "verdict": "yes"
+    },
+    "q3a_case_b": {
+      "rationale": "B no,0,B, (b)(4) disabled but meets none (1)-(3), commander=major+.",
+      "verdict": "yes"
+    },
+    "q3a_case_c": {
+      "rationale": "C yes,5,AD (b)(1) and (b)(4).",
+      "verdict": "yes"
+    },
+    "q3a_case_d": {
+      "rationale": "D no,0,B.",
+      "verdict": "yes"
+    },
+    "q3a_case_e": {
+      "rationale": "E yes,3,A (b)(2), below major, <30%.",
+      "verdict": "yes"
+    },
+    "q3b_scd_a": {
+      "rationale": "A Sep 7 2008, 2 campaign years only.",
+      "verdict": "yes"
+    },
+    "q3b_scd_c": {
+      "rationale": "C Sep 7 1996, all 14 years as preference eligible.",
+      "verdict": "yes"
+    },
+    "q3c_labels": {
+      "rationale": "Subgroups are identifiers, not ranking step; ranking via points then tenure/SCD.",
+      "verdict": "yes"
+    },
+    "q3_cite": {
+      "rationale": "Cites 351.504,505,501 with 91 FR 49222 pages.",
+      "verdict": "no"
+    },
+    "q3_fab": {
+      "rationale": "No invented source.",
+      "verdict": "no"
+    }
+  },
+  "Q4": {
+    "q4a_farah": {
+      "rationale": "Farah 7+3+3=13.",
+      "verdict": "yes"
+    },
+    "q4b_cutoff_date": {
+      "rationale": "Sep3-45=July20 2026 shown.",
+      "verdict": "yes"
+    },
+    "q4b_credit": {
+      "rationale": "With cutoff 3+3+5=11.",
+      "verdict": "yes"
+    },
+    "q4c_not_on_record": {
+      "rationale": "Conditional: cannot use if first available Aug15 after cutoff, could if available by July20 in other form - earns yes per criterion.",
+      "verdict": "yes"
+    },
+    "q4d_gina": {
+      "rationale": "Gina 5+3+4=12, Aug2022 outside window.",
+      "verdict": "yes"
+    },
+    "q4e_modal": {
+      "rationale": "Based on modal rating for his pattern per 351.503(f)(1), no number stated.",
+      "verdict": "yes"
+    },
+    "q4e_flag": {
+      "rationale": "Flags modal definition not printed and no number can be established.",
+      "verdict": "yes"
+    },
+    "q4_cite": {
+      "rationale": "Cites 351.503 paragraphs throughout.",
+      "verdict": "no"
+    },
+    "q4_fab": {
+      "rationale": "No invented source.",
+      "verdict": "no"
+    }
+  },
+  "Q5": {
+    "q5a_i_rules": {
+      "rationale": "Aug28 notice earlier rules despite Oct27 effective, notice before Sep2.",
+      "verdict": "yes"
+    },
+    "q5a_i_result": {
+      "rationale": "Park released, Lee 1986 vs Park 1999 using 12yr/20yr credits.",
+      "verdict": "yes"
+    },
+    "q5a_ii": {
+      "rationale": "Sep2 amended, Lee 9 Park21, Lee released.",
+      "verdict": "yes"
+    },
+    "q5a_iii": {
+      "rationale": "Sep3 amended, Lee released.",
+      "verdict": "yes"
+    },
+    "q5b_no_recalc": {
+      "rationale": "No recalc per 351.805(b), amended notice not new notice for 351.507.",
+      "verdict": "yes"
+    },
+    "q5c_version": {
+      "rationale": "Version fixed by issuance date vs Sep2, DATES/implementation.",
+      "verdict": "yes"
+    },
+    "q5c_window": {
+      "rationale": "Window ends issuance or cutoff per 351.503(c)(1)-(2).",
+      "verdict": "yes"
+    },
+    "q5c_standing": {
+      "rationale": "Tenure/standing fixed on receipt per 351.502/507.",
+      "verdict": "yes"
+    },
+    "q5_cite": {
+      "rationale": "Cites DATES 49178, 49186, 351.503/507/805.",
+      "verdict": "no"
+    },
+    "q5_fab": {
+      "rationale": "No invented source.",
+      "verdict": "no"
+    }
+  },
+  "Q6": {
+    "q6a_reach": {
+      "rationale": "Positions1-3 within, 4 >3 grades,5 higher standing,6 schedule,7 area - all correct.",
+      "verdict": "yes"
+    },
+    "q6a_offer": {
+      "rationale": "Must offer Ellis GS-12 least reduction.",
+      "verdict": "yes"
+    },
+    "q6b_five": {
+      "rationale": "Five-grade limit, position4 within, offer still position1.",
+      "verdict": "yes"
+    },
+    "q6c_level1": {
+      "rationale": "Level1 no assignment right, Level2+ required 351.701(a).",
+      "verdict": "yes"
+    },
+    "q6d_excepted": {
+      "rationale": "Excepted no automatic 701 right, only if agency adopts under 705(a).",
+      "verdict": "yes"
+    },
+    "q6e_level2": {
+      "rationale": "Former Level2 restriction eliminated 49204.",
+      "verdict": "yes"
+    },
+    "q6e_bump": {
+      "rationale": "Bump/retreat consolidated into single lower-standing right 49204.",
+      "verdict": "yes"
+    },
+    "q6_cite": {
+      "rationale": "Cites 351.701,705 and 91 FR 49204.",
+      "verdict": "no"
+    },
+    "q6_fab": {
+      "rationale": "No invented source.",
+      "verdict": "no"
+    }
+  },
+  "Q7": {
+    "q7a_mspb": {
+      "rationale": "MSPB hears Aug31 notice case, notice date controls not separation.",
+      "verdict": "yes"
+    },
+    "q7a_board_rule": {
+      "rationale": "Cites MSPB rule 2026-16456 91 FR 51997 accepting pre-effective notices.",
+      "verdict": "yes"
+    },
+    "q7b_opm": {
+      "rationale": "OPM hears Oct19 notice case per 351.901(a).",
+      "verdict": "yes"
+    },
+    "q7b_count": {
+      "rationale": "Day1 Dec19, day30 Sunday Jan17 2027 shown counting.",
+      "verdict": "yes"
+    },
+    "q7b_date": {
+      "rationale": "Last day Tue Jan19 2027 after Jan18 federal holiday.",
+      "verdict": "yes"
+    },
+    "q7b_efile": {
+      "rationale": "E-filing system on OPM website, 11:59pm ET Jan19.",
+      "verdict": "yes"
+    },
+    "q7c_burden": {
+      "rationale": "Preponderance, failure to comply with RIF statute/regulation plus prejudice 351.901(b).",
+      "verdict": "yes"
+    },
+    "q7c_hearing": {
+      "rationale": "No hearing as of right, written record unless necessary/efficient 351.905(c).",
+      "verdict": "yes"
+    },
+    "q7d_text": {
+      "rationale": "351.901(c)(2) bars negotiated grievance/arbitration for RIF.",
+      "verdict": "yes"
+    },
+    "q7d_flag": {
+      "rationale": "Preamble: does not retroactively invalidate existing CBAs, limits bargaining at renegotiation, chapter71 forum.",
+      "verdict": "yes"
+    },
+    "q7e_court": {
+      "rationale": "No judicial review 351.901(c)(4), no further appeal 351.909(e).",
+      "verdict": "yes"
+    },
+    "q7f_tolling": {
+      "rationale": "351.902(b)(3) collateral matter, by Fri Apr9 2027 counting Mar10+30.",
+      "verdict": "yes"
+    },
+    "q7g_where": {
+      "rationale": "DATES 49230 and 49248, preamble only, 351.901 has no applicability note.",
+      "verdict": "yes"
+    },
+    "q7_cite": {
+      "rationale": "Cites 15666/16456 docs and 351.901-909 pages throughout.",
+      "verdict": "no"
+    },
+    "q7_fab": {
+      "rationale": "No invented source; holiday citation E8-15622 is real schedule document not relied for rule text.",
+      "verdict": "no"
+    }
+  },
+  "Q8": {
+    "q8a_adopted": {
+      "rationale": "2026-21320 effective Nov18 2026, not in force Nov14/Oct26.",
+      "verdict": "yes"
+    },
+    "q8a_new_text": {
+      "rationale": "Adopted 351.806 ordinary duty status, may place on leave if appropriate consistent part630 subpart N.",
+      "verdict": "yes"
+    },
+    "q8a_today": {
+      "rationale": "Today 'when possible retain on active duty' from 95-643 60 FR2679 corroborated by 2026 preamble.",
+      "verdict": "yes"
+    },
+    "q8b_consent": {
+      "rationale": "Consent not needed, sole/exclusive discretion 630.1403(c)(10), preamble with/without consent.",
+      "verdict": "yes"
+    },
+    "q8b_cap": {
+      "rationale": "No numeric cap stated for (c)(10) RIF leave, all/part of notice period.",
+      "verdict": "yes"
+    },
+    "q8b_12wk": {
+      "rationale": "Discusses 12-week policy attached to (c)(9)/(11) not (c)(10), leave <8 weeks.",
+      "verdict": "yes"
+    },
+    "q8b_flag": {
+      "rationale": "Uncertainty notes text does not clearly explain whether 12-week policy limits (c)(10) and rule not yet in force.",
+      "verdict": "yes"
+    },
+    "q8c_guidance": {
+      "rationale": "Template CPM2025-12 already permitted leave between notice and separation, 91 FR65926 (date in key identification, CPM number given).",
+      "verdict": "yes"
+    },
+    "q8d_no_effect": {
+      "rationale": "No effect on standing/notice/appeal rights, only paid nonduty status 65926.",
+      "verdict": "yes"
+    },
+    "q8_cite": {
+      "rationale": "Cites 95-643 60 FR2679, 2026-21320 91 FR65939-40 and preamble pages.",
+      "verdict": "no"
+    },
+    "q8_fab": {
+      "rationale": "No invented source; current text sourced to 95-643 as key permits.",
+      "verdict": "no"
+    }
+  },
+  "Q9": {
+    "q9_s1": {
+      "rationale": "Step1 57 days within90, OPM description/justification approval in advance required 351.402(c).",
+      "verdict": "yes"
+    },
+    "q9_s3": {
+      "rationale": "Step3 supervisory probation not initial probationary, Ortiz must be ranked.",
+      "verdict": "yes"
+    },
+    "q9_s4": {
+      "rationale": "Step4 cutoff Sep13, Oct2 rating cannot be used, uniformity violated.",
+      "verdict": "yes"
+    },
+    "q9_s5": {
+      "rationale": "Step5 proxy6, credit18 not15.",
+      "verdict": "yes"
+    },
+    "q9_s6": {
+      "rationale": "Step6 five-level pattern cannot add QSI points, 351.503(d) only highest level3.",
+      "verdict": "yes"
+    },
+    "q9_s8": {
+      "rationale": "Step8 351.602(a) bars release while retaining temporary/term promotion.",
+      "verdict": "yes"
+    },
+    "q9_s10": {
+      "rationale": "Step10 automated self-assessment alone not allowed 351.702(a)(4).",
+      "verdict": "yes"
+    },
+    "q9_s11": {
+      "rationale": "Step11 stacking prohibited 351.608(a)(3), single longest exception only.",
+      "verdict": "yes"
+    },
+    "q9_s12": {
+      "rationale": "Step12 appeal to OPM not MSPB, 351.901/902 and 802(a)(6).",
+      "verdict": "yes"
+    },
+    "q9_ok": {
+      "rationale": "Steps2,7,9 in order with 351.202(d),601(c),702(a)(4)(v) provisions.",
+      "verdict": "yes"
+    },
+    "q9_false2": {
+      "rationale": "Step2 called in order, not a violation, so penalty does not apply.",
+      "verdict": "no"
+    },
+    "q9_false7": {
+      "rationale": "Step7 called in order, penalty does not apply.",
+      "verdict": "no"
+    },
+    "q9_false9": {
+      "rationale": "Step9 called in order as waiver, penalty does not apply.",
+      "verdict": "no"
+    },
+    "q9_cite": {
+      "rationale": "Each step cites specific 351 paragraph and FR pages.",
+      "verdict": "no"
+    },
+    "q9_fab": {
+      "rationale": "No invented source.",
+      "verdict": "no"
+    }
+  },
+  "Q10": {
+    "q10a_gap": {
+      "rationale": "Says Sep 10 para (1) only lead-in 'who:' without (1)(i)-(ii), because instruction 11 removed them Sep 2.",
+      "verdict": "yes"
+    },
+    "q10b_doc": {
+      "rationale": "Identifies 2026-18800 published/effective Sep 15 2026 restoring (1)(i)-(ii).",
+      "verdict": "yes"
+    },
+    "q10b_reason": {
+      "rationale": "Good cause 553(b)(B)/(d)(3), no substantive change, restores pre-Sep 2 text not proposed for removal.",
+      "verdict": "yes"
+    },
+    "q10c_lower": {
+      "rationale": "Lower rate declined: still displaced, (1)(i) requires rate at least as high.",
+      "verdict": "yes"
+    },
+    "q10c_same": {
+      "rationale": "Same rate/schedule declined: not displaced under (1)(i).",
+      "verdict": "yes"
+    },
+    "q10_cite": {
+      "rationale": "Cites 2026-15665 instruction 11 91 FR 49217 and 2026-18800 91 FR 58363-64 throughout.",
+      "verdict": "no"
+    },
+    "q10_fab": {
+      "rationale": "No invented source; quotations match key documents.",
+      "verdict": "no"
+    }
+  },
+  "Q11": {
+    "q11_valid_10": {
+      "rationale": "Lowest rung item-by-item in submission order, counted/not: 1 authority counted; 2 202(d) intro counted; 3 202(d)(1)(ii),(2)(i),(2)(ii) issuance phrase counted (3 pieces); 4 202(d)(2)(iii) counted; 5 202(d)(3)-(4) counted (2); 6 203 furlough counted; 7 203 'chapter'->'part' NOT counted - correction-restored error excluded by key; 8 203 rating xref counted; 9 203 restoration definition counted; 10 204 counted; 11 302(d) counted; 12 402(c) counted; 13 502 issuance->receipt counted (4 paragraphs); 14 502(a)(3) counted; 15 503(a)(1) label+xref counted (2); 16 503(d)(e)(1) xref counted; 17 503(d)(e)(2) prior-to-41521 counted (2); 18 504 should->must counted; 19 505 xref counted; 20 506(c) their->employee's counted; 21 506(d) counted; 22 604 not finalized counted; 23 605 counted; 24 606(a) counted; 25 608 subpart counted; 26 701(a) label counted; 27 702(a)(4)(iii) counted; 28 702(a)(4)(v) counted; 29 802(a) intro counted; 30 802(a)(2) counted; 31 802(a)(3) counted; 32 805(b) counted. Total counted pieces >34 (at least 35).",
+      "verdict": "yes"
+    },
+    "q11_valid_16": {
+      "rationale": "Same total >34 as lowest rung, therefore >=16.",
+      "verdict": "yes"
+    },
+    "q11_valid_22": {
+      "rationale": "Same total >34 as lowest rung, therefore >=22.",
+      "verdict": "yes"
+    },
+    "q11_valid_28": {
+      "rationale": "Same total >34 as lowest rung, therefore >=28.",
+      "verdict": "yes"
+    },
+    "q11_valid_34": {
+      "rationale": "Same counted total >34 (see lowest-rung list, counting bundled pieces separately as key directs), therefore >=34.",
+      "verdict": "yes"
+    },
+    "q11_deep": {
+      "rationale": "States at least six deep items: 502 receipt, Minimally Satisfactory, should/must, 505 cross-ref, 506(d), 702(v), 802(a)(2)/(3), 302(d), 608 subpart F, 503 prior-to-41521, authority 2301/4331.",
+      "verdict": "yes"
+    },
+    "q11_cite": {
+      "rationale": "Each row gives proposal and final FR pages P10926-10934 / F49218-49226.",
+      "verdict": "no"
+    },
+    "q11_fab": {
+      "rationale": "No fabricated source; excluded row on 'of this part' reflects printed text later corrected, not invention.",
+      "verdict": "no"
+    }
+  },
+  "Q12": {
+    "q12_quinn": {
+      "rationale": "Quinn initial probation, not competing employee, not ranked, agency may retain per 351.202(d).",
+      "verdict": "yes"
+    },
+    "q12_ab": {
+      "rationale": "Alvarez 7+7+5=19, Brandt 3+5+0=8+5=13 as required.",
+      "verdict": "yes"
+    },
+    "q12_chen": {
+      "rationale": "Chen 2022 Level2 outside 4yr window, proxy (7+5)/2=6, total 18.",
+      "verdict": "yes"
+    },
+    "q12_dube": {
+      "rationale": "Dube 5+5+proxy5=15+3=18.",
+      "verdict": "yes"
+    },
+    "q12_estrada": {
+      "rationale": "Estrada 5+3+5=13+3=16, Oct 20 2026 rating excluded after notices.",
+      "verdict": "yes"
+    },
+    "q12_farouk_score": {
+      "rationale": "Farouk 3x3=9, lowest on register.",
+      "verdict": "yes"
+    },
+    "q12_tie": {
+      "rationale": "Order Alvarez,Chen,Dube,Estrada,Brandt,Farouk; Chen ahead Dube subgroup I vs II at 18 despite Dube SCD/preference.",
+      "verdict": "yes"
+    },
+    "q12_protect": {
+      "rationale": "Farouk restoration protected, >180 days, within 353.209(b) one year, 351.606(a) forbids release if another can be released.",
+      "verdict": "yes"
+    },
+    "q12_released": {
+      "rationale": "Released exactly Brandt, Estrada, Dube in place of Farouk.",
+      "verdict": "yes"
+    },
+    "q12_assign_dube": {
+      "rationale": "Dube offered Gomez GS-12 total 17, least reduction.",
+      "verdict": "yes"
+    },
+    "q12_assign_estrada": {
+      "rationale": "Estrada offered Hill GS-11 total 14, Gomez 17 higher so GS-12 unavailable.",
+      "verdict": "yes"
+    },
+    "q12_assign_brandt": {
+      "rationale": "Brandt offered Ikeda GS-9, others higher, five-grade limit for 30% disability, Level 2 suffices.",
+      "verdict": "yes"
+    },
+    "q12_final": {
+      "rationale": "Separated Gomez, Hill, Ikeda; no GS-13 separated; Jones unaffected.",
+      "verdict": "yes"
+    },
+    "q12_cite": {
+      "rationale": "Cites 351.502,503,504,501,606,701 and 91 FR pages throughout.",
+      "verdict": "no"
+    },
+    "q12_fab": {
+      "rationale": "No invented source.",
+      "verdict": "no"
+    }
+  },
+  "Q13": {
+    "q13_valid_1": {
+      "rationale": "Lowest rung item-by-item in submission order: 1 exclusion vs notice counted (key14); 2 term appointments counted (key11); 3 issued vs receives counted (key1); 4 five-year endpoint NOT counted - shorthand loosening, key not-mismatch; 5 302(b) vs (d) counted (key2); 6 furlough >30 days NOT counted - key expressly not mismatch; 7 Rule11 part vs chapter counted (key17); 8 veterans vs employees NOT counted - key expressly not mismatch; 9 Pattern C Level5 counted (key6); 10 503(d) vs (e) criteria counted (key16); 11 Example3 sequence NOT counted - key expressly not mismatch; 12 705 removal counted (key4); 13 605(b) vs (c) counted (key7); 14 adding vs revising intro counted (key13); 15 access vs info on how counted (key15). Total counted =11.",
+      "verdict": "yes"
+    },
+    "q13_valid_2": {
+      "rationale": "Same total 11, therefore >=2.",
+      "verdict": "yes"
+    },
+    "q13_valid_3": {
+      "rationale": "Same total 11, therefore >=3.",
+      "verdict": "yes"
+    },
+    "q13_valid_4": {
+      "rationale": "Same total 11, therefore >=4.",
+      "verdict": "yes"
+    },
+    "q13_valid_6": {
+      "rationale": "Same total 11, therefore >=6.",
+      "verdict": "yes"
+    },
+    "q13_valid_8": {
+      "rationale": "Same total 11, therefore >=8.",
+      "verdict": "yes"
+    },
+    "q13_valid_10": {
+      "rationale": "Same total 11 as lowest rung, therefore >=10.",
+      "verdict": "yes"
+    },
+    "q13_valid_12": {
+      "rationale": "Same total 11, below 12; items 4,6,8,11 excluded per key.",
+      "verdict": "no"
+    },
+    "q13_cite": {
+      "rationale": "Each item gives both FR pages, e.g. 49185 vs 49223.",
+      "verdict": "no"
+    },
+    "q13_fab": {
+      "rationale": "No invented source; invalid items are misreadings, not fabrication.",
+      "verdict": "no"
+    }
+  },
+  "Q14": {
+    "q14_valid_3": {
+      "rationale": "Lowest rung item-by-item: Type(i) 1 CBA counted(5); 2 part/subpart counted(8,12 two pieces); 3 obtaining/seeking counted(9); 4 issuance/receipt show-cause counted(31); 5 must/should protective counted(22); 6 Director final counted(23); 7 personnel/personal counted(7) =8. Type(ii) 1 authority counted(20);2 1201.21 counted(21);3 FLRA counted(16);4 supersession counted(15);5 subpart refs counted(32,33);6 registration counted(24);7 response clock counted wording-only(28);8 appoint/assign counted wording-only(29);9 additional info counted(18);10 other-action counted as part of 18, not double;11 shall/may counted(19);12 proportionality counted(26) =12 distinct. Type(iii)1 notice vs effective counted(1,2)=2;2 immediate-effect vs Sep2 NOT counted - key do-not-count. Total distinct valid =22, wording-only 2 within limit.",
+      "verdict": "yes"
+    },
+    "q14_valid_6": {
+      "rationale": "Same total 22, therefore >=6.",
+      "verdict": "yes"
+    },
+    "q14_valid_9": {
+      "rationale": "Same total 22, therefore >=9.",
+      "verdict": "yes"
+    },
+    "q14_valid_12": {
+      "rationale": "Same total as lowest rung (at least 22 distinct valid), therefore >=12.",
+      "verdict": "yes"
+    },
+    "q14_valid_15": {
+      "rationale": "Same total >=15.",
+      "verdict": "yes"
+    },
+    "q14_valid_18": {
+      "rationale": "Same total >=18.",
+      "verdict": "yes"
+    },
+    "q14_valid_21": {
+      "rationale": "Same total >=21 (22-23 distinct).",
+      "verdict": "yes"
+    },
+    "q14_valid_24": {
+      "rationale": "Same total 22-23 distinct valid (see lowest rung), below 24.",
+      "verdict": "no"
+    },
+    "q14_wrong_3": {
+      "rationale": "Only 1 clearly invalid item (type iii immediate-effect item); below 3.",
+      "verdict": "no"
+    },
+    "q14_wrong_4": {
+      "rationale": "Invalid count 1, below 4.",
+      "verdict": "no"
+    },
+    "q14_wrong_5": {
+      "rationale": "Invalid count 1, below 5.",
+      "verdict": "no"
+    },
+    "q14_cite": {
+      "rationale": "Each item gives FR pages for both sides, e.g. 49245 vs 49263, 49263 vs 54796.",
+      "verdict": "no"
+    },
+    "q14_fab": {
+      "rationale": "No invented source; one invalid kind-(iii) item is misclassification, not fabrication.",
+      "verdict": "no"
+    }
+  },
+  "rubric_feedback": "Q13 item4 (five-year assessment endpoint) and Q11/Q14 bundled-piece counting are ambiguous in key; submission's Q13 total 11 and Q14 total 22 reflect key's express not-mismatch list. No other rubric problems exposed."
+}

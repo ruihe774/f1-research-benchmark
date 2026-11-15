@@ -1,0 +1,753 @@
+{
+  "Q1": {
+    "q1_duty_procs": {
+      "rationale": "11046 (2026-14991), 11047 (2026-14992), 11048 (2026-14997), signed July 20, published July 23, 2026.",
+      "verdict": "yes"
+    },
+    "q1_details": {
+      "rationale": "All ten documents given correct first page and one-line description: 46639, 46653, 46663, 54789, 58311, 58319, 58325, 58331, 58339, 68861 with correct functions.",
+      "verdict": "yes"
+    },
+    "q1_delay": {
+      "rationale": "Lists 11056, 2026-17294, 91 FR 54789, signed Aug 18, published Aug 24, moving effective date to 12:01 a.m. Aug 22 from Aug 19.",
+      "verdict": "yes"
+    },
+    "q1_exclusions": {
+      "rationale": "11061 (2026-18835), 11062 (2026-18836), 11063 (2026-18837), signed Sep 8, published Sep 14, operative Sep 29 12:01 a.m. ET imported on/after.",
+      "verdict": "yes"
+    },
+    "q1_scope": {
+      "rationale": "11064 (2026-18838) and 11065 (2026-18839) Sep 8, from Sep 15 12:01 a.m.; 11076 (2026-22292) signed Oct 23, published Oct 30, from Oct 30 12:01 a.m.",
+      "verdict": "yes"
+    },
+    "q1_events": {
+      "rationale": "States duties/scope use entry for consumption or withdrawal from warehouse, exclusions use importation, repeated in final summary sentence.",
+      "verdict": "yes"
+    },
+    "q1_dairy_none": {
+      "rationale": "Q1 lists scope proclamations for alcohol and motor vehicles but never states that no proclamation modified the dairy duty list or that dairy had only the exclusion.",
+      "verdict": "no"
+    },
+    "q1_dairy_xref": {
+      "rationale": "No mention of 11062 clause (3) dairy-scope cross-reference or that no such proclamation appears in Federal Register.",
+      "verdict": "no"
+    },
+    "q1_cite": {
+      "rationale": "Submission gives FR Doc numbers, proclamation clauses and 91 FR pages for most claims, e.g. 11046 cl.(1) 91 FR 46641, 11056 cl.(1) 54790.",
+      "verdict": "no"
+    },
+    "q1_fab": {
+      "rationale": "No invented document, page, clause or quotation; errors are not present on cited Q1 items.",
+      "verdict": "no"
+    }
+  },
+  "Q2": {
+    "q2a_zero": {
+      "rationale": "Entry 1 Aug 20 $0 and entry 2 Aug 21 11:59 p.m. $0.",
+      "verdict": "yes"
+    },
+    "q2a_third": {
+      "rationale": "Entry 3 Aug 22 12:01 a.m. $40,000x50%=$20,000.",
+      "verdict": "yes"
+    },
+    "q2a_basis": {
+      "rationale": "Cites 11056 cl.(1), 91 FR 54790, effective date shall be Aug 22.",
+      "verdict": "yes"
+    },
+    "q2b_chapeau": {
+      "rationale": "Says 11056 amends only Annex II chapeau deleting Aug 19 inserting Aug 22, numbered clauses (1) and (3) not amended.",
+      "verdict": "yes"
+    },
+    "q2b_resolve": {
+      "rationale": "Says later operative date in 11056 plus Annex II amendment controls over leftover Aug 19 clauses.",
+      "verdict": "yes"
+    },
+    "q2c_refund": {
+      "rationale": "Cites 11056 cl.(4) refunds under applicable law and CBP standard procedures; does not say silent.",
+      "verdict": "yes"
+    },
+    "q2d_no_action": {
+      "rationale": "No further action needed, 11056 set date, later recitals say suspension lapsed and duties effective Aug 22 12:01 a.m.",
+      "verdict": "yes"
+    },
+    "q2d_reneged": {
+      "rationale": "Later recitals: Canada reneged Aug 21, ceased negotiating in good faith, did not remove discrimination.",
+      "verdict": "yes"
+    },
+    "q2e_thirty": {
+      "rationale": "July 20 +30 days = Aug 19, arithmetic 11+19 days shown.",
+      "verdict": "yes"
+    },
+    "q2_cite": {
+      "rationale": "Cites 11046 cls.(1),(3), 11056 cls.(1),(4) with 91 FR pages throughout.",
+      "verdict": "no"
+    },
+    "q2_fab": {
+      "rationale": "No invented document, clause or quotation.",
+      "verdict": "no"
+    }
+  },
+  "Q3": {
+    "q3a_shipment_a": {
+      "rationale": "May import, entered Sep 14, $30,000x50%=$15,000.",
+      "verdict": "yes"
+    },
+    "q3a_shipment_b": {
+      "rationale": "Imported Sep 27 before Sep 29, not excluded, $15,000 under 11061 cl.(2).",
+      "verdict": "yes"
+    },
+    "q3a_shipment_c": {
+      "rationale": "Imported 11:30 p.m. Sep 28 before cutoff, Sep 29 entry irrelevant, $15,000.",
+      "verdict": "yes"
+    },
+    "q3a_shipment_d": {
+      "rationale": "Imported 12:30 a.m. Sep 29 on/after cutoff, excluded from importation, no entry.",
+      "verdict": "yes"
+    },
+    "q3b_result": {
+      "rationale": "FTZ shipment imported Sep 25 before cutoff, not excluded, $15,000 on Oct 6 entry under 11061 cl.(2).",
+      "verdict": "yes"
+    },
+    "q3b_ftz": {
+      "rationale": "Cites 11046 cl.(4) privileged foreign status unless eligible domestic status.",
+      "verdict": "yes"
+    },
+    "q3c_invalid": {
+      "rationale": "50% duty under 11046 applies via 11061 cl.(9)(b) severability fallback, 91 FR 58313.",
+      "verdict": "yes"
+    },
+    "q3d_no_change": {
+      "rationale": "No change outside exclusion Annex; 11061 cl.(3) preserves other 11046 duty products.",
+      "verdict": "yes"
+    },
+    "q3_cite": {
+      "rationale": "Cites 11046 cls.(1),(4), 11061 cls.(1),(2),(3),(9)(b) with FR pages.",
+      "verdict": "no"
+    },
+    "q3_fab": {
+      "rationale": "No invented source.",
+      "verdict": "no"
+    }
+  },
+  "Q4": {
+    "q4a_amounts": {
+      "rationale": "Sep 10: section 232 $25,000 and section 338 $0 on X, Y, Z.",
+      "verdict": "yes"
+    },
+    "q4a_basis": {
+      "rationale": "Bases $0 on original clause (2) exclusion for articles subject to section 232.",
+      "verdict": "yes"
+    },
+    "q4b_x": {
+      "rationale": "Gives X Oct 1 section 338 $0, contrary to 11064 stacking $50,000.",
+      "verdict": "no"
+    },
+    "q4b_z": {
+      "rationale": "Z Oct 1 section 232 $25,000 + section 338 $50,000 under 11065 stacking from Sep 15.",
+      "verdict": "yes"
+    },
+    "q4b_y": {
+      "rationale": "Y Oct 1 section 232 $25,000, section 338 $0, no dairy modification, clause (2) remains.",
+      "verdict": "yes"
+    },
+    "q4c_text": {
+      "rationale": "Denies stacking sentence in 11064 cl.(1), so does not identify both clause (2) carve-out and 11064+11065 stacking sentences.",
+      "verdict": "no"
+    },
+    "q4c_supersede": {
+      "rationale": "No supersession clause or express non-amendment/displacement explanation resolving clause (2) vs stacking; treats 11064 as not stacking.",
+      "verdict": "no"
+    },
+    "q4c_xref": {
+      "rationale": "No mention of 11062 cl.(3) dairy scope cross-reference or nonexistence of such proclamation.",
+      "verdict": "no"
+    },
+    "q4c_doubt": {
+      "rationale": "Presents Y result as certain, no doubt about missing dairy modification.",
+      "verdict": "no"
+    },
+    "q4_cite": {
+      "rationale": "Cites 11046-11048 cl.(2), 11064 cl.(1), 11065 cl.(1) with FR pages.",
+      "verdict": "no"
+    },
+    "q4_fab": {
+      "rationale": "Claim 11064 lacks stacking sentence is misreading of real clause, not invented source under rubric definition.",
+      "verdict": "no"
+    }
+  },
+  "Q5": {
+    "q5a_p": {
+      "rationale": "P: no Sep 14, yes Sep 15, Oct 29, Oct 30, Nov 3 - all correct.",
+      "verdict": "yes"
+    },
+    "q5a_q": {
+      "rationale": "Q: yes Sep 14, no Sep 15 onward - all correct.",
+      "verdict": "yes"
+    },
+    "q5a_r": {
+      "rationale": "R: yes Sep 14, Sep 15, Oct 29; no Oct 30, Nov 3 under 11076 Part A removal - correct.",
+      "verdict": "yes"
+    },
+    "q5a_s": {
+      "rationale": "S: no first three times, yes Oct 30 and Nov 3 under 11076 Part B - correct.",
+      "verdict": "yes"
+    },
+    "q5b_dates": {
+      "rationale": "11076 signed Oct 23, filed Oct 29, published Oct 30, applies Oct 30 12:01 a.m.",
+      "verdict": "yes"
+    },
+    "q5b_prospective": {
+      "rationale": "States scope proclamations do not reach earlier entries and contain no refund provision.",
+      "verdict": "yes"
+    },
+    "q5c_days": {
+      "rationale": "P 7 days Sep 8 to Sep 15, S 7 days Oct 23 to Oct 30.",
+      "verdict": "yes"
+    },
+    "q5c_silent": {
+      "rationale": "Recites 30-day rule but says documents do not explain whether it runs from original July finding or restarts; leaves open.",
+      "verdict": "yes"
+    },
+    "q5_cite": {
+      "rationale": "Cites 11065 cl.(1), 11076 cl.(1), filing 91 FR 68871, 30-day recitals.",
+      "verdict": "no"
+    },
+    "q5_fab": {
+      "rationale": "No invented source.",
+      "verdict": "no"
+    }
+  },
+  "Q6": {
+    "q6a_switzerland": {
+      "rationale": "Switzerland $8,500, total $12,500.",
+      "verdict": "yes"
+    },
+    "q6a_norway": {
+      "rationale": "Norway $12,500, total $16,500.",
+      "verdict": "yes"
+    },
+    "q6a_uk": {
+      "rationale": "United Kingdom $10,000, total $14,000.",
+      "verdict": "yes"
+    },
+    "q6a_germany": {
+      "rationale": "Germany $6,000, total $10,000.",
+      "verdict": "yes"
+    },
+    "q6a_taiwan": {
+      "rationale": "Taiwan $6,000, total $10,000.",
+      "verdict": "yes"
+    },
+    "q6a_turkiye": {
+      "rationale": "Türkiye $12,500, total $16,500.",
+      "verdict": "yes"
+    },
+    "q6a_japan": {
+      "rationale": "Japan $8,500, total $12,500.",
+      "verdict": "yes"
+    },
+    "q6a_liechtenstein": {
+      "rationale": "$0, not one of 60 investigated economies, total $4,000.",
+      "verdict": "yes"
+    },
+    "q6a_hongkong": {
+      "rationale": "Hong Kong $12,500, total $16,500.",
+      "verdict": "yes"
+    },
+    "q6a_india": {
+      "rationale": "India $10,000, total $14,000.",
+      "verdict": "yes"
+    },
+    "q6b_germany12": {
+      "rationale": "Germany 12% MFN $0.",
+      "verdict": "yes"
+    },
+    "q6b_japan12": {
+      "rationale": "Japan 12% MFN $500.",
+      "verdict": "yes"
+    },
+    "q6b_taiwan10": {
+      "rationale": "Taiwan exactly 10% MFN $0.",
+      "verdict": "yes"
+    },
+    "q6b_korea10": {
+      "rationale": "South Korea exactly 10% MFN $2,500.",
+      "verdict": "yes"
+    },
+    "q6b_swiss_free": {
+      "rationale": "Switzerland MFN free $12,500.",
+      "verdict": "yes"
+    },
+    "q6c_net": {
+      "rationale": "Germany/EU, Taiwan, Switzerland, Japan: flat proposal to net-of-MFN adopted; Norway/UK/Türkiye/HK unchanged.",
+      "verdict": "yes"
+    },
+    "q6c_india": {
+      "rationale": "India proposed 12.5% adopted 10% because imposed forced-labor import prohibition after proposal.",
+      "verdict": "yes"
+    },
+    "q6_cite": {
+      "rationale": "Cites notice 91 FR 47320-21, memorandum 47720, proposal 34274.",
+      "verdict": "no"
+    },
+    "q6_fab": {
+      "rationale": "No invented source; rationale for net rates is extra explanation, not fabricated quotation.",
+      "verdict": "no"
+    }
+  },
+  "Q7": {
+    "q7a_france": {
+      "rationale": "$1,140: $60/$12,000=0.5%, 9.5% rate.",
+      "verdict": "yes"
+    },
+    "q7b_italy": {
+      "rationale": "$200: $1,800/$20,000=9%, 1% rate.",
+      "verdict": "yes"
+    },
+    "q7b_japan": {
+      "rationale": "$700: 3.5% rate.",
+      "verdict": "yes"
+    },
+    "q7b_brazil": {
+      "rationale": "$2,500 flat 12.5%.",
+      "verdict": "yes"
+    },
+    "q7c_taiwan": {
+      "rationale": "Taiwan equivalent 11% at/above cap, $0.",
+      "verdict": "yes"
+    },
+    "q7c_switzerland": {
+      "rationale": "$300: 1.5% rate.",
+      "verdict": "yes"
+    },
+    "q7d_note": {
+      "rationale": "U.S. note 52(k) 91 FR 47394, duty payable divided by customs value.",
+      "verdict": "yes"
+    },
+    "q7d_zero": {
+      "rationale": "Zero at/above cap located in memorandum sec.1(a)(ii) and notice determinations, not note 52(k).",
+      "verdict": "yes"
+    },
+    "q7_cite": {
+      "rationale": "Cites note 52(k) 91 FR 47394, memorandum 47720, notice 47320-21.",
+      "verdict": "no"
+    },
+    "q7_fab": {
+      "rationale": "No invented source.",
+      "verdict": "no"
+    }
+  },
+  "Q8": {
+    "q8a_case1": {
+      "rationale": "July 29 entry $10,000, not before July 28 deadline.",
+      "verdict": "yes"
+    },
+    "q8a_case2": {
+      "rationale": "July 27 3 p.m. entry $0, vessel in transit and before July 28.",
+      "verdict": "yes"
+    },
+    "q8a_case3": {
+      "rationale": "12:01 a.m. July 28 $10,000, not before that time.",
+      "verdict": "yes"
+    },
+    "q8a_case4": {
+      "rationale": "Loaded 6 a.m. July 24 $10,000, not before 12:01 a.m. July 24.",
+      "verdict": "yes"
+    },
+    "q8a_case5": {
+      "rationale": "July 23 entry $0 before duties apply.",
+      "verdict": "yes"
+    },
+    "q8a_case6": {
+      "rationale": "July 26 warehouse withdrawal $10,000, not in-transit exception.",
+      "verdict": "yes"
+    },
+    "q8a_case7": {
+      "rationale": "Air freight $10,000 on text; exception limited to vessel-loaded goods.",
+      "verdict": "yes"
+    },
+    "q8b_where": {
+      "rationale": "In-transit rule in DATES line of USTR Notice 2026-15181, 91 FR 47318.",
+      "verdict": "yes"
+    },
+    "q8c_dates": {
+      "rationale": "Memorandum signed July 23, duties July 24 12:01 a.m., published July 28.",
+      "verdict": "yes"
+    },
+    "q8d_july30": {
+      "rationale": "July 30 $10,000, exemption not yet effective until July 31.",
+      "verdict": "yes"
+    },
+    "q8d_aug3": {
+      "rationale": "Aug 3 $0, patented pharmaceutical exemption effective July 31.",
+      "verdict": "yes"
+    },
+    "q8_cite": {
+      "rationale": "Cites DATES line 91 FR 47318, memorandum 47717, note 52(f)(8) 47394.",
+      "verdict": "no"
+    },
+    "q8_fab": {
+      "rationale": "No invented source.",
+      "verdict": "no"
+    }
+  },
+  "Q9": {
+    "q9a_assembly": {
+      "rationale": "$8,125 =12.5% x ($100,000-$35,000).",
+      "verdict": "yes"
+    },
+    "q9b_repairs": {
+      "rationale": "$750 =12.5% x $6,000 repair value.",
+      "verdict": "yes"
+    },
+    "q9c_usmca": {
+      "rationale": "Mexico USMCA $0 under note 52(h).",
+      "verdict": "yes"
+    },
+    "q9c_no_claim": {
+      "rationale": "Mexico no claim $5,000 =10% x $50,000.",
+      "verdict": "yes"
+    },
+    "q9d_car": {
+      "rationale": "Passenger car 9903.94.01 $0 under note 52(f)(2).",
+      "verdict": "yes"
+    },
+    "q9e_reading": {
+      "rationale": "Concludes 12.5% $12,500 applies in addition because note 52(f) lists only named headings and section 232 status alone does not exempt.",
+      "verdict": "yes"
+    },
+    "q9e_flag": {
+      "rationale": "Part (e) presents $12,500 as certain; only caveat is annex images, and 'named categories do not include' restates scenario. No flag that proposal/notice general section 232 language conflicts with listed headings.",
+      "verdict": "no"
+    },
+    "q9f_232": {
+      "rationale": "Proposal exempted all section 232 articles/parts; adopted note 52(f) only specifically listed categories.",
+      "verdict": "yes"
+    },
+    "q9f_info": {
+      "rationale": "Proposal listed informational materials and donations; adopted readable text has no such general exemption.",
+      "verdict": "yes"
+    },
+    "q9_cite": {
+      "rationale": "Cites note 52(a) 47352, 52(f) 47362-63, 52(h) 47363, proposal 34274.",
+      "verdict": "no"
+    },
+    "q9_fab": {
+      "rationale": "No invented source; annex image caveat is not asserted content.",
+      "verdict": "no"
+    }
+  },
+  "Q10": {
+    "q10a_338": {
+      "rationale": "Sep 10 section 338 $0 under 11048 cl.(2) exclusion for section 232 articles.",
+      "verdict": "yes"
+    },
+    "q10a_301": {
+      "rationale": "Section 301 $0 on Sep 10 because aluminum under 9903.82.02 is listed exception in note 52(f)(1).",
+      "verdict": "yes"
+    },
+    "q10a_total": {
+      "rationale": "Total $106,000: MFN $6,000 + section 232 $100,000.",
+      "verdict": "yes"
+    },
+    "q10b_338": {
+      "rationale": "Sep 16 section 338 $100,000 because 11065 makes duty apply in addition to section 232 from Sep 15.",
+      "verdict": "yes"
+    },
+    "q10b_total": {
+      "rationale": "Total $206,000: $6,000+$100,000+$100,000+$0.",
+      "verdict": "yes"
+    },
+    "q10c_338": {
+      "rationale": "Section 338 $30,000 on USMCA entry; states USMCA exempts from section 301 not section 338.",
+      "verdict": "yes"
+    },
+    "q10c_301": {
+      "rationale": "USMCA section 301 $0 under note 52(g); total for (c) stated $30,000.",
+      "verdict": "yes"
+    },
+    "q10d_stack": {
+      "rationale": "No claim: section 338 $30,000 + section 301 $6,000 = $36,000.",
+      "verdict": "yes"
+    },
+    "q10e_excluded": {
+      "rationale": "Oct 2 shipment in exclusion Annex prohibited from importation from Sep 29, no lawful duty total; hypothetical clearly not admission.",
+      "verdict": "yes"
+    },
+    "q10f_ieepa": {
+      "rationale": "IEEPA northern-border duties ended by EO 14389, FR Doc 2026-03832, 91 FR 9437-38.",
+      "verdict": "yes"
+    },
+    "q10f_surcharge": {
+      "rationale": "10% surcharge Proc 11012 limited through July 24, 2026, so not in force September; cites cl.(7) and FR Doc.",
+      "verdict": "yes"
+    },
+    "q10_cite": {
+      "rationale": "Cites 11048 cl.(2), 11065 cl.(1), note 52(f)(1),(g), 11061 cl.(1), EO 14389 and Proc 11012 with FR pages.",
+      "verdict": "no"
+    },
+    "q10_fab": {
+      "rationale": "No invented source; hypothetical in (e) is flagged as not permission, not attributed as operative text.",
+      "verdict": "no"
+    }
+  },
+  "Q11": {
+    "q11_valid_1": {
+      "rationale": "Lowest-rung count: (a) 11046-11048 clauses still print Aug 19 vs 11056 setting Aug 22 - counted, key #9; (b) scope proclamations recite 30-day rule vs 7-day operative effect - counted, key #11; (c) proposal blanket section 232/INFO/donations exemptions vs notice statement all proposed exemptions kept at 47330 and note 52(f) limited list - counted as one item, key #8. Total 3 valid.",
+      "verdict": "yes"
+    },
+    "q11_valid_2": {
+      "rationale": "Same total of 3 valid discrepancies, at least 2 met.",
+      "verdict": "yes"
+    },
+    "q11_valid_3": {
+      "rationale": "Same total of 3 valid discrepancies, at least 3 met.",
+      "verdict": "yes"
+    },
+    "q11_valid_4": {
+      "rationale": "Same total of 3 valid discrepancies, below 4.",
+      "verdict": "no"
+    },
+    "q11_valid_5": {
+      "rationale": "Same total of 3 valid discrepancies, below 5.",
+      "verdict": "no"
+    },
+    "q11_valid_6": {
+      "rationale": "Same total of 3 valid discrepancies, below 6.",
+      "verdict": "no"
+    },
+    "q11_valid_7": {
+      "rationale": "Same total of 3 valid discrepancies, below 7.",
+      "verdict": "no"
+    },
+    "q11_valid_8": {
+      "rationale": "Same total of 3 valid discrepancies, below 8.",
+      "verdict": "no"
+    },
+    "q11_valid_10": {
+      "rationale": "Same total of 3 valid discrepancies as counted in q11_valid_1, below 10.",
+      "verdict": "no"
+    },
+    "q11_valid_12": {
+      "rationale": "Same total of 3 valid discrepancies, below 12.",
+      "verdict": "no"
+    },
+    "q11_cite": {
+      "rationale": "Each listed item gives document and FR page/clause, e.g. 91 FR 46641, 54790, 58340, 34274, 47330.",
+      "verdict": "no"
+    },
+    "q11_fab": {
+      "rationale": "No invented quotation or document; items rest on real passages cited.",
+      "verdict": "no"
+    }
+  },
+  "Q12": {
+    "q12a": {
+      "rationale": "Cambodia $0, Malaysia $6,000 =10% x $60,000.",
+      "verdict": "yes"
+    },
+    "q12b_exempt": {
+      "rationale": "Malaysia $0 and Taiwan $0 for Boswellia, both listed in note 52(j).",
+      "verdict": "yes"
+    },
+    "q12b_dutiable": {
+      "rationale": "Bangladesh $10,000 and Argentina $10,000, both flat 10% on $100,000, no Boswellia exemption.",
+      "verdict": "yes"
+    },
+    "q12c_taiwan": {
+      "rationale": "Taiwan argan oil $0, specifically exempt in Taiwan list.",
+      "verdict": "yes"
+    },
+    "q12c_japan": {
+      "rationale": "Japan $8,500 = (12.5%-4%) x $100,000.",
+      "verdict": "yes"
+    },
+    "q12c_indonesia": {
+      "rationale": "Indonesia argan oil $10,000 =10% x $100,000.",
+      "verdict": "yes"
+    },
+    "q12d": {
+      "rationale": "Sesame seeds for sowing $0 for Japan, Mexico and Thailand under note 52(c) all-economy exemption.",
+      "verdict": "yes"
+    },
+    "q12e": {
+      "rationale": "Cambodia $0, Thailand $5,000, El Salvador $4,000, Italy $3,200 - all four correct including Cambodia.",
+      "verdict": "yes"
+    },
+    "q12_cite": {
+      "rationale": "Cites note 52(c)(4), 52(j) subparagraphs and FR pages 47356, 47365-47394 for each exemption.",
+      "verdict": "no"
+    },
+    "q12_fab": {
+      "rationale": "No invented annex content; exemptions are from readable note 52 text.",
+      "verdict": "no"
+    }
+  },
+  "Q13": {
+    "q13a": {
+      "rationale": "$35,000 = ($200,000-$60,000)x25%, above $30,000 15% floor, under 11032 cl.(2)(d).",
+      "verdict": "yes"
+    },
+    "q13b": {
+      "rationale": "$50,000 = $200,000x25% with no U.S. content.",
+      "verdict": "yes"
+    },
+    "q13c": {
+      "rationale": "$50,000 full value, no USMCA reduction for non-qualifying product.",
+      "verdict": "yes"
+    },
+    "q13d": {
+      "rationale": "$25,000 = (15%-2.5%)x$200,000 for Japan under cl.(2)(b).",
+      "verdict": "yes"
+    },
+    "q13e": {
+      "rationale": "Gives $45,000, denying $30,000 U.S.-smelted aluminum; correct answer is $37,500 counting $50,000 U.S. content per Commerce guidance.",
+      "verdict": "no"
+    },
+    "q13f": {
+      "rationale": "Gives $45,000 for Oct 6 but says same as (e) and June 8 effectiveness, with no mention that Commerce guidance applies only on/after Oct 14 or that proclamation definition therefore controls.",
+      "verdict": "no"
+    },
+    "q13f_flag": {
+      "rationale": "Presents $45,000 as certain with no doubt about pre-Oct 14 treatment of U.S.-smelted aluminum and no both-figures presentation.",
+      "verdict": "no"
+    },
+    "q13g": {
+      "rationale": "$30,000: $15,000 is 7.5%, 15% floor on $200,000 controls.",
+      "verdict": "yes"
+    },
+    "q13h": {
+      "rationale": "Through 11:59 p.m. Dec 31, 2027; from Jan 1, 2028 clause (3) of Proc 11021 applies to Annex I-C products.",
+      "verdict": "yes"
+    },
+    "q13_cite": {
+      "rationale": "Cites Proc 11032 cl.(2)-(4), 11021 cls.(1)-(3) with FR pages 34087-88, 18203-04.",
+      "verdict": "no"
+    },
+    "q13_fab": {
+      "rationale": "No invented source; (e)/(f) error is misapplication of real non-U.S.-content definition, not fabrication.",
+      "verdict": "no"
+    }
+  },
+  "Q14": {
+    "q14_1_operative": {
+      "rationale": "Partly correct: Sep 1 only preamble forecast, operative sec.2 'as soon as feasible' with no deadline, 91 FR 47720-21.",
+      "verdict": "yes"
+    },
+    "q14_1_notice": {
+      "rationale": "Statement 1 adds no notice point: no mention that notice sets no deadline, subsequent notice, no notice published, or interim 10% rate.",
+      "verdict": "no"
+    },
+    "q14_2": {
+      "rationale": "Incorrect; 450/60 are investigation phase, proposed action had over 1,600 comments and over 100 witnesses, 91 FR 47319.",
+      "verdict": "yes"
+    },
+    "q14_3_jordan": {
+      "rationale": "Says Jordan was ART not ban, but does not say Cambodia and Guatemala imposed bans after June proposal; lists only four ban economies.",
+      "verdict": "no"
+    },
+    "q14_3_five": {
+      "rationale": "States Cambodia and Guatemala already 10%, and only Honduras, India, Jordan, Sri Lanka, Trinidad moved 12.5% to 10% (four ban movers plus Jordan).",
+      "verdict": "yes"
+    },
+    "q14_4": {
+      "rationale": "Incorrect; USTR determined not to remove beef/avocados from exempt list, 91 FR 47331.",
+      "verdict": "yes"
+    },
+    "q14_5": {
+      "rationale": "Incorrect; names EU, Taiwan, Japan, South Korea, Switzerland as net-of-MFN and says no separate Japan/South Korea exemption part in Annex II.",
+      "verdict": "yes"
+    },
+    "q14_6": {
+      "rationale": "Partly correct: 471 additional products correct, but only certain sugar/sugar-containing products, not all sugar.",
+      "verdict": "yes"
+    },
+    "q14_7": {
+      "rationale": "Incorrect; 12.5% is section 301 rate, note 52(a) adds to MFN/other duties, total can exceed, only net economies have combined cap.",
+      "verdict": "yes"
+    },
+    "q14_ok": {
+      "rationale": "8 correct FTZ privileged foreign status 47321, 9 correct invalid exemption 47335, 10 correct Annex A except certain chemicals 47330, at least two cited.",
+      "verdict": "yes"
+    },
+    "q14_false": {
+      "rationale": "Does not call 8, 9 or 10 incorrect; calls all correct (10 correct as to Annex A list).",
+      "verdict": "no"
+    },
+    "q14_cite": {
+      "rationale": "Cites memorandum, notice and FR pages 47720-21, 47319, 47330-31, 47335 etc. throughout.",
+      "verdict": "no"
+    },
+    "q14_fab": {
+      "rationale": "No invented source or quotation; statements judged on real passages.",
+      "verdict": "no"
+    }
+  },
+  "Q15": {
+    "q15_1": {
+      "rationale": "Feb 10 2025 $0 both cases; northern-border duty paused until Mar 4 and section 232 aluminum until Mar 12.",
+      "verdict": "yes"
+    },
+    "q15_2": {
+      "rationale": "Mar 6 2025 $25,000 both; USMCA exemption begins Mar 7 under EO 14231.",
+      "verdict": "yes"
+    },
+    "q15_3": {
+      "rationale": "Mar 10 2025 N $25,000 IEEPA, U $0 exempt from Mar 7 and section 232 not yet.",
+      "verdict": "yes"
+    },
+    "q15_4n": {
+      "rationale": "Mar 14 2025 N $25,000 Canada IEEPA only; non-stacking EO 14289 retroactive to Mar 4.",
+      "verdict": "yes"
+    },
+    "q15_4u": {
+      "rationale": "Mar 14 2025 U $25,000 section 232 25% from Mar 12, no Canada duty due USMCA.",
+      "verdict": "yes"
+    },
+    "q15_jun3": {
+      "rationale": "Jun 3 2025 N $25,000 IEEPA only, U $25,000 section 232 25%; change is Jun 4.",
+      "verdict": "yes"
+    },
+    "q15_5": {
+      "rationale": "Jun 10 2025 $50,000 both, section 232 50% from Jun 4, section 232 priority over Canada duty.",
+      "verdict": "yes"
+    },
+    "q15_6": {
+      "rationale": "Aug 5 2025 $50,000 both; 35% Canada rate does not stack on section 232 article.",
+      "verdict": "yes"
+    },
+    "q15_7": {
+      "rationale": "Mar 2 2026 $50,000 both section 232; surcharge and IEEPA not owed on section 232 article.",
+      "verdict": "yes"
+    },
+    "q15_8": {
+      "rationale": "Jun 10 2026 $50,000 both on full value under Proc 11021, no USMCA non-U.S.-content reduction.",
+      "verdict": "yes"
+    },
+    "q15_9": {
+      "rationale": "Jul 27 2026 $50,000 both; section 301 $0 under note 52(f)(1) (and (g) for U).",
+      "verdict": "yes"
+    },
+    "q15_10": {
+      "rationale": "Aug 25 2026 $50,000 both; section 338 excluded by 11048 cl.(2) for section 232 goods.",
+      "verdict": "yes"
+    },
+    "q15_sep14": {
+      "rationale": "Sep 14 2026 $50,000 both; stacking applies only on/after Sep 15 12:01 a.m., so 11048 cl.(2) still excludes section 338.",
+      "verdict": "yes"
+    },
+    "q15_11": {
+      "rationale": "Sep 16 and Nov 10 2026 $100,000 both: section 232 $50,000 + section 338 $50,000 from Sep 15 stacking, no USMCA relief.",
+      "verdict": "yes"
+    },
+    "q15_cite": {
+      "rationale": "Extensive citations to EOs, proclamations, note 52 with FR Doc numbers and pages throughout.",
+      "verdict": "no"
+    },
+    "q15_fab": {
+      "rationale": "No invented document or quotation; any reciprocal/surcharge scope statements are misreading at most, not fabrication under definition.",
+      "verdict": "no"
+    }
+  },
+  "rubric_feedback": ""
+}

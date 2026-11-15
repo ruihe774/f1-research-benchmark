@@ -321,7 +321,8 @@ def score_verdicts(r: Rubric, verdicts: dict[str, str]) -> dict:
 # --------------------------------------------------------------------------- #
 class Verdict(BaseModel):
     rationale: str = Field(description="Brief evidence: what the submission says (quote or "
-                           "locate it) and any tool checks. Explain any 'unclear'.")
+                           "locate it) and any tool checks. Explain any 'unclear'. On a "
+                           "ladder's lowest rung, the full item-by-item count.")
     verdict: Literal["yes", "no", "unclear"]
 
 
@@ -357,9 +358,9 @@ the next message. Grade it against the answer key and the rubric criteria.
 # What you produce
 
 A verdict for every rubric criterion: "yes", "no" or "unclear", each with a \
-brief rationale. You do not assign points. Code computes the score from your \
-verdicts, so judge each criterion on its own and do not soften verdicts to \
-adjust a total.
+brief rationale (for count ladders, the item list described below). You do \
+not assign points. Code computes the score from your verdicts, so judge each \
+criterion on its own and do not soften verdicts to adjust a total.
 
 # How to judge
 
@@ -387,10 +388,19 @@ fabrication, irrelevant documents): "yes" means the deduction applies. Gate \
 criteria: "yes" means the submission flags the uncertainty or meets the \
 condition described; without it the related credit is reduced.
 - "At least k" ladders: count qualifying items carefully, and keep the counts \
-consistent across the ladder. In each rationale, list the items you counted. \
-"At least 3" cannot be "yes" unless "at least 2" is; a count of items with some \
-further property (an accurate location, a correct status) cannot exceed the \
-count of items. A ladder that breaks these rules is set aside for human review.
+consistent across the ladder. In the rationale of the ladder's lowest rung, \
+go through every item the submission lists, in its order, and mark each one \
+counted or not: a counted item names the key item it matches, or, if the key \
+does not list it, the document and page you checked with the tools; an item \
+not counted gets a short reason (duplicate of which item, on the key's \
+do-not-count list, a side stated wrongly, outside the question). Then give \
+the exact total. Each higher rung's rationale gives the same total and may \
+refer to that list. Never estimate a count ("about 30", "etc."): count. Do \
+not count an item the key does not list unless you have checked it with the \
+tools. "At least 3" cannot be "yes" unless "at least 2" is; a count of items \
+with some further property (an accurate location, a correct status) cannot \
+exceed the count of items. A ladder that breaks these rules is set aside for \
+human review.
 - The key is not exhaustive. If the submission gives an answer the key does not \
 anticipate, check it with the tools. Credit it when it is correct and meets the \
 criterion's intent, and say so in rubric_feedback.
