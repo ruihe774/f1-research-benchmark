@@ -185,7 +185,7 @@ Nadia is a career GS-12 employee. She received a RIF separation notice on Septem
 
 ### Q11
 
-Compare the regulatory text of 5 CFR part 351 in the proposed rule with the regulatory text in the final rule (the amendments themselves, not the preambles). List every real difference between the two that you can find. For each, name the paragraph and say what the proposed text said and what the final text says. Do not stop at the changes that the final rule's own summary of its changes from the proposal mentions. Differences that are only punctuation, capitalization or citation format do not count.
+Compare the regulatory text of 5 CFR part 351 in the proposed rule with the regulatory text in the final rule (the amendments themselves, not the preambles). List every real difference between the two that you can find. For each, name the paragraph and say what the proposed text said and what the final text says. Do not stop at the changes that the final rule's own summary of its changes from the proposal mentions. Differences that are only punctuation, capitalization or citation format do not count; a change in which section, subpart or part a cross-reference points to is not citation format.
 
 ### Q12
 
@@ -219,14 +219,14 @@ Each of the seven GS-13 employees is qualified for all four of these positions. 
 
 ### Q13
 
-The preamble of the main final rule does not always match what the same document adopts. Find places where a statement in that preamble about what the rule provides differs from the amendatory instructions or regulatory text printed in the same document: for example a different triggering event, a different period, a different category of employee, or a different paragraph. For each, quote or closely paraphrase both sides, and give the FR page of each. List as many as you can find. Do not list differences between the proposed rule and the final rule here, and do not list matters on which the regulatory text is merely silent.
+The preamble of the main final rule does not always match what the same document adopts. Find places where a statement in that preamble about what the rule provides differs from the amendatory instructions or regulatory text printed in the same document: for example a different triggering event, a different period, a different category of employee, or a different paragraph. For each, quote or closely paraphrase both sides, and give the FR page of each. List as many as you can find, each once, and say whether another passage of the preamble states the point correctly. Do not list differences between the proposed rule and the final rule here, and do not list matters on which the regulatory text is merely silent.
 
 ### Q14
 
 Turn to OPM's final rule on RIF appeals, its correction, its proposal, and the Merit Systems Protection Board's 2026 rule on RIF appeals. Find places of these three kinds:
 
 (i) a statement in the preamble of OPM's appeals rule about what that rule provides that differs from its regulatory text, as published or as corrected;
-(ii) a change from the proposed appeals rule to the final appeals rule that the final rule's own summary of its changes does not acknowledge;
+(ii) a change from the proposed appeals rule to the final appeals rule that the final rule's summary of its changes from the proposal (near the start of its preamble) does not acknowledge;
 (iii) an inconsistency within the Board's rule, or between the Board's rule and OPM's rule, about which RIF appeals the Board will still hear.
 
-For each, quote or closely paraphrase both sides and give the FR page of each. List as many as you can find. Do not list matters on which a text is merely silent.
+For each, quote or closely paraphrase both sides and give the FR page of each. List as many as you can find, each once. Do not list matters on which a text is merely silent, and list only items you have checked against the text: items that are wrong count against the answer.

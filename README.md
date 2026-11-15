@@ -174,11 +174,11 @@ Tariffs task (`tasks/tariffs/`):
 | Q8 | Section 301 start date and goods in transit | 2 |
 | Q9 | Chapter 98, USMCA and section 232 goods under the section 301 action | 3 |
 | Q10 | Canadian goods under both actions | 3 |
-| Q11 | Where the documents of each action disagree (count ladder) | 20 |
+| Q11 | Where the documents of each action disagree (count ladder) | 25 |
 | Q12 | Exemptions for particular articles, economy by economy | 4 |
-| Q13 | Section 232 duty on a USMCA machine: non-U.S. content, the minimum, the Commerce guidance | 16 |
-| Q14 | Ten statements checked against the memorandum, the notice and the proposal | 8 |
-| Q15 | Duties owed on Canadian aluminum extrusions at twelve dates in 2025 and 2026 | 25 |
+| Q13 | Section 232 duty on a USMCA machine: non-U.S. content, the minimum, the Commerce guidance | 19 |
+| Q14 | Ten statements checked against the memorandum, the notice and the proposal | 10 |
+| Q15 | Duties owed on Canadian aluminum extrusions at fourteen dates in 2025 and 2026 | 15 |
 | | **Total** | **100** |
 
 RIF task (`tasks/rif/`):

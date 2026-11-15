@@ -38,7 +38,7 @@ criteria_points = 10
 [[question]]
 id = "Q4"
 points = 4
-criteria_points = 12
+criteria_points = 11
 
 [[question]]
 id = "Q5"
@@ -72,7 +72,7 @@ criteria_points = 10
 
 [[question]]
 id = "Q11"
-points = 20
+points = 25
 
 [[question]]
 id = "Q12"
@@ -81,18 +81,18 @@ criteria_points = 12
 
 [[question]]
 id = "Q13"
-points = 16
+points = 19
 criteria_points = 14
 
 [[question]]
 id = "Q14"
-points = 8
+points = 10
 criteria_points = 12.5
 
 [[question]]
 id = "Q15"
-points = 25
-criteria_points = 18
+points = 15
+criteria_points = 21
 
 # Applied to every question; ids become e.g. "q3_cite".
 [[per_question_penalty]]
@@ -201,7 +201,7 @@ text = "(d) Says no further presidential action was needed or issued for the dut
 id = "q2d_reneged"
 question = "Q2"
 points = 0.75
-text = "(d) Says what the documents report about the days before: the delay was granted after Canada expressed a commitment to remove the discrimination, and on August 21, 2026 Canada reneged on that commitment (and ceased negotiating in good faith), per the recitals of the September 8 proclamations (for example 11061 recital 3, 91 FR 58311). The August 21 date is required."
+text = "(d) Says what the documents report about the days before: the delay was granted after Canada expressed a commitment to remove the discrimination, and on August 21, 2026 Canada reneged on that commitment, per the recitals of the September 8 proclamations (for example 11061 recital 3, 91 FR 58311). The August 21 date and the reneging are required; adding that Canada ceased negotiating in good faith is welcome but not required."
 
 [[criterion]]
 id = "q2e_thirty"
@@ -304,7 +304,7 @@ text = "(c) Notes that the September proclamations do not expressly amend or rep
 [[criterion]]
 id = "q4c_xref"
 question = "Q4"
-points = 1.5
+points = 0.5
 text = "(c) Points out that Proclamation 11062, clause (3), refers to a September 8, 2026 proclamation 'Modifying the Scope ... With Respect to Dairy' and that no such proclamation has been published in the Federal Register."
 
 [[criterion]]
@@ -512,7 +512,7 @@ text = "(d) Identifies U.S. note 52(k) (91 FR 47394): the ad valorem equivalent 
 id = "q7d_zero"
 question = "Q7"
 points = 0.75
-text = "(d) Says note 52(k) itself states only the case where the rate is less than the cap, and that the zero result at or above the cap is stated elsewhere: in the presidential memorandum (section 1(a)) and/or in the notice's determinations ('greater than or equal to ... shall be zero'). Naming either location is enough."
+text = "(d) Says (in whatever words) that note 52(k) itself states only the case where the rate is less than the cap, and that the zero result at or above the cap is stated elsewhere: in the presidential memorandum (section 1(a)) and/or in the notice's determinations ('greater than or equal to ... shall be zero'). Naming either location is enough."
 
 # --------------------------------------------------------------------------- Q8
 [[criterion]]
@@ -561,7 +561,7 @@ text = "(a) Case 7 (air freight): says the in-transit exception as written cover
 id = "q8b_where"
 question = "Q8"
 points = 1
-text = "(b) Says the in-transit rule is stated in the DATES line of the USTR notice (FR Doc. 2026-15181, 91 FR 47318) and is not in the presidential memorandum. Adding that the readable text of note 52 / Annex I does not contain it is welcome but not required. No if the answer places the rule in the memorandum or in note 52."
+text = "(b) Says the in-transit rule is stated in the DATES line of the USTR notice (FR Doc. 2026-15181, 91 FR 47318). Adding that it is not in the presidential memorandum or in the readable text of note 52 / Annex I is welcome but not required. No if the answer places the rule in the memorandum or in note 52."
 
 [[criterion]]
 id = "q8c_dates"
@@ -711,7 +711,7 @@ points = 1
 text = "(f) Says the 10% temporary import surcharge (Proclamation 11012, FR Doc. 2026-03824, section 122) ran only through 12:01 a.m. on July 24, 2026, so it does not apply in September 2026. The July 24, 2026 end date is required, with the proclamation number or the document number."
 
 # -------------------------------------------------------------------------- Q11
-# Count of valid discrepancies (at least 1, 2, 3, 4, 5, 6, 8, 10).
+# Count of valid discrepancies (at least 1, 2, 3, 4, 5, 6, 7, 8, 10, 12).
 [[ladder]]
 id = "q11_valid"
 question = "Q11"
@@ -721,7 +721,7 @@ id = "q11_valid_1"
 question = "Q11"
 ladder = "q11_valid"
 points = 2
-text = "At least 1 valid discrepancy. A valid discrepancy is one in the key's list for Q11, or another that you confirm with the tools, in which a statement in one document of the section 301 forced-labor action (the June 2026 proposal, the presidential memorandum, the USTR notice including the readable text of its annex) or of the section 338 actions against Canada (Proclamations 11046-11048, 11056, 11061-11065, 11076) about what the action provides, or about what another document of the same action says or does, differs from the operative text of that document or of the other document. The answer must state both sides correctly and locate each by document and FR page or clause. Count each discrepancy once. Do not count the items the key lists as not counting, matters a document is merely silent about, content published only as an image, or an item whose description of either side is wrong."
+text = "At least 1 valid discrepancy. A valid discrepancy is one in the key's list for Q11, or another that you confirm with the tools, in which a statement in one document of the section 301 forced-labor action (the June 2026 proposal, the presidential memorandum, the USTR notice including the readable text of its annex) or of the section 338 actions against Canada (Proclamations 11046-11048, 11056, 11061-11065, 11076) about what the action provides, or about what another document of the same action says or does, differs from the operative text of that document or of the other document. The answer must state both sides correctly and locate each by document and FR page or clause. Count each discrepancy once. Statements that rest on the same sentence of one document, set against different details of the other, are one discrepancy: for example the notice's statement that all proposed exemptions were kept (91 FR 47330), set against the narrower section 232, USMCA or baggage wording of note 52, is key item 8 however many details are listed. A change between the June proposal and the adopted text is not in itself a discrepancy; it counts only where a document describes the proposal or the adopted text inaccurately. Do not count the items the key lists as not counting, matters a document is merely silent about, content published only as an image, or an item whose description of either side is wrong."
 
 [[criterion]]
 id = "q11_valid_2"
@@ -759,6 +759,13 @@ points = 3
 text = "At least 6 valid discrepancies. (Same standard as q11_valid_1.)"
 
 [[criterion]]
+id = "q11_valid_7"
+question = "Q11"
+ladder = "q11_valid"
+points = 3
+text = "At least 7 valid discrepancies. (Same standard as q11_valid_1.)"
+
+[[criterion]]
 id = "q11_valid_8"
 question = "Q11"
 ladder = "q11_valid"
@@ -771,6 +778,13 @@ question = "Q11"
 ladder = "q11_valid"
 points = 3
 text = "At least 10 valid discrepancies. (Same standard as q11_valid_1.)"
+
+[[criterion]]
+id = "q11_valid_12"
+question = "Q11"
+ladder = "q11_valid"
+points = 2
+text = "At least 12 valid discrepancies. (Same standard as q11_valid_1.)"
 
 # -------------------------------------------------------------------------- Q12
 [[criterion]]
@@ -888,7 +902,7 @@ text = "(h) The clause (2) rates apply through 11:59 p.m. eastern standard time 
 id = "q14_1_operative"
 question = "Q14"
 points = 1
-text = "Statement 1: incorrect. The operative text of the memorandum (section 2) directs the quotas 'as soon as the Trade Representative determines that it is feasible' and sets no deadline; 'feasible by September 1, 2026' appears only in a recital reporting the Trade Representative's advice (91 FR 47720)."
+text = "Statement 1: incorrect, or partly correct with the explanation that the date appears only in a recital (either label is yes). The operative text of the memorandum (section 2) directs the quotas 'as soon as the Trade Representative determines that it is feasible' and sets no deadline; 'feasible by September 1, 2026' appears only in a recital reporting the Trade Representative's advice (91 FR 47720)."
 
 [[criterion]]
 id = "q14_1_notice"
@@ -900,7 +914,7 @@ text = "Statement 1: adds at least one of these: the USTR notice gives no date a
 id = "q14_2"
 question = "Q14"
 points = 1.5
-text = "Statement 2: incorrect. Over 450 comments and nearly 60 witnesses (hearings of April 28-29, 2026) are the figures for the earlier, investigation phase, reported in the June proposal (91 FR 34273). On the proposed action USTR received over 1,600 written comments and heard over 100 witnesses at a three-day hearing on July 7-9, 2026 (91 FR 47319). The 1,600 and 100 figures are required."
+text = "Statement 2: incorrect. Over 450 comments and nearly 60 witnesses (hearings of April 28-29, 2026) are the figures for the earlier, investigation phase, reported in the June proposal (91 FR 34273). On the proposed action USTR received over 1,600 written comments and heard over 100 witnesses at a three-day hearing on July 7-9, 2026 (91 FR 47319). Yes if the answer gives the 1,600 and 100 figures for the proposed action with their source; explaining that the 450 and 60 figures belong to the investigation phase is welcome but not required."
 
 [[criterion]]
 id = "q14_3_jordan"
@@ -952,7 +966,8 @@ points = 1.5
 text = "Calls statement 8, statement 9 or statement 10 incorrect. (Calling statement 10 correct as to the Annex A product list while noting that other proposed exemptions were narrowed is not calling it incorrect.)"
 
 # -------------------------------------------------------------------------- Q15
-# Each criterion needs the totals for both cases unless it says otherwise.
+# Each criterion needs the totals for both cases unless it says otherwise. The entry
+# dates are numbered 1-14 in TASK.md; criterion ids name the date, not the number.
 [[criterion]]
 id = "q15_1"
 question = "Q15"
@@ -982,6 +997,12 @@ id = "q15_4u"
 question = "Q15"
 points = 1
 text = "March 14, 2025, case U: $25,000, the 25% section 232 aluminum duty (Proclamation 10895, effective for Canada from March 12, 2025), with no Canada IEEPA duty because of the USMCA exemption."
+
+[[criterion]]
+id = "q15_jun3"
+question = "Q15"
+points = 1.5
+text = "June 3, 2025: case N $25,000, the Canada IEEPA duty only (under Executive Order 14289 an article subject to the Canada duty is not also subject to the section 232 aluminum duty, and Proclamation 10947's reversal applies only from 12:01 a.m. June 4, 2025); case U $25,000, the section 232 aluminum duty at 25%. No if either case is given as $50,000 or the section 232 rate is given as 50%."
 
 [[criterion]]
 id = "q15_5"
@@ -1018,6 +1039,12 @@ id = "q15_10"
 question = "Q15"
 points = 1
 text = "August 25, 2026: $50,000 in both cases; the section 338 duty (in force from August 22, 2026) does not apply because clause (2) of Proclamation 11048 excludes articles subject to section 232 duties."
+
+[[criterion]]
+id = "q15_sep14"
+question = "Q15"
+points = 1.5
+text = "September 14, 2026: $50,000 in both cases, the section 232 duty only: the stacking sentence of Proclamation 11065 applies only to entries on or after 12:01 a.m. on September 15, 2026, so on September 14 clause (2) of Proclamation 11048 still excludes the article from the section 338 duty. No if a section 338 duty is added in either case."
 
 [[criterion]]
 id = "q15_11"

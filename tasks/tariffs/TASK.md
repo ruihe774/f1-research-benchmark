@@ -125,7 +125,7 @@ A product has an MFN rate of 4 percent ad valorem. A shipment with a customs val
 (a) A product of France has a column 1-General rate of 3 cents per kilogram. A shipment weighs 2,000 kg and has a customs value of $12,000. What is the section 301 duty?
 (b) A product has a column 1-General rate of 4 percent plus 25 cents per kilogram. A shipment weighs 4,000 kg and has a customs value of $20,000. What is the section 301 duty if it is a product of Italy? Of Japan? Of Brazil?
 (c) On a shipment with a customs value of $20,000, the duty payable under column 1-General is $2,200. What is the section 301 duty if it is a product of Taiwan? Of Switzerland?
-(d) Which provision tells you how to treat MFN rates that are not ad valorem? Does that provision itself state the result when the equivalent rate is at or above the cap, and if not, where is that result stated?
+(d) Where is the rule for treating MFN rates that are not ad valorem stated, and where is the result for an equivalent rate at or above the cap stated?
 
 ### Q8
 
@@ -173,7 +173,7 @@ Scenario 2. Canadian rye whisky in bottles is listed in Annex II of the alcoholi
 
 ### Q11
 
-The documents of each action do not always agree with one another, or with themselves. In the documents of the section 301 forced-labor action and of the section 338 actions against Canada, find places where a statement in one document about what the action provides, or about what another document of the same action says or does, differs from the operative text of that document or of the other document. For each, quote or closely paraphrase both sides and give the document and FR page of each. List as many as you can find. Do not list matters on which a document is merely silent, or content published only as an image.
+The documents of each action do not always agree with one another, or with themselves. In the documents of the section 301 forced-labor action and of the section 338 actions against Canada, find places where a statement in one document about what the action provides, or about what another document of the same action says or does, differs from the operative text of that document or of the other document. For each, quote or closely paraphrase both sides and give the document and FR page of each. List as many as you can find, and list each discrepancy once. A change between the June proposal and the adopted text is not in itself a discrepancy; it is one only where a document describes the proposal or the adopted text inaccurately. Do not list matters on which a document is merely silent, or content published only as an image.
 
 ### Q12
 
@@ -215,19 +215,21 @@ A law firm's client alert about the forced-labor action makes the ten statements
 
 ### Q15
 
-A customs audit covers consumption entries of aluminum extrusions (bars, rods and profiles of heading 7604) that are products of Canada. Each entry has a customs value of $100,000, all of it aluminum. Assume that throughout the period the extrusions are an aluminum article within the section 232 aluminum duties (in 2026, listed in Annex I-A of the April proclamation on aluminum, steel and copper and not in Annex I-C of the June proclamation); that they have been listed in Annex II of the section 338 motor-vehicles duty proclamation since it was signed and are on no Part A, Part B or exclusion list; that no reduction granted to a particular producer or under an approved plan applies; and that no exemption exists other than those readable as text. From April 6, 2026 the extrusions are entered under section 232 heading 9903.82.02. The general assumption that no other additional duty applies does not hold for this question: every additional duty that the Federal Register imposed on these goods on the entry date counts, including duties under actions taken in 2025. Apply the duties legally owed as the Federal Register stands today, including changes that were made retroactive, not what was collected at the time of entry.
+A customs audit covers consumption entries of aluminum extrusions (bars, rods and profiles of heading 7604) that are products of Canada. Each entry has a customs value of $100,000, all of it aluminum. Assume that throughout the period the extrusions are an aluminum article within the section 232 aluminum duties (in 2026, listed in Annex I-A of the April proclamation on aluminum, steel and copper and not in Annex I-C of the June proclamation); that they have been listed in Annex II of the section 338 motor-vehicles duty proclamation since it was signed and are on no Part A, Part B or exclusion list; that no reduction granted to a particular producer or under an approved plan applies; and that no exemption exists other than those readable as text. From April 6, 2026 the extrusions are entered under section 232 heading 9903.82.02. The general assumption that no other additional duty applies does not hold for this question: every additional duty that the Federal Register imposed on these goods on the entry date counts. Give the duties legally owed on each entry as the Federal Register stands today.
 
-For each entry date below, give every duty owed in addition to the MFN duty, by legal authority, with the amount and the total, for two cases. Case N: the goods do not qualify for USMCA treatment. Case U: the goods qualify for USMCA treatment and are entered with a USMCA claim.
+For each entry date below, give every duty owed in addition to the MFN duty, by legal authority, with the amount and the total, and for each other additional duty then in force on products of Canada, say in a line why it is not owed. Do this for two cases. Case N: the goods do not qualify for USMCA treatment. Case U: the goods qualify for USMCA treatment and are entered with a USMCA claim.
 
 1. February 10, 2025
 2. March 6, 2025
 3. March 10, 2025
 4. March 14, 2025
-5. June 10, 2025
-6. August 5, 2025
-7. March 2, 2026
-8. June 10, 2026
-9. July 27, 2026
-10. August 25, 2026
-11. September 16, 2026
-12. November 10, 2026
+5. June 3, 2025
+6. June 10, 2025
+7. August 5, 2025
+8. March 2, 2026
+9. June 10, 2026
+10. July 27, 2026
+11. August 25, 2026
+12. September 14, 2026
+13. September 16, 2026
+14. November 10, 2026

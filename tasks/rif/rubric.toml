@@ -135,7 +135,7 @@ text = "(d) Says that a RIF whose notice the agency issued before September 2, 2
 id = "q1e_appeals"
 question = "Q1"
 points = 1
-text = "(e) Lists the RIF appeals final rule, FR Doc. 2026-15666 (effective September 2, 2026, in force), and says it replaces the appeals subpart of part 351 (subpart I, 351.901 and following) so that RIF appeals go to OPM. Mention of 351.802(a)(6) or 351.807(e) is welcome but not required."
+text = "(e) Lists the RIF appeals final rule, FR Doc. 2026-15666 (effective September 2, 2026, in force), and says it replaces the appeals subpart of part 351 (subpart I, 351.901 and following). Saying that RIF appeals now go to OPM is welcome but not required. Mention of 351.802(a)(6) or 351.807(e) is welcome but not required."
 
 [[criterion]]
 id = "q1e_leave"
@@ -208,7 +208,7 @@ text = "(c) Says Bianchi would have stood above Abbott under the earlier rules, 
 id = "q2d_records"
 question = "Q2"
 points = 0.5
-text = "(d) Says that, having received a specific RIF notice, she may inspect the retention register and related records under 5 CFR 351.506, including the complete register with the names of the other employees, their performance credit as augmented by veterans' preference, and their service computation dates."
+text = "(d) Says that, having received a specific RIF notice, she may inspect the retention register and related records under 5 CFR 351.506, including the complete register with the names of the other employees and the performance credit (as augmented by veterans' preference) and service computation dates it shows. 351.506(c)(1) literally says 'the employee's' performance credit and service computation date; yes whether the answer reads these as everyone's on the register or as her own, as long as it gives the complete register with the other employees' names."
 
 # --------------------------------------------------------------------------- Q3
 [[criterion]]
@@ -257,7 +257,7 @@ text = "(b) Employee C's service computation date is September 7, 1996: credit f
 id = "q3c_labels"
 question = "Q3"
 points = 0.5
-text = "(c) Says the veterans' preference subgroups (AD, A, B) are identifiers shown on the retention register (and in the notice) and are not themselves a ranking step or tie-breaker; preference works through the 5 or 3 points added to performance credit."
+text = "(c) Says the veterans' preference subgroups (AD, A, B) are identifiers shown on the retention register and are not themselves a ranking step or tie-breaker; preference works through the 5 or 3 points added to performance credit. Adding that the subgroup also appears in the notice is welcome but not required."
 
 # --------------------------------------------------------------------------- Q4
 [[criterion]]
@@ -504,7 +504,7 @@ text = "(a) Gives the adopted text: under ordinary circumstances an employee rem
 id = "q8a_today"
 question = "Q8"
 points = 0.5
-text = "(a) Says that under the version applying today the employee is to be kept in a duty status during the notice period 'when possible', as the rulemaking documents describe the current section (the current section itself is not printed in full)."
+text = "(a) Says that under the version applying today the employee is to be kept in a duty status during the notice period 'when possible', as the rulemaking documents describe the current section, or as FR Doc. 95-643 (60 FR 2679, January 11, 1995) prints it. Either source is enough."
 
 [[criterion]]
 id = "q8b_consent"
@@ -523,7 +523,7 @@ id = "q8b_cap"
 question = "Q8"
 group = "q8b"
 points = 1.5
-text = "(b) Says the 10-workday limit is for investigative leave and does not apply here, and that the text states no numeric cap for administrative leave during a RIF notice period under 630.1403(c)(10); as for 12 weeks, the answer must deal with the governmentwide limit: either that the text and the preamble at 91 FR 65927 attach it to the uses in 630.1403(c)(9) and (c)(11), or that other preamble passages speak of a 12-week limit for workforce realignment leave generally so that it may reach this leave, which here lasts under 8 weeks either way. Both the 10-workday point and the 12-week point are required. Yes whether the answer treats 'no cap' or '12 weeks' as the likelier reading."
+text = "(b) Says that the text states no numeric cap for administrative leave during a RIF notice period under 630.1403(c)(10); as for 12 weeks, the answer must deal with the governmentwide limit: either that the text and the preamble at 91 FR 65927 attach it to the uses in 630.1403(c)(9) and (c)(11), or that other preamble passages speak of a 12-week limit for workforce realignment leave generally so that it may reach this leave, which here lasts under 8 weeks either way. The 12-week point is required; saying that the 10-workday limit is for investigative leave and does not apply here is welcome but not required. Yes whether the answer treats 'no cap' or '12 weeks' as the likelier reading."
 
 [[criterion]]
 id = "q8b_flag"
@@ -592,7 +592,7 @@ text = "Step 10 does not comply: under 351.702(a)(4) the assessment of qualifica
 id = "q9_s11"
 question = "Q9"
 points = 2
-text = "Step 11 does not comply: temporary exceptions under 351.608 may not be sequenced or stacked (351.608(a)(3)); the agency may apply only the single exception that gives the longest retention, and each of the undue-interruption exception (351.608(b)) and the general exception is limited to 90 days, so only one exception of at most 90 days is available. The no-stacking rule is required. Mentioning the written notice to higher-standing employees for an exception over 30 days (351.608(a)(4)) is welcome but not required."
+text = "Step 11 does not comply: temporary exceptions under 351.608 may not be sequenced or stacked (351.608(a)(3)); the agency may apply only the single exception that gives the longest retention, The no-stacking rule is the only required element. Adding that each of the undue-interruption exception (351.608(b)) and the general exception is limited to 90 days, so only one exception of at most 90 days is available, or mentioning the written notice to higher-standing employees for an exception over 30 days (351.608(a)(4)), is welcome but not required."
 
 [[criterion]]
 id = "q9_s12"
@@ -659,45 +659,52 @@ points = 0.75
 text = "(c) Same representative rate (same work schedule), declined: she is no longer 'displaced' under paragraph (1)(i)."
 
 # -------------------------------------------------------------------------- Q11
-# 2 points per rung of valid differences (8, 14, 20, 26), plus 2 for digging
+# Rungs of valid differences (at least 10, 16, 22, 28, 34), plus 2 for digging
 # past the final rule's own summary of changes.
 [[ladder]]
 id = "q11_valid"
 question = "Q11"
 
 [[criterion]]
-id = "q11_valid_8"
+id = "q11_valid_10"
 question = "Q11"
 ladder = "q11_valid"
 points = 2
-text = "At least 8 valid differences. A valid difference is a real difference between the regulatory text of 5 CFR part 351 in the proposed rule (FR Doc. 2026-04377) and in the final rule (FR Doc. 2026-15665), stated with the paragraph and what each text says, that is in the key's list for Q11 or that you confirm with the tools. Count each paragraph-level change once: where the key bundles several changes under one number, each piece the answer states correctly counts separately, but the same change stated twice counts once. Do not count: changes made only by the correction FR Doc. 2026-17335 (such as the 351.506(c)(2) cross-reference); differences only in a preamble (such as the applicability rule); changes to parts other than 351; things that did not change (point values, the four-year period, veterans' points, grade limits); differences of punctuation, capitalization or citation format; or a difference whose description of either text is wrong."
+text = "At least 10 valid differences. A valid difference is a real difference between the regulatory text of 5 CFR part 351 in the proposed rule (FR Doc. 2026-04377) and in the final rule (FR Doc. 2026-15665), stated with the paragraph and what each text says, that is in the key's list for Q11 or that you confirm with the tools. Count each paragraph-level change once: where the key bundles several changes under one number, each piece the answer states correctly counts separately, but the same change stated twice counts once. Do not count: changes made only by the correction FR Doc. 2026-17335 (such as the 351.506(c)(2) cross-reference); errors of the final text as first printed that the correction put back to the proposed wording (such as 'of this part' for 'of this chapter' in the definition of initial probationary period); differences only in a preamble (such as the applicability rule); changes to parts other than 351; things that did not change (point values, the four-year period, veterans' points, grade limits); differences of punctuation, capitalization or citation format (a changed cross-reference to a different section or subpart is not citation format); or a difference whose description of either text is wrong."
 
 [[criterion]]
-id = "q11_valid_14"
+id = "q11_valid_16"
 question = "Q11"
 ladder = "q11_valid"
 points = 2
-text = "At least 14 valid differences (same standard as q11_valid_8)."
+text = "At least 16 valid differences. (Same standard as q11_valid_10.)"
 
 [[criterion]]
-id = "q11_valid_20"
+id = "q11_valid_22"
 question = "Q11"
 ladder = "q11_valid"
-points = 2
-text = "At least 20 valid differences (same standard as q11_valid_8)."
+points = 1.5
+text = "At least 22 valid differences. (Same standard as q11_valid_10.)"
 
 [[criterion]]
-id = "q11_valid_26"
+id = "q11_valid_28"
 question = "Q11"
 ladder = "q11_valid"
-points = 2
-text = "At least 26 valid differences (same standard as q11_valid_8)."
+points = 1.5
+text = "At least 28 valid differences. (Same standard as q11_valid_10.)"
+
+[[criterion]]
+id = "q11_valid_34"
+question = "Q11"
+ladder = "q11_valid"
+points = 1
+text = "At least 34 valid differences. (Same standard as q11_valid_10.)"
 
 [[criterion]]
 id = "q11_deep"
 question = "Q11"
 points = 2
-text = "Correctly states at least six of these differences, which the final rule's numbered summary of changes from the proposal does not list: (i) 351.502, tenure subgroup as of the date the agency issues the notice (proposed) versus the date the employee receives it (final), or the same phrase dropped from 351.202(d); (ii) 351.503(a)(1) or 351.701(a), Level 2 called 'Minimally Successful' (proposed) versus 'Minimally Satisfactory' (final); (iii) 351.504(a), 'should be identified' versus 'must be identified'; (iv) 351.505(b)(2), cross-reference to 351.503(b) corrected to 351.504(b); (v) 351.506(d), added sentence that the paragraph does not limit access rights under another statute or regulation (or 351.506(c), 'their' to 'the employee's'); (vi) 351.702(a)(4)(v), new exemption from assessment, or the reworded 351.702(a)(4)(iii); (vii) 351.802(a)(2), 'veteran status' versus 'veterans' preference subgroup', or 351.802(a)(3), 'access to' versus 'information on how to access' the agency's records; (viii) 351.302(d), 'adverse action procedures found in part 752' versus 'part 752, if applicable, or other procedures required by law, regulation, or the terms of the employee's appointment'; (ix) 351.608(a)(2), CTAP cited as part 330 subpart E (proposed) versus subpart F (final); (x) 351.503(d) or (e)(2), added words 'prior to the final rule prescribed at 91 FR 41521'; (xi) the authority citation for part 351 (2301 added)."
+text = "Correctly states at least six of these differences, which the final rule's numbered summary of changes from the proposal does not list: (i) 351.502, tenure subgroup as of the date the agency issues the notice (proposed) versus the date the employee receives it (final), or the same phrase dropped from 351.202(d); (ii) 351.503(a)(1) or 351.701(a), Level 2 called 'Minimally Successful' (proposed) versus 'Minimally Satisfactory' (final); (iii) 351.504(a), 'should be identified' versus 'must be identified'; (iv) 351.505(b)(2), cross-reference to 351.503(b) corrected to 351.504(b); (v) 351.506(d), added sentence that the paragraph does not limit access rights under another statute or regulation (or 351.506(c), 'their' to 'the employee's'); (vi) 351.702(a)(4)(v), new exemption from assessment, or the reworded 351.702(a)(4)(iii); (vii) 351.802(a)(2), 'veteran status' versus 'veterans' preference subgroup', or 351.802(a)(3), 'access to' versus 'information on how to access' the agency's records; (viii) 351.302(d), 'adverse action procedures found in part 752' versus 'part 752, if applicable, or other procedures required by law, regulation, or the terms of the employee's appointment'; (ix) 351.608(a)(2), CTAP cited as part 330 subpart E (proposed) versus subpart F (final); (x) 351.503(d) or (e)(2), added words 'prior to the final rule prescribed at 91 FR 41521'; (xi) the authority citation for part 351 (5 U.S.C. 2301 and 38 U.S.C. 4331 added)."
 
 # -------------------------------------------------------------------------- Q12
 [[criterion]]
@@ -779,7 +786,7 @@ points = 1
 text = "(d) The employees separated are Gomez, Hill and Ikeda, who are displaced and are qualified for no other position; no GS-13 employee is separated, and Jones is not affected. No for any other set of separated employees."
 
 # -------------------------------------------------------------------------- Q13
-# Count of valid mismatches (at least 1, 2, 3, 4, 5, 6, 8, 10).
+# Count of valid mismatches (at least 1, 2, 3, 4, 6, 8, 10, 12).
 [[ladder]]
 id = "q13_valid"
 question = "Q13"
@@ -789,7 +796,7 @@ id = "q13_valid_1"
 question = "Q13"
 ladder = "q13_valid"
 points = 3
-text = "At least 1 valid mismatch. A valid mismatch is one in the key's list for Q13, or another that you confirm with the tools, for which the answer states both what the preamble of FR Doc. 2026-15665 says and what the amendatory instruction or regulatory text in the same document says, correctly, and locates each side by FR page, CFR paragraph or instruction number (a deliberate leniency: the task asks for FR pages). Count each mismatch once. Do not count: differences between the proposed rule and the final rule; matters on which the regulatory text is merely silent and the preamble adds detail (for example supervisory probation, or field offices as competitive areas); the items the key lists as not mismatches; or an item whose description of either side is wrong."
+text = "At least 1 valid mismatch. A valid mismatch is one in the key's list for Q13, or another that you confirm with the tools, for which the answer states both what the preamble of FR Doc. 2026-15665 says and what the amendatory instruction or regulatory text in the same document says, correctly, and locates each side by FR page, CFR paragraph or instruction number (a deliberate leniency: the task asks for FR pages). Count each mismatch once. Do not count: differences between the proposed rule and the final rule; matters on which the regulatory text is merely silent and the preamble adds detail (for example supervisory probation, or field offices as competitive areas); shorthand in one preamble passage that another passage of the same preamble states correctly, unless the key lists it; the items the key lists as not mismatches; or an item whose description of either side is wrong."
 
 [[criterion]]
 id = "q13_valid_2"
@@ -813,13 +820,6 @@ points = 3
 text = "At least 4 valid mismatches. (Same standard as q13_valid_1.)"
 
 [[criterion]]
-id = "q13_valid_5"
-question = "Q13"
-ladder = "q13_valid"
-points = 4
-text = "At least 5 valid mismatches. (Same standard as q13_valid_1.)"
-
-[[criterion]]
 id = "q13_valid_6"
 question = "Q13"
 ladder = "q13_valid"
@@ -840,64 +840,100 @@ ladder = "q13_valid"
 points = 4
 text = "At least 10 valid mismatches. (Same standard as q13_valid_1.)"
 
+[[criterion]]
+id = "q13_valid_12"
+question = "Q13"
+ladder = "q13_valid"
+points = 4
+text = "At least 12 valid mismatches. (Same standard as q13_valid_1.)"
+
 # -------------------------------------------------------------------------- Q14
-# Count of valid items (at least 2, 4, 6, 8, 10, 12, 14, 16).
+# Count of valid items (at least 3, 6, 9, 12, 15, 18, 21, 24).
 [[ladder]]
 id = "q14_valid"
 question = "Q14"
 
 [[criterion]]
-id = "q14_valid_2"
+id = "q14_valid_3"
 question = "Q14"
 ladder = "q14_valid"
 points = 3
-text = "At least 2 valid items. A valid item is one in the key's list for Q14, or another that you confirm with the tools and that fits one of the question's three kinds: (i) a statement in the preamble of OPM's RIF appeals rule (FR Doc. 2026-15666) about what that rule provides that differs from its regulatory text as published or as corrected by FR Doc. 2026-17338; (ii) a change from the proposed appeals rule (FR Doc. 2026-02576) that the final rule's own summary of changes does not acknowledge; (iii) an inconsistency within the MSPB's rule (FR Doc. 2026-16456), or between it and OPM's rule, about which RIF appeals the Board keeps. The answer must state both sides correctly and locate each by FR page or CFR paragraph (a deliberate leniency: the task asks for FR pages). Count each item once. Do not count the items the key lists as not counting (including those outside the three kinds), matters the text is merely silent about, or an item whose description of either side is wrong."
-
-[[criterion]]
-id = "q14_valid_4"
-question = "Q14"
-ladder = "q14_valid"
-points = 3
-text = "At least 4 valid items. (Same standard as q14_valid_2.)"
+text = "At least 3 valid items. A valid item is one in the key's list for Q14, or another that you confirm with the tools and that fits one of the question's three kinds: (i) a statement in the preamble of OPM's RIF appeals rule (FR Doc. 2026-15666) about what that rule provides that differs from its regulatory text as published or as corrected by FR Doc. 2026-17338; (ii) a change from the proposed appeals rule (FR Doc. 2026-02576) that the final rule's summary of changes from the proposal (91 FR 49230-49232) does not acknowledge; (iii) an inconsistency within the MSPB's rule (FR Doc. 2026-16456), or between it and OPM's rule, about which RIF appeals the Board keeps. The answer must state both sides correctly and locate each by FR page or CFR paragraph (a deliberate leniency: the task asks for FR pages). Count each item once. At most three items that are only a change of wording with no change of effect (the key marks these 'wording only'; others of the same sort, such as shall/may with the same effect or of/after with the same clock, count against the same limit) count toward this ladder. Do not count the items the key lists as not counting (including those outside the three kinds), matters the text is merely silent about, or an item whose description of either side is wrong."
 
 [[criterion]]
 id = "q14_valid_6"
 question = "Q14"
 ladder = "q14_valid"
 points = 3
-text = "At least 6 valid items. (Same standard as q14_valid_2.)"
+text = "At least 6 valid items. (Same standard as q14_valid_3.)"
 
 [[criterion]]
-id = "q14_valid_8"
+id = "q14_valid_9"
 question = "Q14"
 ladder = "q14_valid"
 points = 3
-text = "At least 8 valid items. (Same standard as q14_valid_2.)"
-
-[[criterion]]
-id = "q14_valid_10"
-question = "Q14"
-ladder = "q14_valid"
-points = 3
-text = "At least 10 valid items. (Same standard as q14_valid_2.)"
+text = "At least 9 valid items. (Same standard as q14_valid_3.)"
 
 [[criterion]]
 id = "q14_valid_12"
 question = "Q14"
 ladder = "q14_valid"
 points = 3
-text = "At least 12 valid items. (Same standard as q14_valid_2.)"
+text = "At least 12 valid items. (Same standard as q14_valid_3.)"
 
 [[criterion]]
-id = "q14_valid_14"
+id = "q14_valid_15"
 question = "Q14"
 ladder = "q14_valid"
 points = 3
-text = "At least 14 valid items. (Same standard as q14_valid_2.)"
+text = "At least 15 valid items. (Same standard as q14_valid_3.)"
 
 [[criterion]]
-id = "q14_valid_16"
+id = "q14_valid_18"
+question = "Q14"
+ladder = "q14_valid"
+points = 3
+text = "At least 18 valid items. (Same standard as q14_valid_3.)"
+
+[[criterion]]
+id = "q14_valid_21"
+question = "Q14"
+ladder = "q14_valid"
+points = 3
+text = "At least 21 valid items. (Same standard as q14_valid_3.)"
+
+[[criterion]]
+id = "q14_valid_24"
 question = "Q14"
 ladder = "q14_valid"
 points = 4
-text = "At least 16 valid items. (Same standard as q14_valid_2.)"
+text = "At least 24 valid items. (Same standard as q14_valid_3.)"
+
+# Precision: 1 point off for each invalid item beyond the second, at most 3.
+[[ladder]]
+id = "q14_wrong"
+question = "Q14"
+
+[[criterion]]
+id = "q14_wrong_3"
+question = "Q14"
+kind = "penalty"
+ladder = "q14_wrong"
+points = 1
+text = "The answer lists at least 3 items under Q14 that are not valid: an item whose description of either side is wrong, an item outside the question's three kinds, or an item the key lists as not counting. Items the key marks 'wording only' that exceed the limit of three are not invalid; they simply do not count. Do not count an item as invalid merely because it is absent from the key if you confirm it with the tools."
+
+[[criterion]]
+id = "q14_wrong_4"
+question = "Q14"
+kind = "penalty"
+ladder = "q14_wrong"
+points = 1
+text = "The answer lists at least 4 items under Q14 that are not valid. (Same standard as q14_wrong_3.)"
+
+[[criterion]]
+id = "q14_wrong_5"
+question = "Q14"
+kind = "penalty"
+ladder = "q14_wrong"
+points = 1
+text = "The answer lists at least 5 items under Q14 that are not valid. (Same standard as q14_wrong_3.)"
