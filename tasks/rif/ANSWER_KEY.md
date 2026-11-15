@@ -43,7 +43,7 @@ Reference date: November 14, 2026. All answers were checked against Federal Regi
 
 100 points in total across 14 questions. Q1 to Q10 and Q12 keep the point splits of earlier drafts, shown below on their original scale (10, 12, 8, 9, 9, 7, 13, 7, 20, 5 and 18 points); `rubric.toml` rescales them to 3, 3, 2, 3, 3, 1, 4, 3, 7, 1 and 7 points. Q11 (10), Q13 (28) and Q14 (25) are shown in final points. `rubric.toml` splits each part into yes/no criteria and decides the points; the grader gives verdicts only.
 
-Across all questions:
+Across all questions (the penalty points below are on each question's scale as shown in this key; `rubric.toml` rescales them with the question, so on Q1 to Q10 and Q12 they are worth what the rescaling makes them):
 
 - **Citation discipline.** A question whose claims largely lack document, CFR paragraph or FR page citations loses 1 point.
 - **Fabrication.** 2 points off per question for an invented source: a document number, FR citation or CFR paragraph that does not exist; a quotation not found in the cited source; or a provision, statement or figure attributed to a source that has no basis anywhere in it. Misreading or misapplying a real provision is not fabrication; it loses the credit for the affected part instead.
@@ -215,7 +215,7 @@ Real differences in the regulatory text of part 351 between 2026-04377 and 2026-
 24. **351.608(a)(2)**: CTAP cited as "part 330, subpart E" (proposed), "subpart F" (final).
 25. **351.802(a)(3)**: proposed "access to the agency's records"; final "information on how to access the agency's records".
 26. **Authority citation for part 351**: proposed "5 U.S.C. 1302, 3502, 3503"; the final adds 2301 (and the correction 2026-17335 adds 1103 and 1104).
-27. 351.506(c)(2): the cross-reference "351.701(b) and (c)" in both texts became "351.701(b)" only through the correction 2026-17335; an answer that says so is right, but this is a correction, not a proposal-to-final difference.
+27. 351.506(c)(2): the cross-reference "351.701(b) and (c)" in both texts became "351.701(b)" only through the correction 2026-17335; an answer that says so is right, but this is a correction, not a proposal-to-final difference, and it does not count toward the ladder.
 
 "Deeper" differences, which the final rule's numbered summary of changes at 91 FR 49179 does not list: items 8, 9, 10, 11, 12, the 351.702(a)(4) items in 17 (the five-year exemption is mentioned in the executive summary at 91 FR 49178 but not in the list of changes), the "veterans' preference subgroup" change in 18, and items 21 to 26.
 
@@ -251,7 +251,7 @@ Order: Alvarez, Chen, Dube, Estrada, Brandt, Farouk. Chen and Dube are tied at 1
 
 ## Q13. Where the preamble and the regulatory text part ways (28 pts)
 
-A ladder on the count of valid mismatches: 3 points each for at least 1, 2, 3 and 4; 4 points each for at least 6, 8, 10 and 12. All pages are in FR Doc. 2026-15665 unless noted. Each item needs both sides stated correctly.
+A ladder on the count of valid mismatches: 3 points each for at least 1, 2, 3 and 4; 4 points each for at least 5, 6, 8 and 10. An item located by CFR paragraph or instruction number instead of FR page still counts. All pages are in FR Doc. 2026-15665 unless noted. Each item needs both sides stated correctly.
 
 | # | Preamble | Instruction or regulatory text |
 |---|---|---|
@@ -259,25 +259,23 @@ A ladder on the count of valid mismatches: 3 points each for at least 1, 2, 3 an
 | 2 | OPM is revising 351.302(b) to require adverse action procedures for employees who decline to transfer (91 FR 49195) | That rule is in 351.302(d) (91 FR 49219); paragraph (b) is a different rule |
 | 3 | OPM is "revising § 353.301(b)" to explain retention protections for uniformed service (91 FR 49206) | Instruction 41 revises 353.301(a), on recovery from a compensable injury (91 FR 49226); the uniformed-service text is in 353.209 |
 | 4 | OPM eliminates the optional displacement flexibilities in 351.705 and retains and renumbers 351.705(c) (91 FR 49204) | Instruction 35 revises only paragraph (a) and leaves the rest of the section in place (91 FR 49226) |
-| 5 | Preference under 5 U.S.C. 3502(b)-(c) belongs to preference eligibles whose performance "has not been rated 'unacceptable'" (91 FR 49182) | 351.504(a) adds the points for every preference eligible, with no such condition (91 FR 49222) |
-| 6 | OPM approval is required when a competitive area has been "materially modified", stated without a time limit (91 FR 49179, 49196) | 351.402(c): only when established or materially modified "within 90 days before issuing" the notices (91 FR 49220) |
-| 7 | An example uses a "pattern C four-summary level" system with Level 5 ratings (91 FR 49197) | 351.503(e)(2): pattern C has Level 4 as its highest level (91 FR 49221) |
-| 8 | The modified notice rule for an abolished competitive area is cited as 351.605(b) (91 FR 49205) | It is in 351.605(c) (91 FR 49223) |
-| 9 | The qualifications assessment must not "rely on" an automated self-assessment (91 FR 49204) | 351.702(a)(4)(iii): must not "consist solely of, or principally rely on" one (91 FR 49226) |
-| 10 | OPM is revising 430.208(e)(4) (91 FR 49206) | Instruction 48 also removes 430.208(e)(5) (91 FR 49227) |
-| 11 | The impact discussion credits the rule with flexibility to manage long furloughs (91 FR 49208) | The proposed change to 351.604 on furloughs was not finalized (91 FR 49179); no furlough provision is amended |
-| 12 | Tenure subgroup II excludes those on "a temporary or term appointment of 1 year or less" (91 FR 49196) | 351.502(a)(3) excludes only "a temporary appointment of 1 year or less under subpart D of part 316" (91 FR 49220) |
-| 13 | USERRA protection described as 1 year or "180 days" (91 FR 49203) | 351.606(a)(1) and the definition of restoration protected employee: "6 months or 1 year" (91 FR 49219, 49223) |
-| 14 | Nothing is taken away from displaced employees under the career transition rules (91 FR 49205) | Instruction 11 revised the definition of "displaced" in 330.602 in a way that dropped paragraphs (1)(i) and (1)(ii) (91 FR 49217); restored by FR Doc. 2026-18800 |
-| 15 | The statutory authorities listed for the rule (91 FR 49178) | The authority citation adopted for part 351 differs (adds 5 U.S.C. 2301; 91 FR 49218) |
-| 16 | OPM "adds" introductory text to 351.802(a) | Instruction 36 "revises" introductory text (91 FR 49226); corrected by FR Doc. 2026-17335 |
-| 17 | The definition of reduction in force is quoted with "furlough for more than 30 days" (91 FR 49194) | The adopted definition says "by furlough"; the 30-day threshold is in the separate definition of furlough (91 FR 49219) |
+| 5 | OPM approval is required when a competitive area has been "materially modified", stated without a time limit (91 FR 49179, 49196) | 351.402(c): only when established or materially modified "within 90 days before issuing" the notices (91 FR 49220) |
+| 6 | An example uses a "pattern C four-summary level" system with Level 5 ratings (91 FR 49197) | 351.503(e)(2): pattern C has Level 4 as its highest level (91 FR 49221) |
+| 7 | The modified notice rule for an abolished competitive area is cited as 351.605(b) (91 FR 49205) | It is in 351.605(c) (91 FR 49223) |
+| 8 | The qualifications assessment must not "rely on" an automated self-assessment (91 FR 49204) | 351.702(a)(4)(iii): must not "consist solely of, or principally rely on" one (91 FR 49226) |
+| 9 | OPM is revising 430.208(e)(4) (91 FR 49206) | Instruction 48 also removes 430.208(e)(5) (91 FR 49227) |
+| 10 | The impact discussion credits the rule with flexibility to manage long furloughs (91 FR 49208) | The proposed change to 351.604 on furloughs was not finalized (91 FR 49179); no furlough provision is amended |
+| 11 | Tenure subgroup II excludes those on "a temporary or term appointment of 1 year or less" (91 FR 49196) | 351.502(a)(3) excludes only "a temporary appointment of 1 year or less under subpart D of part 316" (91 FR 49220) |
+| 12 | Nothing is taken away from displaced employees under the career transition rules (91 FR 49205) | Instruction 11 revised the definition of "displaced" in 330.602 in a way that dropped paragraphs (1)(i) and (1)(ii) (91 FR 49217); restored by FR Doc. 2026-18800 |
+| 13 | OPM "adds" introductory text to 351.802(a) | Instruction 36 "revises" introductory text (91 FR 49226); corrected by FR Doc. 2026-17335 |
 
-Not mismatches (do not count, do not penalize): the erosion-of-duties passage (the "within 180 days" describes the trigger being removed); 351.602 (the text does drop the temporary-appointment item and keeps temporary or term promotions); the career transition exceptions for probationary periods under 5 CFR 11.2 (the preamble declined only the trial-period exception); matters on which the text is silent and the preamble adds detail. An inconsistency inside the preamble alone (such as a service date that changes between two example tables at 91 FR 49200) is not a preamble-versus-text mismatch.
+Items 9 and 12 count although each turns on what the preamble leaves out: the preamble describes the amendment to 430.208 as revising (e)(4) while the instruction also removes (e)(5), and it says the career transition coverage leaves "no gaps" while instruction 11 dropped part of the definition of "displaced" (as the later correction confirms). Both are descriptions of the amendment made that differ from it, not silence in the regulatory text.
+
+Not mismatches (do not count, do not penalize): the preamble's account of the statute's "not rated 'unacceptable'" condition for veterans' preference (91 FR 49182; a description of the statute, not of the rule); the statute's "180 days" quoted at 91 FR 49203 against the rule's "6 months" (the same page states the rule's periods correctly); the statutory authorities listed for the rule (91 FR 49178) against the authority citation adopted for part 351; the reduction in force definition quoted with "furlough for more than 30 days" (91 FR 49194) against "by furlough" (the 30-day threshold is in the definition of furlough, so the substance is the same); the erosion-of-duties passage (the "within 180 days" describes the trigger being removed); 351.602 (the text does drop the temporary-appointment item and keeps temporary or term promotions); the career transition exceptions for probationary periods under 5 CFR 11.2 (the preamble declined only the trial-period exception); matters on which the text is silent and the preamble adds detail. An inconsistency inside the preamble alone (such as a service date that changes between two example tables at 91 FR 49200) is not a preamble-versus-text mismatch.
 
 ## Q14. The appeals rule, its proposal and the Board's rule (25 pts)
 
-A ladder on the count of valid items: 3 points each for at least 2, 4, 6, 8, 10, 12 and 14, and 4 points for at least 16. Pages are 91 FR unless noted; 15666 is OPM's appeals rule, 17338 its correction, 02576 the proposal, 16456 the Board's rule.
+A ladder on the count of valid items: 3 points each for at least 2, 4, 6, 8, 10, 12 and 14, and 4 points for at least 16. An item located by CFR paragraph instead of FR page still counts. Pages are 91 FR unless noted; 15666 is OPM's appeals rule, 17338 its correction, 02576 the proposal, 16456 the Board's rule.
 
 Kind (iii), the Board's rule:
 
@@ -285,38 +283,36 @@ Kind (iii), the Board's rule:
 |---|---|---|
 | 1 | 16456 DATES: the Board will not apply its rule to cases "relating to agency actions taken before the effective date of OPM's rulemakings" (51997) | 16456 background: the Board "will accept such cases for filing where the agency's RIF notice was issued before the rule's effective date" (51997); 16456 Part III: cases "in which the RIF effective date preceded September 2, 2026" (51998). Three different triggers in one rule. |
 | 2 | 16456 Part III keys on the RIF effective date (51998) | 15666 DATES keys on the date the notice is issued (49230): a RIF noticed before September 2 but effective on or after it is left to the Board by OPM's rule and outside the Board's Part III; 351.805(b) of the main rule makes later effective dates a live case |
-| 3 | 16456: good cause "to make this final rule effective immediately upon publication" (51998) | 16456 DATES: "This final rule is effective on September 2, 2026" (51997), three weeks after publication |
 
 Kind (i), preamble versus text of 15666 (as corrected):
 
 | # | Preamble | Regulatory text |
 |---|---|---|
-| 4 | The appellant must prove the appeal "was timely and in the required form" / "timely and proper filing" (49248, 49233) | 351.901(b)(1): only "the timeliness of the written appeal" (49263) |
-| 5 | Pretext and retaliation claims "must be pursued in alternative forums" (49237), yet an employee who believes a reissued RIF is pretextual "may pursue the OPM RIF appeal" (49239) | 351.901(b) limits the merits to compliance with RIF statutes and OPM regulations plus prejudice (49263) |
-| 6 | Only "when agreements are renegotiated" will the rule limit agencies' duty to bargain (49245) | 351.901(c)(2) bars raising covered RIFs under a negotiated grievance procedure now, with no grandfather clause (49263) |
-| 7 | The duty-time and funding bar applies "except where otherwise required by law" (49246) | 351.904(b): the representative "may not perform such representational functions while in a duty status", with no exception (49265) |
-| 8 | 351.909(f) described as protecting "protected personnel information" (49232 and elsewhere) | As corrected by 17338: "protected personal information" (54796) |
-| 9 | Part 351 procedures are "the sole and exclusive means" of appeal (49230 and elsewhere) | As corrected by 17338, 351.901(c)(1): "The procedures in this subpart" (54796) |
-| 10 | A party must demonstrate good cause and "obtains approval from OPM" (49248) | 351.902(a): "seeks approval from OPM" (49264) |
-| 11 | The Director "will appoint, or ratify the appointments of" the adjudicators (49252) | 351.905: "OPM will assign personnel" (49265); no appointment provision |
-| 12 | 351.908 lets OPM reopen "any appeal in which OPM has issued a decision that has not yet become final" (49252) | 351.908: "any initial decision or reopened and reconsidered decision" (49266) |
-| 13 | No judicial review "of a decision under part 351" (49242) | 351.901(c)(4): "under this subpart" (49264) |
-| 14 | 351.903(d)-(e) described without "applicable legal privileges" and with a cross-reference to "paragraph (b)" (49250) | Each paragraph carries its own full list including "applicable legal privileges" (49265) |
-| 15 | Section-by-section speaks of OPM or "the responsible agency" disallowing a representative (49250) | As corrected by 17338, 351.904(c): "the agency whose action is under appeal" (54796) |
-| 16 | DATES: applicability keyed to the notice date (49230) | Regulatory impact discussion: appeals "of RIF actions that have been effectuated will proceed before the MSPB" (49262) (preamble against preamble, but describing what the rule provides; counts) |
+| 3 | The appellant must prove the appeal "was timely and in the required form" / "timely and proper filing" (49248, 49233) | 351.901(b)(1): only "the timeliness of the written appeal" (49263) |
+| 4 | Pretext and retaliation claims "must be pursued in alternative forums" (49237), yet an employee who believes a reissued RIF is pretextual "may pursue the OPM RIF appeal" (49239) | 351.901(b) limits the merits to compliance with RIF statutes and OPM regulations plus prejudice (49263) |
+| 5 | Only "when agreements are renegotiated" will the rule limit agencies' duty to bargain (49245) | 351.901(c)(2) bars raising covered RIFs under a negotiated grievance procedure now, with no grandfather clause (49263) |
+| 6 | The duty-time and funding bar applies "except where otherwise required by law" (49246) | 351.904(b): the representative "may not perform such representational functions while in a duty status", with no exception (49265) |
+| 7 | 351.909(f) described as protecting "protected personnel information" (49232 and elsewhere) | As corrected by 17338: "protected personal information" (54796) |
+| 8 | Part 351 procedures are "the sole and exclusive means" of appeal (49230 and elsewhere) | As corrected by 17338, 351.901(c)(1): "The procedures in this subpart" (54796) |
+| 9 | A party must demonstrate good cause and "obtains approval from OPM" (49248) | 351.902(a): "seeks approval from OPM" (49264) |
+| 10 | The Director "will appoint, or ratify the appointments of" the adjudicators (49252) | 351.905: "OPM will assign personnel" (49265); no appointment provision |
+| 11 | 351.908 lets OPM reopen "any appeal in which OPM has issued a decision that has not yet become final" (49252) | 351.908: "any initial decision or reopened and reconsidered decision" (49266) |
+| 12 | No judicial review "of a decision under part 351" (49242) | 351.901(c)(4): "under this subpart" (49264) |
+| 13 | 351.903(d)-(e) described without "applicable legal privileges" and with a cross-reference to "paragraph (b)" (49250) | Each paragraph carries its own full list including "applicable legal privileges" (49265) |
+| 14 | Section-by-section speaks of OPM or "the responsible agency" disallowing a representative (49250) | As corrected by 17338, 351.904(c): "the agency whose action is under appeal" (54796) |
 
 Kind (ii), changes from the proposal not acknowledged in the summary of changes (49230-49232):
 
 | # | Proposal (02576) | Final (15666) |
 |---|---|---|
-| 17 | The new subpart "shall supersede any appeal procedures found in agency policies or collective bargaining agreements" (5875) | The summary calls the grievance bar something the final rule "adds" (49230); the agency-policy limb is dropped without mention (351.901(c)(1)-(2), 49263) |
-| 18 | Preserved forums include the "Federal Labor Relations Authority" (5875) | 351.901(c)(3) omits the FLRA (49264); not mentioned |
-| 19 | Not applied "retroactively to appeals that were filed with the MSPB before the effective date" (5874) | Applicability keyed to the date the RIF notice is issued (49230, 49233); not among the listed changes |
-| 20 | OPM may direct "the parties to participate in such hearing or comply with such action" (5876) | Deleted; new power to "require either party to provide additional information" (351.905(c)); the summary mentions only tighter audits |
-| 21 | 351.906(b): "OPM shall, except when prohibited by law" (5876) | "OPM may" (49266); the summary is silent |
-| 22 | Authority citation of part 351 in the proposal | The final adds 5 U.S.C. 1103 and 1104 to it (49263), a change neither the summary of changes nor the explanatory text mentions (the main RIF rule revises the same citation differently, 91 FR 49218) |
-| 23 | Proposed 351.802(a)(6): "The agency must also comply with Sec. 1201.21 of this title" (5874) | Deleted in the final (49263); counts if the answer shows the summary of changes does not list it (the section-by-section calls it "conforming, clarifying, and nonsubstantive", 49248) |
+| 15 | The new subpart "shall supersede any appeal procedures found in agency policies or collective bargaining agreements" (5875) | The summary calls the grievance bar something the final rule "adds" (49230); the agency-policy limb is dropped without mention (351.901(c)(1)-(2), 49263) |
+| 16 | Preserved forums include the "Federal Labor Relations Authority" (5875) | 351.901(c)(3) omits the FLRA (49264); not mentioned |
+| 17 | Not applied "retroactively to appeals that were filed with the MSPB before the effective date" (5874) | Applicability keyed to the date the RIF notice is issued (49230, 49233); not among the listed changes |
+| 18 | OPM may direct "the parties to participate in such hearing or comply with such action" (5876) | Deleted; new power to "require either party to provide additional information" (351.905(c)); the summary mentions only tighter audits |
+| 19 | 351.906(b): "OPM shall, except when prohibited by law" (5876) | "OPM may" (49266); the summary is silent |
+| 20 | Authority citation of part 351 in the proposal | The final adds 5 U.S.C. 1103 and 1104 to it (49263), a change neither the summary of changes nor the explanatory text mentions (the main RIF rule revises the same citation differently, 91 FR 49218) |
+| 21 | Proposed 351.802(a)(6): "The agency must also comply with Sec. 1201.21 of this title" (5874) | Deleted in the final (49263); counts if the answer shows the summary of changes does not list it (the section-by-section calls it "conforming, clarifying, and nonsubstantive", 49248) |
 
-Also valid, as kind (i): the preamble's references to an entity "identified in Sec. 351.901(c)" (49230) against 351.902(b)(3) as corrected by 17338, "351.901(c)(3)" (54796); and the DATES line's "specific RIF notice under 5 CFR 351.802" (49230) against the main rule, under which the notice is issued under 351.801 and 351.802 prescribes its content (91 FR 49226). Other unacknowledged proposal-to-final changes in the regulatory text of subpart I that the grader confirms with the tools also count.
+Also valid, as kind (i): the preamble's reference to an entity "identified in Sec. 351.901(c)" (49230) against 351.902(b)(3) as corrected by 17338, "351.901(c)(3)" (54796). Other unacknowledged proposal-to-final changes in the regulatory text of subpart I that the grader confirms with the tools also count.
 
-Do not count: day counts, deadlines, finality and remedies (they match); the Board's accurate paraphrase of OPM's notice-date trigger; the regulatory-analysis figures (they recompute); the "non-SES" wording; the correction's own "not significant" statement; matters only of silence; the applicability rule being stated in the preamble rather than in 351.901 (OPM says so itself).
+Do not count (outside the three kinds): the Board's good-cause statement for immediate effect against its September 2 effective date (an inconsistency, but not about which appeals the Board hears); the DATES line against the regulatory impact discussion's "RIF actions that have been effectuated" (both in OPM's preamble); the DATES line's "specific RIF notice under 5 CFR 351.802" against the main rule (a comparison with another rule). Also do not count: day counts, deadlines, finality and remedies (they match); the Board's accurate paraphrase of OPM's notice-date trigger; the regulatory-analysis figures (they recompute); the "non-SES" wording; the correction's own "not significant" statement; matters only of silence; the applicability rule being stated in the preamble rather than in 351.901 (OPM says so itself).

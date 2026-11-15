@@ -65,7 +65,7 @@ Unless a scenario says otherwise:
 (b) Give the same identification (document number, citation, publication date) for the proposed rule it finalized.
 (c) List every correction to that final rule published through today. For each, give the document number, publication date, effective date, and one line on what it corrects.
 (d) Which reductions in force do the amended rules govern, and which stay under the earlier rules? Where is this stated?
-(e) List every other final rule published in 2026, through today, that amends 5 CFR part 351 with effect on or after the main rule's effective date. For each, give the document number, what it changes in part 351, its effective date, and whether it is in force today.
+(e) List every other final rule published in 2026, through today, that amends 5 CFR part 351 (not counting corrections) with effect on or after the main rule's effective date. For each, give the document number, what it changes in part 351, its effective date, and whether it is in force today.
 
 ### Q2
 

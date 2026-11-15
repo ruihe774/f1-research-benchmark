@@ -387,7 +387,7 @@ text = "(c) Says Jordan has no assignment right under 351.701, because paragraph
 id = "q6d_excepted"
 question = "Q6"
 points = 1
-text = "(d) Says 351.701 gives assignment rights only to competitive service employees; excepted service employees have them only if the agency, at its discretion, has adopted provisions under 351.705(a) (which reach other positions under the same appointing authority)."
+text = "(d) Says 351.701 gives assignment rights only to competitive service employees; excepted service employees have them only if the agency, at its discretion, has adopted provisions under 351.705(a). Saying what positions such provisions reach is welcome but not required."
 
 [[criterion]]
 id = "q6e_level2"
@@ -545,7 +545,7 @@ text = "(d) Says no: the provisions address only whether an employee may be plac
 
 # --------------------------------------------------------------------------- Q9
 # Twelve steps: nine do not comply (2 points each), three are in order.
-# Calling a compliant step a violation costs 1.5; getting all three right earns 2.
+# Calling a compliant step a violation costs 2 (and the all-three credit); getting all three right earns 2.
 [[criterion]]
 id = "q9_s1"
 question = "Q9"
@@ -670,7 +670,7 @@ id = "q11_valid_8"
 question = "Q11"
 ladder = "q11_valid"
 points = 2
-text = "At least 8 valid differences. A valid difference is a real difference between the regulatory text of 5 CFR part 351 in the proposed rule (FR Doc. 2026-04377) and in the final rule (FR Doc. 2026-15665), stated with the paragraph and what each text says, that is in the key's list for Q11 or that you confirm with the tools. Count each paragraph-level change once: where the key bundles several changes under one number, each piece the answer states correctly counts separately, but the same change stated twice counts once. Do not count: differences only in a preamble (such as the applicability rule); changes to parts other than 351; things that did not change (point values, the four-year period, veterans' points, grade limits); differences of punctuation, capitalization or citation format; or a difference whose description of either text is wrong."
+text = "At least 8 valid differences. A valid difference is a real difference between the regulatory text of 5 CFR part 351 in the proposed rule (FR Doc. 2026-04377) and in the final rule (FR Doc. 2026-15665), stated with the paragraph and what each text says, that is in the key's list for Q11 or that you confirm with the tools. Count each paragraph-level change once: where the key bundles several changes under one number, each piece the answer states correctly counts separately, but the same change stated twice counts once. Do not count: changes made only by the correction FR Doc. 2026-17335 (such as the 351.506(c)(2) cross-reference); differences only in a preamble (such as the applicability rule); changes to parts other than 351; things that did not change (point values, the four-year period, veterans' points, grade limits); differences of punctuation, capitalization or citation format; or a difference whose description of either text is wrong."
 
 [[criterion]]
 id = "q11_valid_14"
@@ -779,7 +779,7 @@ points = 1
 text = "(d) The employees separated are Gomez, Hill and Ikeda, who are displaced and are qualified for no other position; no GS-13 employee is separated, and Jones is not affected. No for any other set of separated employees."
 
 # -------------------------------------------------------------------------- Q13
-# Count of valid mismatches (at least 1, 2, 3, 4, 6, 8, 10, 12).
+# Count of valid mismatches (at least 1, 2, 3, 4, 5, 6, 8, 10).
 [[ladder]]
 id = "q13_valid"
 question = "Q13"
@@ -789,7 +789,7 @@ id = "q13_valid_1"
 question = "Q13"
 ladder = "q13_valid"
 points = 3
-text = "At least 1 valid mismatch. A valid mismatch is one in the key's list for Q13, or another that you confirm with the tools, for which the answer states both what the preamble of FR Doc. 2026-15665 says and what the amendatory instruction or regulatory text in the same document says, correctly, and locates each side by FR page, CFR paragraph or instruction number. Count each mismatch once. Do not count: differences between the proposed rule and the final rule; matters on which the regulatory text is merely silent and the preamble adds detail (for example supervisory probation, or field offices as competitive areas); the items the key lists as not mismatches; or an item whose description of either side is wrong."
+text = "At least 1 valid mismatch. A valid mismatch is one in the key's list for Q13, or another that you confirm with the tools, for which the answer states both what the preamble of FR Doc. 2026-15665 says and what the amendatory instruction or regulatory text in the same document says, correctly, and locates each side by FR page, CFR paragraph or instruction number (a deliberate leniency: the task asks for FR pages). Count each mismatch once. Do not count: differences between the proposed rule and the final rule; matters on which the regulatory text is merely silent and the preamble adds detail (for example supervisory probation, or field offices as competitive areas); the items the key lists as not mismatches; or an item whose description of either side is wrong."
 
 [[criterion]]
 id = "q13_valid_2"
@@ -813,6 +813,13 @@ points = 3
 text = "At least 4 valid mismatches. (Same standard as q13_valid_1.)"
 
 [[criterion]]
+id = "q13_valid_5"
+question = "Q13"
+ladder = "q13_valid"
+points = 4
+text = "At least 5 valid mismatches. (Same standard as q13_valid_1.)"
+
+[[criterion]]
 id = "q13_valid_6"
 question = "Q13"
 ladder = "q13_valid"
@@ -833,13 +840,6 @@ ladder = "q13_valid"
 points = 4
 text = "At least 10 valid mismatches. (Same standard as q13_valid_1.)"
 
-[[criterion]]
-id = "q13_valid_12"
-question = "Q13"
-ladder = "q13_valid"
-points = 4
-text = "At least 12 valid mismatches. (Same standard as q13_valid_1.)"
-
 # -------------------------------------------------------------------------- Q14
 # Count of valid items (at least 2, 4, 6, 8, 10, 12, 14, 16).
 [[ladder]]
@@ -851,7 +851,7 @@ id = "q14_valid_2"
 question = "Q14"
 ladder = "q14_valid"
 points = 3
-text = "At least 2 valid items. A valid item is one in the key's list for Q14, or another that you confirm with the tools and that fits one of the question's three kinds: (i) a statement in the preamble of OPM's RIF appeals rule (FR Doc. 2026-15666) about what that rule provides that differs from its regulatory text as published or as corrected by FR Doc. 2026-17338; (ii) a change from the proposed appeals rule (FR Doc. 2026-02576) that the final rule's own summary of changes does not acknowledge; (iii) an inconsistency within the MSPB's rule (FR Doc. 2026-16456), or between it and OPM's rule, about which RIF appeals the Board keeps. The answer must state both sides correctly and locate each by FR page or CFR paragraph. Count each item once. Do not count the items the key lists as not counting, matters the text is merely silent about, or an item whose description of either side is wrong."
+text = "At least 2 valid items. A valid item is one in the key's list for Q14, or another that you confirm with the tools and that fits one of the question's three kinds: (i) a statement in the preamble of OPM's RIF appeals rule (FR Doc. 2026-15666) about what that rule provides that differs from its regulatory text as published or as corrected by FR Doc. 2026-17338; (ii) a change from the proposed appeals rule (FR Doc. 2026-02576) that the final rule's own summary of changes does not acknowledge; (iii) an inconsistency within the MSPB's rule (FR Doc. 2026-16456), or between it and OPM's rule, about which RIF appeals the Board keeps. The answer must state both sides correctly and locate each by FR page or CFR paragraph (a deliberate leniency: the task asks for FR pages). Count each item once. Do not count the items the key lists as not counting (including those outside the three kinds), matters the text is merely silent about, or an item whose description of either side is wrong."
 
 [[criterion]]
 id = "q14_valid_4"

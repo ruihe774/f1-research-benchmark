@@ -23,7 +23,7 @@ outside_sources = "the Harmonized Tariff Schedule, CBP messages or agency websit
 [[question]]
 id = "Q1"
 points = 2
-criteria_points = 8
+criteria_points = 9
 
 [[question]]
 id = "Q2"
@@ -110,7 +110,13 @@ text = "Fabrication: the answer invents a source. Yes only for (i) an FR documen
 id = "q1_duty_procs"
 question = "Q1"
 points = 1.5
-text = "Lists the three duty proclamations with their numbers and FR document numbers: 11046 (2026-14991), 11047 (2026-14992) and 11048 (2026-14997), signed July 20, 2026 and published July 23, 2026. FR first pages (91 FR 46639, 46653, 46663) are welcome but not required. No if any of the three is missing or has a wrong document number or signing date."
+text = "Lists the three duty proclamations with their numbers and FR document numbers: 11046 (2026-14991), 11047 (2026-14992) and 11048 (2026-14997), signed July 20, 2026 and published July 23, 2026. No if any of the three is missing or has a wrong document number or signing date."
+
+[[criterion]]
+id = "q1_details"
+question = "Q1"
+points = 1
+text = "Gives, for at least eight of the ten documents, the correct FR first page (see the document table in the key) and a correct one-line description of what the document does."
 
 [[criterion]]
 id = "q1_delay"
@@ -648,7 +654,7 @@ text = "(a) September 10: section 338 duty $0, because clause (2) of Proclamatio
 id = "q10a_301"
 question = "Q10"
 points = 0.75
-text = "(a) Section 301 duty $0 (on both dates), because note 52(f)(1) exempts aluminum articles provided for in section 232 heading 9903.82.02. No if the answer adds a 10% section 301 duty."
+text = "(a) Section 301 duty $0 on September 10, because note 52(f)(1) exempts aluminum articles provided for in section 232 heading 9903.82.02. No if the answer adds a 10% section 301 duty."
 
 [[criterion]]
 id = "q10a_total"
@@ -678,7 +684,7 @@ text = "(c) Section 338 duty $30,000 on the USMCA entry: nothing in the readable
 id = "q10c_301"
 question = "Q10"
 points = 1
-text = "(c) Section 301 duty $0 on the USMCA entry: note 52(g) exempts products of Canada entered free of duty under the USMCA."
+text = "(c) Section 301 duty $0 on the USMCA entry: note 52(g) exempts products of Canada entered free of duty under the USMCA; total for (c) $30,000. The total is required."
 
 [[criterion]]
 id = "q10d_stack"
@@ -846,11 +852,24 @@ question = "Q13"
 points = 2.5
 text = "(e) $37,500: for entries on or after October 14, 2026 the Department of Commerce guidance (FR Doc. 2026-20938, 91 FR 65162) defines U.S. content as the value attributable to parts wholly obtained, entirely produced or substantially transformed in the United States plus, to the extent not already counted, the value attributable to steel melted and poured, or aluminum or copper smelted and cast, in the United States. U.S. content is $20,000 + $30,000 = $50,000; ($200,000 - $50,000) x 25% = $37,500 (18.75 percent, above the minimum). The amount and the Commerce notice are required. No if the answer gives $45,000."
 
+[[group]]
+id = "q13f_group"
+question = "Q13"
+gate = "q13f_flag"
+factor = 0.5
+
 [[criterion]]
 id = "q13f"
 question = "Q13"
+group = "q13f_group"
 points = 1
-text = "(f) Says the Commerce guidance applies only to goods entered on or after October 14, 2026, so for an entry on October 6 the answer rests on the proclamation's own definition (non-U.S. content is total value minus the value attributable to parts produced in the United States): on that text $20,000 counts and the duty is ($200,000 - $20,000) x 25% = $45,000, and whether the U.S.-smelted aluminum in a Canadian part could count before October 14 is not settled by the documents. Yes if the answer gives $45,000 on this reasoning, with or without the caveat, or sets out both $45,000 and $37,500 and explains that the date of the guidance is what separates them. No if it gives $37,500 with no mention of the October 14 date."
+text = "(f) Says the Commerce guidance applies only to goods entered on or after October 14, 2026, so for an entry on October 6 the answer rests on the proclamation's own definition (non-U.S. content is total value minus the value attributable to parts produced in the United States): on that text $20,000 counts and the duty is ($200,000 - $20,000) x 25% = $45,000, and whether the U.S.-smelted aluminum in a Canadian part could count before October 14 is not settled by the documents. Yes if the answer gives $45,000 on this reasoning (whether or not it flags the doubt; that is handled by the q13f_flag gate), or sets out both $45,000 and $37,500 and explains that the date of the guidance is what separates them. No if it gives $37,500 with no mention of the October 14 date."
+
+[[criterion]]
+id = "q13f_flag"
+question = "Q13"
+kind = "gate"
+text = "(f) Flags that the documents do not settle whether the U.S.-smelted aluminum could count as U.S. content before October 14, 2026, or sets out both $45,000 and $37,500 with the October 14 date as what separates them. No if the answer presents its (f) figure as certain with no such caveat."
 
 [[criterion]]
 id = "q13g"
@@ -866,55 +885,55 @@ text = "(h) The clause (2) rates apply through 11:59 p.m. eastern standard time 
 
 # -------------------------------------------------------------------------- Q14
 [[criterion]]
-id = "q14_2_operative"
+id = "q14_1_operative"
 question = "Q14"
 points = 1
 text = "Statement 1: incorrect. The operative text of the memorandum (section 2) directs the quotas 'as soon as the Trade Representative determines that it is feasible' and sets no deadline; 'feasible by September 1, 2026' appears only in a recital reporting the Trade Representative's advice (91 FR 47720)."
 
 [[criterion]]
-id = "q14_2_notice"
+id = "q14_1_notice"
 question = "Q14"
 points = 1
 text = "Statement 1: adds at least one of these: the USTR notice gives no date and says the mechanism will be established in a subsequent notice (91 FR 47334-47335); no such notice has been published as of November 14, 2026; in the meantime the textile and apparel goods concerned pay the 10 percent rate (memorandum section 2(c))."
 
 [[criterion]]
-id = "q14_4"
+id = "q14_2"
 question = "Q14"
 points = 1.5
 text = "Statement 2: incorrect. Over 450 comments and nearly 60 witnesses (hearings of April 28-29, 2026) are the figures for the earlier, investigation phase, reported in the June proposal (91 FR 34273). On the proposed action USTR received over 1,600 written comments and heard over 100 witnesses at a three-day hearing on July 7-9, 2026 (91 FR 47319). The 1,600 and 100 figures are required."
 
 [[criterion]]
-id = "q14_5_jordan"
+id = "q14_3_jordan"
 question = "Q14"
 points = 1
 text = "Statement 3: says Jordan did not adopt an import ban; its 10 percent rate rests on commitments in an agreement on reciprocal trade, while Cambodia, Guatemala, Honduras, India, Sri Lanka and Trinidad and Tobago imposed bans after the June proposal (91 FR 47319; memorandum, 91 FR 47720)."
 
 [[criterion]]
-id = "q14_5_five"
+id = "q14_3_five"
 question = "Q14"
 points = 1
 text = "Statement 3: says not all seven moved from 12.5 percent: Cambodia and Guatemala were already proposed at 10 percent in June (because of trade-agreement commitments), so only Honduras, India, Jordan, Sri Lanka and Trinidad and Tobago moved from 12.5 to 10 percent."
 
 [[criterion]]
-id = "q14_6"
+id = "q14_4"
 question = "Q14"
 points = 1
 text = "Statement 4: incorrect. USTR 'determined not to remove these products from the list of exempted products' (beef, avocados, paprika, lithium hexafluorophosphate, forgings), citing limited availability from domestic sources (91 FR 47330-47331)."
 
 [[criterion]]
-id = "q14_7"
+id = "q14_5"
 question = "Q14"
 points = 1.5
 text = "Statement 5: incorrect. The net-of-MFN economies are the European Union, Taiwan, Japan, South Korea and Switzerland; economy-specific exemptions exist for thirteen economies (Argentina, Bangladesh, Cambodia, Ecuador, El Salvador, the European Union, Guatemala, Indonesia, Jordan, Malaysia, Switzerland, Taiwan, the United Kingdom; 91 FR 47333, memorandum section 1(b)(v)), and Japan and South Korea are not among them. Naming Japan and South Korea (or either, with the list of thirteen) as lacking a list is required."
 
 [[criterion]]
-id = "q14_8"
+id = "q14_6"
 question = "Q14"
 points = 1
-text = "Statement 6: partly correct. The 471 additional products are right (91 FR 47331), but for sugar the addition is limited to 'in-quota imports of certain sugar and sugar-containing products'."
+text = "Statement 6: partly correct. The 471 additional products are right (91 FR 47331), but for sugar the determinations add only 'certain sugar and sugar containing products' (91 FR 47331, 47333), not all sugar. Yes whether or not the answer adds the 'in-quota' wording from the notice's summary of comments."
 
 [[criterion]]
-id = "q14_9"
+id = "q14_7"
 question = "Q14"
 points = 1.5
 text = "Statement 7: incorrect. The notice's phrase 'maximum tariffs of 12.5 percent' (91 FR 47334) refers to the section 301 rate; under note 52(a) the flat-rate duties are in addition to the general (MFN) rates and to other additional duties, so the total can exceed 12.5 percent (only the net-of-MFN economies have a combined ceiling)."

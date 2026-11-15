@@ -80,7 +80,7 @@ Flat rates are added to the MFN duty (note 52(a)). For a specific or compound MF
 
 100 points in total across 15 questions. Every question except Q11 keeps the point split of an earlier draft, shown below on its original scale; `rubric.toml` rescales Q1 to Q10 and Q12 to Q15 to 2, 3, 3, 4, 3, 3, 1, 2, 3, 3, 4, 16, 8 and 25 points. Q11 is worth 20 points. `rubric.toml` splits each part into yes/no criteria and decides the points; the grader gives verdicts only.
 
-Across all questions:
+Across all questions (the penalty points below are on each question's scale as shown in this key; `rubric.toml` rescales them with the question, so they are worth less on a question rescaled down and more on one rescaled up):
 
 - **Citation discipline.** A question whose claims largely lack document, clause or page citations loses 1 point.
 - **Fabrication.** 2 points off per question for an invented source: a document number, FR citation or clause that does not exist; a quotation not found in the cited source; or a provision, statement or figure attributed to a source that has no basis anywhere in it. Misreading or misapplying a real provision is not fabrication; it loses the credit for the affected part instead.
@@ -90,9 +90,9 @@ Across all questions:
 
 ---
 
-## Q1. The section 338 series (8 pts)
+## Q1. The section 338 series (9 pts)
 
-The ten documents are in the table above. Expected points:
+The ten documents are in the table above. The task asks for each document's FR first page and one line on what it does; giving both for at least eight of the ten earns 1 point. Expected points:
 
 - The three duty proclamations: 11046 (2026-14991, 91 FR 46639), 11047 (2026-14992, 91 FR 46653), 11048 (2026-14997, 91 FR 46663); signed July 20, 2026; published July 23, 2026; 50% duty; as signed, entries on or after 12:01 a.m. ET August 19, 2026.
 - 11056 (2026-17294, 91 FR 54789): signed August 18, published August 24; effective date of all three duties becomes 12:01 a.m. ET August 22, 2026.
@@ -258,12 +258,11 @@ A ladder on the count of valid discrepancies: 2 points each for at least 1, 2, 3
 | 6 | Notice III.E: the exemptions the President directed are "limited to" five categories, including products that "contribute substantially" and economies "that have made commitments" (47334) | Memorandum 1(b)(iv): products for which the tariffs "may not be effective"; 1(b)(v) names thirteen economies (47721) |
 | 7 | Notice III.C.1 describes the proposed Annex A exemptions with an "at reasonable prices" criterion (47330) | The proposal (34274) and the notice's own summary (47318) have no such criterion |
 | 8 | The proposal exempted all goods subject to section 232 duties (34274); the notice says all proposed exemptions were kept (47330, 47334) | Note 52(f) exempts only listed section 232 headings (47362); patented pharmaceuticals are exempt only from July 31 (Annex I Part B, 47394) |
-| 9 | Proclamation 11056 recites a three-day "suspension" (54790) | It only moves the effective date to August 22; later proclamations (11061-11065, 11076) say the "3-day suspension ... lapsed" and the effective date was "temporarily suspended" (e.g. 58311) |
-| 10 | Proclamation 11056 amends only the "chapeau of Annex II" of each proclamation (54790) | The August 19 date remains in the operative clauses of 11046-11048 (e.g. 46641) |
-| 11 | The notice puts Ecuador and Indonesia among the six economies that fail only to enforce an existing prohibition (47318) | Their sections rest the action on commitments in an agreement on reciprocal trade (47323, 47324) |
-| 12 | Recitals of 11056, 11061 and 11064 say Proclamation 11046 found Canada's measures "not equally enforced upon the like articles" | 11046 paragraph 7 (46640) makes no such finding (11047 and 11048 do, 46654) |
+| 9 | Proclamation 11056 amends only the "chapeau of Annex II" of each proclamation (54790) | The August 19 date remains in the operative clauses of 11046-11048 (e.g. 46641) |
+| 10 | Recitals of 11056, 11061 and 11064 say Proclamation 11046 found Canada's measures "not equally enforced upon the like articles" | 11046 paragraph 7 (46640) makes no such finding (11047 and 11048 do, 46654) |
+| 11 | The recitals of the scope proclamations 11064, 11065 and 11076 state that section 338 duties may not "take effect earlier than 30 days after the President's proclamation" (58332, 58340, 68862) | Their operative clauses make newly listed products dutiable 7 days after signing (September 8 to 15; October 23 to 30), with no explanation (see Q5(c)) |
 
-Do not count: the comment and witness figures of the investigation phase (proposal) against those of the action phase (notice), which are different dockets; Cambodia and Guatemala called "additional" economies; the July 24 DATES line against the July 31 Annex I Part B date (different provisions); "imported" in the bans against "entered" in the duties; the Part A/Part B swap in 11076 (an amendment, not a discrepancy); anything that depends on image-only content (the in-transit exception aside from the DATES line, headings published as images, the 471-product count).
+Do not count: Proclamation 11056's "suspension" against its change of the effective date (clause (2) orders collection suspended, so the recital describes what the clauses do); Ecuador and Indonesia in the notice's enforce-only group against the trade-agreement commitments in their sections (the sections rest on the findings "including consideration of" the commitments, and the proposal puts both economies in both groups); the comment and witness figures of the investigation phase (proposal) against those of the action phase (notice), which are different dockets; Cambodia and Guatemala called "additional" economies; the July 24 DATES line against the July 31 Annex I Part B date (different provisions); "imported" in the bans against "entered" in the duties; the Part A/Part B swap in 11076 (an amendment, not a discrepancy); anything that depends on image-only content (the in-transit exception aside from the DATES line, headings published as images, the 471-product count).
 
 ## Q12. Exemptions for particular articles (12 pts)
 
@@ -299,9 +298,9 @@ Proclamation 11032 of June 1, 2026 (FR Doc. 2026-11314, 91 FR 34085), clause (2)
 | (c) | Not USMCA-qualifying: no reduction; 25% of full customs value | **$50,000** | 2 |
 | (d) | Japan: (15% − 2.5%) × $200,000 | **$25,000** | 2 |
 | (e) | U.S. content $20,000 + $30,000 = $50,000; ($200,000 − $50,000) × 25% (18.75%) | **$37,500** | 2.5 |
-| (f) | Entry before October 14: the guidance does not apply; on the proclamation's own definition only the $20,000 of U.S. parts counts: $180,000 × 25% = **$45,000**. Whether the U.S.-smelted aluminum could count before October 14 is not settled. | **$45,000** (uncertain) | 1 |
+| (f) | Entry before October 14: the guidance does not apply; on the proclamation's own definition only the $20,000 of U.S. parts counts: $180,000 × 25% = **$45,000**. Whether the U.S.-smelted aluminum could count before October 14 is not settled. | **$45,000** (uncertain; half credit without a flag or both figures) | 1 |
 | (g) | $60,000 × 25% = $15,000 = 7.5% of value, below the minimum; 15% × $200,000 | **$30,000** | 2 |
-| (h) | Through 11:59 p.m. EST December 31, 2027; from January 1, 2028 the rates of clause (3) of Proclamation 11021, 25 percent unless a lower rate applies (clause (3)(a) of 11032) | | 1 |
+| (h) | Through 11:59 p.m. EST December 31, 2027; from January 1, 2028 the rates of clause (3) of Proclamation 11021, 25 percent unless a lower rate applies (clause (3)(a) of 11032). For the (a) machine that is 25% of the full $200,000 (11021 clause (1) full-value base; neither clause (3)(b) nor (3)(c) fits) = $50,000; an answer may give this but need only name the regime | | 1 |
 
 Annex I-C and Annex IV are images; the scenario stipulates Annex I-C. An answer to (g) that gives $30,000 and notes that the detail of the minimum is in an unreadable annex is fully right.
 
@@ -312,7 +311,7 @@ Annex I-C and Annex IV are images; the scenario stipulates Annex I-C. An answer 
 3. **Incorrect.** Six economies imposed bans after June 5 (Cambodia, Guatemala, Honduras, India, Sri Lanka, Trinidad and Tobago); Jordan undertook commitments in an agreement on reciprocal trade (91 FR 47319; 47720) (1). Cambodia and Guatemala were already at 10 percent in the proposal, so five economies moved from 12.5 to 10 percent (1).
 4. **Incorrect.** USTR "determined not to remove these products from the list of exempted products" (91 FR 47330–47331) (1).
 5. **Incorrect.** Thirteen economies have economy-specific exemptions; Japan and South Korea, both net-of-MFN, are not among them (91 FR 47333) (1.5).
-6. **Partly correct.** 471 additional products (91 FR 47331); sugar only as "in-quota imports of certain sugar and sugar-containing products" (1).
+6. **Partly correct.** 471 additional products (91 FR 47331); the determinations add only "certain sugar and sugar containing products" (91 FR 47331, 47333), not all sugar. ("In-quota" appears where the notice summarizes comments; an answer that uses it is not wrong.) (1)
 7. **Incorrect.** "Maximum tariffs of 12.5 percent" (91 FR 47334) is the section 301 rate; note 52(a) adds it to the general rate and other additional duties (91 FR 47352) (1.5).
 8. **Correct** (91 FR 47321). 9. **Correct** (memorandum section 4(e), 91 FR 47723; notice part IV, 91 FR 47335). 10. **Correct** as to the Annex A product list (91 FR 47330); the proposal's wider exemptions for all section 232 goods, informational materials and donations were also narrowed (see Q9(f)), and an answer that adds this is still right. 2 points for all three; 1.5 off if any is called incorrect.
 
