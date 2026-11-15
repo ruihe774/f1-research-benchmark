@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-A benchmark for LLM agents doing policy research over a frozen snapshot of Federal Register documents about the DHS final rule ending "duration of status" for F-1 students. The agent under test answers 16 questions (Q1–Q16, 100 points) in `tasks/f1/TASK.md` using only Federal Register tools; a second LLM agent (the grader) scores the answer against a confidential key. The task is set as of 2026-11-14. Two further tasks share the harness, tools, corpus and date: `tasks/tariffs/` (15 questions on the 2026 section 338 actions against Canada and the section 301 forced-labor tariffs) and `tasks/rif/` (14 questions on OPM's 2026 reduction in force rules). See `README.md` for the full flag tables and the per-question point tables.
+The FR Research Benchmark: LLM agents do policy research over a frozen snapshot of Federal Register documents, using only Federal Register tools, and a second LLM agent (the grader) scores each answer against a confidential key. There are three tasks, all set as of 2026-11-14 and worth 100 points: `tasks/f1/` (the default; 16 questions, Q1–Q16, on the DHS final rule ending "duration of status" for F-1 students), `tasks/tariffs/` (15 questions on the 2026 section 338 actions against Canada and the section 301 forced-labor tariffs) and `tasks/rif/` (14 questions on OPM's 2026 reduction in force rules). They share the harness, tools, corpus and date. See `README.md` for the full flag tables and the per-question point tables.
 
 There is no test suite or linter. Python 3.13+, managed with `uv`.
 
@@ -18,8 +18,8 @@ uv run grader.py tasks/f1/runs/<run-id> --model <grader-model> --effort high   #
 uv run grader.py --answer file.md --task f1 --model <grader-model>   # grade an arbitrary Markdown answer
 uv run grader.py --rescore tasks/f1/runs/<run-id>/grades/<grade-id>  # recompute points from saved verdicts (no LLM call)
 uv run fr_tool.py grep 2026-14439 "within 5 months" --context 3   # tools also work as a CLI (search/doc/toc/text/grep)
-uv run analysis/theoretical_cost.py                        # writes analysis/runs_theoretical_cost.csv from pricing.csv + the F-1 run transcripts
-uv run analysis/plot_cost_vs_score.py                      # cost vs. score plot in analysis/
+uv run analysis/theoretical_cost.py [task]                 # writes analysis/<task>/runs_theoretical_cost.csv from pricing.csv + that task's run transcripts (default f1)
+uv run analysis/plot_cost_vs_score.py [task]               # cost vs. score plot and model_summary.csv in analysis/<task>/
 ```
 
 `.env` needs `OPENAI_API_KEY`; `OPENAI_BASE_URL` (the code uses the OpenAI Responses API, pointed at other providers via a base URL, with model IDs like `anthropic/claude-sonnet-5-5`) and `FR_TOOL_CACHE` are optional.

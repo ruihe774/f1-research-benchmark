@@ -1,30 +1,40 @@
-# F-1 Research Benchmark
+# FR Research Benchmark
 
-A benchmark for LLM agents doing policy research on the U.S. Federal Register. The agent plays a researcher at a university international student office. Its job is to answer 16 questions about the DHS final rule that ended "duration of status" (D/S) admission for F-1 students. The questions cover the rule's text and the proposed rules, notices and presidential documents around it. The agent gets only Federal Register search and reading tools, and its answers are graded against a confidential answer key.
+A benchmark for LLM agents doing policy research on the U.S. Federal Register. Each task casts the agent as a researcher at an organization that needs answers about a set of 2026 federal actions. The agent gets only Federal Register search and reading tools, and its answers are graded against a confidential answer key by a second LLM agent.
 
-The task states the world as of **November 14, 2026**. The 16 questions are worth 100 points in total.
-
-Two more tasks use the same harness, tools, corpus and reference date. Each is worth 100 points:
+All tasks share one harness, one frozen corpus of Federal Register documents, and one reference date, **November 14, 2026**. Each task is worth 100 points:
 
 | Task | Folder | Role and subject | Questions |
 |---|---|---|---|
-| F-1 | `tasks/f1/` (default) | International student office; the DHS rule ending duration of status | 16 |
+| F-1 | `tasks/f1/` (default) | International student office; the DHS final rule ending "duration of status" for F-1 students, with the proposed rules, notices and presidential documents around it | 16 |
 | Tariffs | `tasks/tariffs/` | Customs broker's researcher; the 2026 section 338 duties and import exclusions on Canadian products, the July 2026 section 301 forced-labor tariffs, and how both interact with section 232 and earlier duties | 15 |
 | RIF | `tasks/rif/` | Federal HR office researcher; OPM's 2026 rewrite of the reduction in force rules (5 CFR part 351), its corrections, the RIF appeals rule and related rules | 14 |
 
-The two newer tasks rest on policy changes made in 2026, so they cannot be answered from memory. They lean on what separated models on the F-1 task: computations that chain several provisions across documents, places where a preamble or recital says something different from the operative text, reviews of a worked file with planted errors and sound steps, exhaustive comparisons with a count ladder, and passages with no keyword handle.
+The tasks rest on policy changes made in 2026, so they cannot be answered from memory. The Tariffs and RIF tasks lean on what separated models on the F-1 task: computations that chain several provisions across documents, places where a preamble or recital says something different from the operative text, reviews of a worked file with planted errors and sound steps, exhaustive comparisons with a count ladder, and passages with no keyword handle.
 
 ## What it tests
 
 - Finding the governing documents in a large corpus, and reading long regulatory text closely.
-- Applying rule provisions to concrete student scenarios, with date arithmetic shown.
+- Applying rule provisions to concrete scenarios, with date and rate arithmetic shown.
 - Telling the kinds of authority apart: final rule text, preamble, commenters, proposed rules and presidential documents.
 - Flagging gaps honestly where the text is silent. TASK.md says a confident unsupported answer is worse than a flagged gap.
 - Avoiding stale or wrong sources. Some pending proposals look relevant but are not in force.
 
 ## Results
 
-![Cost vs score](analysis/cost_vs_score.png)
+Score against theoretical cost per run (log scale), one plot per task. Small points are individual runs, large points are the mean per model and effort, and the dashed line is the Pareto frontier of the means. Models far below the rest are left off the plot and named in its footnote. The per-model numbers are in `analysis/<task>/model_summary.csv`.
+
+### F-1
+
+![F-1: cost vs score](analysis/f1/cost_vs_score.png)
+
+### Tariffs
+
+![Tariffs: cost vs score](analysis/tariffs/cost_vs_score.png)
+
+### RIF
+
+![RIF: cost vs score](analysis/rif/cost_vs_score.png)
 
 ## Layout
 
@@ -40,9 +50,10 @@ The two newer tasks rest on policy changes made in 2026, so they cannot be answe
 | `harness_common.py` | Shared code: the agent loop (OpenAI Responses API), the FR function tools, transcript recording. |
 | `fr_tool.py` | The Federal Register search/read tool (`search`, `doc`, `toc`, `text`, `grep`). Standard library only. |
 | `corpus/` | Frozen snapshot of the documents (`<doc-number>.txt` plus `.json` metadata), shared by all tasks. |
-| `analysis/pricing.csv` | Per-model token prices (USD per 1M tokens), by context tier. |
-| `analysis/theoretical_cost.py` | Computes each run's theoretical cost from its transcript and `pricing.csv`; writes `analysis/runs_theoretical_cost.csv`. |
-| `analysis/` | `plot_cost_vs_score.py` plots score against cost; outputs `cost_vs_score.png` and `model_summary.csv`. |
+| `analysis/pricing.csv` | Per-model token prices (USD per 1M tokens), by context tier. Shared by all tasks. |
+| `analysis/theoretical_cost.py` | Computes each run's theoretical cost from its transcript and `pricing.csv`; writes `analysis/<task>/runs_theoretical_cost.csv`. |
+| `analysis/plot_cost_vs_score.py` | Plots score against cost; writes `analysis/<task>/cost_vs_score.png` and `model_summary.csv`. |
+| `analysis/<task>/` | Cost and plot outputs for `f1`, `tariffs` and `rif`. |
 
 ## Setup
 
@@ -104,11 +115,11 @@ Grader outputs go to `<run>/grades/<grade-id>/` (or `--out`): `transcript.json`,
 ## Cost and analysis
 
 ```bash
-uv run analysis/theoretical_cost.py      # writes analysis/runs_theoretical_cost.csv
-uv run analysis/plot_cost_vs_score.py    # writes analysis/cost_vs_score.png and model_summary.csv
+uv run analysis/theoretical_cost.py [task]     # writes analysis/<task>/runs_theoretical_cost.csv
+uv run analysis/plot_cost_vs_score.py [task]   # writes analysis/<task>/cost_vs_score.png and model_summary.csv
 ```
 
-Both scripts read the F-1 runs in `tasks/f1/runs/` only. Theoretical cost assumes every cacheable token is a cache hit and every new token (user prompt, tool results) is a miss. Prices come from `pricing.csv`, with context-size tiers where a provider has them.
+`task` is a folder under `tasks/` (default `f1`); each script reads that task's runs in `tasks/<task>/runs/`. Run the cost script first. For a run with several grades the plot uses the latest. Theoretical cost assumes every cacheable token is a cache hit and every new token (user prompt, tool results) is a miss. Prices come from `pricing.csv`, with context-size tiers where a provider has them.
 
 ## The Federal Register tools
 
@@ -203,7 +214,7 @@ RIF task (`tasks/rif/`):
 
 In both newer tasks the early questions come from drafts that two inexpensive models answered almost perfectly. They keep their criteria at a reduced weight through `criteria_points`; most of the points sit in questions with no fixed number of answers, where the agent must find discrepancies on its own and is scored on a count ladder against a verified list.
 
-Q13–Q16 were added after the first round of runs showed Q1–Q12 close to saturated for the strongest models. Q1–Q12 keep their original criteria and internal point split. Each carries `criteria_points` in `rubric.toml`, and `grader.py` scales its credits, caps and penalties to the weight above.
+In the F-1 task, Q13–Q16 were added after the first round of runs showed Q1–Q12 close to saturated for the strongest models. Q1–Q12 keep their original criteria and internal point split. Each carries `criteria_points` in `rubric.toml`, and `grader.py` scales its credits, caps and penalties to the weight above.
 
 ## Notes for maintainers
 

@@ -83,7 +83,7 @@ else:
     ax.set_xlim(df.theoretical_cost_usd.min() * 0.7, df.theoretical_cost_usd.max() * 1.6)
 ax.set_xlabel("Theoretical cost per run (USD, log scale)")
 ax.set_ylabel("Score (out of 100)")
-ax.set_title(f"{TITLES.get(TASK, TASK)} Research Benchmark: score vs. cost", loc="left", fontsize=13, weight="bold")
+ax.set_title(f"FR Research Benchmark, {TITLES.get(TASK, TASK)} task: score vs. cost", loc="left", fontsize=13, weight="bold")
 ax.grid(True, which="major", color="#e5e5e5", lw=0.8, zorder=0)
 ax.grid(True, which="minor", axis="x", color="#f1f1f1", lw=0.5, zorder=0)
 for s in ("top", "right"):
