@@ -271,7 +271,8 @@ def split_task(task_md: str) -> tuple[str, str]:
 
     The split is at the single '## Questions' heading: everything before it
     (role, tools, ground rules, answer format) is sent as the developer
-    message, and the heading onwards (Q1-Q16) as the user message. This
+    message (minus a trailing '---' divider), and the heading onwards (the
+    questions) as the user message. This
     keeps TASK.md the single source of truth; the boundary is a contract,
     so fail loudly if it moves, duplicates or loses any question.
     """
@@ -281,6 +282,7 @@ def split_task(task_md: str) -> tuple[str, str]:
                          "(found %d)" % len(markers))
     start = markers[0].start()
     developer, user = task_md[:start].strip(), task_md[start:].strip()
+    developer = re.sub(r"\n-{3,}\s*$", "", developer).rstrip()  # divider before the heading
     if not developer or not user:
         raise ValueError("'## Questions' split produced an empty developer or user part")
     if question_ids(user) != question_ids(task_md):
