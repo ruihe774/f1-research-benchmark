@@ -453,6 +453,8 @@ def request_extra_body(model: str, provider: str | None) -> dict:
         body["provider"] = {"only": [provider], "allow_fallbacks": False}
     if model.startswith("anthropic/"):
         body["cache_control"] = {"type": "ephemeral"}
+    if not model.startswith("openai/") and not model.startswith("gpt-"):
+        body["plugins"] = [{"id": "response-healing"}]
     return body
 
 
