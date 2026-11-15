@@ -1,0 +1,753 @@
+{
+  "Q1": {
+    "q1_duty_procs": {
+      "rationale": "Lists Proclamation 11046 (FR Doc 2026-14991, 91 FR 46639), 11047 (2026-14992, 91 FR 46653) and 11048 (2026-14997, 91 FR 46663), each signed July 20, 2026 and published July 23, 2026. Metadata confirmed with fr_doc for 2026-14991.",
+      "verdict": "yes"
+    },
+    "q1_details": {
+      "rationale": "Gives the correct first page for all ten documents (46639, 46653, 46663, 54789, 58311, 58319, 58325, 58331, 58339, 68861) and a one-line account of each derived from its title and subject group (impose duties on alcohol/dairy/motor vehicles; 'suspends the duties on all three groups' for 11056; exclude certain Canadian products; modify the scope). The descriptions are thin (no rate or effective date) but accurate and correctly matched to documents, which satisfies the criterion's 'correct one-line description' for at least eight of ten.",
+      "verdict": "yes"
+    },
+    "q1_delay": {
+      "rationale": "Lists 11056 (2026-17294, 91 FR 54789), signed August 18 and published August 24, 2026, but expressly says 'its effective date and time are not verified' and never states that the effective date became 12:01 a.m. ET August 22, 2026 (nor that it moved from August 19).",
+      "verdict": "no"
+    },
+    "q1_exclusions": {
+      "rationale": "Lists 11061/11062/11063 (2026-18835/-18836/-18837; 91 FR 58311, 58319, 58325) signed September 8 and published September 14, 2026, but never gives the operative time (12:01 a.m. ET September 29, 2026) or the 'imported on or after' trigger.",
+      "verdict": "no"
+    },
+    "q1_scope": {
+      "rationale": "Lists 11064, 11065 and 11076 with signing dates, but gives no operative times at all ('Effective dates and times for each are not established'), so the September 15 and October 30, 2026 times are missing.",
+      "verdict": "no"
+    },
+    "q1_events": {
+      "rationale": "The entry/withdrawal versus importation distinction is never stated; the answer says the event each document is measured against 'was not read.'",
+      "verdict": "no"
+    },
+    "q1_dairy_none": {
+      "rationale": "States 'the scope modifications touch alcoholic beverages (11064) and motor vehicles (11065, 11076)... no scope change to dairy appears in the titles', listing 11062 only among the exclusions. No dairy scope modification is attributed to any document. The hedge ('appears in the titles') makes it cautious but the substantive attribution is correct and complete.",
+      "verdict": "yes"
+    },
+    "q1_dairy_xref": {
+      "rationale": "Nothing about the 11062 clause (3) cross-reference to a nonexistent September 8 dairy scope proclamation.",
+      "verdict": "no"
+    },
+    "q1_cite": {
+      "rationale": "The few factual claims made (document numbers, citations, signing/publication dates, titles) are all tied to FR document numbers and FR first pages, so there is no substantial uncited share.",
+      "verdict": "no"
+    },
+    "q1_fab": {
+      "rationale": "No invented document numbers, pages, proclamation numbers or quotations. The FR Doc 2026-14991/2026-17294 metadata was checked with fr_doc and is accurate; the answer invents nothing, it merely declines to read.",
+      "verdict": "no"
+    }
+  },
+  "Q2": {
+    "q2a_zero": {
+      "rationale": "Says 'Not established' and gives no duty for any entry; entries 1 and 2 are never stated to owe $0.",
+      "verdict": "no"
+    },
+    "q2a_third": {
+      "rationale": "Entry 3 and the $20,000 figure are never given.",
+      "verdict": "no"
+    },
+    "q2a_basis": {
+      "rationale": "No citation to 11056 clause (1) or 91 FR 54790; the answer says it did not read 11056.",
+      "verdict": "no"
+    },
+    "q2b_chapeau": {
+      "rationale": "Part (b) is 'Not established'; the chapeau-of-Annex-II amendment and the unamended clauses are not described.",
+      "verdict": "no"
+    },
+    "q2b_resolve": {
+      "rationale": "No mention of the first sentence of 11056 clause (1) or its clause (5) supersession language as the resolution.",
+      "verdict": "no"
+    },
+    "q2c_refund": {
+      "rationale": "Part (c) is 'Not established'; 11056 clause (4) and the refund/CBP procedures text are never cited.",
+      "verdict": "no"
+    },
+    "q2d_no_action": {
+      "rationale": "No statement that no further presidential action was needed or that the 3-day suspension lapsed on August 22, 2026.",
+      "verdict": "no"
+    },
+    "q2d_reneged": {
+      "rationale": "Nothing about the August 21, 2026 reneging reported in the September 8 proclamations' recitals.",
+      "verdict": "no"
+    },
+    "q2e_thirty": {
+      "rationale": "Part (e) is 'Not established'; the 30-day rule and the July 20 + 30 days = August 19 arithmetic are missing.",
+      "verdict": "no"
+    },
+    "q2_cite": {
+      "rationale": "The handful of factual assertions (document identification and dates) carry FR document numbers and page cites; no substantial uncited share.",
+      "verdict": "no"
+    },
+    "q2_fab": {
+      "rationale": "No invented sources or quotations; the answer declines to answer rather than fabricate.",
+      "verdict": "no"
+    }
+  },
+  "Q3": {
+    "q3a_shipment_a": {
+      "rationale": "Whole of Q3 is 'Not established'; no importability or $15,000 result for shipment A.",
+      "verdict": "no"
+    },
+    "q3a_shipment_b": {
+      "rationale": "No answer for shipment B (not excluded, $15,000).",
+      "verdict": "no"
+    },
+    "q3a_shipment_c": {
+      "rationale": "No answer for shipment C.",
+      "verdict": "no"
+    },
+    "q3a_shipment_d": {
+      "rationale": "No answer for shipment D (excluded from importation).",
+      "verdict": "no"
+    },
+    "q3b_result": {
+      "rationale": "Part (b) and the foreign trade zone shipment are not addressed substantively.",
+      "verdict": "no"
+    },
+    "q3b_ftz": {
+      "rationale": "Neither 11046 clause (4) privileged foreign status nor a statement that 11061 is silent on zones is given.",
+      "verdict": "no"
+    },
+    "q3c_invalid": {
+      "rationale": "Part (c) is not answered; 11061 clause (9)(b) is not cited.",
+      "verdict": "no"
+    },
+    "q3d_no_change": {
+      "rationale": "Part (d) is not answered; 11061 clause (3) is not mentioned.",
+      "verdict": "no"
+    },
+    "q3_cite": {
+      "rationale": "Only document identifications are stated, each with an FR document number and citation; nothing substantial is uncited.",
+      "verdict": "no"
+    },
+    "q3_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q4": {
+    "q4a_amounts": {
+      "rationale": "Part (a) is 'Not established'; no section 232 ($25,000) or section 338 ($0) figures for X, Y, Z.",
+      "verdict": "no"
+    },
+    "q4a_basis": {
+      "rationale": "Clause (2) carve-out of the duty proclamations is never cited or described.",
+      "verdict": "no"
+    },
+    "q4b_x": {
+      "rationale": "No October 1 result for X.",
+      "verdict": "no"
+    },
+    "q4b_z": {
+      "rationale": "No October 1 result for Z.",
+      "verdict": "no"
+    },
+    "q4b_y": {
+      "rationale": "No October 1 result for Y (no $0 selection or discussion).",
+      "verdict": "no"
+    },
+    "q4c_text": {
+      "rationale": "Neither clause (2) nor the 11064/11065 stacking sentence with its September 15 effective time is identified.",
+      "verdict": "no"
+    },
+    "q4c_supersede": {
+      "rationale": "No discussion of how the conflict is resolved.",
+      "verdict": "no"
+    },
+    "q4c_xref": {
+      "rationale": "The 11062 clause (3) dairy cross-reference is not noted.",
+      "verdict": "no"
+    },
+    "q4c_doubt": {
+      "rationale": "No doubt or qualification about Y is stated (nothing is answered at all).",
+      "verdict": "no"
+    },
+    "q4_cite": {
+      "rationale": "The few claims (document numbers and citations) are cited; no substantial uncited share.",
+      "verdict": "no"
+    },
+    "q4_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q5": {
+    "q5a_p": {
+      "rationale": "No answers for product P at any of the five times.",
+      "verdict": "no"
+    },
+    "q5a_q": {
+      "rationale": "No answers for product Q.",
+      "verdict": "no"
+    },
+    "q5a_r": {
+      "rationale": "No answers for product R.",
+      "verdict": "no"
+    },
+    "q5a_s": {
+      "rationale": "No answers for product S.",
+      "verdict": "no"
+    },
+    "q5b_dates": {
+      "rationale": "Gives signed October 23, 2026 and published October 30, 2026, but omits the October 29 filing date and the 12:01 a.m. October 30, 2026 effective time ('its effective time... not verified').",
+      "verdict": "no"
+    },
+    "q5b_prospective": {
+      "rationale": "No statement that the scope proclamations reach only later entries and contain no refund provision.",
+      "verdict": "no"
+    },
+    "q5c_days": {
+      "rationale": "No 7-day period computed for P or S.",
+      "verdict": "no"
+    },
+    "q5c_silent": {
+      "rationale": "No discussion of the 30-day recital or of the documents' silence on how 7-day application fits it.",
+      "verdict": "no"
+    },
+    "q5_cite": {
+      "rationale": "The limited factual assertions carry FR document numbers and FR cites; no substantial uncited share.",
+      "verdict": "no"
+    },
+    "q5_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q6": {
+    "q6a_switzerland": {
+      "rationale": "Q6 is 'Not established'; no $8,500/$12,500 figures.",
+      "verdict": "no"
+    },
+    "q6a_norway": {
+      "rationale": "No Norway figure.",
+      "verdict": "no"
+    },
+    "q6a_uk": {
+      "rationale": "No UK figure.",
+      "verdict": "no"
+    },
+    "q6a_germany": {
+      "rationale": "No Germany figure.",
+      "verdict": "no"
+    },
+    "q6a_taiwan": {
+      "rationale": "No Taiwan figure.",
+      "verdict": "no"
+    },
+    "q6a_turkiye": {
+      "rationale": "No Türkiye figure.",
+      "verdict": "no"
+    },
+    "q6a_japan": {
+      "rationale": "No Japan figure.",
+      "verdict": "no"
+    },
+    "q6a_liechtenstein": {
+      "rationale": "No Liechtenstein answer ($0 / not among the 60 economies).",
+      "verdict": "no"
+    },
+    "q6a_hongkong": {
+      "rationale": "No Hong Kong figure.",
+      "verdict": "no"
+    },
+    "q6a_india": {
+      "rationale": "No India figure.",
+      "verdict": "no"
+    },
+    "q6b_germany12": {
+      "rationale": "Part (b) not answered.",
+      "verdict": "no"
+    },
+    "q6b_japan12": {
+      "rationale": "Part (b) not answered.",
+      "verdict": "no"
+    },
+    "q6b_taiwan10": {
+      "rationale": "Part (b) not answered.",
+      "verdict": "no"
+    },
+    "q6b_korea10": {
+      "rationale": "Part (b) not answered.",
+      "verdict": "no"
+    },
+    "q6b_swiss_free": {
+      "rationale": "Part (b) not answered.",
+      "verdict": "no"
+    },
+    "q6c_net": {
+      "rationale": "Part (c) not answered; no comparison with the June proposal.",
+      "verdict": "no"
+    },
+    "q6c_india": {
+      "rationale": "The India 12.5%→10% change and its stated reason are not given.",
+      "verdict": "no"
+    },
+    "q6_cite": {
+      "rationale": "Only document identifications are given, each with FR document number, citation and dates; no substantial uncited share.",
+      "verdict": "no"
+    },
+    "q6_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q7": {
+    "q7a_france": {
+      "rationale": "Q7 is 'Not established'; no $1,140 figure or 0.5% equivalent.",
+      "verdict": "no"
+    },
+    "q7b_italy": {
+      "rationale": "No Italy figure.",
+      "verdict": "no"
+    },
+    "q7b_japan": {
+      "rationale": "No Japan figure.",
+      "verdict": "no"
+    },
+    "q7b_brazil": {
+      "rationale": "No Brazil figure.",
+      "verdict": "no"
+    },
+    "q7c_taiwan": {
+      "rationale": "No Taiwan answer ($0).",
+      "verdict": "no"
+    },
+    "q7c_switzerland": {
+      "rationale": "No Switzerland figure.",
+      "verdict": "no"
+    },
+    "q7d_note": {
+      "rationale": "U.S. note 52(k) is never identified.",
+      "verdict": "no"
+    },
+    "q7d_zero": {
+      "rationale": "The zero-at-or-above-cap rule and its location are not given.",
+      "verdict": "no"
+    },
+    "q7_cite": {
+      "rationale": "The only factual statement (that the memorandum and notice were identified) carries document numbers and cites.",
+      "verdict": "no"
+    },
+    "q7_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q8": {
+    "q8a_case1": {
+      "rationale": "Cases 1-7 are not answered.",
+      "verdict": "no"
+    },
+    "q8a_case2": {
+      "rationale": "Case 2 not answered.",
+      "verdict": "no"
+    },
+    "q8a_case3": {
+      "rationale": "Case 3 not answered.",
+      "verdict": "no"
+    },
+    "q8a_case4": {
+      "rationale": "Case 4 not answered.",
+      "verdict": "no"
+    },
+    "q8a_case5": {
+      "rationale": "Case 5 not answered.",
+      "verdict": "no"
+    },
+    "q8a_case6": {
+      "rationale": "Case 6 not answered.",
+      "verdict": "no"
+    },
+    "q8a_case7": {
+      "rationale": "Case 7 not answered.",
+      "verdict": "no"
+    },
+    "q8b_where": {
+      "rationale": "The DATES line of the notice (91 FR 47318) as the location of the in-transit rule is not identified.",
+      "verdict": "no"
+    },
+    "q8c_dates": {
+      "rationale": "Gives signed July 23, 2026 and published July 28, 2026, but not the July 24, 2026 12:01 a.m. ET effective time; all three are required.",
+      "verdict": "no"
+    },
+    "q8d_july30": {
+      "rationale": "Part (d) not answered; no $10,000.",
+      "verdict": "no"
+    },
+    "q8d_aug3": {
+      "rationale": "Part (d) not answered; no $0 / July 31 effective date.",
+      "verdict": "no"
+    },
+    "q8_cite": {
+      "rationale": "The few factual statements carry document numbers and citations; no substantial uncited share.",
+      "verdict": "no"
+    },
+    "q8_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q9": {
+    "q9a_assembly": {
+      "rationale": "Q9 is 'Not established'; no $8,125 figure.",
+      "verdict": "no"
+    },
+    "q9b_repairs": {
+      "rationale": "No $750 figure.",
+      "verdict": "no"
+    },
+    "q9c_usmca": {
+      "rationale": "(c)(i) not answered.",
+      "verdict": "no"
+    },
+    "q9c_no_claim": {
+      "rationale": "(c)(ii) not answered.",
+      "verdict": "no"
+    },
+    "q9d_car": {
+      "rationale": "(d) not answered.",
+      "verdict": "no"
+    },
+    "q9e_reading": {
+      "rationale": "(e) not answered; no conclusion that the 12.5% duty applies.",
+      "verdict": "no"
+    },
+    "q9e_flag": {
+      "rationale": "No caveat of any kind on the section 232-headings question, since (e) is left unanswered.",
+      "verdict": "no"
+    },
+    "q9f_232": {
+      "rationale": "The proposal-versus-note-52(f) comparison is not made.",
+      "verdict": "no"
+    },
+    "q9f_info": {
+      "rationale": "No comparison on informational materials or donations.",
+      "verdict": "no"
+    },
+    "q9_cite": {
+      "rationale": "The two document identifications given carry FR document numbers and citations; no substantial uncited share.",
+      "verdict": "no"
+    },
+    "q9_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q10": {
+    "q10a_338": {
+      "rationale": "Scenario 1 is 'Not established'; no $0 section 338 answer for September 10.",
+      "verdict": "no"
+    },
+    "q10a_301": {
+      "rationale": "No section 301 $0 answer grounded in note 52(f)(1).",
+      "verdict": "no"
+    },
+    "q10a_total": {
+      "rationale": "No $106,000 total.",
+      "verdict": "no"
+    },
+    "q10b_338": {
+      "rationale": "No $100,000 section 338 answer for September 16.",
+      "verdict": "no"
+    },
+    "q10b_total": {
+      "rationale": "No $206,000 total.",
+      "verdict": "no"
+    },
+    "q10c_338": {
+      "rationale": "Scenario 2 (c) not answered; no $30,000.",
+      "verdict": "no"
+    },
+    "q10c_301": {
+      "rationale": "No $0 section 301 result under note 52(g) or $30,000 total.",
+      "verdict": "no"
+    },
+    "q10d_stack": {
+      "rationale": "(d) not answered; no $36,000 total.",
+      "verdict": "no"
+    },
+    "q10e_excluded": {
+      "rationale": "(e) not answered; the October 2 exclusion is not stated.",
+      "verdict": "no"
+    },
+    "q10f_ieepa": {
+      "rationale": "(f) is expressly unchecked; Executive Order 14389 and the ending of the IEEPA Canada duties are not mentioned.",
+      "verdict": "no"
+    },
+    "q10f_surcharge": {
+      "rationale": "Proclamation 11012 and the July 24, 2026 end of the section 122 surcharge are not mentioned.",
+      "verdict": "no"
+    },
+    "q10_cite": {
+      "rationale": "The document identifications carry FR document numbers and citations; no substantial uncited share.",
+      "verdict": "no"
+    },
+    "q10_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q11": {
+    "q11_valid_1": {
+      "rationale": "Item-by-item count: the submission lists no discrepancies at all ('I have no discrepancies to list'), so the total is 0 qualifying items. No item to mark counted; nothing names a key item or a document/page.",
+      "verdict": "no"
+    },
+    "q11_valid_2": {
+      "rationale": "Same total: 0 qualifying discrepancies (submission lists none); see q11_valid_1 item list.",
+      "verdict": "no"
+    },
+    "q11_valid_3": {
+      "rationale": "Total 0; see q11_valid_1.",
+      "verdict": "no"
+    },
+    "q11_valid_4": {
+      "rationale": "Total 0; see q11_valid_1.",
+      "verdict": "no"
+    },
+    "q11_valid_5": {
+      "rationale": "Total 0; see q11_valid_1.",
+      "verdict": "no"
+    },
+    "q11_valid_6": {
+      "rationale": "Total 0; see q11_valid_1.",
+      "verdict": "no"
+    },
+    "q11_valid_7": {
+      "rationale": "Total 0; see q11_valid_1.",
+      "verdict": "no"
+    },
+    "q11_valid_8": {
+      "rationale": "Total 0; see q11_valid_1.",
+      "verdict": "no"
+    },
+    "q11_valid_10": {
+      "rationale": "Total 0; see q11_valid_1.",
+      "verdict": "no"
+    },
+    "q11_valid_12": {
+      "rationale": "Total 0; see q11_valid_1.",
+      "verdict": "no"
+    },
+    "q11_cite": {
+      "rationale": "The answer asserts no factual claims about document content, only that nothing was read; the document list it gives carries FR document numbers and pages, so no citation-discipline deduction applies.",
+      "verdict": "no"
+    },
+    "q11_fab": {
+      "rationale": "Nothing invented; the answer explicitly declines to list discrepancies.",
+      "verdict": "no"
+    }
+  },
+  "Q12": {
+    "q12a": {
+      "rationale": "Q12 is 'Not established'; no Cambodia $0 or Malaysia $6,000.",
+      "verdict": "no"
+    },
+    "q12b_exempt": {
+      "rationale": "No $0 results for Malaysia and Taiwan on Boswellia.",
+      "verdict": "no"
+    },
+    "q12b_dutiable": {
+      "rationale": "No $10,000 results for Bangladesh and Argentina.",
+      "verdict": "no"
+    },
+    "q12c_taiwan": {
+      "rationale": "No Taiwan argan-oil answer ($0).",
+      "verdict": "no"
+    },
+    "q12c_japan": {
+      "rationale": "No Japan $8,500.",
+      "verdict": "no"
+    },
+    "q12c_indonesia": {
+      "rationale": "No Indonesia $10,000.",
+      "verdict": "no"
+    },
+    "q12d": {
+      "rationale": "No $0 for sesame seeds for sowing under note 52(c).",
+      "verdict": "no"
+    },
+    "q12e": {
+      "rationale": "No psyllium figures given (Cambodia $0, Thailand $5,000, El Salvador $4,000, Italy $3,200).",
+      "verdict": "no"
+    },
+    "q12_cite": {
+      "rationale": "The only factual statements are document identifications carrying FR document numbers and citations.",
+      "verdict": "no"
+    },
+    "q12_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q13": {
+    "q13a": {
+      "rationale": "Q13 is 'Not established'; no $35,000 or clause (2)(d) analysis.",
+      "verdict": "no"
+    },
+    "q13b": {
+      "rationale": "No $50,000.",
+      "verdict": "no"
+    },
+    "q13c": {
+      "rationale": "No $50,000 for a non-USMCA product.",
+      "verdict": "no"
+    },
+    "q13d": {
+      "rationale": "No $25,000 for Japan.",
+      "verdict": "no"
+    },
+    "q13e": {
+      "rationale": "No $37,500 or Commerce guidance citation.",
+      "verdict": "no"
+    },
+    "q13f": {
+      "rationale": "Part (f) not answered; neither $45,000 nor $37,500 is discussed, and the October 14, 2026 guidance date is not mentioned.",
+      "verdict": "no"
+    },
+    "q13f_flag": {
+      "rationale": "No caveat about whether U.S.-smelted aluminum counts before October 14, 2026.",
+      "verdict": "no"
+    },
+    "q13g": {
+      "rationale": "No $30,000 with the 15% minimum.",
+      "verdict": "no"
+    },
+    "q13h": {
+      "rationale": "No December 31, 2027 end date or reversion to Proclamation 11021 clause (3).",
+      "verdict": "no"
+    },
+    "q13_cite": {
+      "rationale": "The answer makes no factual claims beyond 'not established'; there is nothing uncited to penalise.",
+      "verdict": "no"
+    },
+    "q13_fab": {
+      "rationale": "No invented sources (the June section 232 proclamation is not even identified, so nothing could be fabricated about it).",
+      "verdict": "no"
+    }
+  },
+  "Q14": {
+    "q14_1_operative": {
+      "rationale": "Statement 1 is not assessed; the recital/operative distinction and memorandum section 2 are not discussed.",
+      "verdict": "no"
+    },
+    "q14_1_notice": {
+      "rationale": "No statement about the notice setting no date, the subsequent-notice mechanism or the interim 10% rate.",
+      "verdict": "no"
+    },
+    "q14_2": {
+      "rationale": "Statement 2 not assessed; no 1,600 comments / 100 witnesses figures.",
+      "verdict": "no"
+    },
+    "q14_3_jordan": {
+      "rationale": "Statement 3 not assessed; nothing about Jordan or the six banning economies.",
+      "verdict": "no"
+    },
+    "q14_3_five": {
+      "rationale": "No explanation that Cambodia and Guatemala were already at 10% in the proposal.",
+      "verdict": "no"
+    },
+    "q14_4": {
+      "rationale": "Statement 4 not assessed; the 'determined not to remove' passage is not cited.",
+      "verdict": "no"
+    },
+    "q14_5": {
+      "rationale": "Statement 5 not assessed; no identification of the thirteen economies or that Japan/Korea lack lists.",
+      "verdict": "no"
+    },
+    "q14_6": {
+      "rationale": "Statement 6 not assessed; the 471 figure and 'certain sugar' qualification are absent.",
+      "verdict": "no"
+    },
+    "q14_7": {
+      "rationale": "Statement 7 not assessed; the 'maximum tariffs of 12.5 percent' versus note 52(a) stacking point is absent.",
+      "verdict": "no"
+    },
+    "q14_ok": {
+      "rationale": "The submission does not say statements 8, 9 and 10 are correct, nor cite deciding passages for them.",
+      "verdict": "no"
+    },
+    "q14_false": {
+      "rationale": "The submission calls none of statements 8, 9 or 10 incorrect; it declines to assess them at all.",
+      "verdict": "no"
+    },
+    "q14_cite": {
+      "rationale": "The only factual matter stated is a list of identified documents with FR document numbers and citations; nothing substantial is uncited.",
+      "verdict": "no"
+    },
+    "q14_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q15": {
+    "q15_1": {
+      "rationale": "Entry dates are not analysed at all.",
+      "verdict": "no"
+    },
+    "q15_2": {
+      "rationale": "No March 6, 2025 result, in either case.",
+      "verdict": "no"
+    },
+    "q15_3": {
+      "rationale": "No March 10, 2025 results.",
+      "verdict": "no"
+    },
+    "q15_4n": {
+      "rationale": "No March 14, 2025 case N answer or Executive Order 14289 analysis.",
+      "verdict": "no"
+    },
+    "q15_4u": {
+      "rationale": "No March 14, 2025 case U answer.",
+      "verdict": "no"
+    },
+    "q15_jun3": {
+      "rationale": "No June 3, 2025 results.",
+      "verdict": "no"
+    },
+    "q15_5": {
+      "rationale": "No June 10, 2025 results.",
+      "verdict": "no"
+    },
+    "q15_6": {
+      "rationale": "No August 5, 2025 results.",
+      "verdict": "no"
+    },
+    "q15_7": {
+      "rationale": "No March 2, 2026 results or section 122 surcharge analysis.",
+      "verdict": "no"
+    },
+    "q15_8": {
+      "rationale": "No June 10, 2026 results.",
+      "verdict": "no"
+    },
+    "q15_9": {
+      "rationale": "No July 27, 2026 results or note 52(f)(1) analysis.",
+      "verdict": "no"
+    },
+    "q15_10": {
+      "rationale": "No August 25, 2026 results.",
+      "verdict": "no"
+    },
+    "q15_sep14": {
+      "rationale": "No September 14, 2026 results.",
+      "verdict": "no"
+    },
+    "q15_11": {
+      "rationale": "No September 16 or November 10, 2026 results ($100,000 in both cases).",
+      "verdict": "no"
+    },
+    "q15_cite": {
+      "rationale": "The three document identifications given carry FR document numbers, citations and dates; the answer makes no other factual claims, so there is no substantial uncited share.",
+      "verdict": "no"
+    },
+    "q15_fab": {
+      "rationale": "No invented sources; the April/June section 232 proclamations are correctly described as 'not searched' rather than misdescribed.",
+      "verdict": "no"
+    }
+  },
+  "rubric_feedback": "The submission is a near-total abstention: it returns 'Not established' for every substantive part of Q2-Q15 and lists no discrepancies in Q11, so almost all credit criteria are plainly unmet and no penalty criteria are triggered (it fabricates nothing and cites what little it asserts). The only credit it earns is identification-level: Q1's three duty proclamations, its ten correct FR first pages with title-based one-line descriptions (q1_details), and the dairy is-not-modified point (q1_dairy_none). Two rubric judgments were close: (i) q1_details credits descriptions that are essentially the documents' own titles plus the product group, with no rate or effective date - if the intent is that the description convey the operative effect (50% duty, exclusion, delay), the verdict should be 'no'; (ii) q1_dairy_none credits the statement 'no scope change to dairy appears in the titles', which is hedged rather than asserted, though the document-to-group mapping it gives is exactly right. No key errors were found; the key's and answer's identification facts match fr_doc metadata (2026-14991; 2026-17294)."
+}

@@ -1,0 +1,153 @@
+## Q1
+
+**Answer:**
+Not established. My Federal Register searches failed on invalid arguments, so I could not identify the 2026 final rule, its proposal, its corrections, or any other 2026 part 351 final rule. (a) Final rule: not identified. (b) Proposed rule: not identified. (c) Corrections: none identified. (d) Coverage: not established. (e) Other 2026 part 351 final rules: none identified.
+
+**Basis:**
+No Federal Register document was retrieved. The only tool results were two fr_search validation errors (missing required fields pres_type, until, docket, rin, cfr, significant, order, page, brief).
+
+**Uncertainty:**
+Everything in this answer is unverified. I have not read any 2026 rule text, so I cannot give document numbers, page ranges, dates, dockets or RINs without inventing them, and I have not done so.
+
+## Q2
+
+**Answer:**
+Not determined. (a) Performance credits, preference points and totals are not computed because the governing rule text was not read. (b) Retention order and the two released employees are not determined. (c) Comparison of Bianchi and Abbott under the earlier rules is not established. (d) Entitlement to see other employees' scores is not established.
+
+**Basis:**
+No Federal Register text was read for the RIF retention provisions, the preference point provisions, or the rating-of-record and cutoff provisions that these questions depend on.
+
+**Uncertainty:**
+The answer depends entirely on the 2026 final rule text and on the earlier rules as the 2026 documents describe them. Neither was read.
+
+## Q3
+
+**Answer:**
+Not determined. (a) Preference eligibility, points and subgroup for employees A to E are not established. (b) SCD for A and C is not computed. (c) The role of veterans' preference subgroups in retention order is not established.
+
+**Basis:**
+No provisions defining preference eligibility, retired members, subgroups or SCD adjustments were retrieved.
+
+**Uncertainty:**
+Requires the 2026 final rule text, which was not retrieved.
+
+## Q4
+
+**Answer:**
+Not determined. (a) to (e): performance credits, the cutoff-date calculation, the treatment of the late-entered rating, Gina's credit and Hank's credit are all unresolved.
+
+**Basis:**
+No cutoff, rating-of-record, or performance credit provisions were read.
+
+**Uncertainty:**
+Requires the final rule text and its preamble on the four-year period, the cutoff date, and rating-of-record treatment. Not retrieved.
+
+## Q5
+
+**Answer:**
+Not determined. (a) Who is released under each notice date is not established. (b) Whether standing is recalculated after the amended notice is not established. (c) The governing events for the rule version, the four-year period, and tenure subgroup and standing are not identified with citations.
+
+**Basis:**
+No provisions were read.
+
+**Uncertainty:**
+Requires the final rule text and the earlier rules as described in the 2026 documents. Not retrieved.
+
+## Q6
+
+**Answer:**
+Not determined. (a) to (d): assignment rights and offers for positions 1 to 7 under the variant facts are not established. (e) What the 2026 documents say about bumping and retreating, and whether a Level 2 rating bars a position, is not established.
+
+**Basis:**
+No assignment-right, qualification, or rating provisions were read.
+
+**Uncertainty:**
+Requires the final rule text, including its assignment and offer provisions, and any preamble statements on bumping and retreating. Not retrieved.
+
+## Q7
+
+**Answer:**
+Not determined. (a) to (g): the appeal body, filing deadline, counting, hearing rights, negotiated grievance treatment, judicial review, OSC-related appeal timing, and the provision that decides between the two effective-date scenarios are not established.
+
+**Basis:**
+No MSPB or OPM appeal provisions were read. The MSPB 2026 RIF appeal rule was not retrieved.
+
+**Uncertainty:**
+The deadline computation needs the exact appeal-timing text and the Federal Register rules on appeals, which were not retrieved.
+
+## Q8
+
+**Answer:**
+Not determined. (a) The text of 5 CFR 351.806 in force today and any adopted but not yet effective version is not established. (b) to (d): consent, leave limits, OPM's pre-effective-date guidance, and effects on retention, notice and appeal rights are not established.
+
+**Basis:**
+No 5 CFR 351.806 text or companion leave provision was retrieved.
+
+**Uncertainty:**
+Requires the 2026 final rule and any companion leave rule, including their effective dates.
+
+## Q9
+
+**Answer:**
+Not determined. The ten-plus steps listed in the write-up could not be checked against any rule text.
+
+**Basis:**
+No provisions on competitive areas, probationary and supervisory-probation tenure, cutoff dates, presumed ratings, quality-step credit, tie-breaking, temporary promotions, qualification, self-rating, temporary retention exceptions, or appeal notice were read.
+
+**Uncertainty:**
+Each step requires the governing 2026 rule text and any preamble passages. None were retrieved, so I cannot say which steps comply.
+
+## Q10
+
+**Answer:**
+Not determined. (a) The text of paragraph (1) of the 5 CFR 330.602 displaced definition on September 10, 2026 is not established. (b) The date, document and reason for the change are not established. (c) Displacement under the changed definition is not established.
+
+**Basis:**
+No 5 CFR 330.602 text or change document was retrieved.
+
+**Uncertainty:**
+Requires the Federal Register documents amending 330.602 in 2026, which were not retrieved.
+
+## Q11
+
+**Answer:**
+Not determined. No differences between the proposed and final part 351 text have been listed.
+
+**Basis:**
+Neither the proposed rule nor the final rule text was retrieved.
+
+**Uncertainty:**
+The comparison cannot be made without both texts.
+
+## Q12
+
+**Answer:**
+Not determined. (a) The GS-13 retention register is not built. (b) to (d): the three releases, the offers, and the separations are not determined.
+
+**Basis:**
+No provisions on performance credit, rating-of-record counting, leave-without-pay gaps, probationary employees, preference points, or assignment rights were read.
+
+**Uncertainty:**
+Requires the 2026 final rule text and the interval-progression and Part 353 provisions. Not retrieved.
+
+## Q13
+
+**Answer:**
+Not compiled. No preamble-versus-text discrepancies in the main final rule were identified.
+
+**Basis:**
+The main final rule was not retrieved, so its preamble and amendatory text were not compared.
+
+**Uncertainty:**
+A complete list requires reading the final rule's preamble and amendatory instructions side by side.
+
+## Q14
+
+**Answer:**
+Not compiled. No discrepancies among the OPM appeals rule, its correction, its proposal and the MSPB 2026 RIF appeal rule have been identified.
+
+**Basis:**
+None of these documents was retrieved.
+
+**Uncertainty:**
+Requires reading the four documents. Nothing listed here has been checked against the text, so none is offered.

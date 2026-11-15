@@ -1,0 +1,335 @@
+## Q1
+
+**Answer:**
+(a) **Reduction in Force**, FR Doc. 2026-15665, 91 FR 49178–49227, published August 3, 2026, effective September 2, 2026; docket OPM-2025-0107; RIN 3206-AO86.
+
+(b) **Reduction in Force**, proposed rule, FR Doc. 2026-04377, 91 FR 10904–10934, published March 5, 2026.
+
+(c) Two corrections to the main rule were published through November 14:
+- FR Doc. 2026-17335, published August 25, effective September 2, 2026, 91 FR 54794–54796: corrects amendatory instructions, cross-references, list structures and other clerical errors across the affected parts.
+- FR Doc. 2026-18800, published and effective September 15, 2026, 91 FR 58363–58364: restores two inadvertently removed paragraphs of the CTAP definition of “displaced.”
+
+(d) A RIF for which the agency issued the notice **before September 2** is processed under the regulations in effect when the notice was issued. A RIF with a notice issued **on or after September 2** uses the amended rules. The transition appears in the main rule’s DATES section and implementation discussion, not in a separate part 351 applicability paragraph. [2026-15665, 91 FR 49178, 49206–49207.]
+
+(e) The other qualifying 2026 final rules are:
+- **2026-15666**, Reduction in Force Appeals: revises RIF appeal notice content and replaces part 351, subpart I with an OPM appeal process; effective September 2; in force today. [91 FR 49230, 49263–49267.]
+- **2026-21316**, Managing Senior Professional Performance: revises the rating-of-record definition and performance-credit references to accommodate senior-professional appraisal provisions; effective November 18; not yet in force today. [91 FR 65904, 65916–65917.]
+- **2026-21320**, Administrative Leave for Workforce Realignment and Other Purposes: revises § 351.806 on status and administrative leave during a RIF notice period; effective November 18; not yet in force today. [91 FR 65924, 65939.]
+
+**Basis:**
+Identification and dates: FR Docs. 2026-15665, 2026-04377, 2026-17335, 2026-18800, 2026-15666, 2026-21316 and 2026-21320. The July performance-appraisal rule, 2026-13715, amended part 351 but became effective August 6, before the main rule, so it does not meet part (e)’s effective-date condition.
+
+**Uncertainty:**
+The transition rule in (d) is stated in the DATES section and preamble rather than as a separate codified applicability paragraph.
+
+## Q2
+
+**Answer:**
+(a) Using Level 5 = 7, Level 4 = 5, Level 3 = 3, and Level 2 = 0:
+
+| Employee | Performance credit | Preference points | Total |
+|---|---:|---:|---:|
+| Abbott | 7 + 5 + 5 = 17 | 0 | 17 |
+| Bianchi | 5 + 0 + 3 = 8 | 5 | 13 |
+| Castillo | 7 + 5 + 5 = 17 | 0 | 17 |
+| Dalton | 7 + 0 + (7 + 0)/2 = 10.5 | 3 | 13.5 |
+| Eze | 5 + 5 + 5 = 15 | 0 | 15 |
+| Fontaine | 5 × 3 = 15 | 0 | 15 |
+
+Castillo’s length-of-service retirement after 22 active years, rank and absence of disability do not satisfy the retired-member preference conditions. Eze’s four-year term appointment is not the excluded temporary appointment of one year or less; Eze is in competitive-service tenure subgroup II. [2026-15665, §§ 351.202(d), 351.502(a)(3), 351.503(a), (f)(2)–(3), 351.504(a)–(b), 91 FR 49218, 49220–49222.]
+
+(b) Highest to lowest: **Abbott, Castillo, Fontaine, Eze, Dalton, Bianchi**. Abbott and Castillo tie at 17 in subgroup I; Abbott’s earlier SCD wins. Fontaine and Eze tie at 15; Fontaine’s subgroup I beats Eze’s subgroup II, so their SCDs do not decide that tie. The two released from the level are Bianchi and Dalton. [§§ 351.501, 351.502, 351.601(c), 2026-15665.]
+
+(c) Under the earlier system as described by OPM, Bianchi would stand **above** Abbott: both are career employees, but Bianchi’s AD preference subgroup came before Abbott’s B subgroup within the tenure group, before adjusted service dates were compared. [2026-15665, 91 FR 49198, 49201–49202.]
+
+(d) Bianchi may inspect completed records used in her RIF action, including the complete applicable retention register, all names on it, and relevant retention information, plus applicable registers for other positions affecting her level or assignment rights. Access is subject to FOIA and Privacy Act requirements. The final text expressly names **her** performance credit and SCD; see the uncertainty below about other employees’ scores. [§ 351.506(b)–(e), 2026-15665, as corrected by 2026-17335, 91 FR 54795.]
+
+**Basis:**
+Final regulatory text: 5 CFR 351.501–.506 and 351.601(c), 2026-15665, 91 FR 49220–49223; correction 2026-17335. The earlier ordering is OPM’s preamble description, not reproduced earlier regulatory text.
+
+**Uncertainty:**
+Section 351.506(c)(1) requires a **complete** register and says it is for evaluating relative standing, but its examples expressly say “the employee’s” credit and SCD, unlike the proposal’s “their.” That supports inspection of the complete register, but does not unambiguously enumerate every other employee’s individual score or underlying ratings as separately disclosable. Disclosure remains subject to the stated legal limits.
+
+## Q3
+
+**Answer:**
+(a) On the stated retirement facts:
+
+| Employee | RIF preference eligible? | Points; register subgroup | Deciding text |
+|---|---|---|---|
+| A | No | 0; B | 22-year length-of-service retirement meets none of § 351.504(b)(1)–(3); also not a disabled veteran under (b)(4). |
+| B | No | 0; B | Disability alone is insufficient: the 21-year length-of-service retirement meets none of (b)(1)–(3), which (b)(4) also requires. |
+| C | Yes | 5; AD | Armed-conflict disability retirement satisfies (b)(1)(i); as a disabled major, C also satisfies (b)(4). The 60% disability satisfies (a)(1). |
+| D | No | 0; B | The 24-year length-of-service retirement meets none of (b)(1)–(3). |
+| E | Yes | 3; A | Retired pay is not based on 20 or more years of full-time active service, (b)(2); the disability is below 30%, so (a)(2) applies. |
+
+[§ 351.504(a)–(b), 2026-15665, 91 FR 49222.]
+
+(b) Assuming A’s other 20 years do not include additional qualifying wartime or badge service, A’s SCD is September 7, 2010 − 2 years = **September 7, 2008**. C is a RIF preference eligible, so all 14 years of active service are creditable: September 7, 2010 − 14 years = **September 7, 1996**, assuming those 14 years were active service. [§ 351.505(b)(2), (d)(2), 2026-15665, 91 FR 49222.]
+
+(c) AD, A and B identify preference status on the register and correspond to 5, 3 and 0 points. They do **not** independently rank all AD employees above A or B employees. The augmented score controls within the tenure group; ties are resolved by tenure subgroup and then SCD. [§§ 351.501, 351.504(a), 2026-15665, 91 FR 49220, 49222.]
+
+**Basis:**
+5 CFR 351.501, 351.504(a)–(b), and 351.505(b), (d), FR Doc. 2026-15665.
+
+**Uncertainty:**
+For A’s exact SCD, the facts establish two badge-campaign years but do not expressly rule out other service during a war or another qualifying campaign. Such additional service would move the SCD earlier. C’s date assumes all 14 years were active service. The classifications also assume the stated disability facts establish the relevant statutory disabled-veteran status.
+
+## Q4
+
+**Answer:**
+(a) Without a cutoff, the three most recent ratings in the four-year lookback are Level 3, Level 3 and Level 5: **3 + 3 + 7 = 13**. [§ 351.503(a), (c)(1), 2026-15665.]
+
+(b) September 3 minus 45 calendar days is **July 20, 2026**. The three most recent ratings received in the preceding four years are November 2023 Level 4, November 2024 Level 3 and November 2025 Level 3: **5 + 3 + 3 = 11**. The August 2026 rating is after the cutoff. [§ 351.503(c)(2), 2026-15665.]
+
+(c) **No.** Although signed and given to the employee July 15, the rating was not available to the register-building office until August 15, after the July 20 cutoff. Section 351.503(c)(3) requires both issuance with reviews and signatures **and** availability on record; paragraph (c)(2) excludes new ratings put on record after the cutoff. [2026-15665, 91 FR 49221.]
+
+(d) The August 15, 2022 Level 5 is outside the four years before September 3, 2026. The two usable ratings are Level 4 and Level 3: proxy = (5 + 3)/2 = 4; credit = **5 + 3 + 4 = 12**. [§ 351.503(c)(1), (f)(2), 2026-15665.]
+
+(e) Hank’s credit must be **based on the modal rating** for the summary-level pattern applying to his position. His former organization’s ratings are not treated as ratings of record, and no modal rating or distribution is supplied, so a numeric credit cannot be calculated from the scenario. [§ 351.503(b)(3), (f)(1), 2026-15665, 91 FR 49221–49222.]
+
+**Basis:**
+5 CFR 351.503(a), (b)(3), (c)(1)–(3), and (f), FR Doc. 2026-15665, 91 FR 49220–49222.
+
+**Uncertainty:**
+For (e), § 351.503(f)(1) refers to the modal-rating definition in § 351.203, which the main rule does not print or revise. The printed provision does not expressly state a three-slot multiplication for a person with no rating, unlike the express proxy methods for one or two ratings. A three-times-modal-value calculation is a plausible analogy, but cannot be presented as an expressly printed rule here.
+
+## Q5
+
+**Answer:**
+(a) **(i) August 28 notice:** the earlier rules apply despite the October 27 RIF effective date. OPM describes three Level 3 ratings as 12 years of performance service credit and three Level 5 ratings as 20 years. Lee’s adjusted SCD is March 2, 1998 − 12 years = **March 2, 1986**; Park’s is July 8, 2019 − 20 years = **July 8, 1999**. In the same earlier tenure and preference categories, Lee’s earlier adjusted SCD ranks first, so **Park is released**. [2026-15665, 91 FR 49186, 49198, 49207.]
+
+**(ii) September 2 notice:** the amended rules apply. Lee = 3 + 3 + 3 = **9**; Park = 7 + 7 + 7 = **21**. **Lee is released**.
+
+**(iii) September 3 notice:** the same calculation and result as (ii): **Lee is released**. [§§ 351.501, 351.503(a), 2026-15665.]
+
+(b) **No recalculation solely because of the delay.** A notice amended only to state a later effective date is not a new specific notice for § 351.507, and does not require recalculation. Lee’s October 15 rating does not change the standing fixed on receipt of the September 3 notice. An actual error in the original determination must still be corrected. [§§ 351.507(a), (c), 351.805(b), 2026-15665, 91 FR 49223, 49226.]
+
+(c) Version of rules: **issuance of the RIF notice**, under the DATES and implementation passages. End of the four-year ratings period: **issuance of the RIF notices**, or an agency-established earlier cutoff. Tenure subgroup and the released employee’s retention standing: **receipt of the specific RIF notice**. [2026-15665, 91 FR 49178, 49207; §§ 351.502(a), 351.503(c)(1)–(2), 351.507(a).]
+
+**Basis:**
+FR Doc. 2026-15665, 91 FR 49178, 49186, 49198, 49207, and 5 CFR 351.501–.503, .507 and .805(b). The earlier-rule calculation uses OPM’s preamble explanation.
+
+**Uncertainty:**
+The complete earlier regulatory text is not printed in the identified 2026 documents; the earlier result is based on OPM’s stated credit values and ordering for employees in the same earlier tenure and preference categories.
+
+## Q6
+
+**Answer:**
+(a) Jordan has assignment rights to **1, 2 and 3**, subject to their representative rates: they are qualified, full-time, same-area positions held by lower-standing employees within three one-grade intervals of GS-13. The agency must offer **1, GS-12**, because it entails the least reduction in representative rate. Position 4, GS-9, is four grades below and outside the ordinary three-grade limit. Position 5 is held by a higher-standing employee; 6 has a different work schedule; and 7 is in a different competitive area. [§ 351.701(a), (b), (d), 2026-15665, 91 FR 49225.]
+
+(b) If Jordan is a preference eligible with a compensable disability of at least 30%, the limit is five grades, so position **4 also becomes available**. The agency still offers the qualifying position requiring the least reduction, ordinarily position 1 here. [§ 351.701(a), (b)(2).]
+
+(c) With a current Level 1 rating, Jordan does **not** meet § 351.701(a)’s Level 2-or-higher threshold for these mandatory competitive-service assignment rights. [2026-15665, 91 FR 49225.]
+
+(d) In the excepted service, § 351.701 does not itself confer the mandatory competitive-service right. The agency **may**, by policy, provide competing excepted-service employees rights on the same basis to positions under the same appointing authority. Whether it has done so and whether that authority matches are not stated. [§ 351.705(a), 2026-15665, 91 FR 49226.]
+
+(e) OPM’s preamble says it removed the old Level 2 restriction against assignment to a position held by a higher-rated employee. The new printed rule instead requires the holder to have **lower overall retention standing**. OPM also says the separate bumping and retreating concepts are replaced by the single lower-standing comparison. [2026-15665, 91 FR 49204; § 351.701(a)–(b), 91 FR 49225.]
+
+**Basis:**
+5 CFR 351.701(a)–(b), (d) and 351.705(a), FR Doc. 2026-15665; preamble, 91 FR 49204.
+
+**Uncertainty:**
+The answer assumes the GS-12 position has the highest applicable representative rate among the listed available positions. Other agency-specific or separately authorized placement possibilities are not established by the printed provisions.
+
+## Q7
+
+**Answer:**
+(a) **MSPB**, under OPM’s notice-date transition and the Board’s express statement that it will accept RIF appeals where the notice was issued before September 2, 2026. The October 30 separation date is after that date, however, and the Board’s rule also uses action/effective-date language; the tension is noted below. [2026-15666, 91 FR 49230, 49233, 49248; 2026-16456, 91 FR 51997–51998.]
+
+(b) **OPM.** Morgan must use the electronic filing system identified on OPM’s website, unless OPM approves an alternative for good cause. Counting starts December 19: the 30th day after Friday, December 18 is Sunday, January 17, 2027. Monday, January 18 is the Federal holiday, so the period extends to **Tuesday, January 19, 2027, at 11:59 p.m. Eastern Time**. [§ 351.902(a), (b)(1), 2026-15666, 91 FR 49264.]
+
+(c) By a preponderance, she must prove timely filing, OPM jurisdiction, failure to comply with an applicable RIF statute or OPM regulation, and prejudice: the failure caused the appealed action or loss of a materially more favorable outcome. There is **no hearing as of right**; OPM may hold one when necessary and efficient under the stated material-fact or credibility standard. [§§ 351.901(b), 351.905(c), 2026-15666.]
+
+(d) The regulatory text bars raising a part 351 RIF action or a matter relating to its appeal under a negotiated grievance procedure or grievance arbitration. The preamble separately says the rule does not retroactively invalidate existing CBAs or automatically vitiate them mid-term, and leaves particular existing-agreement disputes to the appropriate chapter 71 forum. [§ 351.901(c)(2), 2026-15666, 91 FR 49263; preamble, 91 FR 49245.]
+
+(e) The rule expressly says a party **cannot obtain judicial review** of an OPM decision under this subpart. That is the rule’s stated position; this memo does not resolve the independent legal validity of that restriction. [§ 351.901(c)(4), 2026-15666, 91 FR 49264.]
+
+(f) **Potentially yes.** The timely OSC matter is within an enumerated independent forum, and a final decision materially changing retention standing can open a new 30-day RIF-appeal period. If March 10, 2027 is the date the decision became final and no longer subject to administrative review, days 1–21 are March 11–31 and days 22–30 are April 1–9: the deadline is **Friday, April 9, 2027, 11:59 p.m. Eastern Time**. OPM determines material effect in its sole discretion. [§ 351.902(b)(3), as corrected by 2026-17338; 91 FR 49264, 54796.]
+
+(g) The transition is in the appeals rule’s **DATES section**, 2026-15666, 91 FR 49230: it applies only where the specific notice under § 351.802 was issued on or after September 2. The section-by-section discussion expressly says the applicability provision is in the preamble, not a separate note in § 351.901. [91 FR 49248.]
+
+**Basis:**
+FR Docs. 2026-15666, 2026-17338 and 2026-16456; 5 CFR 351.901, .902, .905, and the appeals rule’s DATES section.
+
+**Uncertainty:**
+In (a), the Board’s DATES and effective-date discussion also refer to RIF actions taken or effective before September 2, while its RIF-specific discussion expressly accepts cases with pre-effective-date notices. OPM’s transition and the Board’s specific notice-date statement support MSPB for these facts, but the Board’s wording is not entirely consistent. In (d), the absolute regulatory bar and the preamble’s treatment of existing agreements create a textual tension. In (f), the result assumes the OSC decision is final on March 10 and OPM finds the required material effect.
+
+## Q8
+
+**Answer:**
+(a) **In force November 14:** OPM describes the existing § 351.806 as directing that an employee remain in duty status during the notice period “when possible.” The Federal Register passages available here do not reproduce the entire existing version. [2026-13073, proposed-rule preamble, 91 FR 39034; 2026-21320, final-rule preamble, 91 FR 65926, 65933.]
+
+**Adopted, effective November 18:** revised § 351.806(a) says that, “under ordinary circumstances,” the employee remains in duty status. Paragraph (b) permits agency-determined appropriate administrative leave for all or part of the notice period, consistent with part 630, subpart N. Paragraph (c) addresses emergency lack of work or funds: annual leave with or without consent, leave without pay with consent, or nonpay status without consent. [2026-21320, 91 FR 65939.]
+
+(b) The adopted administrative-leave text does **not require employee consent**. Section 351.806(b) permits all or part of the notice period; companion § 630.1403(c)(10) limits the example to the period between RIF-notice receipt and involuntary separation and requires an agency determination that leave is in the Government’s best interests. Neither paragraph states a separate numeric cap. General leave principles and applicable policies still matter. [2026-21320, 91 FR 65939–65940.]
+
+(c) OPM says its existing Agency Policy Template, CPM 2025-12, already allowed an authorized agency official to provide administrative leave between receipt of an involuntary-separation notice and separation. That is OPM’s **preamble description of prior policy**, not the new regulatory text. [2026-21320, 91 FR 65926.]
+
+(d) No change is made to RIF retention, notice or appeal rights by the leave provision. OPM says the provisions address paid nonduty status only and do not bypass RIF competition, registers or appeals. [2026-21320, 91 FR 65926.]
+
+**Basis:**
+FR Docs. 2026-13073 and 2026-21320; adopted 5 CFR 351.806 and 630.1403(c)(10), effective November 18, 2026.
+
+**Uncertainty:**
+The pre-November-18 regulatory text is not printed in full in the located documents. OPM also describes a generally applicable 12-week workforce-realignment policy limit, subject to joint OPM/OMB approval of a higher threshold, but expressly incorporates Governmentwide limits in § 630.1403(c)(9) and (11), not in (c)(10). The documents do not clearly resolve whether that policy limit applies to this involuntary RIF-notice use; it should not be treated as a numeric limit printed in (c)(10). [2026-21320, 91 FR 65926–65927, 65935, 65940.]
+
+## Q9
+
+**Answer:**
+The October 13 notice invokes the amended retention and appeals rules. [2026-15665, 91 FR 49207; 2026-15666, 91 FR 49230.]
+
+1. **Not in order.** August 17 to October 13 is 57 days. Because the area was established within 90 days before notices, the agency had to submit a description and written bona fide organizational basis to OPM for advance approval. Organizational-chart status and the designee’s approval do not replace that requirement. The designee must also meet the headquarters-level restriction, and the unit must meet the distinct-operation criteria. [§ 351.402(b)–(c), 2026-15665, 91 FR 49220.]
+2. **In order on these facts.** Novak is a career-conditional employee serving initial probation and is not a competing employee; the agency may retain her while releasing a competitor, subject to appointment terms and law. [§ 351.202(d)(2)–(3).]
+3. **Not in order.** Supervisory probation is not initial probation. Ortiz is a competing career employee and must be ranked in subgroup I. [§§ 351.203, definition of initial probationary period, and 351.502(a)(2); 2026-15665, 91 FR 49191, 49219–49220; correction 2026-17335.]
+4. **Not in order.** October 13 minus 30 days is September 13. Pruitt’s October 2 rating was put on record after the cutoff and cannot be used; rating treatment must also be uniform and consistent in the area. [§ 351.503(c)(2)–(4).]
+5. **Not in order.** The missing value is (7 + 5)/2 = 6, not a presumed Level 3. Credit is **7 + 5 + 6 = 18**. [§ 351.503(f)(2).]
+6. **Not in order.** With a single five-level pattern, the single-pattern additional-points permission is limited to systems whose highest summary level is Level 3. A written policy does not extend it to this five-level pattern. [§ 351.503(d).]
+7. **In order.** After equal augmented scores, tenure subgroup and SCD, the agency may select any tied employee for release. [§ 351.601(c).]
+8. **Not in order.** An agency may not release a competitor while retaining in the level an employee on a specifically limited temporary or term promotion. [§ 351.602(a).]
+9. **In order as to the assessment exception.** Silva occupied the same position and received a qualifying Level 4 rating for it during the five years ending at notice receipt. A new assessment under § 351.702(a)(4) is not required; the other qualification requirements still apply. [§ 351.702(a)(4)(v).]
+10. **Not in order.** The required assessment must permit demonstration of job-related skills, be based on a job analysis, and not consist solely of or principally rely on an automated self-assessment. [§ 351.702(a)(4)(i)–(iii).]
+11. **Not in order.** Temporary exceptions cannot be sequenced or stacked. The agency may use one applicable exception, selecting the longest if more than one is justified; undue-interruption and general-other exceptions each have a maximum of 90 days. An exception over 30 days also requires the specified written notice and register entry. [§ 351.608(a)(3)–(4), (b), (g).]
+12. **Not in order.** The notices must state, as applicable, the right to appeal to OPM, the filing time limit and the electronic filing system, not MSPB for this notice-date cohort. [§ 351.802(a)(6), 2026-15666, 91 FR 49263; DATES, 91 FR 49230.]
+
+**Basis:**
+Unless otherwise identified, the cited part 351 provisions are final text in FR Doc. 2026-15665, 91 FR 49218–49226, as corrected by 2026-17335. Appeals notice text is in 2026-15666.
+
+**Uncertainty:**
+Step 1 does not establish whether the designee is at headquarters level or whether Tulsa is distinct in all required operational respects. Step 9 excuses the specified assessment, not every other qualification inquiry.
+
+## Q10
+
+**Answer:**
+(a) On September 10, paragraph (1) contained only the introductory phrase: a current competitive-service employee in the competitive-service tenure group at GS-15 or equivalent or below, or another OPM-determined qualifying appointment, “who:”. The main rule’s instruction revised paragraph (1) while printing only that introduction, thereby removing subparagraphs (i) and (ii). [2026-15665, 91 FR 49217; 2026-18800, 91 FR 58363.]
+
+(b) Effective **September 15, 2026**, FR Doc. **2026-18800** restored (1)(i) and (ii). OPM characterized the correction as non-substantive and said notice and comment were unnecessary because it restored text previously in effect that OPM had neither proposed nor discussed removing; it invoked good cause for immediate effectiveness as well. [91 FR 58363–58364.]
+
+(c) After correction, declining the lower-rate full-time offer does **not** defeat Nadia’s displaced status under (1)(i), assuming the other stated conditions hold. Declining an offer with the **same** representative rate and work-schedule type does defeat that paragraph’s condition, because the offer is “at least as high” as her current rate. [§ 330.602, definition of displaced, (1)(i), 2026-18800, 91 FR 58363.]
+
+**Basis:**
+5 CFR 330.602, definition of “displaced,” as first revised by FR Doc. 2026-15665 and corrected by FR Doc. 2026-18800.
+
+**Uncertainty:**
+The answer in (a) states the effect of the published amendatory instruction, as OPM itself explained in the correction; it does not assume the omitted text remained in force contrary to that explanation.
+
+## Q11
+
+**Answer:**
+The following are substantive or cross-reference differences I found in the **printed part 351 amendments**, comparing proposed 2026-04377 with final 2026-15665. Where a correction changed the published final text, it is identified separately.
+
+1. **Part 351 authority:** the proposal cited 5 U.S.C. 1302, 3502 and 3503; the published final added 5 U.S.C. 2301 and 38 U.S.C. 4331. Correction 2026-17335 also added 5 U.S.C. 1103 and 1104. [91 FR 10926, 49218, 54795.]
+2. **§ 351.202(d):** the proposal made listed employees outside part 351, specified notice-issuance timing for probation/trial categories, included a competitive-service temporary **or term** appointment of one year or less under part 316, subpart C or D, and allowed action without regard to part 351. The final calls them noncompeting, limits the short competitive-service appointment exclusion to temporary appointments under subpart D, requires appointment-law consistency, and adds modified notice requirements for specified actions other than natural expiration. [91 FR 10926, 49218.]
+3. **§ 351.203, furlough:** the proposal additionally required an unknown shutdown duration to depend entirely on congressional rather than agency action; the final omits that condition. The final adds the **restoration protected employee** definition, absent from the proposal. The rating-of-record cross-reference changes from § 430.208(d) to (e). [91 FR 10927, 49218–49219.]
+4. **§ 351.203, initial probationary period and trial period:** the proposal referred to §§ 11.2 and 11.3 “of this chapter”; the initially published final said “of this part.” Correction 2026-17335 restores “chapter.” The correction also clarifies the military-spouse definition. [91 FR 10927, 49219, 54795.]
+5. **§ 351.204:** the final adds that administration and application must be consistent with applicable laws, including merit system principles; the proposal did not include that clause. [91 FR 10927, 49219.]
+6. **§ 351.302(d):** the proposal required part 752 procedures for a transfer decliner. The final qualifies this with “if applicable” and adds other procedures required by law, regulation or appointment terms. [91 FR 10927, 49219.]
+7. **§ 351.402(c):** the proposal printed only revised paragraph (b); the final also revises (c), requiring OPM approval and a written organizational basis when an area is established or materially modified within 90 days before notices, and availability of the specified descriptions and explanations. The proposal does not print the then-existing (c), so its precise prior wording cannot be compared here. [91 FR 10927–10928, 49220.]
+8. **§ 351.502(a)(2)–(3), (b)(2)–(3):** the proposal measured subgroup status at notice **issuance**; the final uses employee **receipt**. For competitive subgroup II, the proposal excluded temporary or time-limited appointments of one year or less under part 316, subpart C or D; the final specifies a temporary appointment of one year or less under subpart D. [91 FR 10928, 49220.]
+9. **§ 351.503(a)(1), (d), (e):** cross-references to the summary-level patterns change from § 430.208(d) to (e). The Level 2 description changes from “minimally successful” to “minimally satisfactory.” The final identifies the former pattern-D and other named pattern authorizations as those in effect before the July 2026 appraisal rule. Correction 2026-17335 changes final (b)(2)’s calculation reference from § 351.501 to § 351.503(a); the proposal and initially published final had referred to § 351.501. [91 FR 10928–10929, 49220–49221, 54795.]
+10. **§ 351.504(a)(1)–(3):** the proposal said employees **should** be identified in AD, A or B; the final says they **must** be identified. [91 FR 10930, 49222.]
+11. **§ 351.505(b)(2):** the proposal referred to a retired member covered by § 351.503(b); the final refers to § 351.504(b). [91 FR 10930, 49222.]
+12. **§ 351.506(c)(1), (d):** the proposal’s register example referred to other employees’ names, **their** augmented credits and **their** SCDs. The final retains other names but says **the employee’s** credit and SCD. The final also expressly preserves other statutory or regulatory access rights for employees without a specific notice. Correction 2026-17335 narrows (c)(2)’s assignment-right example from § 351.701(b) and (c) to (b). [91 FR 10930–10931, 49222–49223, 54795.]
+13. **§ 351.604:** the proposal would revise furlough criteria in (b) and remove (d); the final does not adopt those amendments. The earlier text is not printed, so this comparison does not reconstruct it. [91 FR 10931; 2026-15665, 91 FR 49202.]
+14. **§ 351.605:** the proposal puts the notice and no-assignment-right instructions in (b). The final reorganizes them into (c) and (d), expressly requires written notice under § 351.801, and states the modified notice and register treatment in greater detail. [91 FR 10931, 49223.]
+15. **§ 351.606(a):** the proposal gave restoration priority when applying § 351.601 and cited § 351.209(b). The final cites § 353.209(b), applies the exception also to § 351.605, and adds detailed ordinary-standing, release, reassignment, placement-assistance and documentation provisions. [91 FR 10931, 49223–49224.]
+16. **§ 351.608(a)(2):** the proposal cited the CTAP as part 330, **subpart E**; the final cites **subpart F**. [91 FR 10932, 49224.]
+17. **§ 351.701(a):** the proposal called Level 2 “minimally successful”; the final calls it “minimally satisfactory.” [91 FR 10933, 49225.]
+18. **§ 351.702(a)(4)(iii), (v):** the proposal barred sole or principal reliance on “a self-assessment from an automated examination”; the final bars an “automated self-assessment.” The final adds the five-year prior-successful-performance exception to administering an assessment. Correction 2026-17335 restructures (iv)’s list. [91 FR 10933–10934, 49226, 54795.]
+19. **§ 351.802(a):** the final adds introductory text. In (a)(2), proposed “veteran status” becomes “veterans’ preference subgroup”; in (a)(3), the proposal required a link and **access** to records, whereas the final requires a link and **information on how to access** them. [91 FR 10934, 49226; corrected instruction, 91 FR 54796.]
+20. **§ 351.805(b):** absent from the proposal’s amendments, the final adds the later-effective-date amended-notice rule, including no required recalculation and preservation of error correction. [91 FR 49226.]
+
+Differences solely of punctuation, capitalization or citation presentation are omitted.
+
+**Basis:**
+Proposed amendatory text: FR Doc. 2026-04377, 91 FR 10926–10934. Final amendatory text: FR Doc. 2026-15665, 91 FR 49218–49226. Corrections: FR Doc. 2026-17335, 91 FR 54795–54796.
+
+**Uncertainty:**
+This is a list of differences found, not a guarantee that no other difference exists. A proposed or final rule that does not print a preexisting paragraph does not establish that paragraph’s complete text; in particular, the proposal’s omission of amended § 351.402(c) and the final’s omission of proposed § 351.604 do not establish the earlier wording.
+
+## Q12
+
+**Answer:**
+(a) The notice-date four-year period excludes Chen’s September 30, 2022 rating. Estrada’s October 20, 2026 rating is after notice issuance and does not alter standing fixed at receipt. [§§ 351.503(c)(1), 351.507(a), 2026-15665.]
+
+| Rank | Employee | Performance calculation | Preference | Total; tenure |
+|---:|---|---:|---:|---|
+| 1 | Alvarez | 7 + 7 + 5 = 19 | 0 | 19; I |
+| 2 | Chen | 7 + 5 + (7 + 5)/2 = 18 | 0 | 18; I |
+| 3 | Dube | 5 + 5 + (5 + 5)/2 = 15 | 3 | 18; II |
+| 4 | Estrada | 5 + 3 + 5 = 13 | 3 | 16; I |
+| 5 | Brandt | 3 + 5 + 0 = 8 | 5 | 13; I |
+| 6 | Farouk | 3 × 3 = 9 | 0 | 9; I |
+
+Chen beats Dube’s equal total because subgroup I precedes II. Quinn is not on the competing register: she is career-conditional and still in initial probation. [§§ 351.202(d)(2), 351.501–.504, 2026-15665, 91 FR 49218, 49220–49222.]
+
+(b) **Brandt, Estrada and Dube** are released. Quinn may be retained outside competition. Farouk is ordinarily last but is within the one-year post-restoration protection following more than 180 days’ uniformed service; the agency must pass over him while another competitor can be released. It then releases the next three lowest competitors. [§§ 351.202(d)(3), 351.606(a)(1)–(2), 2026-15665; preamble, 91 FR 49203.]
+
+(c) The other holders’ augmented credits are Gomez **7 + 5 + 5 = 17**, Hill **5 + 3 + 3 + 3 = 14**, Jones **5 + 5 + 5 = 15**, and Ikeda **3 + 3 + 3 = 9**. All are subgroup I.
+- **Dube, 18:** offer Gomez’s **GS-12**; Gomez is lower-standing and it has the least reduction. Dube is qualified; lower grades are not preferred over it.
+- **Estrada, 16:** Gomez at 17 is higher-standing, but Hill at 14 is lower-standing. Offer **GS-11**; it has less reduction than the lower eligible GS-10 or GS-9 alternatives. Once Dube occupies GS-12, Dube is also higher-standing than Estrada.
+- **Brandt, 13:** Gomez 17, Hill 14 and Jones 15 are higher-standing. Ikeda 9 is lower-standing. Offer **GS-9**, four one-grade intervals below GS-13, within Brandt’s five-grade disability preference limit.
+
+All three meet the current Level 2-or-higher condition on the ratings available at notice. [§ 351.701(a)–(b), (d), 2026-15665, 91 FR 49225.]
+
+(d) If all three accept, **Gomez, Hill and Ikeda** are displaced and separated, assuming no other applicable placement or exception. Each is qualified only for the position already held and therefore has no stated qualification for another assignment. Jones remains. [§ 351.701(a)–(b), 2026-15665.]
+
+**Basis:**
+5 CFR 351.202(d), 351.501–.504, 351.507, 351.606(a), and 351.701, FR Doc. 2026-15665, 91 FR 49218–49225; USERRA protection explanation, 91 FR 49203.
+
+**Uncertainty:**
+The printed mandatory-assignment provision and stated qualifications support the identified displacement chain; separately authorized placement or exceptions not supplied in the scenario could affect ultimate agency separation. The answer assumes ordinary GS representative-rate ordering for the listed positions.
+
+## Q13
+
+**Answer:**
+The following are checked differences between OPM’s **preamble statements** and the same main final rule’s amendatory instructions or regulatory text. They are not differences from the proposal.
+
+1. **Excluded employees and RIF procedures.** The executive summary says listed probationary, trial and short-term employees can be retained or acted on “without using RIF procedures” (91 FR 49178). Section 351.202(d)(4) nevertheless requires a modified written RIF notice for specified actions other than natural expiration (91 FR 49218). The preamble states that notice requirement correctly at 91 FR 49191 and 49193. [2026-15665.]
+2. **Event fixing standing.** The preamble says standing is frozen when the notice is **issued** (91 FR 49185); § 351.507(a) fixes the released employee’s standing when the employee **receives** the specific notice (91 FR 49223). The preamble states receipt correctly at 91 FR 49202. [2026-15665.]
+3. **Competitive-area timing.** The summary describes an area in effect **less than 90 days**, “or” one materially modified, as requiring submission (91 FR 49179). Section 351.402(c) covers establishment **or material modification within 90 days before issuance**, and requires advance OPM approval (91 FR 49220). Other preamble passages also use “less than 90 days,” while 91 FR 49196 identifies advance approval and modification. The printed language differs at the boundary and in how the summary attaches the period to modification. [2026-15665.]
+4. **Short term appointments.** The subgroup-II discussion refers to a “temporary or term appointment of 1 year or less” (91 FR 49196); final § 351.502(a)(3) refers to a **temporary** appointment of one year or less under part 316, subpart D (91 FR 49220). The preamble correctly describes the narrowed exclusion at 91 FR 49191. [2026-15665.]
+5. **Assessment lookback.** The executive summary describes the prior-position exception as holding the position “within five years of the RIF” (91 FR 49178). Section 351.702(a)(4)(v) measures the five years ending when the employee **receives the specific notice**, not the RIF effective date (91 FR 49226). The section analysis states receipt correctly at 91 FR 49204. [2026-15665.]
+6. **Transfer decliner paragraph.** The preamble says § 351.302(b) is being revised to govern procedures for separating a decliner (91 FR 49195). The final places that rule in **§ 351.302(d)**; (b) concerns functions terminated within 60 days (91 FR 49219). The same preamble passage correctly describes (b)’s termination subject before misidentifying the decliner paragraph. [2026-15665.]
+7. **Ordering after enhanced performance.** The multiple-pattern discussion says employees with ratings above the lower system’s maximum may be listed ahead of **any** employee without documented exceptional performance (91 FR 49198). Section 351.503(e)(3) authorizes more **performance credit before veterans’ preference**; the final ranking under § 351.501 uses the augmented score and tie-breakers (91 FR 49220–49222). The preamble correctly describes augmented-score ordering at 91 FR 49196. [2026-15665.]
+8. **Order-of-retention description.** One description lists tenure, performance, veterans’ preference and SCD as separate successive factors, omitting tenure subgroup (91 FR 49200). Section 351.501 combines performance and preference points, then uses tenure subgroup and SCD to break ties (91 FR 49220). The preceding final-rule table and 91 FR 49196 state the combined-score and subgroup approach correctly. [2026-15665.]
+9. **Abolishment notice paragraph.** The notice discussion attributes modified notice for an abolished area to § 351.605(b) (91 FR 49205); the final places the notice in **§ 351.605(c)** (91 FR 49223). The preamble identifies (c) correctly at 91 FR 49202. [2026-15665.]
+10. **Assignment paragraph (d).** The preamble says OPM is “eliminating § 351.701(d)” in removing the old Level 2 restriction (91 FR 49204). The printed final replaces the whole section and contains a new **§ 351.701(d)** on grade progression (91 FR 49225). The old restriction is removed, but the paragraph designation itself is retained for different content. [2026-15665.]
+11. **Administrative assignment amendatory instruction.** The preamble says it eliminates old § 351.705 flexibilities and retains and renumbers former (c) (91 FR 49204). The instruction actually says only **revise § 351.705(a)** and prints that paragraph; it does not direct removal or renumbering of (b) or (c) (91 FR 49226). This comparison concerns the express scope of the instruction, not an inference about unprinted paragraphs. [2026-15665.]
+12. **Uniformed-service paragraph.** The preamble says it is revising **§ 353.301(b)** to describe uniformed-service retention protections (91 FR 49206). The instructions revise **§ 353.209(a)** for uniformed-service protection and **§ 353.301(a)** for compensable-injury restoration (91 FR 49226–49227). The preamble identifies § 353.209(a) correctly at 91 FR 49203. [2026-15665.]
+
+**Basis:**
+FR Doc. 2026-15665, with the page-specific preamble and final-text citations in each item. The correction to § 351.203 is FR Doc. 2026-17335.
+
+**Uncertainty:**
+Item 3’s treatment of an event exactly 90 days before notice depends on how “within 90 days” is applied; the point reported is the difference in printed language. Item 11 does not determine the content or ultimate legal effect of unprinted preexisting paragraphs. No claim of a discrepancy is made merely because the final text is silent.
+
+## Q14
+
+**Answer:**
+**(i) Appeals-rule preamble versus regulatory text**
+
+1. **Scope of exclusivity.** The preamble says § 351.901(c)(1) makes procedures in **part 351** exclusive (2026-15666, 91 FR 49248). The published text also said “part,” but correction 2026-17338 changes it to **subpart** (91 FR 54796). The preamble was not corrected in that document.
+2. **Protective-order filing.** The preamble says a requester **must** file through the prescribed e-filing procedures (2026-15666, 91 FR 49251). Section 351.906(a) says the requester **should** file using those procedures, while requiring the supporting statement and evidence (91 FR 49266).
+3. **E-filing registration.** The section analysis says parties and representatives may not electronically file or access materials unless registered (2026-15666, 91 FR 49249). Section 351.902(c)(2) expressly adds “or exempted” under (c)(7) for good cause (91 FR 49264). The preamble later describes the good-cause exemption on the same page.
+4. **Protected information.** The preamble identifies “protected personnel information” as a public-posting limit (2026-15666, 91 FR 49232, 49253). The correction changes § 351.909(f) from that phrase to “protected **personal** information” (2026-17338, 91 FR 54796; originally 91 FR 49267).
+5. **Existing agreements.** Section 351.901(c)(2) categorically bars covered RIF actions and matters relating to their appeal from negotiated grievance procedures or arbitration (2026-15666, 91 FR 49263). The preamble says OPM does not adopt automatic mid-term vitiation of existing CBAs and leaves particular existing-agreement disputes to the appropriate forum (91 FR 49245). These statements create a practical tension for a new covered RIF under an existing agreement; the preamble also correctly states the regulatory bar at 91 FR 49248.
+
+**(ii) Proposal-to-final changes not acknowledged as changes in the opening summary**
+
+6. **MSPB notice cross-reference.** Proposed § 351.802(a)(6) required compliance with § 1201.21; the final removes that cross-reference and instead specifies OPM filing information (2026-02576, 91 FR 5874; 2026-15666, 91 FR 49263). The opening summary describes the added filing information but not the removal; the later section analysis expressly acknowledges it at 91 FR 49247–49248.
+7. **FLRA in the collateral-forum list.** Proposed § 351.901(c) expressly listed the Federal Labor Relations Authority among forums whose jurisdiction was preserved; final § 351.901(c)(3) does not list it (2026-02576, 91 FR 5875; 2026-15666, 91 FR 49264). The opening summary lists the final forums without identifying that deletion. The deletion alone does not establish that independent FLRA jurisdiction was extinguished.
+8. **Supersession clause.** The proposal said the exclusive procedures “shall supersede any appeal procedures found in agency policies or collective bargaining agreements”; the final deletes that express clause and instead adds the stated grievance/arbitration bar (2026-02576, 91 FR 5875; 2026-15666, 91 FR 49263). The opening summary acknowledges the added bar but not the deleted supersession wording.
+9. **E-filing exemption in registration rule.** Proposed § 351.902(c)(2) conditioned electronic filing or access on registration; the final adds the express good-cause-exemption alternative (2026-02576, 91 FR 5875; 2026-15666, 91 FR 49264). The proposal already contained a separate exemption paragraph; the change is to the cross-reference and condition in (c)(2).
+10. **Sanctions discretion and limit.** Proposed § 351.906(b) said OPM **shall** impose the listed consequences, except when prohibited by law; final (b) says **may**. Final (c) adds that sanctions must be proportionate, causally related and no broader than necessary (2026-02576, 91 FR 5876; 2026-15666, 91 FR 49266). The opening summary discusses narrowing protective-order authority, but does not identify these changes to sanctions.
+11. **Other action during fact ascertainment.** Proposed § 351.905(c) allowed a hearing “or any other appropriate action” necessary and efficient and directed party participation; the final written-record exception refers to a **hearing**, alongside separately specified authority to request information and conduct audits or investigations (2026-02576, 91 FR 5876; 2026-15666, 91 FR 49265–49266). The opening summary describes tightened audits and hearings but not removal of that catch-all wording.
+
+**(iii) Board transition language**
+
+12. OPM’s DATES section makes its appeals rule turn on a specific RIF **notice issued on or after September 2** (2026-15666, 91 FR 49230). The Board’s RIF-specific discussion says it will accept cases where the **notice was issued before** that date, but also parenthetically describes the cases outside OPM’s rule as those where RIF **actions were taken before** the effective date (2026-16456, 91 FR 51997). The Board’s DATES section uses actions taken before the effective date, and its effective-date discussion specifically promises to adjudicate later-filed appeals where the **RIF effective date** preceded September 2 (91 FR 51997–51998). A pre-September 2 notice followed by a post-September 2 separation exposes the difference. The Board’s RIF-specific notice statement agrees with OPM; its other action/effective-date formulations are narrower or differently keyed.
+
+**Basis:**
+OPM final appeals rule FR Doc. 2026-15666, 91 FR 49230–49267; correction 2026-17338, 91 FR 54796; proposal 2026-02576, 91 FR 5874–5877; Board rule 2026-16456, 91 FR 51997–51998.
+
+**Uncertainty:**
+Item 5 is a tension rather than a definitive resolution of the effect of a particular existing CBA. In item 12, the Board’s effective-date passage expressly promises to hear one class of appeals; it does not expressly say that class is exclusive. The notice-date statement and OPM’s transition provide the stronger specific guidance for a notice issued before September 2.

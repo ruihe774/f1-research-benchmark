@@ -1,0 +1,647 @@
+{
+  "Q1": {
+    "q1a_rule": {
+      "rationale": "Q1 answer: 'Not established. No Federal Register document was retrieved... (a) Not established.' No document number, citation, dates, docket or RIN given.",
+      "verdict": "no"
+    },
+    "q1b_nprm": {
+      "rationale": "(b) 'Not established'; no proposed-rule document number, citation or publication date.",
+      "verdict": "no"
+    },
+    "q1c_first": {
+      "rationale": "(c) 'Not established; I cannot confirm that no corrections exist.' FR Doc. 2026-17335 is not mentioned.",
+      "verdict": "no"
+    },
+    "q1c_second": {
+      "rationale": "(c) The correcting amendment 2026-18800 and the 330.602 'displaced' restoration are not mentioned.",
+      "verdict": "no"
+    },
+    "q1d_applicability": {
+      "rationale": "(d) 'Not established.' No statement of the notice-date test or of where it is stated.",
+      "verdict": "no"
+    },
+    "q1e_appeals": {
+      "rationale": "(e) 'Not established.' FR Doc. 2026-15666 is not listed.",
+      "verdict": "no"
+    },
+    "q1e_leave": {
+      "rationale": "(e) FR Doc. 2026-21320, 351.806 and the November 18, 2026 effective date are not given.",
+      "verdict": "no"
+    },
+    "q1e_senior": {
+      "rationale": "(e) FR Doc. 2026-21316 and its 351.203/351.503 amendments with the November 18, 2026 effective date are not given.",
+      "verdict": "no"
+    },
+    "q1_cite": {
+      "rationale": "The answer makes no factual claims about the documents at all, so there is no uncited body of claims to penalise; the failure is captured by the credit criteria.",
+      "verdict": "no"
+    },
+    "q1_fab": {
+      "rationale": "No document numbers, citations, quotations or provisions are asserted, so nothing is fabricated.",
+      "verdict": "no"
+    }
+  },
+  "Q2": {
+    "q2a_abbott": {
+      "rationale": "(a) 'Performance credit, veterans' preference points and totals cannot be computed'; no figure for Abbott.",
+      "verdict": "no"
+    },
+    "q2a_bianchi": {
+      "rationale": "No credit, points or total for Bianchi.",
+      "verdict": "no"
+    },
+    "q2a_castillo": {
+      "rationale": "No credit, points or total for Castillo; the 351.504(b) retired-member analysis is absent.",
+      "verdict": "no"
+    },
+    "q2a_dalton": {
+      "rationale": "No proxy value, credit or total for Dalton.",
+      "verdict": "no"
+    },
+    "q2a_eze": {
+      "rationale": "No total and no tenure subgroup for Eze.",
+      "verdict": "no"
+    },
+    "q2a_fontaine": {
+      "rationale": "No credit for Fontaine.",
+      "verdict": "no"
+    },
+    "q2b_order": {
+      "rationale": "(b) 'Retention order and the two released employees cannot be confirmed.'",
+      "verdict": "no"
+    },
+    "q2b_released": {
+      "rationale": "No released employees named.",
+      "verdict": "no"
+    },
+    "q2c_old": {
+      "rationale": "(c) 'Comparison with the earlier rules cannot be confirmed.'",
+      "verdict": "no"
+    },
+    "q2d_records": {
+      "rationale": "(d) 'What Bianchi may see cannot be confirmed.'",
+      "verdict": "no"
+    },
+    "q2_cite": {
+      "rationale": "No factual claims to penalise for missing citations; the omission is captured by the credit criteria.",
+      "verdict": "no"
+    },
+    "q2_fab": {
+      "rationale": "No sources, citations or quotations are asserted.",
+      "verdict": "no"
+    }
+  },
+  "Q3": {
+    "q3a_case_a": {
+      "rationale": "(a) 'Preference eligibility, preference points and subgroup for employees A through E cannot be determined.'",
+      "verdict": "no"
+    },
+    "q3a_case_b": {
+      "rationale": "No determination for case B.",
+      "verdict": "no"
+    },
+    "q3a_case_c": {
+      "rationale": "No determination for case C.",
+      "verdict": "no"
+    },
+    "q3a_case_d": {
+      "rationale": "No determination for case D.",
+      "verdict": "no"
+    },
+    "q3a_case_e": {
+      "rationale": "No determination for case E.",
+      "verdict": "no"
+    },
+    "q3b_scd_a": {
+      "rationale": "(b) 'SCD for A and C cannot be computed.' No September 7, 2008 date.",
+      "verdict": "no"
+    },
+    "q3b_scd_c": {
+      "rationale": "No September 7, 1996 date or 351.505(b)(2)(ii) analysis.",
+      "verdict": "no"
+    },
+    "q3c_labels": {
+      "rationale": "(c) 'The role of subgroups in retention order cannot be confirmed.'",
+      "verdict": "no"
+    },
+    "q3_cite": {
+      "rationale": "No factual claims made, so no citation-discipline deduction applies.",
+      "verdict": "no"
+    },
+    "q3_fab": {
+      "rationale": "No sources or quotations are asserted.",
+      "verdict": "no"
+    }
+  },
+  "Q4": {
+    "q4a_farah": {
+      "rationale": "(a) 'Not established'; no credit figure.",
+      "verdict": "no"
+    },
+    "q4b_cutoff_date": {
+      "rationale": "(b) No July 20, 2026 cutoff date.",
+      "verdict": "no"
+    },
+    "q4b_credit": {
+      "rationale": "No credit figure under the cutoff.",
+      "verdict": "no"
+    },
+    "q4c_not_on_record": {
+      "rationale": "(c) 'The treatment of late-entered ratings... depend on the rule text I did not read'; no answer.",
+      "verdict": "no"
+    },
+    "q4d_gina": {
+      "rationale": "(d) No credit figure for Gina.",
+      "verdict": "no"
+    },
+    "q4e_modal": {
+      "rationale": "(e) No reference to the modal rating in 351.203 or to 351.503(f)(1).",
+      "verdict": "no"
+    },
+    "q4e_flag": {
+      "rationale": "The answer gives no discussion of the modal-rating gap (no formula, definition not printed, modal level unstated); a blanket 'not established' does not identify any of these specific gaps.",
+      "verdict": "no"
+    },
+    "q4_cite": {
+      "rationale": "No factual claims to penalise.",
+      "verdict": "no"
+    },
+    "q4_fab": {
+      "rationale": "No sources asserted.",
+      "verdict": "no"
+    }
+  },
+  "Q5": {
+    "q5a_i_rules": {
+      "rationale": "(a) 'Which employee is released under each notice date cannot be determined'; the pre-September 2 test is not stated.",
+      "verdict": "no"
+    },
+    "q5a_i_result": {
+      "rationale": "No result and no 12/20-year arithmetic.",
+      "verdict": "no"
+    },
+    "q5a_ii": {
+      "rationale": "No answer for the September 2, 2026 notice.",
+      "verdict": "no"
+    },
+    "q5a_iii": {
+      "rationale": "No answer for the September 3, 2026 notice.",
+      "verdict": "no"
+    },
+    "q5b_no_recalc": {
+      "rationale": "(b) 'Whether standing is recalculated ... cannot be confirmed'; no 351.805(b) citation.",
+      "verdict": "no"
+    },
+    "q5c_version": {
+      "rationale": "(c) 'The fixing events and their provisions cannot be named.'",
+      "verdict": "no"
+    },
+    "q5c_window": {
+      "rationale": "No statement of the four-year window's end.",
+      "verdict": "no"
+    },
+    "q5c_standing": {
+      "rationale": "No statement that tenure subgroup and standing are fixed on receipt of the notice.",
+      "verdict": "no"
+    },
+    "q5_cite": {
+      "rationale": "No factual claims to penalise.",
+      "verdict": "no"
+    },
+    "q5_fab": {
+      "rationale": "No sources asserted.",
+      "verdict": "no"
+    }
+  },
+  "Q6": {
+    "q6a_reach": {
+      "rationale": "(a) 'Which positions give Jordan an assignment right cannot be determined.'",
+      "verdict": "no"
+    },
+    "q6a_offer": {
+      "rationale": "No offer position identified.",
+      "verdict": "no"
+    },
+    "q6b_five": {
+      "rationale": "(b) 'Changes for preference ... cannot be confirmed.'",
+      "verdict": "no"
+    },
+    "q6c_level1": {
+      "rationale": "(c) No statement about a Level 1 rating and 351.701(a).",
+      "verdict": "no"
+    },
+    "q6d_excepted": {
+      "rationale": "(d) No statement about 351.705(a) discretion in the excepted service.",
+      "verdict": "no"
+    },
+    "q6e_level2": {
+      "rationale": "(e) 'What the 2026 documents say about bumping and retreating cannot be confirmed.'",
+      "verdict": "no"
+    },
+    "q6e_bump": {
+      "rationale": "No statement on the consolidation of bumping and retreating.",
+      "verdict": "no"
+    },
+    "q6_cite": {
+      "rationale": "No factual claims to penalise.",
+      "verdict": "no"
+    },
+    "q6_fab": {
+      "rationale": "No sources asserted.",
+      "verdict": "no"
+    }
+  },
+  "Q7": {
+    "q7a_mspb": {
+      "rationale": "(a) 'The appellate body ... cannot be answered'; no conclusion that MSPB hears it.",
+      "verdict": "no"
+    },
+    "q7a_board_rule": {
+      "rationale": "FR Doc. 2026-16456 is not cited; the answer says 'The MSPB 2026 RIF appeal rule ... were not located.'",
+      "verdict": "no"
+    },
+    "q7b_opm": {
+      "rationale": "(b) No statement that OPM hears the appeal.",
+      "verdict": "no"
+    },
+    "q7b_count": {
+      "rationale": "No counting of the 30-day period.",
+      "verdict": "no"
+    },
+    "q7b_date": {
+      "rationale": "No last-day date given.",
+      "verdict": "no"
+    },
+    "q7b_efile": {
+      "rationale": "No statement on electronic filing or 11:59 p.m. Eastern.",
+      "verdict": "no"
+    },
+    "q7c_burden": {
+      "rationale": "(c) No burden-of-proof statement.",
+      "verdict": "no"
+    },
+    "q7c_hearing": {
+      "rationale": "No statement on hearing entitlement under 351.905(c).",
+      "verdict": "no"
+    },
+    "q7d_text": {
+      "rationale": "(d) No statement on the negotiated grievance procedure bar.",
+      "verdict": "no"
+    },
+    "q7d_flag": {
+      "rationale": "No mention of the preamble's position on existing collective bargaining agreements.",
+      "verdict": "no"
+    },
+    "q7e_court": {
+      "rationale": "(e) No answer on judicial review.",
+      "verdict": "no"
+    },
+    "q7f_tolling": {
+      "rationale": "(f) No answer on the OSC tolling rule or April 9, 2027.",
+      "verdict": "no"
+    },
+    "q7g_where": {
+      "rationale": "(g) 'The provision that decides between the two regimes' is not located.",
+      "verdict": "no"
+    },
+    "q7_cite": {
+      "rationale": "No factual claims to penalise.",
+      "verdict": "no"
+    },
+    "q7_fab": {
+      "rationale": "No sources asserted.",
+      "verdict": "no"
+    }
+  },
+  "Q8": {
+    "q8a_adopted": {
+      "rationale": "(a) 'Current and adopted text of 5 CFR 351.806 cannot be quoted or dated'; FR Doc. 2026-21320 not identified.",
+      "verdict": "no"
+    },
+    "q8a_new_text": {
+      "rationale": "No adopted text given.",
+      "verdict": "no"
+    },
+    "q8a_today": {
+      "rationale": "No statement of the 'when possible' duty-status rule.",
+      "verdict": "no"
+    },
+    "q8b_consent": {
+      "rationale": "(b) 'Consent and duration limits ... cannot be confirmed.'",
+      "verdict": "no"
+    },
+    "q8b_cap": {
+      "rationale": "No statement about the absence of a numeric cap under 630.1403(c)(10).",
+      "verdict": "no"
+    },
+    "q8b_12wk": {
+      "rationale": "No discussion of the 12-week limit.",
+      "verdict": "no"
+    },
+    "q8b_flag": {
+      "rationale": "No flag of cap uncertainty; nothing on the 12-week limit or (c)(10) is discussed.",
+      "verdict": "no"
+    },
+    "q8c_guidance": {
+      "rationale": "(c) 'OPM's pre-adoption statement ... cannot be confirmed.'",
+      "verdict": "no"
+    },
+    "q8d_no_effect": {
+      "rationale": "(d) No answer on the effect of administrative leave on standing, notice or appeal rights.",
+      "verdict": "no"
+    },
+    "q8_cite": {
+      "rationale": "No factual claims to penalise.",
+      "verdict": "no"
+    },
+    "q8_fab": {
+      "rationale": "No sources asserted.",
+      "verdict": "no"
+    }
+  },
+  "Q9": {
+    "q9_s1": {
+      "rationale": "Step 1: answer says 'None of the twelve steps has been checked'; no finding of non-compliance.",
+      "verdict": "no"
+    },
+    "q9_s3": {
+      "rationale": "Step 3 not analysed; no supervisory-probation point.",
+      "verdict": "no"
+    },
+    "q9_s4": {
+      "rationale": "Step 4 not analysed; no cutoff or uniformity finding.",
+      "verdict": "no"
+    },
+    "q9_s5": {
+      "rationale": "Step 5 not analysed; no proxy=6 / 18 figure.",
+      "verdict": "no"
+    },
+    "q9_s6": {
+      "rationale": "Step 6 not analysed; no 351.503(d) finding.",
+      "verdict": "no"
+    },
+    "q9_s8": {
+      "rationale": "Step 8 not analysed; no 351.602(a) finding.",
+      "verdict": "no"
+    },
+    "q9_s10": {
+      "rationale": "Step 10 not analysed; no 351.702(a)(4) finding.",
+      "verdict": "no"
+    },
+    "q9_s11": {
+      "rationale": "Step 11 not analysed; no no-stacking finding.",
+      "verdict": "no"
+    },
+    "q9_s12": {
+      "rationale": "Step 12 not analysed; no statement that appeals go to OPM.",
+      "verdict": "no"
+    },
+    "q9_ok": {
+      "rationale": "No statement that steps 2, 7 and 9 are in order, with no provisions given.",
+      "verdict": "no"
+    },
+    "q9_false2": {
+      "rationale": "The answer does not call step 2 a violation; it declines to judge all steps.",
+      "verdict": "no"
+    },
+    "q9_false7": {
+      "rationale": "The answer does not call step 7 a violation.",
+      "verdict": "no"
+    },
+    "q9_false9": {
+      "rationale": "The answer does not call step 9 a violation.",
+      "verdict": "no"
+    },
+    "q9_cite": {
+      "rationale": "No factual claims to penalise.",
+      "verdict": "no"
+    },
+    "q9_fab": {
+      "rationale": "No sources asserted.",
+      "verdict": "no"
+    }
+  },
+  "Q10": {
+    "q10a_gap": {
+      "rationale": "(a) 'The text of paragraph (1) ... cannot be quoted'; no statement about the missing (1)(i) and (1)(ii).",
+      "verdict": "no"
+    },
+    "q10b_doc": {
+      "rationale": "(b) FR Doc. 2026-18800 is not identified.",
+      "verdict": "no"
+    },
+    "q10b_reason": {
+      "rationale": "No good-cause reasoning given.",
+      "verdict": "no"
+    },
+    "q10c_lower": {
+      "rationale": "(c) 'Whether Nadia is displaced after the change cannot be determined.'",
+      "verdict": "no"
+    },
+    "q10c_same": {
+      "rationale": "No answer for the same-representative-rate case.",
+      "verdict": "no"
+    },
+    "q10_cite": {
+      "rationale": "No factual claims to penalise.",
+      "verdict": "no"
+    },
+    "q10_fab": {
+      "rationale": "No sources asserted.",
+      "verdict": "no"
+    }
+  },
+  "Q11": {
+    "q11_valid_10": {
+      "rationale": "No differences listed at all; count = 0 valid differences.",
+      "verdict": "no"
+    },
+    "q11_valid_16": {
+      "rationale": "Same total: 0 valid differences.",
+      "verdict": "no"
+    },
+    "q11_valid_22": {
+      "rationale": "Same total: 0 valid differences.",
+      "verdict": "no"
+    },
+    "q11_valid_28": {
+      "rationale": "Same total: 0 valid differences.",
+      "verdict": "no"
+    },
+    "q11_valid_34": {
+      "rationale": "Same total: 0 valid differences.",
+      "verdict": "no"
+    },
+    "q11_deep": {
+      "rationale": "None of the deep differences stated.",
+      "verdict": "no"
+    },
+    "q11_cite": {
+      "rationale": "No factual claims to penalise.",
+      "verdict": "no"
+    },
+    "q11_fab": {
+      "rationale": "No sources asserted.",
+      "verdict": "no"
+    }
+  },
+  "Q12": {
+    "q12_quinn": {
+      "rationale": "(a) 'The register ... depend on rule text I did not read'; no treatment of Quinn.",
+      "verdict": "no"
+    },
+    "q12_ab": {
+      "rationale": "No totals for Alvarez or Brandt.",
+      "verdict": "no"
+    },
+    "q12_chen": {
+      "rationale": "No total for Chen.",
+      "verdict": "no"
+    },
+    "q12_dube": {
+      "rationale": "No total for Dube.",
+      "verdict": "no"
+    },
+    "q12_estrada": {
+      "rationale": "No total for Estrada.",
+      "verdict": "no"
+    },
+    "q12_farouk_score": {
+      "rationale": "No score for Farouk.",
+      "verdict": "no"
+    },
+    "q12_tie": {
+      "rationale": "No order of retention or tie analysis.",
+      "verdict": "no"
+    },
+    "q12_protect": {
+      "rationale": "(b) The restoration protection of Farouk is not discussed; only listed as an open item.",
+      "verdict": "no"
+    },
+    "q12_released": {
+      "rationale": "No released employees named.",
+      "verdict": "no"
+    },
+    "q12_assign_dube": {
+      "rationale": "(c) No offer identified for Dube.",
+      "verdict": "no"
+    },
+    "q12_assign_estrada": {
+      "rationale": "No offer identified for Estrada.",
+      "verdict": "no"
+    },
+    "q12_assign_brandt": {
+      "rationale": "No offer identified for Brandt; no five-grade point.",
+      "verdict": "no"
+    },
+    "q12_final": {
+      "rationale": "(d) No separated employees named.",
+      "verdict": "no"
+    },
+    "q12_cite": {
+      "rationale": "No factual claims to penalise.",
+      "verdict": "no"
+    },
+    "q12_fab": {
+      "rationale": "No sources asserted.",
+      "verdict": "no"
+    }
+  },
+  "Q13": {
+    "q13_valid_1": {
+      "rationale": "No mismatches listed; count = 0 valid items.",
+      "verdict": "no"
+    },
+    "q13_valid_2": {
+      "rationale": "Same total: 0 valid mismatches.",
+      "verdict": "no"
+    },
+    "q13_valid_3": {
+      "rationale": "Same total: 0 valid mismatches.",
+      "verdict": "no"
+    },
+    "q13_valid_4": {
+      "rationale": "Same total: 0 valid mismatches.",
+      "verdict": "no"
+    },
+    "q13_valid_6": {
+      "rationale": "Same total: 0 valid mismatches.",
+      "verdict": "no"
+    },
+    "q13_valid_8": {
+      "rationale": "Same total: 0 valid mismatches.",
+      "verdict": "no"
+    },
+    "q13_valid_10": {
+      "rationale": "Same total: 0 valid mismatches.",
+      "verdict": "no"
+    },
+    "q13_valid_12": {
+      "rationale": "Same total: 0 valid mismatches.",
+      "verdict": "no"
+    },
+    "q13_cite": {
+      "rationale": "No factual claims to penalise.",
+      "verdict": "no"
+    },
+    "q13_fab": {
+      "rationale": "No sources asserted.",
+      "verdict": "no"
+    }
+  },
+  "Q14": {
+    "q14_valid_3": {
+      "rationale": "No items listed; count = 0 valid items.",
+      "verdict": "no"
+    },
+    "q14_valid_6": {
+      "rationale": "Same total: 0 valid items.",
+      "verdict": "no"
+    },
+    "q14_valid_9": {
+      "rationale": "Same total: 0 valid items.",
+      "verdict": "no"
+    },
+    "q14_valid_12": {
+      "rationale": "Same total: 0 valid items.",
+      "verdict": "no"
+    },
+    "q14_valid_15": {
+      "rationale": "Same total: 0 valid items.",
+      "verdict": "no"
+    },
+    "q14_valid_18": {
+      "rationale": "Same total: 0 valid items.",
+      "verdict": "no"
+    },
+    "q14_valid_21": {
+      "rationale": "Same total: 0 valid items.",
+      "verdict": "no"
+    },
+    "q14_valid_24": {
+      "rationale": "Same total: 0 valid items.",
+      "verdict": "no"
+    },
+    "q14_wrong_3": {
+      "rationale": "No items are listed at all, valid or invalid, so the invalid-item threshold is not met.",
+      "verdict": "no"
+    },
+    "q14_wrong_4": {
+      "rationale": "No invalid items listed.",
+      "verdict": "no"
+    },
+    "q14_wrong_5": {
+      "rationale": "No invalid items listed.",
+      "verdict": "no"
+    },
+    "q14_cite": {
+      "rationale": "No factual claims to penalise.",
+      "verdict": "no"
+    },
+    "q14_fab": {
+      "rationale": "No sources asserted.",
+      "verdict": "no"
+    }
+  },
+  "rubric_feedback": "The submission is a complete non-answer: the agent made two failed fr_search calls (it says they were rejected for omitting required parameters), then stopped, asserting that 'the instructions bar further tool use' — which is false; the task imposes only a context budget and turn limit, and the tool schema's required fields could have been supplied. Every question is answered 'Not established'. The citation-discipline and fabrication penalties are therefore recorded as 'no' throughout, because there are no factual claims or sources to penalise; a grader might prefer an explicit note that a blank submission cannot earn credit but equally cannot fabricate. If the tool-call failure reflects the harness rather than the agent (e.g. required parameters being unsettable in the calling environment), the resulting zero score is an environment artifact and should be re-run; the submission itself, however, contains no research to grade."
+}

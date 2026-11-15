@@ -1,0 +1,753 @@
+{
+  "Q1": {
+    "q1_duty_procs": {
+      "rationale": "Q1 is expressly 'Not answered'; no proclamation numbers, FR document numbers or dates are given.",
+      "verdict": "no"
+    },
+    "q1_details": {
+      "rationale": "No FR first page or one-line description is supplied for any of the ten documents.",
+      "verdict": "no"
+    },
+    "q1_delay": {
+      "rationale": "Proclamation 11056, its dates and the reset to August 22, 2026 are not mentioned.",
+      "verdict": "no"
+    },
+    "q1_exclusions": {
+      "rationale": "Proclamations 11061-11063 and the September 29, 2026 operative time are not given.",
+      "verdict": "no"
+    },
+    "q1_scope": {
+      "rationale": "Proclamations 11064, 11065 and 11076 and their operative dates are not given.",
+      "verdict": "no"
+    },
+    "q1_events": {
+      "rationale": "No statement distinguishing entry/withdrawal (duties and scope changes) from importation (exclusions).",
+      "verdict": "no"
+    },
+    "q1_dairy_none": {
+      "rationale": "Nothing said about the dairy list or the absence of a dairy scope modification.",
+      "verdict": "no"
+    },
+    "q1_dairy_xref": {
+      "rationale": "The cross-reference to a nonexistent September 8 dairy scope proclamation in 11062(3) is not noted.",
+      "verdict": "no"
+    },
+    "q1_cite": {
+      "rationale": "The answer makes no substantive factual claims about FR documents, so there is no body of uncited claims warranting the citation-discipline deduction; it is simply empty.",
+      "verdict": "no"
+    },
+    "q1_fab": {
+      "rationale": "No invented document number, citation, clause or quotation; the answer states it found nothing. The claim of a tool argument-validation error is not an FR source and was not verified as a fabrication.",
+      "verdict": "no"
+    }
+  },
+  "Q2": {
+    "q2a_zero": {
+      "rationale": "No amounts given; entry 1 and entry 2 duty is not stated as $0.",
+      "verdict": "no"
+    },
+    "q2a_third": {
+      "rationale": "Entry 3's $20,000 is not given.",
+      "verdict": "no"
+    },
+    "q2a_basis": {
+      "rationale": "No citation to 11056 clause (1), 2026-17294 or 91 FR 54790.",
+      "verdict": "no"
+    },
+    "q2b_chapeau": {
+      "rationale": "No discussion of the Annex II chapeau amendment or the unamended clauses.",
+      "verdict": "no"
+    },
+    "q2b_resolve": {
+      "rationale": "No explanation of how the leftover August 19 text is resolved.",
+      "verdict": "no"
+    },
+    "q2c_refund": {
+      "rationale": "Refund provision (11056 clause (4)) is not cited or described.",
+      "verdict": "no"
+    },
+    "q2d_no_action": {
+      "rationale": "No statement that no further presidential action was needed.",
+      "verdict": "no"
+    },
+    "q2d_reneged": {
+      "rationale": "Canada's August 21, 2026 reneging is not mentioned.",
+      "verdict": "no"
+    },
+    "q2e_thirty": {
+      "rationale": "The 30-day rule arithmetic (July 20 + 30 = August 19) is absent.",
+      "verdict": "no"
+    },
+    "q2_cite": {
+      "rationale": "No substantive claims, hence no uncited claims; the deduction is not warranted for a non-answer.",
+      "verdict": "no"
+    },
+    "q2_fab": {
+      "rationale": "No invented sources or quotations; answer is an explicit non-answer.",
+      "verdict": "no"
+    }
+  },
+  "Q3": {
+    "q3a_shipment_a": {
+      "rationale": "No answer on shipment A (admissibility or $15,000).",
+      "verdict": "no"
+    },
+    "q3a_shipment_b": {
+      "rationale": "No answer on shipment B.",
+      "verdict": "no"
+    },
+    "q3a_shipment_c": {
+      "rationale": "No answer on shipment C.",
+      "verdict": "no"
+    },
+    "q3a_shipment_d": {
+      "rationale": "No answer on shipment D.",
+      "verdict": "no"
+    },
+    "q3b_result": {
+      "rationale": "No conclusion on shipment E or the FTZ entry.",
+      "verdict": "no"
+    },
+    "q3b_ftz": {
+      "rationale": "Neither 11046 clause (4) nor the exclusion proclamation's silence on FTZs is mentioned.",
+      "verdict": "no"
+    },
+    "q3c_invalid": {
+      "rationale": "No answer on the effect of a court invalidating the exclusion.",
+      "verdict": "no"
+    },
+    "q3d_no_change": {
+      "rationale": "No answer on products outside the Annex.",
+      "verdict": "no"
+    },
+    "q3_cite": {
+      "rationale": "No substantive claims to cite; non-answer.",
+      "verdict": "no"
+    },
+    "q3_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q4": {
+    "q4a_amounts": {
+      "rationale": "No section 232 or section 338 amounts given for X, Y, Z on September 10.",
+      "verdict": "no"
+    },
+    "q4a_basis": {
+      "rationale": "The clause (2) section 232 carve-out is not cited.",
+      "verdict": "no"
+    },
+    "q4b_x": {
+      "rationale": "No answer for X on October 1.",
+      "verdict": "no"
+    },
+    "q4b_z": {
+      "rationale": "No answer for Z on October 1.",
+      "verdict": "no"
+    },
+    "q4b_y": {
+      "rationale": "No answer for Y on October 1.",
+      "verdict": "no"
+    },
+    "q4c_text": {
+      "rationale": "No deciding text identified.",
+      "verdict": "no"
+    },
+    "q4c_supersede": {
+      "rationale": "No discussion of supersession or displacement of clause (2).",
+      "verdict": "no"
+    },
+    "q4c_xref": {
+      "rationale": "The 11062(3) dairy cross-reference is not noted.",
+      "verdict": "no"
+    },
+    "q4c_doubt": {
+      "rationale": "No answer, therefore no qualification on Y.",
+      "verdict": "no"
+    },
+    "q4_cite": {
+      "rationale": "No substantive claims; non-answer.",
+      "verdict": "no"
+    },
+    "q4_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q5": {
+    "q5a_p": {
+      "rationale": "No dutiability answers for P.",
+      "verdict": "no"
+    },
+    "q5a_q": {
+      "rationale": "No dutiability answers for Q.",
+      "verdict": "no"
+    },
+    "q5a_r": {
+      "rationale": "No dutiability answers for R.",
+      "verdict": "no"
+    },
+    "q5a_s": {
+      "rationale": "No dutiability answers for S.",
+      "verdict": "no"
+    },
+    "q5b_dates": {
+      "rationale": "No signed/filed/published dates or operative time for 11076.",
+      "verdict": "no"
+    },
+    "q5b_prospective": {
+      "rationale": "No statement on prospective application or absence of refund provisions.",
+      "verdict": "no"
+    },
+    "q5c_days": {
+      "rationale": "The 7-day intervals are not given.",
+      "verdict": "no"
+    },
+    "q5c_silent": {
+      "rationale": "No discussion of the 30-day waiting period versus the 7-day application.",
+      "verdict": "no"
+    },
+    "q5_cite": {
+      "rationale": "No substantive claims; non-answer.",
+      "verdict": "no"
+    },
+    "q5_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q6": {
+    "q6a_switzerland": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q6a_norway": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q6a_uk": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q6a_germany": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q6a_taiwan": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q6a_turkiye": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q6a_japan": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q6a_liechtenstein": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q6a_hongkong": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q6a_india": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q6b_germany12": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q6b_japan12": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q6b_taiwan10": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q6b_korea10": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q6b_swiss_free": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q6c_net": {
+      "rationale": "No comparison of proposal and adopted net-of-MFN treatment.",
+      "verdict": "no"
+    },
+    "q6c_india": {
+      "rationale": "No discussion of India's 12.5% to 10% change.",
+      "verdict": "no"
+    },
+    "q6_cite": {
+      "rationale": "No substantive claims; non-answer.",
+      "verdict": "no"
+    },
+    "q6_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q7": {
+    "q7a_france": {
+      "rationale": "No computation given.",
+      "verdict": "no"
+    },
+    "q7b_italy": {
+      "rationale": "No computation given.",
+      "verdict": "no"
+    },
+    "q7b_japan": {
+      "rationale": "No computation given.",
+      "verdict": "no"
+    },
+    "q7b_brazil": {
+      "rationale": "No computation given.",
+      "verdict": "no"
+    },
+    "q7c_taiwan": {
+      "rationale": "No computation given.",
+      "verdict": "no"
+    },
+    "q7c_switzerland": {
+      "rationale": "No computation given.",
+      "verdict": "no"
+    },
+    "q7d_note": {
+      "rationale": "Note 52(k) is not identified.",
+      "verdict": "no"
+    },
+    "q7d_zero": {
+      "rationale": "The location of the at-or-above-cap zero rule is not identified.",
+      "verdict": "no"
+    },
+    "q7_cite": {
+      "rationale": "No substantive claims; non-answer.",
+      "verdict": "no"
+    },
+    "q7_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q8": {
+    "q8a_case1": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q8a_case2": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q8a_case3": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q8a_case4": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q8a_case5": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q8a_case6": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q8a_case7": {
+      "rationale": "Not answered; the answer states the in-transit rule was not found.",
+      "verdict": "no"
+    },
+    "q8b_where": {
+      "rationale": "The DATES line of 2026-15181 (91 FR 47318) is not identified.",
+      "verdict": "no"
+    },
+    "q8c_dates": {
+      "rationale": "Signing, effective and publication dates are not given.",
+      "verdict": "no"
+    },
+    "q8d_july30": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q8d_aug3": {
+      "rationale": "Not answered.",
+      "verdict": "no"
+    },
+    "q8_cite": {
+      "rationale": "No substantive claims; non-answer.",
+      "verdict": "no"
+    },
+    "q8_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q9": {
+    "q9a_assembly": {
+      "rationale": "No amount for the 9802.00.80 assembly.",
+      "verdict": "no"
+    },
+    "q9b_repairs": {
+      "rationale": "No amount for the Israeli repairs.",
+      "verdict": "no"
+    },
+    "q9c_usmca": {
+      "rationale": "No answer for the USMCA Mexican entry.",
+      "verdict": "no"
+    },
+    "q9c_no_claim": {
+      "rationale": "No answer for the non-USMCA Mexican entry.",
+      "verdict": "no"
+    },
+    "q9d_car": {
+      "rationale": "No answer for the Japanese passenger car.",
+      "verdict": "no"
+    },
+    "q9e_reading": {
+      "rationale": "No answer for the Brazil section 232 case.",
+      "verdict": "no"
+    },
+    "q9e_flag": {
+      "rationale": "No reading and no caveat offered.",
+      "verdict": "no"
+    },
+    "q9f_232": {
+      "rationale": "No comparison of the proposal and adopted treatment of section 232 goods.",
+      "verdict": "no"
+    },
+    "q9f_info": {
+      "rationale": "No comparison on informational materials and donations.",
+      "verdict": "no"
+    },
+    "q9_cite": {
+      "rationale": "No substantive claims; non-answer.",
+      "verdict": "no"
+    },
+    "q9_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q10": {
+    "q10a_338": {
+      "rationale": "No duty layers computed.",
+      "verdict": "no"
+    },
+    "q10a_301": {
+      "rationale": "No section 301 analysis.",
+      "verdict": "no"
+    },
+    "q10a_total": {
+      "rationale": "No total given.",
+      "verdict": "no"
+    },
+    "q10b_338": {
+      "rationale": "No September 16 computation.",
+      "verdict": "no"
+    },
+    "q10b_total": {
+      "rationale": "No total given.",
+      "verdict": "no"
+    },
+    "q10c_338": {
+      "rationale": "No answer for the USMCA whisky entry.",
+      "verdict": "no"
+    },
+    "q10c_301": {
+      "rationale": "No answer for the USMCA whisky entry.",
+      "verdict": "no"
+    },
+    "q10d_stack": {
+      "rationale": "No answer for the non-USMCA whisky entry.",
+      "verdict": "no"
+    },
+    "q10e_excluded": {
+      "rationale": "No answer for the October 2 shipment.",
+      "verdict": "no"
+    },
+    "q10f_ieepa": {
+      "rationale": "EO 14389 and the end of the IEEPA Canada duties are not mentioned.",
+      "verdict": "no"
+    },
+    "q10f_surcharge": {
+      "rationale": "Proclamation 11012 and the July 24, 2026 end date are not mentioned.",
+      "verdict": "no"
+    },
+    "q10_cite": {
+      "rationale": "No substantive claims; non-answer.",
+      "verdict": "no"
+    },
+    "q10_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q11": {
+    "q11_valid_1": {
+      "rationale": "Count: 0 valid discrepancies. The submission lists no items at all, stating only that it did not compare the documents. Total = 0.",
+      "verdict": "no"
+    },
+    "q11_valid_2": {
+      "rationale": "Same total: 0 discrepancies (list above).",
+      "verdict": "no"
+    },
+    "q11_valid_3": {
+      "rationale": "Same total: 0 discrepancies.",
+      "verdict": "no"
+    },
+    "q11_valid_4": {
+      "rationale": "Same total: 0 discrepancies.",
+      "verdict": "no"
+    },
+    "q11_valid_5": {
+      "rationale": "Same total: 0 discrepancies.",
+      "verdict": "no"
+    },
+    "q11_valid_6": {
+      "rationale": "Same total: 0 discrepancies.",
+      "verdict": "no"
+    },
+    "q11_valid_7": {
+      "rationale": "Same total: 0 discrepancies.",
+      "verdict": "no"
+    },
+    "q11_valid_8": {
+      "rationale": "Same total: 0 discrepancies.",
+      "verdict": "no"
+    },
+    "q11_valid_10": {
+      "rationale": "Same total: 0 discrepancies.",
+      "verdict": "no"
+    },
+    "q11_valid_12": {
+      "rationale": "Same total: 0 discrepancies.",
+      "verdict": "no"
+    },
+    "q11_cite": {
+      "rationale": "No substantive claims; non-answer.",
+      "verdict": "no"
+    },
+    "q11_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q12": {
+    "q12a": {
+      "rationale": "No amounts for Cambodia or Malaysia.",
+      "verdict": "no"
+    },
+    "q12b_exempt": {
+      "rationale": "No amounts for Malaysia or Taiwan.",
+      "verdict": "no"
+    },
+    "q12b_dutiable": {
+      "rationale": "No amounts for Bangladesh or Argentina.",
+      "verdict": "no"
+    },
+    "q12c_taiwan": {
+      "rationale": "No amount for Taiwan argan oil.",
+      "verdict": "no"
+    },
+    "q12c_japan": {
+      "rationale": "No amount for Japan argan oil.",
+      "verdict": "no"
+    },
+    "q12c_indonesia": {
+      "rationale": "No amount for Indonesia argan oil.",
+      "verdict": "no"
+    },
+    "q12d": {
+      "rationale": "No amounts for sesame seeds.",
+      "verdict": "no"
+    },
+    "q12e": {
+      "rationale": "No amounts for psyllium seed husks.",
+      "verdict": "no"
+    },
+    "q12_cite": {
+      "rationale": "No substantive claims; non-answer.",
+      "verdict": "no"
+    },
+    "q12_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q13": {
+    "q13a": {
+      "rationale": "No amount for (a).",
+      "verdict": "no"
+    },
+    "q13b": {
+      "rationale": "No amount for (b).",
+      "verdict": "no"
+    },
+    "q13c": {
+      "rationale": "No amount for (c).",
+      "verdict": "no"
+    },
+    "q13d": {
+      "rationale": "No amount for (d).",
+      "verdict": "no"
+    },
+    "q13e": {
+      "rationale": "No amount for (e), and the Commerce guidance is not cited.",
+      "verdict": "no"
+    },
+    "q13f": {
+      "rationale": "No amount or reasoning for the October 6 entry.",
+      "verdict": "no"
+    },
+    "q13f_flag": {
+      "rationale": "No figure and no caveat about the October 14 guidance.",
+      "verdict": "no"
+    },
+    "q13g": {
+      "rationale": "No amount for (g).",
+      "verdict": "no"
+    },
+    "q13h": {
+      "rationale": "No end date or reversion rule given.",
+      "verdict": "no"
+    },
+    "q13_cite": {
+      "rationale": "No substantive claims; non-answer.",
+      "verdict": "no"
+    },
+    "q13_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q14": {
+    "q14_1_operative": {
+      "rationale": "No ruling on statement 1.",
+      "verdict": "no"
+    },
+    "q14_1_notice": {
+      "rationale": "No ruling on statement 1.",
+      "verdict": "no"
+    },
+    "q14_2": {
+      "rationale": "Statement 2 not addressed.",
+      "verdict": "no"
+    },
+    "q14_3_jordan": {
+      "rationale": "Statement 3 not addressed.",
+      "verdict": "no"
+    },
+    "q14_3_five": {
+      "rationale": "Statement 3 not addressed.",
+      "verdict": "no"
+    },
+    "q14_4": {
+      "rationale": "Statement 4 not addressed.",
+      "verdict": "no"
+    },
+    "q14_5": {
+      "rationale": "Statement 5 not addressed.",
+      "verdict": "no"
+    },
+    "q14_6": {
+      "rationale": "Statement 6 not addressed.",
+      "verdict": "no"
+    },
+    "q14_7": {
+      "rationale": "Statement 7 not addressed.",
+      "verdict": "no"
+    },
+    "q14_ok": {
+      "rationale": "No statement that 8, 9 and 10 are correct.",
+      "verdict": "no"
+    },
+    "q14_false": {
+      "rationale": "The submission does not call statements 8, 9 or 10 incorrect; it makes no ruling at all.",
+      "verdict": "no"
+    },
+    "q14_cite": {
+      "rationale": "No substantive claims; non-answer.",
+      "verdict": "no"
+    },
+    "q14_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "Q15": {
+    "q15_1": {
+      "rationale": "No answer for Feb 10, 2025.",
+      "verdict": "no"
+    },
+    "q15_2": {
+      "rationale": "No answer for Mar 6, 2025.",
+      "verdict": "no"
+    },
+    "q15_3": {
+      "rationale": "No answer for Mar 10, 2025.",
+      "verdict": "no"
+    },
+    "q15_4n": {
+      "rationale": "No answer for Mar 14, 2025 Case N.",
+      "verdict": "no"
+    },
+    "q15_4u": {
+      "rationale": "No answer for Mar 14, 2025 Case U.",
+      "verdict": "no"
+    },
+    "q15_jun3": {
+      "rationale": "No answer for June 3, 2025.",
+      "verdict": "no"
+    },
+    "q15_5": {
+      "rationale": "No answer for June 10, 2025.",
+      "verdict": "no"
+    },
+    "q15_6": {
+      "rationale": "No answer for Aug 5, 2025.",
+      "verdict": "no"
+    },
+    "q15_7": {
+      "rationale": "No answer for Mar 2, 2026.",
+      "verdict": "no"
+    },
+    "q15_8": {
+      "rationale": "No answer for June 10, 2026.",
+      "verdict": "no"
+    },
+    "q15_9": {
+      "rationale": "No answer for July 27, 2026.",
+      "verdict": "no"
+    },
+    "q15_10": {
+      "rationale": "No answer for Aug 25, 2026.",
+      "verdict": "no"
+    },
+    "q15_sep14": {
+      "rationale": "No answer for Sept 14, 2026.",
+      "verdict": "no"
+    },
+    "q15_11": {
+      "rationale": "No answer for Sept 16, 2026 or Nov 10, 2026.",
+      "verdict": "no"
+    },
+    "q15_cite": {
+      "rationale": "No substantive claims; non-answer.",
+      "verdict": "no"
+    },
+    "q15_fab": {
+      "rationale": "No invented sources.",
+      "verdict": "no"
+    }
+  },
+  "rubric_feedback": "The submission is an across-the-board non-answer: the agent states that its first search call failed with a missing-required-parameters error and it made no further calls, so every question is unanswered. All credit criteria and all ladders score zero. The citation-discipline and fabrication penalty criteria are marked 'no' because the answer makes no substantive factual claims about Federal Register documents and invents no sources; a total non-answer should be penalised through the credit criteria, not the penalties, which the rubric does not explicitly address."
+}

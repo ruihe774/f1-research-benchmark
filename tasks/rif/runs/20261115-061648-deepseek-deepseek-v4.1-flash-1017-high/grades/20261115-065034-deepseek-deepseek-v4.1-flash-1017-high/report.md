@@ -1,0 +1,250 @@
+# Grading report
+
+Submission: `tasks/rif/runs/20261115-061648-deepseek-deepseek-v4.1-flash-1017-high/answer.md`
+
+**Score: 66.36 / 100** (unclear counted as no; range 66.36 to 66.36)
+
+## Rubric feedback
+
+1) Q8(b): the submission reads the duration question as 'is there a limit' and answers yes (the notice period plus subpart N's 'usually not more than 1 workday' norm), so it fails the q8b_cap criterion's demand for 'the text states no numeric cap for 630.1403(c)(10)' and never touches the 12-week discussion (q8b_12wk). If the intent is only that the answer address duration at all, q8b_cap would flip; consider clarifying. 2) Q13: the submission's item 5 (preamble 'modal rating ... as currently found in Sec. 351.504(c)(1)' at 91 FR 49198 vs 351.503(f)(1) 'as defined in Sec. 351.203' at 49222) is not in the key. I verified both sides and counted it as a 'different paragraph' mismatch, which is what gives 4 valid items; if a reviewer treats it as the preamble merely describing current law, the count drops to 3 and q13_valid_4 fails. 3) Q11: two items the answer lists are not in the key but were confirmed with the tools (351.202(d)(1)(iii)-(iv) 'Schedule C appointments' vs 'an employee serving under a Schedule C appointment', 91 FR 10926 vs 49218; 351.702(a)(4)(iv) subparagraphs (A)/(B) vs inline (1)/(2), 10924 vs 49226). The latter may overlap the list-structure fix in 2026-17335, which the rubric excludes; the count still reaches 28 without it (28) or with it (29). 4) Minor: the answer cites 91 FR 49203 for the bumping/retreating passage, which is at 49204; and does not note the 2026-17335 docket misprint (OPM-2026-0107) that the key says is right to flag. Neither affects a criterion.
+
+| Question | Score | Max | Range |
+|---|---|---|---|
+| Q1 | 3.00 | 3 | 3.00 to 3.00 |
+| Q2 | 3.00 | 3 | 3.00 to 3.00 |
+| Q3 | 2.00 | 2 | 2.00 to 2.00 |
+| Q4 | 3.00 | 3 | 3.00 to 3.00 |
+| Q5 | 3.00 | 3 | 3.00 to 3.00 |
+| Q6 | 1.00 | 1 | 1.00 to 1.00 |
+| Q7 | 4.00 | 4 | 4.00 to 4.00 |
+| Q8 | 2.36 | 3 | 2.36 to 2.36 |
+| Q9 | 7.00 | 7 | 7.00 to 7.00 |
+| Q10 | 1.00 | 1 | 1.00 to 1.00 |
+| Q11 | 9.00 | 10 | 9.00 to 9.00 |
+| Q12 | 7.00 | 7 | 7.00 to 7.00 |
+| Q13 | 12.00 | 28 | 12.00 to 12.00 |
+| Q14 | 9.00 | 25 | 9.00 to 9.00 |
+
+## Q1: 3.00 / 3
+
+| Criterion | Kind | Verdict | Points | Rationale |
+|---|---|---|---|---|
+| `q1a_rule` | credit | yes | 0.6 | Gives FR Doc. 2026-15665, 91 FR 49178-49227, published August 3, 2026, effective September 2, 2026, Docket OPM-2025-0107, RIN 3206-AO86. |
+| `q1b_nprm` | credit | yes | 0.15 | FR Doc. 2026-04377, 91 FR 10904-10934, published March 5, 2026. |
+| `q1c_first` | credit | yes | 0.3 | 2026-17335, 91 FR 54794, Aug. 25, 2026, effective Sept. 2, 2026, described as correcting typographical/clerical errors in amendatory instructions and regulatory text. |
+| `q1c_second` | credit | yes | 0.45 (of 0.45) | 2026-18800, 91 FR 58363-58364, published and effective Sept. 15, 2026, restoring 330.602 'displaced' paragraphs (1)(i)-(1)(ii) inadvertently deleted by instruction 11. |
+| `q1d_applicability` | credit | yes | 0.45 (of 0.45) | Quotes the DATES line (91 FR 49178) and applies the notice-issuance test (before vs on/after Sept. 2, 2026), not the effective date. |
+| `q1e_appeals` | credit | yes | 0.3 | Lists 2026-15666, effective Sept. 2, in force, revising 351.802(a)(6), 351.807(e) and replacing subpart I (appeals to OPM). |
+| `q1e_leave` | credit | yes | 0.375 | Lists 2026-21320, revises 351.806, effective Nov. 18, 2026, expressly not in force today. |
+| `q1e_senior` | credit | yes | 0.375 | Lists 2026-21316, revises the 351.203 'rating of record' definition and 351.503(a)(1), (b)(2)-(3), effective Nov. 18, 2026, not in force. |
+| `q1_cite` | penalty | no | 0 | Every claim carries a document number, CFR paragraph or FR page. |
+| `q1_fab` | penalty | no | 0 | Checked the extra documents the answer names as non-qualifying (2026-15650, part 731; 2026-15654, parts 11/230/315/432/751/752; 2026-21319; 2026-22093) — all exist and none amends part 351. No invented citation or quotation found. |
+
+## Q2: 3.00 / 3
+
+| Criterion | Kind | Verdict | Points | Rationale |
+|---|---|---|---|---|
+| `q2a_abbott` | credit | yes | 0.125 | 7+5+5 = 17; 0 veterans' points; total 17.0. |
+| `q2a_bianchi` | credit | yes | 0.375 | 5+0+3 = 8 (Level 2 worth 0), +5 for 30%+ disability, total 13.0. |
+| `q2a_castillo` | credit | yes | 0.5 | 17.0 credit; 0 points because a length-of-service retiree at lieutenant colonel meets none of 351.504(b)(1)-(3) and (b)(4) requires disabled-veteran status; total 17.0. |
+| `q2a_dalton` | credit | yes | 0.5 | Two ratings, proxy (7+0)/2 = 3.5, credit 10.5, +3, total 13.5. |
+| `q2a_eze` | credit | yes | 0.25 | 5+5+5 = 15, 0 points, tenure subgroup II (term appointment over one year, past probation). |
+| `q2a_fontaine` | credit | yes | 0.375 | One rating: 5x3 = 15; total 15. |
+| `q2b_order` | credit | yes | 0.375 | Abbott, Castillo, Fontaine, Eze, Dalton, Bianchi; explains the 17 tie by earlier SCD and the 15 tie by subgroup I ahead of II (351.501(c)). |
+| `q2b_released` | credit | yes | 0.125 | Dalton and Bianchi released. |
+| `q2c_old` | credit | yes | 0.25 | Says Bianchi stood above Abbott under the earlier rules, quoting the 91 FR 49198 description (tenure group, then veterans' subgroup AD/A/B, then service as augmented by performance credit), plus the 49201 example. |
+| `q2d_records` | credit | yes | 0.125 | 351.506(b)-(c): complete register with all other employees' names, performance credit as augmented by veterans' preference, and SCDs, plus other registers affecting her level/assignment rights. Verified 351.506 text (91 FR 49222-49223); the '2 years' preservation claim in (f) is also accurate. |
+| `q2_cite` | penalty | no | 0 | Densely cited. |
+| `q2_fab` | penalty | no | 0 | The 'Kai moves from first ... to fourth' quotation was checked and appears verbatim at 91 FR 49201; no invented source found. |
+
+## Q3: 2.00 / 2
+
+| Criterion | Kind | Verdict | Points | Rationale |
+|---|---|---|---|---|
+| `q3a_case_a` | credit | yes | 0.25 | Not preference eligible, 0 points, subgroup B, 351.504(b)(1)-(4) analysis. |
+| `q3a_case_b` | credit | yes | 0.375 | Not preference eligible: disabled veteran but fails (b)(1)-(3) and (b)(4) requires one of them; 0 points, subgroup B. |
+| `q3a_case_c` | credit | yes | 0.25 | Preference eligible under (b)(1)(i) with (b)(4); +5; subgroup AD. |
+| `q3a_case_d` | credit | yes | 0.25 | Not preference eligible ((b)(2) fails, no other basis); 0 points; subgroup B. |
+| `q3a_case_e` | credit | yes | 0.375 | Eligible under (b)(2) (disability retirement, pay not based on 20+ years, below major); +3; subgroup A. |
+| `q3b_scd_a` | credit | yes | 0.1875 | 2 campaign years only; Sept. 7, 2010 minus 2 = Sept. 7, 2008 (351.505(b)(2)(i), (d)(2)). |
+| `q3b_scd_c` | credit | yes | 0.1875 | All 14 years because preference eligible (351.505(b)(2)(ii)); Sept. 7, 1996. |
+| `q3c_labels` | credit | yes | 0.125 | Subgroups are identifiers on the register and in the notice only; ranking is performance credit plus 5/3 points, then tenure subgroup, then SCD (351.501). |
+| `q3_cite` | penalty | no | 0 | Cited throughout. |
+| `q3_fab` | penalty | no | 0 | No invented source or quotation; the proposed-rule cross-reference error it mentions is corroborated by the Q11 comparison. |
+
+## Q4: 3.00 / 3
+
+| Criterion | Kind | Verdict | Points | Rationale |
+|---|---|---|---|---|
+| `q4a_farah` | credit | yes | 0.5 | 7 (Aug. 10, 2026) + 3 + 3 = 13. |
+| `q4b_cutoff_date` | credit | yes | 0.1667 (of 0.166667) | Sept. 3, 2026 minus 45 days = July 20, 2026, with the arithmetic shown. |
+| `q4b_credit` | credit | yes | 0.6667 (of 0.666667) | Aug. 10, 2026 rating excluded; 3+3+5 = 11. |
+| `q4c_not_on_record` | credit | yes | 0.3333 (of 0.333333) | Says the rating cannot be used: signed July 15 but not on record (available to the register-building office) until Aug. 15, after the July 20 cutoff (351.503(c)(2)-(3)). |
+| `q4d_gina` | credit | yes | 0.6667 (of 0.666667) | Aug. 15, 2022 outside the window; proxy (5+3)/2 = 4; 5+3+4 = 12. |
+| `q4e_modal` | credit | yes | 0.6667 (of 0.666667) | Credit must be based on the modal rating as defined in 351.203 for the applicable pattern, quoting 351.503(f)(1). |
+| `q4e_flag` | gate | yes |  | Flags both gaps: no definition of 'modal rating' is printed and the rule does not say whether the modal value is applied once or three times. |
+| `q4_cite` | penalty | no | 0 | Cited. |
+| `q4_fab` | penalty | no | 0 | The quoted 91 FR 49198 language about the modal-rating concept was checked and matches. |
+
+## Q5: 3.00 / 3
+
+| Criterion | Kind | Verdict | Points | Rationale |
+|---|---|---|---|---|
+| `q5a_i_rules` | credit | yes | 0.3333 (of 0.333333) | Notice Aug. 28, 2026 (before Sept. 2) → earlier rules apply, despite the Oct. 27 effective date. |
+| `q5a_i_result` | credit | yes | 0.6667 (of 0.666667) | 3/3/3 = +12 years → Lee 1986; 5/5/5 = +20 years → Park 1999; Park released. The 12- and 20-year figures and adjusted dates are given (figures verified at 91 FR 49186). |
+| `q5a_ii` | credit | yes | 0.5 | Sept. 2, 2026 notice is 'on or after' the effective date; Lee 9 vs Park 21; Lee released. |
+| `q5a_iii` | credit | yes | 0.1667 (of 0.166667) | Lee released for the Sept. 3 notice (9 vs 21). |
+| `q5b_no_recalc` | credit | yes | 0.5 | Quotes 351.805(b): an amended notice solely for a later effective date is not a new notice and does not require recalculating standing. |
+| `q5c_version` | credit | yes | 0.25 | Date the agency issues the RIF notice against Sept. 2, 2026 (DATES, 91 FR 49178). |
+| `q5c_window` | credit | yes | 0.25 | Four-year period ends at issuance of the notices or the agency cutoff date (351.503(c)(1)-(2)). |
+| `q5c_standing` | credit | yes | 0.3333 (of 0.333333) | Tenure subgroup and standing fixed when the employee receives the specific notice (351.502; 351.507(a)). |
+| `q5_cite` | penalty | no | 0 | Cited. |
+| `q5_fab` | penalty | no | 0 | No invented source; the prior-rule description matches 91 FR 49186, 49198-49201. |
+
+## Q6: 1.00 / 1
+
+| Criterion | Kind | Verdict | Points | Rationale |
+|---|---|---|---|---|
+| `q6a_reach` | credit | yes | 0.2143 (of 0.214286) | Positions 1-3 within reach (lower standing, within three grades, same area and work schedule); 4 too far down, 5 higher standing, 6 part-time, 7 other competitive area. |
+| `q6a_offer` | credit | yes | 0.1429 (of 0.142857) | Must offer position 1 (GS-12, Ellis) as least reduction in representative rate. |
+| `q6b_five` | credit | yes | 0.1429 (of 0.142857) | Five-grade limit (351.701(b)(2)) brings GS-9 into reach; offer stays position 1. |
+| `q6c_level1` | credit | yes | 0.1429 (of 0.142857) | No assignment right: 351.701(a) covers Level 2 or higher. |
+| `q6d_excepted` | credit | yes | 0.1429 (of 0.142857) | 351.701 is for competitive-service tenure group employees; 351.705(a) agency discretion for the excepted service. |
+| `q6e_level2` | credit | yes | 0.1071 (of 0.107143) | Elimination of former 351.701(d) Level 2 restriction explained via the preamble (quote checked at 91 FR 49203-49204). |
+| `q6e_bump` | credit | yes | 0.1071 (of 0.107143) | Quotes the consolidation of former bumping/retreating into a single right to a position held by lower-standing employees; the quoted passage is at 91 FR 49204 (answer cites 49203, one page off but the content is right). |
+| `q6_cite` | penalty | no | 0 | Cited. |
+| `q6_fab` | penalty | no | 0 | Quotation verified in the document; only a one-page citation slip. |
+
+## Q7: 4.00 / 4
+
+| Criterion | Kind | Verdict | Points | Rationale |
+|---|---|---|---|---|
+| `q7a_mspb` | credit | yes | 0.4615 (of 0.461538) | Concludes MSPB hears it because the notice issued Aug. 31, 2026, before the appeals rule's Sept. 2 trigger. |
+| `q7a_board_rule` | credit | yes | 0.3077 (of 0.307692) | Cites 2026-16456, 91 FR 51997-51998, and its statement that it will continue to adjudicate/accept RIF appeals noticed before the effective date. |
+| `q7b_opm` | credit | yes | 0.1538 (of 0.153846) | Appeal to OPM under 351.901(a) as revised by 2026-15666. |
+| `q7b_count` | credit | yes | 0.3077 (of 0.307692) | Day 1 = Dec. 19, 2026; day 30 = Sunday Jan. 17, 2027 shown explicitly. |
+| `q7b_date` | credit | yes | 0.4615 (of 0.461538) | Tuesday, January 19, 2027 because Jan. 18 is MLK Day. |
+| `q7b_efile` | credit | yes | 0.1538 (of 0.153846) | OPM electronic filing system, 11:59 p.m. Eastern on the last day. |
+| `q7c_burden` | credit | yes | 0.3077 (of 0.307692) | Preponderance burden on the employee to show a statutory/regulatory violation and prejudice (351.901(b)). |
+| `q7c_hearing` | credit | yes | 0.3077 (of 0.307692) | No hearing as of right; written record unless OPM finds a hearing necessary and efficient (351.905(c)). |
+| `q7d_text` | credit | yes | 0.4615 (of 0.461538) | Quotes 351.901(c)(1)-(2): exclusive means, no negotiated grievance or arbitration. |
+| `q7d_flag` | gate | yes |  | Reports the preamble (91 FR 49245) on existing CBAs: no retroactive invalidation, limits only on renegotiation, chapter 71 forum for existing provisions. |
+| `q7e_court` | credit | yes | 0.3077 (of 0.307692) | Quotes 351.901(c)(4) bar on judicial review. |
+| `q7f_tolling` | credit | yes | 0.4615 (of 0.461538) | 351.902(b)(3); 30 days from the March 10, 2027 final decision = April 9, 2027. |
+| `q7g_where` | credit | yes | 0.3077 (of 0.307692) | Places the rule in the DATES paragraph at 91 FR 49230 and the preamble at 49248/49262, not in the regulatory text. |
+| `q7_cite` | penalty | no | 0 | Cited. |
+| `q7_fab` | penalty | no | 0 | The quoted 'including an appeal pending before the MSPB ... continues to be adjudicated by the MSPB' was verified at 91 FR 49248. |
+
+## Q8: 2.36 / 3
+
+| Criterion | Kind | Verdict | Points | Rationale |
+|---|---|---|---|---|
+| `q8a_adopted` | credit | yes | 0.6429 (of 0.642857) | 2026-21320, revises 351.806, effective Nov. 18, 2026; says not in force today. |
+| `q8a_new_text` | credit | yes | 0.4286 (of 0.428571) | Quotes new 351.806(a) duty status and (b) administrative leave consistent with part 630 subpart N. |
+| `q8a_today` | credit | yes | 0.2143 (of 0.214286) | Current version described as duty status 'when possible' with the emergency provision, citing 2026-13073/2026-21320. |
+| `q8b_consent` | credit | yes | 0.4286 (of 0.428571) | Consent not needed: 630.1403(c)/(c)(10), sole and exclusive discretion, with the 'not limited or conditioned by any agreement' definition verified at 91 FR 65936/65939. |
+| `q8b_cap` | credit | no | 0 | The answer says 'Yes, there is a limit' (the notice period, plus subpart N's 'usually not more than 1 workday' norm); it never states that the adopted text sets no numeric cap for the 630.1403(c)(10) use. |
+| `q8b_12wk` | credit | no | 0 | The 12-week governmentwide limit is not discussed at all. |
+| `q8b_flag` | gate | yes |  | Uncertainty field flags that any outer numeric limit cannot be confirmed and that the rule is not yet in force. |
+| `q8c_guidance` | credit | yes | 0.2143 (of 0.214286) | OPM's position that leave was already permissible under the Agency Policy Template (CPM 2025-12), quoted from 2026-13073 and 2026-21320; CPM 2025-12 verified in the final rule. |
+| `q8d_no_effect` | credit | yes | 0.4286 (of 0.428571) | Quotes 91 FR 65926 that the provisions address only paid non-duty status and do not alter RIF requirements or appeal rights. |
+| `q8_cite` | penalty | no | 0 | Cited. |
+| `q8_fab` | penalty | no | 0 | Checked the (c)(10) text ('involuntary separation via a reduction in force ... between receipt of the RIF notice and the RIF separation') and the discretion definition; both accurate. |
+
+## Q9: 7.00 / 7
+
+| Criterion | Kind | Verdict | Points | Rationale |
+|---|---|---|---|---|
+| `q9_s1` | credit | yes | 0.7 | 57 days < 90; states 351.402(c) requires submission of the description and bona fide organizational explanation to OPM for approval in advance. |
+| `q9_s3` | credit | yes | 0.7 | Supervisory probation is not an 'initial probationary period'; Ortiz must be ranked (351.203; preamble 91 FR 49190-49191). |
+| `q9_s4` | credit | yes | 0.7 | Sept. 13, 2026 cutoff; post-cutoff Oct. 2 rating may not be used and uniform application required (351.503(c)(2), (c)(4)). |
+| `q9_s5` | credit | yes | 0.7 | Proxy (7+5)/2 = 6; credit 18, not 15 (351.503(f)(2)). |
+| `q9_s6` | credit | yes | 0.7 | 351.503(d) extra points only for systems whose highest level is 3; single five-level pattern precludes adding points and a written policy cannot cure it. |
+| `q9_s8` | credit | yes | 0.7 | 351.602(a) bars release while retaining an employee on a specifically limited temporary or term promotion. |
+| `q9_s10` | credit | yes | 0.7 | 351.702(a)(4)(i)-(iii): job-analysis-based assessment, may not consist solely of or principally rely on an automated self-assessment. |
+| `q9_s11` | credit | yes | 0.7 | Quotes 351.608(a)(3) no-stacking rule (verified at 91 FR 49224) and notes the 90-day caps. |
+| `q9_s12` | credit | yes | 0.7 | Appeals go to OPM under subpart I; 351.802(a)(6) as amended requires OPM appeal rights/e-filing. |
+| `q9_ok` | credit | yes | 0.7 | Says steps 2, 7 and 9 are in order, with 351.202(d)(2)-(3), 351.601(c) and 351.702(a)(4)(v) respectively. |
+| `q9_false2` | penalty | no | 0 | Expressly treats step 2 as in order. |
+| `q9_false7` | penalty | no | 0 | Expressly treats step 7 as in order. |
+| `q9_false9` | penalty | no | 0 | Expressly treats step 9 as in order. |
+| `q9_cite` | penalty | no | 0 | Each step carries a provision or page. |
+| `q9_fab` | penalty | no | 0 | No invented source; the 351.608(a)(3) quotation was verified. |
+
+## Q10: 1.00 / 1
+
+| Criterion | Kind | Verdict | Points | Rationale |
+|---|---|---|---|---|
+| `q10a_gap` | credit | yes | 0.3 (of 0.3) | Says only the introductory text remained on Sept. 10, 2026, because instruction 11 set out only the introduction and thereby removed (1)(i)-(ii) from Sept. 2. |
+| `q10b_doc` | credit | yes | 0.2 | 2026-18800, 91 FR 58363-58364, published and effective Sept. 15, 2026, restoring (1)(i)-(ii). |
+| `q10b_reason` | credit | yes | 0.2 | Gives good cause under 553(b)(B)/553(d)(3): no substantive change, restoring text in effect before Sept. 2, 2026 that OPM did not propose to remove. |
+| `q10c_lower` | credit | yes | 0.15 (of 0.15) | Declining a lower-representative-rate offer leaves her 'displaced' under (1)(i). |
+| `q10c_same` | credit | yes | 0.15 (of 0.15) | Declining a same-rate, same-schedule offer takes her out of (1)(i). |
+| `q10_cite` | penalty | no | 0 | Cited. |
+| `q10_fab` | penalty | no | 0 | Quoted introductory text and (1)(i) language match the key; no invented source. |
+
+## Q11: 9.00 / 10
+
+| Criterion | Kind | Verdict | Points | Rationale |
+|---|---|---|---|---|
+| `q11_valid_10` | credit | yes | 2 | Item-by-item: (1) 351.202(d)(1)(ii) dropped temporal anchor — counted (key #21 pt1). (2) 351.202(d)(1)(iii)-(iv) Schedule C/G 'appointments' vs 'employee serving under a Schedule C appointment' — counted (checked: 91 FR 10926 vs 49218). (3) 351.202(d)(2)(iii) temp/term→temporary, subpart C dropped — counted (key #2). (4) 351.202(d)(3) proviso and new (d)(4) notice — counted (2 pieces, key #3-#4). (5) 'Furlough' trailing congressional-action clause dropped — counted (key #5; proposed text verified at 10927). (6) 'Restoration protected employee' definition added — counted (key #5; verified at 91 FR 49219). (7) 351.204 merit-system-principles clause — counted (key #6). (8) 351.402(c) new — counted (key #7). (9) 351.502 'issues'→'receives' — counted (key #8). (10) 351.503(a)(1) 'Minimally Successful'→'Satisfactory' — counted (key #9). (11) 351.503(d)/(e)(2) 'prior to the final rule ... 91 FR 41521' — counted (key #23). (12) 351.505(b)(2) cross-reference 351.503(b)→351.504(b) — counted (key #11). (13) 351.506(d) added sentence — counted (key #12). (14) 351.605 restructure (new (c) notice rule, new (d) 'must not apply assignment rights') — counted (3 pieces, key #14). (15) 351.606(a) six-part regime — counted (key #15). (16) 351.608(a)(2) subpart E→F — counted (key #24). (17) 351.701(a) 'minimally satisfactory' plus '(a) General' caption — counted (2 pieces, key #9 and #16). (18) 351.702(a)(4)(iii) reworded — counted (verified 10924 vs 49226, key #17). (19) 351.702(a)(4)(iv) (A)/(B)→(1)/(2) — counted (verified 10924 vs 49226; may overlap a 2026-17335 list-structure fix, but the count still clears the rung without it). (20) 351.702(a)(4)(v) new five-year exemption — counted (key #17). (21) 351.802(a) introductory text added — counted (key #18). (22) 351.802(a)(2) 'veteran status'→'veterans' preference subgroup' — counted (key #18). (23) 351.802(a)(3) 'information on how to access' — counted (key #25). (24) 351.504(a) 'should'→'must' — counted (key #10). (25) 351.604 proposed amendment not finalized — counted (key #13). Total 29 valid pieces (28 even excluding item 19). |
+| `q11_valid_16` | credit | yes | 2 | Same count: 29 valid pieces. |
+| `q11_valid_22` | credit | yes | 1.5 | Same count: 29 valid pieces. |
+| `q11_valid_28` | credit | yes | 1.5 | Same count: 29 (28 even if the (a)(4)(iv) item were treated as a correction-restored error). |
+| `q11_valid_34` | credit | no | 0 | 29 < 34; the answer omits several key pieces (351.202(d) heading/competing-employee change, 351.302(d), authority citation, 351.805(b), 351.502(a)(3), 351.503(b)(3), 351.507(b), the (d)(2)(i)-(ii) and (c)/(d) 351.506 pieces). |
+| `q11_deep` | credit | yes | 2 | States well over six unlisted/deeper differences: 351.502 issues/receives, Minimally Successful/Satisfactory in 503(a)(1) and 701(a), 351.504(a) should/must, 351.505(b)(2) cross-reference, 351.506(d) added sentence, 351.702(a)(4)(v) and (iii), 351.802(a)(2)/(a)(3), 351.608(a)(2), 351.503(d)/(e)(2). |
+| `q11_cite` | penalty | no | 0 | Each item cites the paragraph and both FR page ranges. |
+| `q11_fab` | penalty | no | 0 | The two items not in the key were checked in both documents and are real; no invented citation. |
+
+## Q12: 7.00 / 7
+
+| Criterion | Kind | Verdict | Points | Rationale |
+|---|---|---|---|---|
+| `q12_quinn` | credit | yes | 0.3889 (of 0.388889) | Quinn serving the initial probationary period is not a competing employee (351.202(d)(2)(ii)) and may be retained (351.202(d)(3)); not on the register. |
+| `q12_ab` | credit | yes | 0.3889 (of 0.388889) | Alvarez 7+7+5 = 19, 0 points; Brandt 3+5+0 = 8, +5 = 13. |
+| `q12_chen` | credit | yes | 0.7778 (of 0.777778) | Sept. 30, 2022 Level 2 outside the window; proxy (7+5)/2 = 6; 7+5+6 = 18. |
+| `q12_dube` | credit | yes | 0.3889 (of 0.388889) | Two Level 4s: proxy 5; credit 15; +3 = 18; subgroup II. |
+| `q12_estrada` | credit | yes | 0.5833 (of 0.583333) | 5+3+5 = 13, +3 = 16; Oct. 20, 2026 Level 5 excluded. |
+| `q12_farouk_score` | credit | yes | 0.3889 (of 0.388889) | One rating: 3x3 = 9; lowest on the register. |
+| `q12_tie` | credit | yes | 0.7778 (of 0.777778) | Alvarez, Chen, Dube, Estrada, Brandt, Farouk; Chen ahead of Dube on tenure subgroup I over II (351.501(c)). |
+| `q12_protect` | credit | yes | 0.7778 (of 0.777778) | Farouk is a restoration protected employee (restored July 13, 2026 after 14 months, within the 353.209(b) period) and 351.606(a)(2) bars releasing him if another competing employee can be released. |
+| `q12_released` | credit | yes | 0.7778 (of 0.777778) | Brandt, Estrada and Dube. |
+| `q12_assign_dube` | credit | yes | 0.3889 (of 0.388889) | GS-12 held by Gomez (17 < 18), least reduction in representative rate. |
+| `q12_assign_estrada` | credit | yes | 0.3889 (of 0.388889) | GS-11 held by Hill (14 < 16); Gomez (17) blocks the GS-12. |
+| `q12_assign_brandt` | credit | yes | 0.5833 (of 0.583333) | GS-9 held by Ikeda (9 < 13), within the five-grade limit for a 30%+ disabled preference eligible; Level 2 still carries assignment rights. |
+| `q12_final` | credit | yes | 0.3889 (of 0.388889) | Gomez, Hill and Ikeda separated; no GS-13 employee separated; Jones unaffected. |
+| `q12_cite` | penalty | no | 0 | Cited. |
+| `q12_fab` | penalty | no | 0 | No invented source; 351.506/351.606/351.608 quotations checked out. |
+
+## Q13: 12.00 / 28
+
+| Criterion | Kind | Verdict | Points | Rationale |
+|---|---|---|---|---|
+| `q13_valid_1` | credit | yes | 3 | Items in order: (1) erosion-of-duties reclassification — NOT counted: the key treats this passage as a not-mismatch (the 'within 180 days' element describes the pre-existing trigger being removed, and the preamble states the anti-manipulation bar correctly at 91 FR 49190; the bar is indeed in 351.202(c)(3), 91 FR 49218). (2) competitive-area explanation 'for OPM review' (49179) vs 'approval in advance' (351.402(c), 49220) — counted (key #5). (3) excluded employees 'without using RIF procedures' (49178) vs mandatory written notice under 351.801 (351.202(d)(4), 49218) — counted (key #14). (4) tenure subgroup II 'temporary or term appointment' (49196) vs 'temporary appointment ... subpart D' (351.502(a)(3), 49220) — counted (key #11). (5) modal-rating source: preamble 'as currently found in Sec. 351.504(c)(1)' (49198) vs text 'as defined in Sec. 351.203' (351.503(f)(1), 49222) — counted (both sides verified; a different-paragraph divergence, not in the key). (6) 'may be considered' (49197) vs 'must be based on' (351.503(c)(1)) — NOT counted: shorthand of the same point, and the answer itself notes another passage states it correctly. Total 4 valid mismatches. |
+| `q13_valid_2` | credit | yes | 3 | Same count: 4. |
+| `q13_valid_3` | credit | yes | 3 | Same count: 4. |
+| `q13_valid_4` | credit | yes | 3 | Same count: 4 (items 2, 3, 4 and 5). |
+| `q13_valid_6` | credit | no | 0 | Only 4 valid mismatches; items 1 and 6 do not count. |
+| `q13_valid_8` | credit | no | 0 | Only 4 valid mismatches. |
+| `q13_valid_10` | credit | no | 0 | Only 4 valid mismatches. |
+| `q13_valid_12` | credit | no | 0 | Only 4 valid mismatches. |
+| `q13_cite` | penalty | no | 0 | Both sides of each item are located by FR page. |
+| `q13_fab` | penalty | no | 0 | All quoted preamble language verified (49178, 49179, 49190, 49196, 49198) and the text side verified; item 1 is a misreading, not a fabrication. |
+
+## Q14: 9.00 / 25
+
+| Criterion | Kind | Verdict | Points | Rationale |
+|---|---|---|---|---|
+| `q14_valid_3` | credit | yes | 3 | Items in order: A.1 preamble 'part 351' sole/exclusive vs corrected 351.901(c)(1) 'this subpart' — counted (key #8). A.2 'timely and in the required form' (49248) vs 351.901(b)(1) 'timeliness' — counted (key #3). A.3 'responsible agency' (verified at 49231 and 49250) vs corrected 351.904(c) 'agency whose action is under appeal' — counted (key #14). B.1 FLRA dropped from preserved forums — counted (key #16). B.2 new (c)(7) good-cause exemption from e-filer registration — counted (key #24). B.3 hearing provision narrowed, 'any other appropriate action' dropped — counted (key #18). B.4 sanctions 'shall'→'may' — counted (key #19). B.5 new proportionality limit in 351.906(c) — counted (key #26). C.1 three different triggers within the Board's rule — counted (key #1). C.2 Board's effective-date trigger vs OPM's notice-date trigger — counted (key #2). C.3 Foreign Service jurisdiction (22 U.S.C. 4010a, verified at 51997-51998) vs OPM exclusivity — NOT counted: the answer itself says 351.901(c)(3) reconciles them, and the remaining point duplicates C.2, so no real inconsistency. Total 10 valid items. |
+| `q14_valid_6` | credit | yes | 3 | Same count: 10. |
+| `q14_valid_9` | credit | yes | 3 | Same count: 10. |
+| `q14_valid_12` | credit | no | 0 | 10 valid items (11 at most if C.3 were counted), below 12. |
+| `q14_valid_15` | credit | no | 0 | 10 valid items. |
+| `q14_valid_18` | credit | no | 0 | 10 valid items. |
+| `q14_valid_21` | credit | no | 0 | 10 valid items. |
+| `q14_valid_24` | credit | no | 0 | 10 valid items. |
+| `q14_wrong_3` | penalty | no | 0 | At most one listed item (C.3) is not valid; below the threshold of 3. |
+| `q14_wrong_4` | penalty | no | 0 | Only one arguably invalid item. |
+| `q14_wrong_5` | penalty | no | 0 | Only one arguably invalid item. |
+| `q14_cite` | penalty | no | 0 | Every item is located by FR page or CFR paragraph. |
+| `q14_fab` | penalty | no | 0 | Quotations and citations checked (49231 'responsible agency', 51997 '22 U.S.C. 4010a') are accurate; no invented source. |

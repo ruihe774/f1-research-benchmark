@@ -1,0 +1,153 @@
+## Q1
+
+**Answer:**
+(a) 2026-15665, 91 FR 49178-49227, published 2026-08-03, effective 2026-09-02, Docket OPM-2025-0107, RIN 3206-AO86. (b) Proposed rule 2026-04377, 91 FR 10904-10934, published 2026-03-05. (c) 2026-17335, 91 FR 54794-54796, 2026-08-25, effective 2026-09-02: typographical/clerical corrections to amendatory instructions and text in parts 316,330,351,353,430, authority citation conformed to appeals rule, section citations, 330.202/351.702 list structure and related errors. 2026-18800, 91 FR 58363-58364, 2026-09-15, effective 2026-09-15: correcting amendment restoring 5 CFR 330.602 `displaced' (1)(i)-(ii) inadvertently removed by instruction 11 of main rule. No other correction to main rule through 2026-11-14 found. (d) Amended rules govern RIFs where agency issues specific RIF notice on/after 2026-09-02; notices issued before that date are processed under regulations in effect when notice issued. Stated in DATES of 2026-15665 and Implementation, 91 FR 49207. (e) 2026-15666, 91 FR 49230, 2026-08-03, effective 2026-09-02, in force 2026-11-14: part 351 authority, 351.802(a)(6), 351.807(e), new subpart I, 351.901-351.909 OPM RIF appeals. 2026-21320, 91 FR 65924, 2026-10-19, effective 2026-11-18, not in force 2026-11-14: part 351 authority, 351.806 status during notice period, with 630.1403(c)(10). 2026-21316, 91 FR 65904, 2026-10-19, effective 2026-11-18, not in force 2026-11-14: 351.203 rating of record, 351.503(a)(1),(b)(2)-(3) to include part 430 subpart E/430.505 senior-professional levels. 2026-13715, effective 2026-08-06, and MSPB 2026-16456 amending only part 1201, are excluded as before main effective date / not part 351.
+
+**Basis:**
+2026-15665 doc/DATES 91 FR 49178; 2026-04377 doc 91 FR 10904; 2026-17335 91 FR 54794-96 supplementary and Correction 1-16; 2026-18800 91 FR 58363-64 supplementary 56-86 and amendment; 2026-15666 doc/DATES 91 FR 49230, regulatory text 91 FR 49263-67; 2026-21320 doc/DATES, regulatory text 91 FR 65939; 2026-21316 doc, regulatory text 91 FR 65916-17; 2026-13715 regulatory text 91 FR 41537-38; 2026-16456 CFR affected part 1201 only.
+
+**Uncertainty:**
+None on identification; corrections list is for main rule only, appeals correction 2026-17338 is separate.
+
+## Q2
+
+**Answer:**
+(a) Values L5=7,L4=5,L3=3,L2=0: Abbott 7+5+5=17+0=17 B I; Bianchi 5+0+3=8+5=13 AD I; Castillo 7+5+5=17+0=17 B I, not preference eligible see Q3; Dalton 2 ratings sum7 proxy3.5 total10.5+3=13.5 A I; Eze 5+5+5=15+0=15 B II (term 4yr, not career, not excluded temporary <=1yr); Fontaine 1 rating 5x3=15+0=15 B I. (b) Order augmented perf, subgroup, SCD: Abbott17 2003, Castillo17 2012, Fontaine15 I 2015, Eze15 II 2009, Dalton13.5, Bianchi13. Released Dalton and Bianchi. (c) Earlier rules Bianchi above Abbott: old order tenure group, veterans subgroup AD before B, then adjusted SCD; both career Group I, Bianchi AD, Abbott B, performance only within subgroup. (d) Bianchi, having received specific notice, may inspect complete retention register including all other employees names, her augmented credit and SCD, how level constructed and relative standing, and registers affecting assignment rights, subject to FOIA/Privacy; records preserved 2 years.
+
+**Basis:**
+351.503(a),(f)(2)-(3), 351.504(a)-(b), 351.501-502, 351.506(b)-(f) 91 FR 49220-23; earlier rules described 91 FR 49182-83 example AD/B, 91 FR 49186,49198-99 tenure/vets/adjusted SCD.
+
+**Uncertainty:**
+Eze tenure subgroup II follows 351.502(a)(3) text; term appointment authority not printed beyond assumption.
+
+## Q3
+
+**Answer:**
+(a) A: not preference eligible, +0, B; 351.504(b) introductory and (b)(2) 22yr length-service fails, (b)(4)-(5) require disabled veteran. B: not preference eligible, +0, B; commander major-equivalent and 40% disabled but (b)(2) 21yr fails, (b)(1) length-service retirement not disability armed-conflict/instrumentality, (b)(4) requires meeting (b)(1)-(3), (b)(5) age60/ch67 not stated. C: preference eligible, +5, AD; (b)(1)(i) disability retirement armed conflict, (a)(1) 60%>=30%. D: not preference eligible, +0, B; (b)(2) 24yr fails, below major for (b)(4)-(5). E: preference eligible, +3, A; (b)(2) 16yr not 20+, (a)(2) 10%<30%. (b) A: not covered by 504(b), so 505(b)(1) all active duty creditable, 22yr subtracted from 2010-09-07 = 1988-09-07; campaign 2yr irrelevant. C: covered, 505(b)(2) only war/campaign-badge time, none stated, so 0 credit, SCD 2010-09-07. (c) Subgroups AD/A/B are register/notice labels under 504(a) and 802(a)(2); they do not rank. Rank is tenure group, augmented perf, tenure subgroup, SCD under 501.
+
+**Basis:**
+351.504(a)(1)-(3),(b)(1)-(5) and 351.505(b)(1)-(2),(c)-(d) 91 FR 49222; 351.501 91 FR 49220.
+
+**Uncertainty:**
+C campaign/war time not stated; if any existed SCD would subtract that time only.
+
+## Q4
+
+**Answer:**
+(a) No cutoff, notices 2026-09-03: most recent 3 in 4yr are 2026-08-10 L5=7, 2025-11-14 L3=3, 2024-11-15 L3=3 total13. (b) Cutoff 45 days before 2026-09-03 is 2026-07-20. Period before cutoff most recent 3 are 2025 L3=3,2024 L3=3,2023 L4=5 total11; 2026-08-10 excluded. (c) No. 351.503(c)(3) requires issued with reviews/signatures and on record available to register office; not entered until 2026-08-15, after cutoff, and agency must specify received conditions under (c)(4)(i). (d) 2022-08-15 is before 4yr period starting 2022-09-03, so only L4=5,L3=3 sum8 proxy4 total12. (e) No ratings: 351.503(f)(1) modal rating as defined in 351.203 for pattern of position; definition/value not printed in documents, numeric credit cannot be determined from documents.
+
+**Basis:**
+351.503(c)(1)-(4),(f) 91 FR 49221-22; date arithmetic shown in answer.
+
+**Uncertainty:**
+Modal-rating numeric value and agency received-condition specification are not printed.
+
+## Q5
+
+**Answer:**
+(a)(i) Notice 2026-08-28 before 2026-09-02, earlier rules: both Group I/B, Lee 3/3/3 old credit12yr ASCD 1998-03-02-12=1986-03-02, Park 5/5/5 20yr ASCD 2019-07-08-20=1999-07-08, Lee higher, Park released. (ii) 2026-09-02 new rules: Lee9, Park21, Park higher, Lee released. (iii) 2026-09-03 same, Lee released. (b) No recalculation. Standing fixed as of receipt of original specific notice 351.507(a); amended notice solely for later effective date is not new specific notice for 507 and does not require redetermination 351.805(b); 2026-10-15 rating after notice not used, absent 507(c) error. (c) Version: date agency issues RIF notice, DATES 91 FR 49178. Four-year end: date of issuance of notices or cutoff date, 351.503(c)(1)-(2). Tenure subgroup/standing: date employee receives specific notice, 351.502 and 351.507(a).
+
+**Basis:**
+DATES 91 FR 49178, Implementation 91 FR 49207; old credit examples 91 FR 49186,49201 (3/3/3=12,5/5/5=20); new 351.503,501,507,805 91 FR 49220-27.
+
+**Uncertainty:**
+Old-rule arithmetic limited to FR examples/stated old credits as instructed; full old 351.504 formula not printed.
+
+## Q6
+
+**Answer:**
+(a) Assignment right to #1 GS12 Ellis, and agency must offer #1: same area/schedule FT, lower standing, 1 grade below, qualified, least reduction. #2 GS11 and #3 GS10 also rights (2 and 3 grades below) but not required offer while #1 available. #4 GS9 no, 4>3 grades. #5 Ito no, higher standing. #6 Kim no, part-time vs FT. #7 Lund no, different competitive area. (b) 30%+ pref: limit 5 grades, #4 becomes right, required offer remains #1 least reduction. (c) L1 current rating: 701(a) requires L2 or higher, no assignment right under 701. (d) Excepted service: 701(a) competitive only; 701.705(a) discretionary agency adoption only, none stated, so no right on documents. (e) 2026 documents eliminate former 701(d) L2 bar vs higher-rated holder and replace bump/retreat with lower-retention-standing assignment; test is retention standing not rating alone, L2 is eligibility floor.
+
+**Basis:**
+351.701(a)-(b) 91 FR 49225-26, 351.705(a); preamble 91 FR 49178-79,49204 on bump/retreat and eliminating L2 restriction.
+
+**Uncertainty:**
+Excepted-service agency adoption under 351.705 not stated and not in documents.
+
+## Q7
+
+**Answer:**
+(a) MSPB. Notice 2026-08-31 before 2026-09-02, appeals rule applies only if notice issued on/after 2026-09-02; MSPB continues pre-effective-date RIF appeals. Documents: OPM appeals final 2026-15666 DATES, correction 2026-17338 (non-substantive, effective 2026-09-02), MSPB 2026-16456 DATES/preamble, main rule 2026-15665 DATES for retention version. (b) OPM. Must e-file in system identified on OPM website unless good-cause exemption approved, no email/postal absent good cause. Effective Fri 2026-12-18, day1 2026-12-19, day30 2027-01-17 Sunday, extended to first workday after, 11:59pm ET (2027-01-18, or 2027-01-19 if 2027-01-18 is federal holiday, not specified in documents). (c) Preponderance: timeliness, OPM jurisdiction, agency noncompliance with statute/OPM RIF regulation, prejudice causing action/loss materially more favorable outcome. No hearing as of right; written record unless hearing necessary and efficient for material fact/credibility. (d) Rule: sole/exclusive OPM procedure, may not be raised in negotiated grievance/arbitration. Preamble: does not retroactively invalidate existing CBAs; on renegotiation governmentwide rule limits bargaining for inconsistent direct process, existing-provision/negotiability/ULP questions remain under chapter71. (e) No judicial review under 351.901(c)(4), no further appeal of final decision 351.909(e). (f) Yes if timely collateral filing before deadline and OPM finds material effect: appeal within 30 calendar days after collateral decision final/no further administrative review, i.e. 30 days after 2027-03-10 = 2027-04-09 11:59pm ET, subject to OPM sole discretion on materiality. (g) Appeals rule DATES applicability test, 91 FR 49230, restated preamble 91 FR 49248,49262.
+
+**Basis:**
+351.901-902,905,909 91 FR 49263-67; 2026-15666 DATES/preamble 91 FR 49244-45,49248; MSPB 91 FR 51997-98; correction 91 FR 54796.
+
+**Uncertainty:**
+Federal-holiday status of 2027-01-18 not in documents; counting otherwise as shown.
+
+## Q8
+
+**Answer:**
+(a) Today 2026-11-14: 351.806 not amended by main rule; preamble to 21320 describes existing (a) employee will remain duty status `when possible'. Adopted not yet in force: 21320 effective 2026-11-18 revises 806 to (a) `under ordinary circumstances' duty status, (b) admin leave all/part notice period if agency determines appropriate and consistent with part630 subpart N, (c) emergency annual leave with/without consent, LWOP with consent, nonpay without consent. (b) No employee consent required under (b)/630.1403(c)(10), agency sole/exclusive discretion. Limit is notice period; 630.1403(a)(3) usually <=1 workday but >1 may be approved for (c) uses including RIF (c)(10), no fixed day cap stated for RIF use. (c) OPM said CPM 2025-12 Template D.1.b already allowed admin leave between involuntary separation notice and separation effective date. (d) No change: standing fixed at receipt of notice, and 21320 states leave provisions do not alter RIF competition, registers, notice or appeal rights.
+
+**Basis:**
+21320 preamble 91 FR 65926,65933,65936 and regulatory text 351.806,630.1403(c)(10) 91 FR 65939-40; main rule contains no 351.806 amendment.
+
+**Uncertainty:**
+Pre-21320 full text of old 351.806 not printed in main rule; only preamble paraphrase available.
+
+## Q9
+
+**Answer:**
+1 Non-comply: area designated 2026-08-17, notices 2026-10-13 within 90 days, 351.402(c) requires OPM advance approval with description/bona fide statement. 2 In order: 351.202(d)(2)(ii),(d)(3) career-conditional initial probationary not competing, may be retained while competing released. 3 Non-comply: Ortiz career on supervisory probation only, initial probationary definition excludes supervisory probation, include in subgroup I/register. 4 Non-comply: cutoff 2026-09-13, 351.503(c)(2),(c)(4) no ratings after cutoff and uniform application; selective use for Pruitt prohibited. 5 Non-comply: proxy (7+5)/2=6 total18, not presumed L3/15, 351.503(f)(2). 6 Non-comply: five-level pattern, 351.503(d) QSI additional points only highest-level-3 patterns, (e) multiple-pattern transmutation to highest level only; +2 to all QSI holders unauthorized. 7 In order: 351.601(c) tie identical augmented credit/subgroup/SCD, agency may select any. 8 Non-comply: 351.602(a) may not release competing while retaining specifically limited temporary/term promotion (Reyes). 9 In order: 351.702(a)(4)(v) same position within 5yr ending receipt and L4>=L3, assessment not required. 10 Non-comply: 351.702(a)(4)(i)-(iii) must allow demonstration, job analysis, not solely/principally automated self-assessment. 11 Non-comply: 351.608(a)(3) exceptions may not be sequenced/stacked, longest only; undue interruption max90 under (b), total120 prohibited. 12 Non-comply: notice 2026-10-13, 351.802(a)(6) as amended by appeals rule and 351.902(b) require OPM appeal, 30 calendar days from effective date via OPM e-filing, not MSPB.
+
+**Basis:**
+351.402(c),202(d),203 initial probationary,502,503(c)(d)(e)(f),601(c),602,608(a)(3)(b),701/702,802(a)(6),902(b) as cited, main/appeals rules 91 FR 49218-27,49263-64.
+
+**Uncertainty:**
+Step6 assumes all employees same five-level pattern as scenario states; step9 assumes same duties/series/conditions as stated.
+
+## Q10
+
+**Answer:**
+(a) On 2026-09-10 paragraph (1) contained only introductory text: `A current competitive service employee in the competitive service tenure group at GS-15 or below (or another qualifying competitive service appointment, as determined by OPM) who:` with (1)(i)-(ii) missing. Reason: main rule effective 2026-09-02, instruction 11, directed revision of paragraph (1) and printed only introductory text, inadvertently removing (1)(i)-(ii). (b) Changed 2026-09-15 by 2026-18800, 91 FR 58363, effective 2026-09-15, restoring (1)(i)-(ii) as before 2026-09-02. OPM invoked good cause 5 USC 553(b)(B) no notice/comment and 553(d)(3) effective on publication, characterizing it as no substantive change restoring text not proposed for removal. (c) After restoration (1)(i) requires RIF separation notice under part 351 and `has not declined an offer under part 351 subpart G of a position with same type of work schedule and representative rate at least as high' as separated position. Lower-rate full-time offer declined is not such an offer, so Nadia remains displaced under (1)(i). If offer had same representative rate (and same full-time schedule), declining it is declining such an offer, so (1)(i) fails.
+
+**Basis:**
+2026-15665 instruction 11, 91 FR 49217, 330.602 displaced (1) introductory text only; 2026-18800 91 FR 58363-64 background 56-72, APA 79-86, amendment restoring (1)(i) RIF notice/declined subpart G offer and (1)(ii) part 752 relocation notice.
+
+**Uncertainty:**
+None; (1)(ii) not applicable on stated facts.
+
+## Q11
+
+**Answer:**
+Part 351 only, proposed 2026-04377 vs final 2026-15665 as published (corrections noted): (1) Authority: proposed 1302,3502,3503 to final 1103,1104,1302,2301,3502,3503,38 USC 4331 (correction). (2) 351.202(c)(3) `where such the' to `where the'. (3) 351.202(d) heading/operative: proposed `provisions do not apply' to final `not a competing employee'; (d)(1)(ii),(d)(2)(i)-(ii) `as of date agency issues' deleted; (d)(1)(iii)-(iv) `Schedule C/G appointments' to `employee serving under'; (d)(2)(iii) `temporary or term...subpart C or D' to `temporary...subpart D'; (d)(3) `without regard to this part' to without subparts D/E,F,G if consistent with appointment/law; new (d)(4) modified 351.801 notice with 351.802(a)(1),(3),(5),(6),(b), stating not competing/not ranked, omitting (a)(2),(4). (4) 351.203 furlough: proposed `dependent entirely on congressional action' phrase deleted. Initial probationary `applicable on' to `applicable...described in'. Rating of record: `assessing performance' to `for performance', 430.208(d) to (e). New definition Restoration protected employee added. (5) 351.204 adds consistency with applicable laws/merit principles 2301(b). (6) 351.302(d) `part 752' to `5 CFR part 752 if applicable, or other procedures required by law/regulation/appointment terms'. (7) 351.402: proposed only (b) to final adding (c) OPM advance approval, description and bona fide statement, for area established/materially modified within 90 days before issuing notices. (8) 351.502: `as of date agency issues' to `as of date employee receives' in (a)(2),(a)(3),(b)(2),(b)(3); (a)(3) `temporary or time-limited...C or D' to `temporary...D'. (9) 351.503(a)(1) 430.208(d) to (e), Level 2 `Minimally Successful' to `Minimally Satisfactory'; (d),(e)(1) 430.208(d) to (e) and (d) pattern D / (e)(2) transmutation qualified `authorized under 430.208(d) prior to final rule at 91 FR 41521'. (10) 351.504(a) `should be identified' AD/A/B to `must be identified'. (11) 351.505(b)(2) cross-reference 351.503(b) to 351.504(b). (12) 351.506(c)(1) `their performance credit/their SCD' to released `employee's' credit/SCD with other relevant information; (c)(2) as published (b) and (c) (correction deletes (c)); (d) adds does not limit access under another statute/regulation. (13) 351.604 proposed revision/removal of (d) not adopted in final. (14) 351.605 proposed combined (a)/(b) to final (a) use,(b) abolishment,(c) notice under 351.801,(d) no register/assignment rights. (15) 351.606(a) proposed one-sentence retention priority to final (a)(1)-(6) mandatory exception, ordinary standing first, no release if another may be released, reassignment/OPM placement, no alteration of standing/parts 432/752, documentation. (16) 351.608(a)(2) CTAP subpart E to F. (17) 351.701(a) Level 2 `minimally successful' to `minimally satisfactory'; (b)(3) `pursuant the' to `pursuant to'. (18) 351.702(a)(4)(iii) `does not solely include or principally rely on self-assessment from automated examination' to `does not consist solely of, or principally rely on, automated self-assessment'; new (a)(4)(v) 5-year same/substantially same position exemption for assessment. (19) 351.802 adds introductory text `Except as otherwise provided...must include:'; (a)(2) `veteran status' to `veterans preference subgroup'; (a)(3) `link to part 351...access' to `link to 5 CFR part 351...information on how to access'. (20) New 351.805(b) amended notice solely for later effective date is not new specific notice for 351.507, no redetermination, error correction preserved.
+
+**Basis:**
+Proposed regulatory text 91 FR 10926-10934, instructions 16-38; final regulatory text 91 FR 49218-49227, instructions 16-37; correction 2026-17335 items 2,7-14.
+
+**Uncertainty:**
+Wording-only instruction phrasing in 351.301, 351.302(g), 351.507(b), 351.608(c)-(d) excluded as meaning unchanged; corrected final cross-references noted where they differ from as-published final.
+
+## Q12
+
+**Answer:**
+(a) Notices 2026-10-05, 4-year period 2022-10-06 to 2026-10-05: Alvarez 7+7+5=19+0=19 I SCD2011; Brandt 3+5+0=8+5=13 AD I 2014; Chen only 2024-25 in period, 7+5 proxy6=18+0=18 I 2017 (2022-09-30 outside period); Dube 5+5 proxy5=15+3=18 II 2015 (career-conditional completed probation); Estrada 5+3+5=13+3=16 I 2012 (2026-10-20 rating after issuance excluded); Farouk 3x3=9+0=9 I 2019 ordinary, restoration-protected (restored 2026-07-13, 14 months service, within 1 year); Quinn excluded, 351.202(d)(2)(ii) initial probationary, not competing/not ranked. Order: Alvarez19, Chen18 I, Dube18 II, Estrada16, Brandt13, Farouk9. (b) Abolish 3: lowest are Farouk, Brandt, Estrada, Dube. Farouk mandatory exception 351.606(a) may not be released if another may be released, so released are Dube, Estrada, Brandt. (c) Holders: Gomez GS12 17, Hill GS11 11+3=14, Jones GS10 15, Ikeda GS9 9, all I. Dube18 higher than all holders: no 351.701(b)(1) lower-standing position, no offer. Estrada16: Gomez higher, GS11/GS10 within 3 grades and lower, must offer least-reduction GS11 Hill. Brandt13, 30% limit 5 grades: Gomez/Hill/Jones higher, only Ikeda GS9 lower and 4 grades below, must offer GS9. (d) Accepted offers: Estrada to Hill GS11, Brandt to Ikeda GS9. Hill qualified only for GS11, Ikeda only GS9, neither qualified for lower positions and holders above them have higher standing, so Hill and Ikeda separated. Dube separated for no assignment. Separated: Dube, Hill, Ikeda.
+
+**Basis:**
+351.503(a)(1) values 7/5/3/0, (c)(1) 3 most recent in 4 years before issuance, (f)(2)-(3) proxy/one-rating, 351.504(a) +5/+3, 351.502(a)(2)-(3) subgroup I career/II other, 351.202(d)(2)(ii),(d)(3) exclusion, 351.501 order, 351.606(a) restoration mandatory exception, 351.701(a)-(b) lower standing, same area/schedule, 3 grades/5 grades for 30%+, 351.702 qualification assumed stated.
+
+**Uncertainty:**
+Farouk ordinary score assumes 1-rating rule in 351.503(f)(3) applies despite absence; protection period length follows 14 months >180 days as stated in preamble to 351.606, exact 353.209(b) text not printed.
+
+## Q13
+
+**Answer:**
+(1) Exec summary 91 FR 49178-79 item2: excluded employees can be retained/separated `without using RIF procedures' vs 351.202(d)(3)-(4) 91 FR 49218: without D/E,F,G, and (d)(4) modified 351.801 notice if released for 351.201(a)(2) reasons not mere expiration. Correctly stated 91 FR 49191-92. (2) Exec summary item13 91 FR 49179: exemption if held same/substantially similar `within five years of the RIF' vs 351.702(a)(4)(v) 91 FR 49226: 5 years ending on date employee receives specific notice, same position or same grade/pay with substantially same duties/series/qualifications/conditions, Level3+. Correctly stated 91 FR 49204. (3) 91 FR 49196 subgroup II `temporary or term appointment 1 year or less' vs 351.502(a)(3) 91 FR 49220 `temporary appointment 1 year or less under subpart D part 316'. Correct tenure-group statement 91 FR 49191. (4) 91 FR 49191 tenure groups `as of date of the RIF notice' vs 351.502(a)(2),(a)(3),(b)(2) 91 FR 49220 `as of date employee receives specific notice'. Correctly stated for excepted I 91 FR 49196. (5) Example3 order 91 FR 49200: Tenure|Performance|Vets Pref|SCD vs 351.501(b)-(c) 91 FR 49220: performance as augmented by vets, then tenure subgroup, then SCD. Correctly stated Example2 91 FR 49200. (6) 91 FR 49202: modifying 351.602 to remove prohibition on retaining employee serving specifically limited temporary appointment vs 351.602(a) 91 FR 49223: may not release while retaining employee with specifically limited temporary or term promotion. No passage states prohibition as removed. (7) 91 FR 49205: modified notice under Sec 351.605(b) vs 351.605(c) 91 FR 49223 is notice paragraph, (b) is abolishment. Correctly cited 91 FR 49202-03. (8) Part 353 preamble 91 FR 49206: revising Sec 353.301(b) vs instruction 41/351.301(a) text 91 FR 49226 revising (a). Correctly stated 91 FR 49206-07 for (a). (9) Exec summary item3 91 FR 49179: area `in effect less than 90 days prior to specific notice' vs 351.402(c) 91 FR 49220: establishes/materially modifies within 90 days before issuing notices. Correctly stated 91 FR 49196.
+
+**Basis:**
+Main rule preamble pages cited vs amendatory text pages cited in each item.
+
+**Uncertainty:**
+Items based only on printed text; paragraphs not printed (e.g. 351.802(a)(1),(4)-(6)) not listed.
+
+## Q14
+
+**Answer:**
+(i) (1) 91 FR 49248 preamble 901(b) timely `and in required form' vs 351.901(b)(1) 91 FR 49264 timeliness only. (2) Preamble 91 FR 49248,49231 `procedures in part 351' vs corrected 351.901(c)(1) 91 FR 49264/54796 `in this subpart'. (3) Preamble 91 FR 49231,49249 entity in `Sec 351.901(c)' vs corrected 351.902(b)(3) `351.901(c)(3)'. (4) Preamble 91 FR 49231,49250 `responsible agency' in 904(c) vs corrected text `agency whose action is under appeal'. (5) Preamble 91 FR 49232 `protected personnel information' in 909(f) vs corrected `protected personal information'. (6) Preamble 91 FR 49249 may not e-file/access `unless registered' vs 351.902(c)(2) 91 FR 49264 `unless registered or exempted under (c)(7)'; later preamble 49249 states exemption correctly. (ii) Summary 91 FR 49230-32 does not acknowledge: authority adds 1103,1104,2301,38 USC 4331; deletes 351.802(a)(6) Sec 1201.21 sentence; removes FLRA from 901(c)(3) preserved entities in proposed 91 FR 5875; 902(a) initial appeal to initial decision; 902(c)(2) (c)(7) exemption; 902(c)(5) best address to address; 905(c) deletes `or any other appropriate action/directs parties to comply' and adds require additional information; 906(b) shall to may and new 906(c) proportionality; 909(e) `on this part' to `under this subpart that address claim on merits'. (iii) MSPB 2026-16456 DATES/preamble 91 FR 51997-98: continues RIF appeals where agency notice issued before 2026-09-02, consistent with OPM DATES notice-on/after test. Section III 91 FR 51998: will adjudicate appeals received after 2026-09-02 where RIF effective date preceded 2026-09-02 - effective-date test differs (e.g. notice 2026-08-31/effective 2026-10-30). Regulatory text 91 FR 51998 removes 1201.3(a)(6) with no saving clause, while DATES/preamble promise continuation; OPM 351.901 text likewise has no applicability note, preamble 91 FR 49248 states it is preamble-only.
+
+**Basis:**
+OPM appeals final preamble/text 91 FR 49230-32,49248-50,49263-67; correction 2026-17338 91 FR 54796; proposed appeals 91 FR 5874-77; MSPB 2026-16456 91 FR 51997-98 DATES, preamble B and III, amendment.
+
+**Uncertainty:**
+Only items checked against printed text listed; FLRA omission in summary is by omission in summary list, section-by-section does not restore FLRA.
