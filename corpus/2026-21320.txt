@@ -1,0 +1,2131 @@
+Federal Register, Volume 91 Issue 200 (Monday, October 19, 2026)
+
+
+[Federal Register Volume 91, Number 200 (Monday, October 19, 2026)]
+[Rules and Regulations]
+[Pages 65924-65940]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-21320]
+
+
+-----------------------------------------------------------------------
+
+OFFICE OF PERSONNEL MANAGEMENT
+
+5 CFR Parts 351, 630, and 715
+
+[Docket ID: OPM-2026-0397]
+RIN: 3206-AP07
+
+
+Administrative Leave for Workforce Realignment and Other Purposes
+
+AGENCY: Office of Personnel Management.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Office of Personnel Management (OPM) is issuing a final 
+rule to amend its regulations governing administrative leave for 
+workforce realignment and other purposes. This final rule more fully 
+addresses the appropriate uses of administrative leave, including use 
+in connection with deferred resignation programs and other workforce 
+realignment initiatives, and for other purposes. The final rule also 
+clarifies when an agency may provide administrative leave during a 
+reduction-in-force notice period and accept or deny an employee's 
+request to withdraw a resignation in the context of a deferred 
+resignation program.
+
+DATES: This rule is effective November 18, 2026.
+
+FOR FURTHER INFORMATION CONTACT: Bryce Baker by telephone at (202) 606-
+2858 or by email at [email protected].
+
+SUPPLEMENTARY INFORMATION: OPM is issuing a final rule to amend its 
+regulations on administrative leave in 5 CFR part 630, subpart N, and 
+related regulations on reductions in force in 5 CFR 351.806 and on 
+resignations in 5 CFR 715.202. OPM issued a proposed rule on June 29, 
+2026 (91 FR 39032).
+
+I. Digest of Public Comments
+
+    In response to the proposed rule, OPM received 30 comments during 
+the 30-day public comment period from multiple individuals, one agency 
+(0027), two unions (0022 and 0030), and three employee advocacy groups 
+(0025, 0026, and 0029). All comments were posted and made available to 
+the public in the docket at https://www.regulations.gov/docket/OPM-2026-0397. A reference to a comment provides the location of the item 
+in the public record (i.e., comments filed in response to the proposed 
+rule are available at https://www.regulations.gov/comment/OPM-2026-0397-nnnn where ``nnnn'' is the comment number).
+    At the conclusion of the public comment period, OPM reviewed and 
+analyzed the comments. In general, the comments on the proposed 
+regulation changes were mixed. The comments are summarized below, 
+including suggestions for revisions that OPM considered and either 
+adopted, adopted in part, or declined to adopt, along with OPM's 
+supporting rationale. Section II of this preamble provides background 
+information. Section III responds to the comments. Section IV provides 
+a section-by-section analysis of the regulatory changes, section V sets 
+forth the regulatory analysis, and section VI addresses regulatory 
+compliance requirements.
+
+II. Background
+
+    On December 17, 2024, OPM issued final regulations on 
+administrative leave that added a new subpart N in 5 CFR part 630 (89 
+FR 102256). The regulations in subpart N govern use of administrative 
+leave authorized for Federal employees under 5 U.S.C. 6329a, which was 
+enacted as part of the Administrative Leave Act of 2016 (section 1138 
+of Pub. L. 114-328, December 23, 2016). OPM subsequently
+
+[[Page 65925]]
+
+identified the need to clarify certain matters in subpart N. On June 
+29, 2026, OPM issued a proposed rule (91 FR 39032) pursuant to its 
+regulatory authority at 5 U.S.C. 6329a(c). The proposed rule addressed 
+acceptable and unacceptable uses of administrative leave. In 
+particular, OPM proposed to add a list of specific examples of 
+acceptable uses, including use in connection with deferred resignation 
+programs \1\ and other workforce restructuring initiatives. These final 
+regulations codify existing OPM policies on administrative leave. The 
+primary OPM policy documents are a ``Fact Sheet: Administrative Leave'' 
+and an OPM memorandum to agency Chief Human Capital Officers entitled 
+``Template for Agency Administrative Leave Policies'' (CPM 2025-12, 
+July 30, 2025) (``Agency Policy Template'').\2\
+---------------------------------------------------------------------------
+
+    \1\ See the following OPM memoranda on the 2025 Governmentwide 
+deferred resignation program available at https://www.opm.gov/chcoc/published-memos/: ``Guidance on Probationary Periods, Administrative 
+Leave and Details'' (January 20, 2025), ``Guidance Regarding 
+Deferred Resignation Program'' (January 28, 2025), ``Guidance on 
+Collective Bargaining Obligations in Connection with Deferred 
+Resignation Offer'' (February 4, 2025), and ``Legality of Deferred 
+Resignation Program'' (February 4, 2025).
+    \2\ The OPM ``Fact Sheet: Administrative Leave'' is found at 
+https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/administrative-leave/. The OPM memorandum 
+``Template for Agency Administrative Leave Policies'' (CPM 2025-12, 
+July 30, 2025) is available at https://www.opm.gov/chcoc/published-memos/.
+---------------------------------------------------------------------------
+
+    In addition, the proposed rule included proposed changes to related 
+regulations. It proposed to amend OPM's reduction-in-force (RIF) 
+regulations at 5 CFR 351.806 to clarify the conditions under which an 
+agency may provide administrative leave during a RIF notice period. It 
+also proposed to amend OPM's resignation regulations at 5 CFR 715.202 
+to (1) provide that an agency has sole and exclusive discretion in 
+deciding whether to accept or deny an employee's request to withdraw a 
+resignation before the resignation has become effective and (2) 
+specifically address that an employee's receipt of benefits provided 
+under a deferred resignation agreement, such as paid administrative 
+leave, is a valid reason to deny an employee's request to withdraw a 
+resignation.
+
+III. Responses to Comments
+
+A. Use of Administrative Leave in Connection With a Deferred 
+Resignation Program
+
+    A number of comments, including 0004, 0006, 0016, 0019, 0025, 0026, 
+and 0029, opposed codifying use of administrative leave in connection 
+with deferred resignation programs (DRP) as an acceptable use, arguing 
+that use of administrative leave for workforce restructuring 
+circumvents RIF procedures in 5 CFR part 351, which includes legal 
+safeguards to ensure that, when necessary, employees are released from 
+employment in an orderly manner. Commenters argued that voluntary early 
+retirement authority (VERA) and voluntary separation incentive payments 
+(VSIP) already provide bounded, accountable mechanisms with statutory 
+caps, and that open-ended administrative leave is designed to escape 
+those limits. Comment 0004 stated that OPM should reject any regulatory 
+framework that treats administrative leave as a preferred alternative 
+to lawful RIF procedures. Comment 0006 objected that administrative 
+leave, traditionally a short-duration tool, is being expanded into a 
+workforce reduction mechanism that departs from established civil 
+service procedures.
+    Comment 0025 argued that deferred resignation programs require a 
+statutory foundation separate from section 6329a, noting that Congress 
+has separately authorized the VSIP and VERA programs and asserting that 
+section 6329a cannot be used to ``create and fund a massive 
+governmentwide paid separation benefit.'' The commenter cited public 
+reporting estimating the cost of 2025 deferred resignation programs at 
+approximately $11.1 billion and urged OPM to work with Congress on a 
+legislated transition or severance program. The commenter urged OPM to 
+withdraw the proposal in its entirety, begin using administrative leave 
+as intended by Congress, and seek legislation for any broader paid 
+transition or severance program.
+    Comment 0016 similarly argued that VERA and VSIP already provide 
+bounded, accountable voluntary-reduction tools with statutory caps, 
+making open-ended administrative leave unnecessary, and that codifying 
+open-ended administrative leave as a ``transition-to-separation tool'' 
+invites agencies to route around the disciplined mechanisms Congress 
+enacted, and to do so with public funds and no meaningful oversight. 
+Comment 0026 recommended that OPM work with Congress to raise the 
+statutory cap on voluntary separation incentive payments to make it a 
+more useful tool. An individual commenter argued that the proposed rule 
+weakens the due process protections that have sustained a competent, 
+professional, merit-based civil service, and that it will harm Federal 
+recruitment and retention and requested withdrawal of the proposed 
+rule. Due process concerns are addressed further in section III.F.
+    OPM disagrees that a separate statutory authorization is required 
+to use administrative leave in conjunction with a DRP. Administrative 
+leave provided in connection with a DRP is administrative leave under 
+section 6329a, provided pursuant to a written agreement in which the 
+employee voluntarily commits to separate on a specified future date. 
+Such leave is not ``placed'' on an unwilling employee; it is a benefit 
+the employee elects to accept as part of a voluntary transition to 
+separation. The concerns that animated the Administrative Leave Act--
+open-ended, involuntary removal of employees from the workplace during 
+unresolved personnel matters--are not implicated where an employee has 
+voluntarily agreed to separate and to the terms of the transition 
+period.
+    The existence of VSIP and VERA does not preclude the use of 
+administrative leave as a complementary workforce-shaping tool. Those 
+authorities address different benefits--lump-sum incentive payments and 
+modified retirement eligibility, respectively--and nothing in those 
+statutes states or implies that they are the exclusive means by which 
+agencies may facilitate voluntary separations. Indeed, the new Sec.  
+630.1403(c)(9) expressly contemplates that administrative leave may be 
+used in conjunction with VSIP and VERA. Section 630.1403(c)(9) is 
+limited to cases where employees sign voluntary written agreements to 
+separate on a specified future date and receive administrative leave as 
+a part of that voluntary agreement. Agencies have long had discretion 
+to determine how employees in a transition-to-separation posture will 
+be utilized, and the final rule confirms that discretion while 
+subjecting it to Governmentwide limits established by OPM and 
+applicable agency limits.
+    OPM acknowledges that VERA and VSIP are separate authorities with 
+their own limits; the inclusion of those authorities in the same 
+example is descriptive of the range of voluntary transition tools and 
+does not subject administrative leave to, or exempt it from, the 
+statutory conditions governing VERA or VSIP, which continue to apply on 
+their own terms.
+    OPM does not agree that this final rule expands administrative 
+leave into a workforce reduction tool that circumvents RIF procedures. 
+The final rule does not waive, suspend, or displace any requirement of 
+5 CFR part 351. Retention registers, retention standing, veterans' 
+preference, and all
+
+[[Page 65926]]
+
+other RIF requirements continue to apply in full to any involuntary RIF 
+separation. The only change made to part 351 is to Sec.  351.806, which 
+addresses an employee's duty status during the RIF notice period. 
+Paragraph (a) retains the general expectation that an employee will 
+remain in a duty status during the notice period. It replaces the 
+``when possible'' language with ``under ordinary circumstances,'' which 
+is consistent with the language used in 5 CFR 752.404(b)(3) that 
+addresses duty status during an advanced notice period in connection 
+with a proposed removal or suspension. The new paragraph (b) permits--
+but does not require--administrative leave for all or part of that 
+period when the agency determines such leave is appropriate. This 
+regulatory clarification is consistent with OPM policy guidance \3\ 
+which already provided that an authorized agency official may provide 
+administrative leave between an employee's receipt of a notice of 
+involuntary separation and the effective date of that separation.
+---------------------------------------------------------------------------
+
+    \3\ See section D.1.b in OPM memorandum ``Template for Agency 
+Administrative Leave Policies'' (CPM 2025-12, July 30, 2025), which 
+is available at https://www.opm.gov/chcoc/published-memos/.
+---------------------------------------------------------------------------
+
+    New Sec.  630.1403(c)(10) and revised Sec.  351.806 address only 
+whether an employee may be placed in a paid, non-duty status during a 
+RIF notice period. Those provisions do not alter the substantive or 
+procedural requirements governing RIF, which continue to apply in full 
+whenever an agency conducts a RIF. Nothing in this rule authorizes an 
+agency to bypass RIF competition, retention registers, or appeal 
+rights.
+    As to cost, OPM addresses costs in section III.B and regulatory-
+impact matters in section III.E. OPM notes here that the DRPs conducted 
+in 2025 were undertaken pursuant to existing regulatory authority and 
+OPM guidance; this rule codifies the availability of administrative 
+leave for DRP programs prospectively, subject to the limits described 
+above. OPM agrees that Congress remains free to enact additional 
+workforce-transition authorities but disagrees that such legislation is 
+a prerequisite to the uses identified in this rule. The sponsors of the 
+Administrative Leave Act were concerned about costs associated with 
+open-ended investigations of employees and did not consider a use of 
+administrative leave that would produce long-term cost savings by 
+facilitating workforce reductions.
+    OPM declines to withdraw the rule or to make changes based on this 
+line of comments. The final rule is a lawful exercise of OPM's 
+authority under 5 U.S.C. 6329a(c)(1), strengthens the regulatory 
+framework by converting policy guidance into binding prohibitions and 
+clarifying acceptable uses, preserves the duty-status presumption 
+during RIF notice periods, and does not alter the statutory 10-workday 
+limit or the investigative- and notice-leave framework of section 
+6329b.
+
+B. Cost of Administrative Leave and DRP
+
+    Several comments, including 0004, 0016, 0022, and 0025, objected to 
+the cost of using administrative leave in conjunction with a DRP. 
+Comment 0004 stated the 2025 deferred resignation programs showed 
+waste, including paying employees who performed no work and later 
+rehiring. The commenter believes a full accounting of the DRPs should 
+be conducted before similar programs are codified in regulation. 
+Comment 0016 noted that the 2025 DRP placed tens of thousands of 
+employees in paid non-duty status for months while delivering no work 
+to the public, a direct payroll expenditure for zero output, compounded 
+by the loss of institutional knowledge, the collapse of continuity in 
+mission-critical functions, and the documented degradation of agency 
+capacity that followed. Comment 0022 commented that the proposed rule 
+attempts to justify the administration's costly workforce reduction 
+efforts, including widespread use of administrative leave, by promising 
+``large long-term savings'' without providing concrete support or 
+considering downstream effects of letting employees participate in DRP.
+    Comment 0022 also stated that OPM failed to provide concrete 
+support that justifies costly workforce reduction efforts, even as it 
+acknowledges the costs of the workforce reduction initiatives that 
+began in early 2025. The organization cited two recent studies that 
+highlight significant expenses tied to these workforce reduction 
+programs: (1) a June 2026 study estimated that deferred resignation 
+programs alone have cost at least $11 billion; and (2) another analysis 
+from April 2026 found that the Government paid approximately $4.5 
+billion in salary and benefits to employees who were not working under 
+DRP agreements.
+    OPM respectfully disagrees with the commenters on the costs 
+associated with the original DRP. OPM acknowledged in the proposed rule 
+that there is a temporary cost to providing administrative leave and 
+stated its judgment that use of administrative leave in connection with 
+deferred resignation programs and other workforce restructuring 
+initiatives can generate long-term savings by reducing Federal staffing 
+levels. OPM did not project costs or savings from the proposed 
+regulations themselves because the regulations codify Governmentwide 
+policies already in place, and OPM does not expect codification to 
+produce significant changes in the usage of administrative leave.
+    Further, OPM policy guidance has stated that use of administrative 
+leave in connection with DRP is in the interest of the agency and of 
+the Government as a whole because it facilitates workforce 
+restructuring and realignment efforts leading to a leaner, less 
+expensive, less wasteful, more efficient, and more mission-focused 
+Federal workforce. OPM also notes that this policy is not open-ended: 
+beginning in calendar year 2026, use of administrative leave by an 
+employee in connection with a workforce realignment initiative is 
+limited to 12 weeks in any individual instance unless a higher 
+threshold has been jointly approved by OPM and the Office of Management 
+and Budget. In addition, Sec.  630.1403(a)(6) requires an authorized 
+agency official to consider the effect on productivity and mission 
+needs and the strength of the justification for using appropriated 
+funds.
+    OPM calculates that DRP separations in 2025 represented a workforce 
+reduction of over 6 percent, which contributed to the overall reduction 
+of the Federal workforce of over 12 percent from December 2024 to March 
+2026. Those workforce reductions create significant long-term savings 
+even after accounting for the one-time costs of DRP administrative 
+leave, which represent less than 3 percent of total basic payroll for 
+Federal employees. Because the payroll savings from a smaller workforce 
+recur in every subsequent fiscal year while the administrative leave 
+outlays are one-time transition costs, the long-term savings 
+substantially exceed the short-term costs even under the commenters' 
+own estimates.
+    OPM makes no changes in the regulations in response to this line of 
+comments.
+
+C. 10-Workday Limit
+
+    Comment 0025 asserted that the proposed rule exceeds OPM's 
+authority under the Administrative Leave Act of 2016, 5 U.S.C. 6329a-
+6329c, by establishing a regulatory exception to the statutory 10-
+workday calendar year limit. The commenter argued that the section 
+6329a(b) 10-workday calendar-
+
+[[Page 65927]]
+
+year limit reflects Congress's intent to curb extended agency-directed 
+paid non-duty status, that OPM's authority under section 6329a(c)(1) to 
+prescribe acceptable uses does not include authority to override that 
+limit, and that authorizing months of administrative leave for 
+workforce realignment, RIF notice periods, and settlements would render 
+the statutory cap ``optional and meaningless.'' The commenter urged OPM 
+to withdraw the proposal and seek legislation for any broader paid 
+transition or severance program. Similarly, comment 0029 asserted that 
+the proposed rule conflicts with the 10-workday limit Congress enacted 
+in section 6329a(b)(1) by ``re-authorizing exactly the indefinite, 
+uncontestable leave status Congress acted to eliminate.''
+    However, comment 0029 supported retaining the language found in 
+proposed Sec.  630.1403(b)(3) concerning the use of administrative 
+leave for investigative purposes. A labor organization (0030) similarly 
+argued that the text and structure of the Act--including the separately 
+defined and expressly limited investigative leave authority in 5 U.S.C. 
+6329b--show that Congress withheld the power to provide unlimited 
+amounts of administrative leave, and cited the sense-of-Congress 
+findings accompanying the Act (5 U.S.C. 6329a note) that agency use of 
+administrative leave had exceeded reasonable amounts and that 
+administrative leave should be used sparingly.
+    OPM disagrees that the rule exceeds its statutory authority. 
+Congress expressly directed OPM to ``prescribe regulations to carry 
+out'' section 6329a, including regulations governing the ``acceptable 
+agency uses of administrative leave'' and the recording of such leave 
+(5 U.S.C. 6329a(c)(1)). The final rule is an exercise of precisely that 
+delegated authority: it identifies acceptable and prohibited uses of 
+administrative leave and codifies existing Governmentwide policies to 
+promote consistency and accountability across agencies.
+    The final rule does not waive, extend, or otherwise modify the 10-
+workday limit in section 6329a(b)(1). As OPM explained in the December 
+2024 final rule (89 FR 102256), the statutory limit applies where an 
+agency ``place[s]'' an employee on administrative leave for 
+investigative purposes. The 10-workday limit directly connects to a 
+provision in the investigative leave law (section 6329b(b)(3)(A)), 
+which bars placing an employee on investigative leave until the 10-
+workday limit is reached.
+    The final rule preserves and indeed strengthens the statutory 
+framework. New Sec.  630.1403(b)(3) provides clarity by expressly 
+prohibiting use of administrative leave for investigative purposes once 
+the employee has reached the 10-workday limit. If necessary, an agency 
+may then use investigative leave under section 6329b, with all of that 
+section's procedural safeguards, approvals, time limits, and reporting 
+requirements. Thus, the final rule gives fuller effect to the statutory 
+scheme Congress designed for the specific problem that motivated the 
+Administrative Leave Act--prolonged, agency-directed removal of 
+employees from the workplace during personnel investigations.
+    The commenter's reading--under which the 10-workday limit would 
+govern all extended uses of administrative leave--is inconsistent with 
+the position the commenter itself acknowledges: that general 
+administrative leave for purposes such as voting, blood donation, and 
+emergency closures remains outside the cap. The statute does not 
+enumerate acceptable purposes; it delegates that task to OPM. Nothing 
+in the text of section 6329a confines OPM's authority under subsection 
+(c)(1) to brief or de minimis uses, and the enumerated examples in 
+Sec.  630.1403(c) operate within, not around, the statutory limits: 
+uses that fall within the investigative context remain subject to the 
+10-workday limit, which when reached triggers coverage under section 
+6329b, while the workforce-realignment uses in paragraphs (c)(9) 
+through (c)(11) address categorically different circumstances, 
+discussed further below. The December 17, 2024, final rule cited by the 
+commenter included this sentence: ``An incidence of administrative 
+leave lasting more than 1 workday may be approved when determined to be 
+appropriate by an agency'' (5 CFR 630.1403(a)(3)). This final rule 
+simply adds specific examples of appropriate uses of administrative 
+leave for periods of more than 1 workday.
+    The rule does not authorize unlimited administrative leave: the 
+workforce-realignment uses in Sec.  630.1403(c)(9) and (c)(11) are 
+expressly subject to Governmentwide limits established by OPM--
+currently 12 weeks in any individual instance absent joint OPM and 
+Office of Management and Budget approval of a higher threshold--and to 
+any agency limits, and every use of administrative leave remains 
+subject to the principles and decision factors in Sec.  630.1403(a).
+    Finally, the ``Sense of Congress'' accompanying the Act--that 
+agencies should use administrative leave ``sparingly'' and manage its 
+costs prudently--is a non-binding statement of policy that informs, but 
+does not displace, the operative statutory text. The final rule is 
+consistent with that policy: it retains the general principles in Sec.  
+630.1403(a) that administrative leave is discretionary, should be 
+limited to the amount reasonably necessary, and ordinarily should not 
+exceed one workday for a single incidence, while identifying the 
+limited circumstances in which longer periods are appropriate. It also 
+adds new binding prohibitions (Sec.  630.1403(b)(3)-(5)) that constrain 
+agency use of administrative leave. As noted above, the sponsors of the 
+Administrative Leave Act were concerned about costs associated with 
+open-ended investigations of employees and did not consider a use of 
+administrative leave that would produce long-term cost savings by 
+facilitating workforce reductions.
+    OPM makes no changes in response to these comments.
+
+D. Mission Capacity
+
+    Three individual commenters (comments 0007, 0008, 0009) raised 
+concerns about the consequences of workforce reductions on the delivery 
+of Federal services. Comment 0007 described the impact of workforce 
+reductions on various public health services, communications during 
+emergencies, and technical assistance to states, and argued that the 
+proposed rule facilitates those reductions without accounting for their 
+effect on the public. Comment 0008 noted OPM's analysis should evaluate 
+the cost of reduced program capacity, including reduced preparedness 
+and loss of scientific expertise, rather than treating the cost of 
+administrative leave in isolation. Comment 0009 was concerned about the 
+loss of institutional and technical expertise, especially in 
+specialized topics and areas of work and requested that OPM clarify 
+that administrative leave is not to be used as a tool for permanent 
+downsizing and should not be used as a routine workforce reduction 
+strategy and that agencies should first demonstrate that mission 
+requirements can still be met.
+    OPM appreciates the comments and does not dispute that changes in 
+agency staffing can affect the delivery of public services. Those 
+effects are addressed in the existing regulatory framework at the point 
+of decision rather than through the list of examples of acceptable 
+uses.
+    This final rule does not require an agency to provide 
+administrative leave in any workforce realignment scenario and does not 
+state that administrative
+
+[[Page 65928]]
+
+leave should be used as a routine workforce reduction strategy. An 
+authorized agency official retains the sole and exclusive discretion to 
+decline to provide it based on agency judgments regarding mission needs 
+(Sec.  630.1403(a)(2) and (a)(4)). Decisions about the size and 
+composition of an agency's workforce, and about which program functions 
+must remain staffed, are made by the agency under separate authorities 
+and are outside the scope of this rulemaking.
+    As to the request that agencies first demonstrate that mission 
+requirements can still be met, OPM declines to change the regulatory 
+text. Section 630.1403(a)(6) already requires the authorized agency 
+official to consider the effect on productivity and the agency's 
+ability to meet mission needs. The loss of specialized expertise the 
+commenters describe is a workforce planning consideration for the 
+agency exercising its staffing authorities rather than a matter to be 
+governed by the administrative leave regulations.
+
+E. Economic Impact Analysis
+
+    Comment 0025 argued that OPM's cost-benefit analysis is incomplete 
+because it does not disclose amounts already spent on extended 
+administrative leave, quantify affected employees, compare projected 
+savings against service losses and replacement costs, or justify the 
+determination that the rule will not have a $100 million annual 
+economic effect.
+    Several commenters argued that the no-cost certification is 
+arbitrary and capricious under the Administrative Procedure Act (APA) 
+because it conflates the act of codifying with the substance being 
+codified. Comment 0004 stated that OPM fails to account for the major 
+economic effects of workforce reductions in its costing of the proposed 
+rule. The commenter suggested that OPM should measure more than the 
+payroll impact of Federal employees and requested that OPM conduct a 
+complete and honest economic impact analysis--that accounts for local 
+economic multiplier effects, the impact on housing markets, and the 
+cost of lost public services--and make that analysis available for a 
+minimum of 60 days of public comment before any rule is finalized.
+    Comment 0010 argued that extended administrative leave under a DRP 
+operates as a benefit that bridges employees to retirement eligibility 
+or to other employment and that the asserted cost savings are not 
+credible. The same commenter stated the purported reduction in costs is 
+nonsense unless it is accompanied by a legislative reduction in tasking 
+to the affected agency, because the work will just fall to the 
+remaining employees and will either be done with less rigor and 
+attention to detail or will be contracted out to a company that is 
+profit-motivated instead of mission-motivated.
+    Comment 0016 stated that months of payroll expenditures for tens of 
+thousands of DRP participants performing no work, the loss of 
+institutional knowledge, the collapse of continuity in mission-critical 
+functions, and the documented degradation of agency capacity cannot be 
+a de minimis cost. Comment 0029 stated that real-world impacts of 
+authorizing administrative leave for employees facing a RIF include 
+``not only billions of dollars in direct financial losses but also 
+serious constraints on agencies' ability to carry out their statutory 
+missions.'' Comment 0004 objected that OPM ``must conduct a complete 
+economic impact analysis that accounts for the multiplier effect of 
+federal employee spending in local economies, the impact on housing 
+markets, the downstream consequences for private sector businesses that 
+depend on stable federal employment in their communities, and the 
+economic value of public services that go undelivered when federal 
+employees are placed on administrative leave rather than deployed 
+productively.'' Comment 0030, a labor organization, further asserted 
+that OPM's claimed cost savings are contrary to publicly available 
+data, citing a June 2026 Public Citizen analysis estimating that the 
+2025 deferred resignation programs cost approximately $11 billion, and 
+Government Accountability Office (GAO) reports documenting that 
+agencies subsequently rehired employees who had participated in those 
+programs.
+    OPM disagrees that a more extensive cost analysis is required. The 
+relevant question under E.O. 12866 and E.O. 13563 is the incremental 
+effect of this rule relative to the baseline. The baseline includes the 
+Governmentwide policies already in effect--including the Agency Policy 
+Template--that parallel the rule's provisions. The distinction 
+commenters draw between the act of codifying and the substance being 
+codified is precisely what the baseline concept captures: because the 
+substance is already in effect, the incremental effect of codifying it 
+is the appropriate measure of this rule's costs and benefits. Because 
+the rule primarily codifies those existing policies, OPM does not 
+project that the rule itself will significantly change the usage of 
+administrative leave or result in incremental costs or savings 
+approaching the $100 million significance threshold. Expenditures 
+associated with the 2025 deferred resignation programs were incurred 
+under prior policies and are not costs of this rule; a retrospective 
+accounting of those programs is beyond the scope of this rulemaking.
+    OPM further notes that decisions to conduct particular workforce 
+realignment initiatives--and their associated costs and savings--are 
+made by individual agencies under separate authorities and processes; 
+this rule does not mandate any such initiative. To the extent the rule 
+has effects, OPM expects them to be beneficial: greater consistency 
+across agencies, a firmer legal foundation for existing policies, and 
+fewer disputes. The rehiring and cost data the commenters cite concern 
+the execution of the 2025 programs under then-existing authorities and 
+policies; those data may inform how agencies design and administer 
+future initiatives, but they do not alter the incremental analysis of a 
+rule that codifies the governing framework and directs no particular 
+program.
+    The economic analysis accurately reflects the impact of this rule, 
+which applies only to Federal agencies and Federal employees and 
+codifies policies already in effect Governmentwide through the OPM Fact 
+Sheet: Administrative Leave and the Agency Policy Template. The 
+certification under the Regulatory Flexibility Act addresses the 
+absence of a significant economic impact on a substantial number of 
+small entities. The rule does not authorize, fund, or direct any 
+particular workforce reduction; decisions on staffing levels are made 
+by agencies under separate authorities and remain subject to 
+appropriations law.
+    OPM acknowledges the contributions Federal civilian employees make 
+to the economy and that workforce restructuring may affect their 
+incomes and, in turn, their communities. However, the indirect effects 
+the commenters identify--the multiplier effect of Federal employee 
+spending in local economies, impacts on housing markets, downstream 
+consequences for private-sector businesses, and the economic value of 
+public services--are consequences of agency staffing decisions made 
+under separate authorities, not incremental effects of this rule, and 
+E.O. 12866 does not require quantification of speculative indirect 
+effects of actions that this rule neither mandates nor funds.
+    OPM notes that the Office of Information and Regulatory Affairs 
+designated this action significant under
+
+[[Page 65929]]
+
+E.O. 12866 section 3(f) and that OPM examined the impact of the rule as 
+required by E.O.s 12866 and 13563. An agency must consider the 
+important aspects of the problem before it (see Motor Vehicle 
+Manufacturers Association of the United States, Inc. v. State Farm 
+Mutual Automobile Insurance Co., 463 U.S. 29, 43 (1983)), but that 
+obligation does not require quantification of the indirect effects of 
+separate agency staffing decisions that this rule does not direct, and 
+an agency's predictive judgments about the effects of its rules need 
+only be reasonable and reasonably explained (see FCC v. Prometheus 
+Radio Project, 592 U.S. 414 (2021)).
+    Section D.1.b of the Agency Policy Template already contemplates 
+that workforce restructuring initiatives such as deferred resignation 
+or VERA may lead to a separation for retirement. Section 630.1403(c)(9) 
+is drafted consistently with that policy: it reaches employees who sign 
+a written agreement to voluntarily separate on a specified future date. 
+OPM does not agree that administrative leave may be provided for the 
+purpose of enabling an employee to obtain other employment. An employee 
+in an administrative leave status remains a Federal employee subject to 
+applicable standards of conduct and to agency requirements governing 
+outside employment.
+    OPM acknowledged in the proposed rule that there is a temporary 
+cost to providing administrative leave and stated its judgment that 
+these programs can generate long-term savings by reducing Federal 
+staffing levels. Whether an agency's remaining workload should be 
+reduced, redistributed, or performed under contract is a matter for the 
+agency and, where applicable, for Congress, and is outside the scope of 
+this rulemaking. OPM makes no changes in response to these comments.
+
+F. Due Process
+
+    Two individual commenters (comments 0019 and 0021) urged OPM to 
+withdraw this proposal and preserve the due process protections that 
+have helped maintain a competent, professional, merit-based civil 
+service for decades. Comment 0019 expressed concern that the rule 
+significantly weakens longstanding due process protections for Federal 
+employees. Comment 0021 expressed concern that expanded and largely 
+unreviewable agency discretion in the proposed rule is inconsistent 
+with the merit system principles in 5 U.S.C. 2301 and with the 
+independence, professionalism, and nonpartisan character of the career 
+civil service. The commenter further stated that regulations should be 
+written to withstand misuse by any future administration by anchoring 
+workforce management authority to merit system principles in 5 U.S.C. 
+2301.
+    OPM does not agree that the final rule is inconsistent with the 
+merit system principles in 5 U.S.C. 2301. Agency discretion under these 
+regulations is not unbounded. As the proposed rule states, acceptable 
+uses are those uses, within the bounds of law and regulation, that an 
+agency determines to be appropriate in its sole and exclusive 
+discretion; the merit system principles, appropriations law, and other 
+governing law continue to apply.
+    The regulatory framework contains the structural safeguards the 
+commenter seeks. A use of administrative leave must satisfy one or more 
+of the four guiding principles in Sec.  630.1403(a)(1); it must be 
+permitted under written agency policy or, if not specifically 
+authorized in policy, be approved on a case-by-case basis by an 
+authorized agency official at least one level higher than the official 
+making the initial determination (Sec.  630.1403(a)(5); Agency Policy 
+Template (CPM 2025-12, July 30, 2025), section B.3.b); and the 
+authorized agency official must consider the decision factors in Sec.  
+630.1403(a)(6), which include consistent treatment of similarly 
+situated employees. Each authorized agency official is accountable for 
+the policies he or she establishes and should be prepared to show how 
+due consideration was given to the principles and requirements in law, 
+regulations, and policy (Agency Policy Template, section B.3.a). Use of 
+administrative leave must be recorded as a stand-alone category of 
+leave and reported to OPM's Enterprise Human Resources Integration 
+database (5 U.S.C. 6329a(b)(2); 5 CFR 630.1406(c); Agency Policy 
+Template, section G), and managers are responsible for administering 
+the program with integrity and for identifying, investigating, and 
+correcting leave errors and abuse (Agency Policy Template, section 
+H.1).
+    These provisions create no new authority to separate, demote, or 
+discipline an employee. Involuntary separations remain governed by 5 
+CFR part 351 and, where applicable, 5 U.S.C. chapters 43 and 75. OPM 
+declines to withdraw the rule and views these comments as largely 
+outside the scope of the rule.
+
+G. Allegations That the Rulemaking Is Arbitrary and Capricious
+
+    A labor organization (comment 0030) objected that OPM's process of 
+codifying policy decisions that OPM has already made renders this 
+rulemaking arbitrary and capricious. The labor organization also 
+asserted that OPM failed to make reasoned conclusions based on 
+objective evidence about the rule's ramifications, and that the 
+supporting analysis is internally inconsistent because it states both 
+that the use of administrative leave in connection with deferred 
+resignation programs and other workforce restructuring initiatives can 
+generate large long-term savings and that OPM does not project that 
+costs or savings will result from the regulations. Similarly, comment 
+0025 argued that the rule is arbitrary and capricious because OPM did 
+not acknowledge and adequately explain a departure from the December 
+2024 final rule, citing FCC v. Fox Television Stations, Inc., 556 U.S. 
+502 (2009).
+    OPM disagrees with the premise that this rule reverses the 2024 
+final rule. The final rule leaves the 2024 rule's core interpretive 
+framework intact: the 10-workday limit continues to apply to agency-
+directed placement for investigative purposes; general administrative 
+leave for civic, operational, and employee-support purposes continues 
+outside that cap; and the general principles of Sec.  630.1403(a)--
+including the principle that administrative leave ordinarily should not 
+exceed one workday for a single incidence--are retained. What the rule 
+adds are clarifying examples of acceptable uses, three new binding 
+prohibitions, and conforming terminology. The examples largely codify 
+OPM policies issued after the 2024 rule, including the Agency Policy 
+Template (CPM 2025-12, July 30, 2025), and were fully explained in the 
+proposed rule's preamble.
+    To the extent the rule refines the 2024 framework--for example, by 
+expressly addressing extended leave in transition-to-separation 
+contexts that the 2024 rule did not specifically discuss--OPM has 
+acknowledged the additions and explained the basis for them, including 
+agencies' experience administering the 2024 regulations and the need 
+for greater consistency and a firmer legal foundation for existing 
+policies. That explanation satisfies the standard articulated in Fox 
+Television, 556 U.S. at 515, which requires a reasoned explanation for 
+a change, not a heightened one, except in circumstances not present 
+here.
+    As explained in the Statement of Need, after more than a year of 
+experience applying the December 2024 final regulations, OPM identified 
+the need to clarify certain matters, and
+
+[[Page 65930]]
+
+while OPM has issued policy guidance that largely addresses those 
+matters, regulations are needed to achieve greater consistency across 
+agencies and a firmer legal foundation for the policies.
+    Notice-and-comment rulemaking is the appropriate means of 
+converting Governmentwide policy into binding regulation, and OPM has 
+proposed for public comment both new prohibitions that would bind 
+agencies and new examples of acceptable uses. OPM further notes that 
+CPM 2025-12 described the Agency Policy Template as a living document 
+that would be improved and refined to address issues arising during 
+implementation.
+    Further, the premise that OPM had already adopted the policies 
+being codified does not render the rulemaking arbitrary and capricious. 
+An agency does not prejudge a rulemaking by proposing to codify its 
+existing policies; the APA requires that the agency maintain an open 
+mind and consider the comments received, not that it begin with an 
+empty one (see Association of National Advertisers, Inc. v. FTC, 627 
+F.2d 1151 (D.C. Cir. 1979) (rulemaker may be disqualified only on a 
+clear and convincing showing of an unalterably closed mind)).
+    This final rule demonstrates that consideration: in response to the 
+comments, OPM is adding a new acceptable-use example for physical 
+fitness activities, adding a regulatory definition of ``sole and 
+exclusive discretion,'' and making other changes described in this 
+preamble. As to the asserted lack of factual support and internal 
+inconsistency, OPM responds in section III.E of this preamble. In 
+brief, the projection that codification will not significantly change 
+the usage of administrative leave rests on the fact that agencies have 
+operated under parallel Governmentwide policies since July 2025, and 
+there is no inconsistency between OPM's judgment that workforce 
+restructuring initiatives can generate long-term savings and its 
+projection that this rule--which neither mandates nor funds any such 
+initiative--will not itself produce significant incremental costs or 
+savings.
+    OPM makes no changes in response to these comments.
+
+H. ``Sole and Exclusive'' Discretion
+
+    Comment 0025 argued that describing agency discretion (in 
+Sec. Sec.  630.1403(a) and 715.202(b)) as ``sole and exclusive'' is 
+unnecessary and misleading because agency discretion remains bounded by 
+statute, regulation, appropriations law, collective-bargaining 
+obligations, merit system principles, and judicial review. The 
+commenter also stated the ``sole and exclusive discretion'' language 
+``sits uneasily with OPM's own governmentwide oversight role.''
+    One labor organization, comment 0030, asserted that the ``sole and 
+exclusive discretion'' language is unlawful and arbitrary in that it 
+removes administrative leave from collective bargaining by reference to 
+OPM's own judgment without a statutory basis (invoking Federal Labor 
+Relations Authority precedent and the right of an exclusive 
+representative to negotiate over conditions of employment under 5 
+U.S.C. 7102 and 7114). Another labor organization (comment 0022) 
+commented that this amendment would create significant legal 
+consequences because, under the Federal labor statute, ``agencies are 
+not required to bargain over matters over which they have sole and 
+exclusive discretion.'' AFGE National Veterans Affairs Council # 53, 71 
+F.L.R.A. 410, 412 & n.22 (2019). Similar comments were made by an 
+anonymous commenter (comment 0031).
+    Comment 0030 asserted that OPM lacks statutory authority to insert 
+``sole and exclusive discretion'' into 5 CFR 630.1403(a) and 5 CFR 
+715.202(b). Under the Civil Service Reform Act of 1978 (CSRA), an 
+involuntary resignation or a resignation induced by coercion, duress, 
+or agency misrepresentation constitutes an adverse action (constructive 
+removal) within the mandatory appellate jurisdiction of the Merit 
+Systems Protection Board (MSPB). The commenter states that OPM cannot 
+divest the MSPB of jurisdiction over involuntary-resignation and 
+constructive-removal claims, or foreclose Federal Circuit review, 
+because an involuntary or coerced resignation is an appealable adverse 
+action (citing Scharf v. Department of the Air Force, 710 F.2d 1572 
+(Fed. Cir. 1983); Luecht v. Department of the Navy, 87 M.S.P.R. 297 
+(2000); and Lindahl v. Office of Personnel Management, 470 U.S. 768 
+(1985)). The comment asks that OPM remove ``sole and exclusive 
+discretion'' and explicitly state that resignation withdrawal denials 
+remain subject to MSPB review under 5 U.S.C. chapter 75.
+    As the preamble to the proposed rule stated, acceptable uses of 
+administrative leave are those an agency determines appropriate 
+``within the bounds of law and regulation.'' The ``sole and exclusive'' 
+formulation clarifies allocation of decision-making responsibility--
+that the decision whether to provide administrative leave in a given 
+circumstance rests with the agency, that no use of administrative leave 
+is a mandatory entitlement, and that OPM's enumeration of acceptable 
+uses does not obligate any agency to provide leave in those 
+circumstances. This is consistent with Congress's assignment of leave-
+management responsibility to agency heads. The phrase does not diminish 
+the binding prohibitions in Sec.  630.1403(b), the statutory limits in 
+sections 6329a and 6329b, applicable appropriations law, or the 
+recording and reporting requirements that continue to apply, and it 
+does not alter any applicable standard of review.
+    OPM's intent regarding the use of ``sole and exclusive discretion'' 
+in the administrative leave regulations (in Sec.  630.1403(a)(2), 
+(a)(4), and (c)) is to make explicit that the acceptable-use 
+determination--whether a given circumstance qualifies for 
+administrative leave at all--rests with the agency and cannot be 
+converted into a mandatory entitlement, including through negotiated 
+agreement. The statutory basis for using the term ``sole and exclusive 
+discretion'' is that the law in 5 U.S.C. 6329a(c)(1) authorizes the OPM 
+Director to prescribe regulations that address the acceptable agency 
+uses of administrative leave. OPM believes the change better reflects 
+the decision of Congress to give this discretionary leave authority to 
+agency heads, who make final decisions on mission needs and the use of 
+limited budget resources, and the sense of Congress that agency heads 
+would be responsible for managing and overseeing the effective and 
+prudent use of the leave.
+    OPM believes the intent of Congress was for agencies to always 
+retain discretion in providing or not providing administrative leave in 
+any circumstance (subject to law and OPM regulations) and has regulated 
+accordingly. The use of the ``sole and exclusive discretion'' language 
+is consistent with the existing text of Sec.  630.1403(a)(4), which 
+already requires that an agency retain the discretion to provide or not 
+provide administrative leave in any circumstance based on agency 
+judgments regarding mission needs and already prevents an agency from 
+establishing any application of administrative leave as a mandatory 
+entitlement.
+    In response to the comments invoking Federal Labor Relations 
+Authority precedent, OPM confirms that the ``sole and exclusive 
+discretion'' language is intended to preserve the agency's discretion 
+over acceptable-use determinations, which may not be limited or 
+conditioned by a negotiated agreement or converted into a mandatory 
+entitlement; collective
+
+[[Page 65931]]
+
+bargaining obligations under 5 U.S.C. chapter 71 otherwise continue to 
+apply according to their terms. Under 5 U.S.C. 7117(a)(1), the duty to 
+bargain in good faith extends to matters that are the subject of a rule 
+or regulation only if the rule or regulation is not a Governmentwide 
+rule or regulation; the regulations in this subpart are Governmentwide 
+regulations issued under 5 U.S.C. 6329a(c)(1). OPM likewise confirms 
+that nothing in this rule divests the MSPB of jurisdiction over a claim 
+that a resignation was involuntary or the product of coercion, duress, 
+or agency misrepresentation--which remains an appealable constructive 
+removal--or forecloses judicial review of a final Board decision. See 
+section III.R of this preamble.
+    In the preamble for the proposed regulations issued on June 29, 
+2026, OPM stated that an agency's use of its sole and exclusive 
+discretion in providing administrative leave must be done ``within the 
+bounds of law and regulation'' (91 FR 39033). Given the comments about 
+the ``sole and exclusive discretion'' language related to 
+administrative leave, we are adding a definition of the term in Sec.  
+630.1402 to make clear that it is discretion that rests with an agency 
+alone; that is exercised within the bounds of 5 U.S.C. 6329a and other 
+applicable law, applicable Presidential directives, and the regulations 
+in this subpart; and that may not be limited or conditioned by any 
+agreement or established as a mandatory entitlement. Other than that 
+change, OPM is making no changes in response to this line of comments. 
+The term ``sole and exclusive discretion'' in Sec.  715.202(b) should 
+be interpreted in a similar manner.
+
+I. Physical Fitness Activities
+
+    OPM's proposed regulations requested ``comments on the policy of 
+allowing limited use of administrative leave for physical fitness 
+activities and on whether this policy should be included in the 
+regulatory examples of acceptable uses.'' OPM received numerous 
+comments on this proposal. See, for example, comments 0012, 0013, 0018, 
+0020, 0024, 0028, and 0030.
+    Generally, the comments were favorable for including physical 
+fitness as an acceptable use. Comment 0011 stated that as ``someone who 
+has recommitted to better health, I would appreciate having the 
+administrative leave available'' to make time for physical fitness, 
+which is currently difficult to do outside of duty hours with a three-
+hour daily commute and home commitments. Comment 0012 recounted 
+substantial personal improvements in weight and blood pressure after 
+adopting a daily walking and gym regimen during Federal service, along 
+with increased energy, no medical issues, and over 2,000 hours of 
+unused sick leave. The commenter recommended authorizing administrative 
+leave for physical fitness, reasoning that duty time to exercise would 
+spur participation, improve employee health, and reduce sick leave 
+usage.
+    Comment 0013 stated: ``Research has shown that a healthier 
+workforce lowers healthcare & benefit costs, enhances productivity & 
+performance, reduces stress, improves employee engagement, & improves 
+overall mental health.'' The commenter proposed authorizing a total of 
+3 hours of administrative leave per week (1 hour per day, three days 
+per week, to include time for changing, travel, and showering), 
+depending on workload and agency requirements.
+    Comment 0015 contended that administrative leave for physical 
+exercise would yield near-immediate improvements in engagement and 
+productivity and, given the connection between physical and mental 
+well-being, would also improve job satisfaction and retention. Comment 
+0018 stated that permitting a limited amount of duty time for physical 
+fitness is increasingly common across Federal agencies, typically up to 
+one hour per day, three days per week, and recommended that OPM adopt a 
+comparable allowance to align with prevailing practice and support 
+employee health, morale, and readiness.
+    Comment 0020 described duty-time physical fitness as a strategic 
+``people first'' initiative, citing improved workforce readiness and 
+resiliency, enhanced productivity and focus, higher morale and reduced 
+burnout, decreased sick leave usage and absenteeism, and--because the 
+benefit would be available annually rather than once in a career--the 
+formation of lasting healthy habits. Noting significant return on 
+investment and widespread private-sector adoption, the commenter urged 
+OPM to retain physical fitness as an authorized use of administrative 
+leave.
+    Comment 0023 supported the provision authorizing limited 
+administrative leave for physical fitness, endorsing the retention of 
+agency discretion based on mission needs, and stated that the provision 
+would reduce burnout and improve work-life balance, well-being, 
+motivation, and concentration. The commenter also noted that the rule's 
+predictability should reduce disputes.
+    Comment 0024 recommended permitting and encouraging administrative 
+leave for fitness activities similar to the Civilian Fitness Program, 
+with program goals aligned to Army fitness standards, reasoning that 
+because Federal employees are mobilized to support the Federal 
+Emergency Management Agency (FEMA), immigration efforts, and other 
+demand-based taskings, a physically capable workforce improves 
+contingency readiness. Comment 0028, citing Centers for Disease Control 
+and Prevention (CDC) data on physical inactivity, obesity, diabetes, 
+and heart disease, and CDC's Physical Activity in the Workplace: A 
+Guide for Employers, stated that administrative leave for physical 
+activity would support employers and their business needs because 
+engaging in physical activities can result in reduced sick days, 
+increased productivity, lower health care costs, and decreased risk of 
+developing costly chronic diseases. Pointing to existing agency 
+programs offering up to one hour three times per week, the commenter 
+recommended permitting onsite or offsite activity.
+    A labor organization (comment 0022) stated that it ``supports this 
+policy and recommends including it in the regulatory examples of 
+acceptable uses.'' The commenter explained that it ``has negotiated a 
+Physical Fitness Program into its contract with U.S. Customs and Border 
+Protection (CBP).'' The commenter ``accordingly supports similar 
+programs across the government and supports the idea of OPM including 
+physical fitness activities as an example of acceptable use in the 
+administrative leave regulations.'' Another labor organization (comment 
+0030), while opposing the proposed rule overall, stated that in the 
+event OPM does not withdraw the rule, it supports allowing 
+administrative leave to be used for physical fitness activities.
+    Comment 0027 opposed adding physical fitness because under their 
+agency's work schedules policy, employees may elect an unpaid health 
+and wellness break period with supervisory approval, including before 
+and after the lunch period, to participate in health and wellness 
+activities. The commenter further stated: ``Employees must then extend 
+their workday by the equivalent amount of time of the break.'' The 
+agency stated the use of administrative leave for physical fitness 
+activities is unnecessary at their agency, as the unpaid health and 
+wellness break period policy has been successful in balancing employee 
+personal needs with limited agency resources toward accomplishing its 
+critical mission.
+    Following consideration of the comments, OPM is adding a new
+
+[[Page 65932]]
+
+Sec.  630.1403(c)(8) in this final rule listing approved physical 
+fitness activities as an acceptable use of administrative leave and is 
+redesignating the examples proposed as paragraphs (c)(8) through 
+(c)(10) as paragraphs (c)(9) through (c)(11). OPM is not establishing a 
+minimum or maximum number of hours. Instead, an authorized agency 
+official may provide limited amounts of administrative leave for 
+approved physical fitness activities consistent with OPM regulations on 
+administrative leave, including consideration of the decision factors 
+in Sec.  630.1403(a)(6)--which include consideration of the effect on 
+productivity and the ability to meet mission needs.
+    Also, as provided in Sec.  630.1403(a)(4), authorized agency 
+officials must retain the discretion to provide or not provide 
+administrative leave based on agency judgments of mission needs. The 
+new Sec.  630.1403(c)(8) allows agencies to provide ``limited amounts 
+of administrative leave for approved physical fitness activities on a 
+conditional basis (consistent with paragraphs (a)(4) and (a)(6) and 
+subject to any Governmentwide policies issued by OPM or the 
+President).'' This paragraph does not apply to employees who have job-
+related mandatory fitness standards that allow for use of official duty 
+time for physical fitness activities.
+
+J. Employee Geographic Relocation
+
+    Three individual commenters (comments 0002, 0003, 0005) proposed 
+that OPM add an example authorizing administrative leave for an 
+employee who must relocate his or her residence to accept a new 
+appointment or assignment. Comment 0002 argued that omitting such a use 
+is inconsistent with providing administrative leave for a civilian 
+employee accompanying a military spouse under 5 CFR 630.1403(c)(7). 
+Comment 0003 argued that a recruitment, relocation, or retention 
+incentive is not the exclusive means of addressing relocation burdens 
+and that administrative leave is needed to avoid a gap in pay status 
+when an employee moves between appointments. Comment 0005 noted 
+administrative leave for employees relocating a significant distance 
+from their current duty station would allow employees to better manage 
+the transition without depleting their earned personal leave. All three 
+of these commenters acknowledged that agencies already have the 
+discretion to offer administrative leave for this purpose. Two of the 
+commenters (comments 0002 and 0003) proposed regulatory text 
+authorizing administrative leave for an employee's own relocation to a 
+new appointment or assignment.
+    OPM does not support adding an example that allows general use of 
+administrative leave for activities related to an employee's move to a 
+different permanent duty station. Adding such an example would indicate 
+a Governmentwide policy that such use is acceptable. OPM prefers to let 
+agencies adopt their own policies in this area. The example in Sec.  
+630.1403(c)(7)--allowing use of administrative leave for an employee 
+whose spouse, a member of the uniformed services or a Federal civilian 
+employee, must relocate as a result of military orders or agency 
+direction, as applicable--does reflect an established Governmentwide 
+policy in section D.1.c of the Agency Policy Template (CPM 2025-12, 
+July 30, 2025). That policy implements a specific Presidential 
+directive--E.O. 14100 of June 9, 2023--and OPM's related memorandum of 
+November 9, 2023, to agency heads. There is no comparable 
+Governmentwide directive addressing an employee's own change of 
+residence to accept a new appointment or assignment, and OPM does not 
+view the absence of such an example as an inconsistency in the proposed 
+list.
+    We note that, if an employee has been approved to receive a house 
+hunting allowance under 41 CFR part 302-5 (which an agency may choose 
+to apply to employees under certain specified conditions), time spent 
+on house hunting activities during regular work hours is treated as 
+official duty time. Also, time spent on activities to accomplish tasks 
+that are directly required in connection with an approved move to a new 
+permanent duty station determined to be in the Government's interest 
+(resulting in payment of relocation expenses)--such as obtaining 
+passports and vaccinations, adhering to government housing authority 
+requirements (if applicable), or being present for packing and 
+receiving of household goods--is considered official duty time. 
+Finally, the list in Sec.  630.1403(c) is noncomprehensive. An agency 
+may adopt its own written policy to allow limited use of administrative 
+leave for move-related activities that are not duty time, if such use 
+is determined to be in the Government's interest and the use satisfies 
+the guiding principles in Sec.  630.1403(a)(1), the authorized agency 
+official considers the decision factors in Sec.  630.1403(a)(6), and 
+the use is approved consistent with Sec.  630.1403(a)(5) and section 
+D.2.h of the Agency Policy Template.
+    OPM declines to add the suggested example.
+
+K. Reliance Interests
+
+    Comment 0025 argued that OPM failed to consider reliance interests, 
+citing Department of Homeland Security v. Regents of the University of 
+California, 591 U.S. 1 (2020), including agencies' investments in 
+implementing the 2024 rule and operational reliance on employees 
+remaining in duty status through reorganizations and RIF notice 
+periods.
+    OPM has considered the reliance interests the commenter identifies 
+and concludes they do not counsel against finalizing the rule. First, 
+because the rule largely codifies policies already in effect under the 
+Agency Policy Template since July 2025, agencies, payroll providers, 
+and employees have been operating under substantially these policies 
+for approximately a year; codification reduces, rather than disrupts, 
+transition burdens by confirming the framework agencies have already 
+implemented. The changes required--principally conforming terminology, 
+incorporating the new binding prohibitions, and providing specific 
+examples of acceptable uses--are modest.
+    Second, as to operational reliance, the rule is permissive, not 
+mandatory. It does not require any agency to place any employee on 
+administrative leave during a workforce realignment or RIF notice 
+period. Agencies retain full discretion to keep employees in duty 
+status--and under revised Sec.  351.806, duty status remains the rule 
+under ordinary circumstances--precisely so that agencies can weigh 
+mission needs, knowledge transfer, records preservation, and service 
+continuity in each case. The judgment about whether an employee's 
+continued presence serves the Government's interests during a 
+particular realignment is one the agency, not OPM, is best positioned 
+to make.
+
+L. Comment Period Length
+
+    An individual commenter and a labor organization argued that the 
+30-day comment period, which included the Independence Day Federal 
+holiday, did not afford a ``meaningful opportunity'' to comment as 
+contemplated by the APA. The labor organization cited North Carolina 
+Growers' Association, Inc. v. United Farm Workers, 702 F.3d 755, 770 
+(4th Cir. 2012), in support of that asserted requirement. The 
+commenters also stated that Executive Orders 12866 and 13563 
+contemplate a 60-day comment period. Comment 0004 requested a minimum 
+60-day public comment window to review any revised economic analysis. 
+The labor
+
+[[Page 65933]]
+
+organization (comment 0030) requested that OPM reopen the comment 
+period for an additional 60 days.
+    OPM provided a 30-day comment period. The Administrative Procedure 
+Act prescribes no minimum period. Courts have upheld comment periods 
+considerably shorter than the period provided here (see, e.g., 
+Northwest Airlines, Inc. v. Goldschmidt, 645 F.2d 1309 (8th Cir. 1981) 
+(upholding a 7-day comment period)), and North Carolina Growers' 
+Association is not to the contrary: that case involved a 10-day comment 
+period on the suspension of recently promulgated regulations, in which 
+the agency declined to consider comments addressing the merits of the 
+underlying rules.
+    Here, OPM provided three times that period, placed no limits on the 
+subjects commenters could address, and has considered and responded to 
+the comments received in this preamble. The 60-day period referenced in 
+Executive Orders 12866 and 13563 is not a hard requirement that applies 
+in all cases (see E.O. 12866, section 6(a), 58 FR 51735, 51740 (October 
+4, 1993); E.O. 13563, section 2(b), 76 FR 3821, 3822 (January 21, 
+2011)). E.O. 12866 states that the 60-day period should be used in 
+``most cases.'' In any event, these Executive orders are management 
+directives to agencies that do not create privately enforceable rights 
+(E.O. 12866, section 10; E.O. 13563, section 7(d)).
+    OPM received 30 comments, including detailed legal and economic 
+submissions from labor organizations and public-interest groups, 
+indicating that interested parties had an adequate opportunity to 
+comment. Moreover, because the rule largely codifies Governmentwide 
+policies that have been publicly available since July 2025, interested 
+parties were already familiar with the substance of the proposals. OPM 
+declines to reopen or extend the comment period.
+
+M. Duty Status Presumption During RIF Notice Periods (Sec.  351.806)
+
+    Comment 0025 urged OPM to preserve the existing duty-status 
+presumption during RIF notice periods, arguing that RIF notices are not 
+disciplinary, that employees perform valuable transition work during 
+notice periods, that existing authorities already address unusual 
+cases, and that OPM has not identified a gap warranting a RIF-specific 
+administrative-leave authorization.
+    The final rule preserves the duty-status presumption with a minor 
+change in terminology. Revised Sec.  351.806(a) provides that ``[u]nder 
+ordinary circumstances, an employee will remain in a duty status during 
+the notice period.'' The change from ``when possible'' to ``under 
+ordinary circumstances'' conforms the RIF regulation to the parallel 
+standard in 5 CFR 752.404(b)(3) governing notice periods for proposed 
+removals and suspensions, and more accurately reflects that the 
+determination involves an assessment of circumstances rather than 
+literal possibility. Paragraph (b) then confirms--consistent with the 
+Agency Policy Template--that an agency may place a RIF-affected 
+employee on administrative leave for all or part of the notice period 
+when the agency determines that such leave is appropriate and 
+consistent with part 630, subpart N.
+    OPM agrees that RIF notice periods are not inherently disciplinary 
+and that employees frequently perform valuable work during them; that 
+is why duty status remains the default. But circumstances vary: an 
+agency may determine, for example, that continued systems access during 
+a large-scale reorganization presents security or records-integrity 
+risks, that available work has genuinely ceased for the affected 
+positions, or that other Government interests warrant non-duty status. 
+The rule leaves that judgment to the agency familiar with the facts, 
+rather than requiring agencies to rely on a patchwork of assignment, 
+telework, and leave authorities that may not fit the circumstances of a 
+RIF. Nothing in the revision permits use of administrative leave 
+inconsistent with subpart N of part 630.
+
+N. Nomenclature Change (``Grant'' To ``Provide'') (Part 630, Subpart N)
+
+    Comment 0025 objected to replacing ``grant/granted/granting'' with 
+``provide/provided/providing'' throughout subpart N, arguing that the 
+change extends agency-directed administrative leave beyond the limits 
+of the Act and the 2024 rule by encompassing leave imposed without 
+employee consent.
+    OPM disagrees that the nomenclature change effects any substantive 
+expansion of authority. As explained in the proposed rule, ``grant'' 
+inaccurately implies that administrative leave is furnished only at an 
+employee's request, which has never been the case--for example, 
+employees have long been placed on administrative leave for 
+investigative purposes without their consent, a practice Congress 
+itself recognized and regulated in sections 6329a and 6329b. 
+``Provide'' is a neutral term that accurately describes the provision 
+of administrative leave with or without the employee's consent. The 
+statutory 10-workday limit continues to apply to employees ``placed'' 
+on administrative leave for investigative purposes, as provided in 
+Sec.  630.1404(a). For other uses of administrative leave, which may be 
+voluntarily accepted or imposed without the employee's consent, we are 
+using the term ``provide.'' The terminology change harmonizes the 
+regulatory text with existing practice and with the structure of the 
+statute; it does not authorize any use of administrative leave that 
+would otherwise be impermissible.
+
+O. Prohibition on Administrative Leave for Poll Workers (Sec.  
+630.1403(b)(5))
+
+    Several comments, including 0016, 0022, 0030, and 0031, objected to 
+the prohibition of administrative leave for service as a poll worker or 
+poll observer found in proposed Sec.  630.1403(b)(5). The commenters 
+argued that the prohibition is unrelated to workforce realignment, 
+discourages civic participation amid documented poll-worker shortages, 
+saves little, and reverses OPM's prior guidance that agencies allow up 
+to 4 hours of administrative leave for nonpartisan poll service. A 
+labor organization (comment 0022) characterized limited administrative 
+leave for nonpartisan poll service as an important, pro-democracy 
+policy choice. Another labor organization (comment 0030) argued that 
+OPM offered no reasoned explanation or evidence for the prohibition and 
+characterized it as an attempt to stifle Federal employees' exercise of 
+their constitutional rights.
+    OPM notes that the changes in the administrative leave regulations 
+are not limited to changes related to workforce realignment. OPM 
+acknowledges that this provision changes OPM's prior policies that 
+agencies could allow limited administrative leave for nonpartisan poll 
+service. However, those prior policies were a departure from 
+longstanding Governmentwide policies that existed before 2020, which 
+focused on administrative leave for voting, not for poll workers. Based 
+on its authority to regulate acceptable uses of administrative leave, 
+OPM has determined that administrative leave should be limited to the 
+purpose of ensuring employees a reasonable opportunity to vote (see 
+Sec.  630.1403(c)(2)). OPM policy (section E.1.d of the Agency Policy 
+Template) already provided that administrative leave may not be used to 
+cover service by poll workers or poll observers in connection with 
+elections, whether that service is partisan or nonpartisan and whether 
+paid or unpaid. Limiting administrative leave to voting itself also 
+avoids placing agencies in the position
+
+[[Page 65934]]
+
+of assessing whether particular election-related service is partisan or 
+nonpartisan.
+    The prohibition does not restrict any employee's ability to serve 
+as a poll worker or poll observer; it addresses only whether that 
+service will be subsidized with paid leave from Federal duty, and a 
+decision not to subsidize an activity does not infringe the right to 
+engage in it (see Regan v. Taxation With Representation of Washington, 
+461 U.S. 540, 549 (1983)). Employees who wish to serve as poll workers 
+or poll observers may use other available workforce flexibilities, 
+including annual leave, compensatory time off earned via overtime work, 
+compensatory time off for travel, credit hours under a flexible work 
+schedule, an adjustment of working hours under a flexible work 
+schedule, or leave without pay. OPM makes no change in response to 
+these comments.
+
+P. Administrative Leave Prior to a Holiday (Sec.  630.1403(c)(5))
+
+    Regarding Sec.  630.1403(c)(5), comment 0024 stated that early 
+dismissal before a Federal holiday should not be subject to a hard 2-
+hour cap and that longer dismissals should be available for particular 
+occasions, including days of national observance.
+    OPM notes that Sec.  630.1403(c)(5) does not establish a hard cap 
+since it states that the administrative leave should ``generally'' be 
+no more than 2 hours. This regulation should be read with sections 
+D.2.d and E.2.a of the Agency Policy Template (CPM 2025-12, July 30, 
+2025), which provide that such leave may not exceed 2 hours unless 
+specifically approved by the agency head. The flexibility the commenter 
+seeks for longer periods of dismissal for particular occasions is 
+therefore already available through agency head approval. 
+Presidentially directed closures and days of national observance 
+provided by the President using his or her constitutional authority as 
+head of the Executive branch are not administrative leave under 5 
+U.S.C. 6329a and are not governed by subpart N or by an agency's 
+administrative leave policy (Agency Policy Template, section A.2.b and 
+Appendix 1). Such occasions are therefore outside this rulemaking. OPM 
+notes separately that proposed Sec.  630.1403(b)(1) continues to 
+prohibit use of administrative leave to mark the memory of a deceased 
+former Federal official (see also 5 U.S.C. 6105).
+
+Q. Settlement Agreement (Sec.  630.1403(c)(11))
+
+    Comment 0025 argued that authorizing extended administrative leave 
+to facilitate the voluntary resignation of employees with documented 
+poor performance or misconduct under a settlement agreement recreates 
+the pre-Act practices Congress sought to control, and that the 
+provision lacks meaningful time limits, approval procedures, or 
+reporting requirements.
+    Comment 0026 recommended that the settlement agreement example at 
+proposed Sec.  630.1403(c)(10) (redesignated as Sec.  630.1403(c)(11) 
+in this final rule) be removed or relocated to the investigative leave 
+framework so the leave is tracked with specificity and that OPM not 
+conflate administrative leave with the performance and conduct action 
+procedures in 5 U.S.C. chapters 43 and 75.
+    OPM disagrees. Section 630.1403(c)(11) is a narrow provision 
+subject to multiple conditions: there must be documented allegations of 
+poor performance or misconduct by the employee (see discussion later in 
+this section); the leave must be provided under a settlement agreement; 
+the agency must determine that the settlement is in the Government's 
+best interests; and the agency must first consider all other reasonable 
+alternatives. The leave is also subject to Governmentwide limits 
+established by OPM and any agency-specific limits.
+    These conditions distinguish the provision from the pre-Act 
+practice GAO documented, in which employees remained in indefinite paid 
+non-duty status during unresolved investigations and adverse actions 
+with no resolution in sight. By contrast, leave under paragraph (c)(11) 
+is tied to a negotiated resolution--a definite separation date--and 
+serves to conclude, not prolong, the personnel matter. Settlement of 
+disputed personnel actions can avoid protracted litigation costs and 
+expedite the removal of employees whose performance or conduct has been 
+identified as unsatisfactory--outcomes consistent with efficient and 
+prudent management of the workforce. Where an agency instead pursues an 
+adverse action, the notice-leave framework of section 6329b continues 
+to apply according to its terms; nothing in this rule alters it.
+    Accordingly, OPM declines to remove Sec.  630.1403(c)(11) or to 
+relocate this use to investigative leave. Investigative leave under 5 
+U.S.C. 6329b is available only in connection with an ongoing 
+investigation and only after the 10-workday administrative leave period 
+has been exhausted, and notice leave is available only after an agency 
+has proposed an adverse action. As the commenter recognizes, a 
+settlement may be reached after an investigation has concluded, and it 
+may also be reached where no investigation was opened; in those 
+circumstances neither section 6329b category is available. If an 
+employee is being excused from duty for investigative purposes after 
+reaching the 10-workday limit, Sec.  630.1403(b)(3) forecloses the pre-
+2016 practice, since it requires that section 6329b be applied. OPM 
+notes that, if administrative leave is used in connection with a 
+settlement agreement, that usage will be documented in the settlement 
+agreement and will be tracked as administrative leave in agency 
+timekeeping and payroll systems. OPM has revised the language in Sec.  
+630.1403(c)(11) to make clear that, while no final determination of 
+poor performance or misconduct need be found, an agency may apply this 
+provision only where the allegations of poor performance or misconduct 
+are documented.
+
+R. Resignation Withdrawal (Sec.  715.202(b))
+
+    Many commenters opposed treating an employee's acceptance of 
+deferred-resignation benefits as a valid reason to deny a resignation 
+withdrawal. Two individual commenters (comments 0014 and 0016) opposed 
+any proposal that would categorically prohibit employees from 
+withdrawing a resignation before its effective date because they 
+believed an employee who may have decided under duress/short deadlines 
+may feel trapped. Comment 0016 urged OPM to withdraw provisions 
+proposed in Sec.  715.202(b) arguing that an employee's acceptance of 
+deferred-resignation benefits should not by itself justify denying 
+withdrawal of the resignation. The commenter stated that prior practice 
+permitted withdrawal before the effective date absent a concrete agency 
+reason such as a committed replacement hire or administrative 
+disruption and that OPM had offered no principled basis for foreclosing 
+reconsideration before the resignation takes effect. The commenter 
+further argued that recharacterizing the receipt of leave benefits--
+benefits the employee did not design and the commenter asserted were 
+often accepted under duress and compressed deadlines--as itself a valid 
+reason to deny withdrawal ``inverts the protective purpose of the 
+rule,'' and that resignation should remain a decision an employee can 
+reconsider until it takes effect.
+    Comment 0014 believes OPM should adopt a policy that balances the 
+interest of both employees and agencies and that an agency be permitted 
+to decline a withdrawal request before its effective
+
+[[Page 65935]]
+
+date only where granting it would cause the agency substantial hardship 
+or prejudice. A labor organization (comment 0022) objected to this 
+provision stating it is unfair to employees who frequently make these 
+decisions under needlessly short deadlines, without complete or 
+accurate information. The labor organization suggested that, if OPM 
+insists on making resignation decisions irrevocable, it should at a 
+minimum give employees more time to make these difficult and important 
+choices. In addition, comments 0026 and 0031 argued the change is 
+unnecessary because Sec.  715.202 already says ``may'' and that whether 
+to accept a withdrawal or seek repayment should be left to individual 
+agencies and to collective bargaining, and that OPM failed to consider 
+less-restrictive alternatives and offered two: (1) retaining the 
+traditional operational-disruption standard (committed replacement hire 
+or position abolition, per Luecht), and (2) permitting withdrawal 
+conditioned on retroactively reclassifying the administrative leave to 
+annual leave, compensatory time, or leave without pay (LWOP) 
+(recoupment). Comment 0026 stated that changing the resignation 
+regulations is unnecessary because Sec.  715.202(b) is already 
+permissive, with a recommendation that a time component be added within 
+which an employee may withdraw a deferred resignation.
+    This final rule does not categorically prohibit the withdrawal of a 
+resignation. Revised Sec.  715.202(b) retains the requirement that an 
+agency may decline a request to withdraw a resignation before its 
+effective date only when the agency has a valid reason and explains 
+that reason to the employee, and it retains the rule that avoidance of 
+adverse action proceedings is not a valid reason.
+    OPM notes that the revision to Sec.  715.202(b) makes two changes. 
+It states that the decision to accept or decline a withdrawal request 
+is made in the agency's sole and exclusive discretion, and it adds one 
+further example to the nonexclusive list of valid reasons--the 
+employee's acceptance of benefits provided under a deferred resignation 
+agreement. The list continues to read ``includes, but is not limited 
+to,'' and continues to identify administrative disruption and the 
+hiring or commitment to hire a replacement, which are the agency-
+reliance circumstances the commenter describes. Nothing in the final 
+rule requires an agency to decline a withdrawal request in any case, 
+and an agency remains free to accept one where it determines that 
+retaining the employee serves its interests.
+    OPM identified the need for this example because, when an employee 
+has agreed to resign on a future date and has received paid 
+administrative leave in connection with that agreement, there is no 
+authority to require or permit repayment of the administrative leave 
+benefits after they have been provided. Identifying acceptance of such 
+benefits as a valid reason gives agencies a clear and specific 
+regulatory basis for a determination they may already make under the 
+existing regulation. OPM declines to adopt the additional balancing 
+standard the commenter proposes, which would constrain discretion the 
+existing regulation affords agencies.
+    In response to comments 0026 and 0031, OPM acknowledges that Sec.  
+715.202(b) already uses permissive language, and the final rule retains 
+it: an agency may, in its sole and exclusive discretion, accept or 
+decline an employee's request to withdraw a resignation, and may 
+decline only when it has a valid reason and explains that reason to the 
+employee. OPM has also considered the less-restrictive alternatives 
+commenters offered and declines to adopt them. Retaining only the 
+traditional operational-disruption standard is unnecessary because the 
+regulation continues to identify administrative disruption and the 
+hiring or commitment to hire a replacement as valid reasons; the 
+revision adds one further nonexclusive example rather than displacing 
+those reasons. OPM likewise declines to condition withdrawal on 
+retroactive reclassification of administrative leave to annual leave, 
+compensatory time, or leave without pay because, as explained above, 
+there is no authority to require or permit repayment or 
+reclassification of administrative leave benefits after they have been 
+provided. OPM does not agree that a separate statutory authority for 
+deferred resignation is needed to support the provision: the 
+resignation is effected under Sec.  715.202(a), and the paid leave 
+provided before its effective date is administrative leave under 5 
+U.S.C. 6329a. As to the recommendation to add a time component within 
+which an employee may withdraw a deferred resignation, OPM declines to 
+add a fixed period to Sec.  715.202. That section applies at any time 
+before the resignation becomes effective, and the timing terms of a 
+particular deferred resignation offer, including the length of any 
+decision window, are a matter of program design rather than of this 
+regulation. As to concerns that employees accept deferred resignation 
+offers under compressed deadlines or duress, nothing in this rule 
+prevents an agency from granting a withdrawal request, and an employee 
+who contends that a resignation was involuntary or the product of 
+duress, coercion, or agency misrepresentation retains the right to 
+appeal to the Merit Systems Protection Board; this rule does not affect 
+that review. To the extent comments 0030 and 0031 suggest that these 
+matters be left to case-by-case collective bargaining, Sec.  715.202 is 
+a longstanding Governmentwide regulation, and under 5 U.S.C. 7117(a)(1) 
+the duty to bargain does not extend to matters that are the subject of 
+a Governmentwide rule or regulation. OPM makes no changes in response 
+to these comments.
+
+S. Miscellaneous Comments
+
+    Comment 0027 asked how agency limits on workforce realignment leave 
+interact with the Governmentwide limit and whether the regulatory text 
+should state that a longer agency limit requires OPM approval; whether 
+the regulations will address employees in Schedule Policy/Career 
+positions and agency grievance procedures; and whether extended 
+administrative leave is cost-effective relative to reduction-in-force 
+procedures, with a recommendation that deferred resignation leave be 
+limited to 10 days unless the employee is retirement eligible.
+    Agency limits must operate within the Governmentwide limit; an 
+agency may adopt a more restrictive limit but may not exceed the 
+Governmentwide limit on its own authority. The current Governmentwide 
+limit, stated in section D.1.b of the Agency Policy Template (CPM 2025-
+12, July 30, 2025), is that beginning in calendar year 2026, use of 
+administrative leave by an employee in connection with a workforce 
+realignment initiative is limited to 12 weeks in any individual 
+instance unless a higher threshold has been jointly approved by OPM and 
+the Office of Management and Budget in a specified set of 
+circumstances. A higher threshold of 6 months was later approved for 
+workforce-restructuring-related DRP agreements that took effect in FY 
+2026. OPM notes that the phrase ``subject to Governmentwide limits 
+established by OPM or agency limits'' in Sec.  630.1403(c)(9) and 
+(c)(11) specifically incorporates any Governmentwide limit. To clarify 
+that agency limits cannot supersede Governmentwide limits, we are 
+revising the phrase in those two paragraphs by substituting ``and'' for 
+``or''.
+    Employees in Schedule Policy/Career positions who have an 
+established work schedule are covered on the same basis
+
+[[Page 65936]]
+
+as other covered employees. As the comment notes, agencies retain the 
+sole and exclusive discretion to determine whether to provide 
+administrative leave to any employee or category of employees based on 
+their consideration of agency mission requirements, and an agency may 
+address specific categories or scenarios in its own written policy 
+under Sec.  630.1403(a)(5).
+    Agency grievance procedures are governed by 5 CFR part 771 and any 
+applicable negotiated grievance procedure and are outside the scope of 
+these leave regulations.
+    OPM acknowledged in the proposed rule that there is a temporary 
+cost to providing administrative leave and stated its judgment that 
+these programs can generate long-term savings by reducing Federal 
+staffing levels and can reduce the need to apply administratively 
+burdensome and disruptive reduction-in-force procedures. OPM declines 
+to limit administrative leave for deferred resignation participants to 
+10 days. Agencies need the flexibility to provide longer periods of 
+administrative leave (within the bounds of Governmentwide limits) if 
+they determine a longer period is necessary to incentivize more 
+employees to agree to voluntarily separate and to achieve workforce 
+reduction goals.
+    On continuity of institutional knowledge, Sec.  630.1403(a)(6) 
+requires an authorized agency official to consider the effect on 
+productivity and the agency's ability to meet mission needs before 
+providing administrative leave, and an agency retains discretion to 
+structure an agency-specific initiative, including the amount of leave 
+provided and any transition or knowledge-transfer expectations, 
+accordingly.
+    Comment 0017 objected to the provision in subpart H of part 351 
+under which, in an emergency, an agency that lacks work or funds may 
+place a RIF-affected employee on annual leave during the notice period 
+without the employee's consent, and argued that the employee should be 
+able to choose between annual leave and leave without pay in those 
+circumstances.
+    This comment is outside the scope of this rulemaking. OPM did not 
+propose any substantive change to that longstanding provision, which 
+appears in this final rule at Sec.  351.806(c) only because Sec.  
+351.806 is being restructured and republished in full. OPM notes that, 
+under Sec.  351.806(c), an employee may not be placed on leave without 
+pay without the employee's consent, and the emergency annual leave 
+provision applies only when, in an emergency, the agency lacks work or 
+funds for all or part of the notice period.
+    OPM makes no changes in response to these comments.
+
+IV. Section-By-Section Analysis
+
+    In this section IV, we provide descriptions of the regulatory 
+changes by section and paragraph. More detailed explanations and 
+justifications for the regulatory changes may be found in the 
+Supplementary Information for the June 29, 2026, notice of proposed 
+rulemaking (91 FR 39032) and in the responses to comments in this 
+preamble.
+
+Section 351.806 (RIF and Administrative Leave)
+
+    OPM is revising Sec.  351.806 to clarify that use of administrative 
+leave during a RIF notice period is permissible, if an agency 
+determines that there is justification for putting the RIF-affected 
+employee in non-duty status. OPM is also revising Sec.  351.806 to 
+state that the general rule of keeping an employee in duty status 
+during a RIF notice period applies in ``ordinary circumstances'' 
+instead of ``when possible,'' consistent with the language in Sec.  
+752.404(b)(3) (dealing with keeping an employee in duty status during 
+the notice period for a proposed removal or suspension).
+
+Subpart N of Part 630 (Administrative Leave--Nomenclature Changes)
+
+    OPM is replacing the word ``grant'' (and associated variations of 
+``granted'' and ``granting'') with the word ``provide'' (or applicable 
+variations ``provided'' and ``providing'') throughout subpart N. These 
+changes occur in Sec. Sec.  630.1402, 630.1403, and 630.1405. The word 
+``provide'' has a broader meaning that would encompass uses of 
+administrative leave with or without the employee's consent.
+
+Section 630.1401 (Administrative Leave--Applicability)
+
+    OPM is revising Sec.  630.1401(b) to add another category of 
+employees to which subpart N does not apply--namely, Presidential 
+appointees or other employees who are excluded from coverage under the 
+title 5 leave laws under 5 U.S.C. 6301(2)(x)-(xiii).
+
+Section 630.1402 (Administrative Leave--Definitions)
+
+    OPM is removing a no-longer-relevant definition of ``head of the 
+agency'' from Sec.  630.1402. Changes made in the December 17, 2024, 
+final regulations made the definition unnecessary, and it should have 
+been deleted at that time.
+    OPM is adding a definition of ``sole and exclusive discretion'' to 
+make clear that agency discretion is exercised within the bounds of 
+applicable law, Presidential directives, and the regulations in subpart 
+N, and may not be limited or conditioned by any agreement or 
+established as a mandatory entitlement.
+
+Section 630.1403 (Administrative Leave--Principles, Prohibitions, and 
+Acceptable Uses)
+
+    In paragraphs (a)(2) and (4) of Sec.  630.1403, OPM is adding the 
+words ``sole and exclusive'' before the word ``discretion'' to better 
+reflect the decision of Congress to give this new discretionary leave 
+authority to agency heads who make final decisions on mission needs and 
+use of limited budget resources and the sense of Congress that agency 
+heads would be responsible for managing and overseeing the effective 
+and prudent use of the leave. This regulatory change reflects OPM's 
+judgment that acceptable uses are those uses, within the bounds of law 
+and regulation, that an agency determines to be appropriate in its sole 
+and exclusive discretion.
+    In paragraph (a)(3), OPM is adding a sentence that points to 
+examples of when it is appropriate for an agency to approve an 
+incidence of administrative leave lasting more than 1 workday, which 
+are found in a new paragraph (c).
+    In paragraph (b), OPM is revising the regulatory prohibitions on 
+use of administrative leave. In paragraph (b)(2), OPM is clarifying 
+that the prohibition on using administrative leave to recognize 
+employee performance or contributions does not prevent an agency from 
+providing administrative leave to the general workforce of the agency 
+(or an organization within the agency) as a morale-boosting special 
+goodwill gesture, even if that action is broadly linked to the 
+accomplishments of the workforce. OPM is also adding three new 
+regulatory prohibitions in paragraphs (b)(3) through (b)(5), which are 
+already addressed in OPM's Agency Policy Template.
+    Paragraph (b)(3) provides that administrative leave may not be used 
+for the purpose of placing an employee in a non-duty status during an 
+investigation of the employee's conduct or performance once the 
+employee has reached the 10-workday calendar year limit in 5 U.S.C. 
+6329a(b)(1) and Sec.  630.1404 in connection with a given 
+investigation. Once the 10-workday limit is reached, the agency must 
+use investigative leave under 5 U.S.C. 6329b if it wishes to continue 
+to conduct an investigation and continue to keep the employee in a paid 
+non-duty status.
+
+[[Page 65937]]
+
+    The language ``in connection with a given investigation'' is 
+intended to cover situations in which an employee was placed on 
+administrative leave due to an investigation, reached the 10-workday 
+limit in that calendar year, and is then placed on section 6329b 
+investigative leave as part of a continuing investigation. Once an 
+employee has reached the 10-workday limit in connection with a given 
+investigation, that limit is no longer applicable in governing the use 
+of section 6329b investigative leave with respect to the same 
+investigation. Thus, if the investigation continues into the next 
+calendar year, the agency can continue to place the employee on section 
+6329b investigative leave even though the employee has not reached the 
+10-workday limit on section 6329a administrative leave in the new 
+calendar year. (Section 6329b(b)(3)(A) bars use of section 6329b 
+investigative leave until expiration of the 10-workday period, but this 
+bar applies only in making a decision to start an initial period of 
+investigative leave in connection with a given investigation.)
+    Paragraph (b)(4) provides that administrative leave may not be used 
+for a purpose for which sick leave could be used under OPM regulations 
+(5 CFR 630.401(a))--unless such use in a particular scenario is 
+specifically approved by Governmentwide policy issued by OPM or the 
+President. The exception to the general bar requires OPM or 
+Presidential approval, which should be provided only in exceptional 
+circumstances.
+    Paragraph (b)(5) provides that administrative leave may not be used 
+to cover service by poll workers or poll observers in connection with 
+elections. OPM's current policies allow administrative leave to give 
+employees a reasonable opportunity to vote on an election day (see 
+Sec.  630.1403(c)(2)); however, OPM does not believe it is appropriate 
+to use administrative leave for other election-related matters beyond 
+facilitating an opportunity for an employee to vote.
+    OPM is adding a new paragraph (c) that provides a noncomprehensive 
+list of examples of acceptable uses of administrative leave. This list 
+signals that an agency can provide administrative leave in the covered 
+scenarios without having to be concerned that it may be contrary to 
+Governmentwide policies. At the same time, agencies are not required to 
+provide administrative leave in the listed scenarios. Agencies retain 
+the sole and exclusive discretion to determine whether to provide 
+administrative leave to any employee or category of employees based on 
+their consideration of agency mission requirements--within the bounds 
+of law and regulation. The listed examples are generally consistent 
+with current OPM policies in its Agency Policy Template. Of particular 
+note, the list includes examples of using administrative leave in 
+connection with deferred resignation programs and other workforce 
+restructuring initiatives. Paragraph (c)(8), added in this final rule 
+in response to comments, addresses the limited use of administrative 
+leave for physical fitness activities; the examples proposed as 
+paragraphs (c)(8) through (c)(10) are redesignated as paragraphs (c)(9) 
+through (c)(11). See the discussion of this topic earlier in the 
+preamble.
+
+Technical Corrections
+
+    OPM is also making three technical corrections in this final rule 
+that do not alter the substance of the rule as proposed. First, OPM is 
+revising the authority citation for part 630 to restore the authority 
+for subpart Q (Paid Parental Leave), which was added to the citation by 
+the August 10, 2020, final rule implementing the Federal Employee Paid 
+Leave Act (85 FR 48075) as ``subpart Q issued under 5 U.S.C. 6387,'' 
+but was inadvertently omitted when the authority citation was revised 
+in the December 17, 2024, final rule (89 FR 102256). Second, OPM is 
+correcting an internal cross-reference in Sec.  630.1403(a)(5)(ii), 
+which refers to ``paragraph (i) of this paragraph (a)(5)'' rather than 
+to ``paragraph (a)(5)(i) of this section''; the text of paragraph 
+(a)(5)(ii) is otherwise unchanged. Third, OPM is conforming the cross-
+reference to 5 CFR 610.102 in Sec.  630.1405(b) to the citation style 
+used elsewhere in part 630.
+
+Section 715.202 (Resignations)
+
+    OPM is revising Sec.  715.202(b), which deals with employees' 
+requests to withdraw a resignation before its effective date. OPM is 
+making clear that the decision to accept or decline a resignation 
+withdrawal request is made at the agency's sole and exclusive 
+discretion. Also, OPM is adding another example of a valid reason for 
+declining an employee's request--namely, that the employee accepted 
+benefits under a deferred resignation agreement. For example, if an 
+employee received paid administrative leave in connection with a 
+deferred resignation agreement, an agency may determine that it would 
+be inappropriate to allow an employee to withdraw the resignation and 
+keep the paid leave benefits.
+
+Severability
+
+    OPM intends the provisions of this final rule to be severable. If 
+any provision, or its application to any person or circumstance, is 
+held invalid or unenforceable, OPM intends that the remaining 
+provisions and their applications remain operative to the fullest 
+extent permitted by law. OPM would have adopted those remaining 
+provisions independent of the provision or application held invalid.
+    The rule addresses distinct matters, including coverage and agency 
+discretion under the administrative leave regulations, specific 
+prohibited and acceptable uses of administrative leave, employee status 
+during a reduction-in-force notice period, and withdrawal of 
+resignations. Each change serves the purposes explained separately in 
+this preamble. For example, the prohibitions and examples of acceptable 
+uses in Sec.  630.1403 address different circumstances; removing one 
+would not prevent agencies from applying the others under the remaining 
+governing requirements. Likewise, the withdrawal of resignation 
+provisions in Sec.  715.202 can operate independently of the examples 
+authorizing administrative leave because they govern whether an agency 
+may decline a withdrawal request when it has a valid reason. Although 
+Sec.  351.806(b) references part 630, subpart N, that reference does 
+not depend on every provision of subpart N remaining effective. 
+Agencies could continue to apply Sec.  351.806(b) subject to the 
+surviving administrative leave requirements. Accordingly, the remaining 
+provisions would continue to provide useful guidance and function 
+sensibly without any provision held invalid, subject to applicable law 
+and court rulings.
+
+V. Regulatory Analysis
+
+A. Statement of Need
+
+    After having over 1 year of experience in applying the final 
+regulations on administrative leave issued in December 2024, OPM has 
+identified the need to clarify certain matters in the regulations. 
+While OPM has issued policy guidance (see footnote 2) that largely 
+addresses these matters, regulations are needed to achieve greater 
+consistency across agencies and a firmer legal foundation for the 
+policies. OPM is adding certain prohibited uses of administrative leave 
+so that the prohibitions are binding on agencies. OPM is adding 
+examples of acceptable uses of administrative leave so that agencies 
+can be assured those uses have a regulatory foundation. For example, 
+OPM is including the extended use of administrative leave in connection 
+with a deferred resignation program as an acceptable use of 
+administrative leave. Also, through
+
+[[Page 65938]]
+
+these regulations, OPM is better fulfilling its statutory charge to 
+prescribe regulations that address agency uses of administrative leave 
+(5 U.S.C. 6329a(c)(1)). OPM also identified the need to clarify that 
+agencies have sole and exclusive discretion in making decisions to 
+provide or not provide administrative leave, subject to governing law 
+and regulations.
+    OPM is amending the RIF regulation in 5 CFR 351.806 to clarify when 
+administrative leave may be provided during a RIF notice period.
+    OPM is also amending the resignation regulation in 5 CFR 715.202 to 
+identify the acceptance of benefits, such as administrative leave, as a 
+valid reason for an agency to deny an employee's request to withdraw a 
+resignation commitment made as part of a deferred resignation 
+agreement. This gives agencies a clearer regulatory basis for denying a 
+resignation withdrawal request by a participant in a deferred 
+resignation program.
+
+B. Regulatory Alternatives
+
+    OPM considered the alternative of not adding additional regulatory 
+prohibitions or examples of acceptable uses of administrative leave and 
+instead relying on OPM policies. For the reasons given in the Statement 
+of Need section, OPM concluded that various policies should be codified 
+in regulation. With respect to the revision of the resignation 
+regulation, OPM considered the possibility of not making the change but 
+determined agencies would be better served by a regulation that gives 
+them a clear and specific legal basis for denying a resignation 
+withdrawal request by an employee participating in a deferred 
+resignation program.
+
+C. Impact
+
+    Since OPM is codifying in regulation existing policies on 
+administrative leave, OPM does not expect significant changes in the 
+usage of administrative leave. Agencies generally follow OPM policies 
+even if they are not legally binding in the way regulations are. 
+Codifying policies in regulations provides a firmer legal foundation 
+for those policies, promotes consistency across agencies, and avoids 
+disputes between employees and agencies. Since this final regulation 
+affects only Federal agencies and employees, it will have no 
+substantial impact on local economies or labor markets.
+
+D. Costs
+
+    As explained in the Impact section, OPM does not expect the 
+regulations to result in significant changes in the usage of 
+administrative leave. Governmentwide policies that parallel the final 
+regulations are already in place. OPM is simply giving its policies an 
+enhanced legal standing by incorporating them in regulation. 
+Accordingly, OPM does not project that costs or savings will result 
+from the regulations. OPM believes the administrative burdens 
+associated with implementing these final regulations will be de 
+minimis, since agencies are already operating under parallel OPM 
+policies. There could be minor administrative cost savings to the 
+extent that codifying policies in regulations reduces disputes. Several 
+commenters challenged this assessment, arguing that OPM must account 
+for the costs of the 2025 deferred resignation programs and for broader 
+economic effects of workforce reductions. As explained in section III.E 
+of this preamble, the relevant measure under E.O. 12866 and E.O. 13563 
+is the incremental effect of this rule against a baseline that includes 
+the Governmentwide policies already in effect. Expenditures associated 
+with the 2025 programs were incurred under existing authorities and 
+policies and are part of that baseline, and decisions to undertake 
+particular workforce realignment initiatives are made by agencies under 
+separate authorities that this rule neither mandates nor funds.
+    Similarly, OPM does not expect the change to the resignation 
+regulation to have a significant effect on the number of resignation 
+withdrawals. The existing regulation already allows an agency to deny 
+an employee's request to withdraw a resignation for a valid reason. The 
+regulation simply identifies an employee's acceptance of benefits (such 
+as administrative leave) as part of a deferred resignation agreement as 
+a specific example of a valid reason. The final regulation could result 
+in fewer or less lengthy disputes, but the number of affected cases 
+would be very small.
+
+E. Benefits
+
+    This rule has important benefits. The regulations provide more 
+transparency and accountability, provide a firmer legal foundation for 
+allowing or prohibiting certain uses of administrative leave, promote 
+consistency across agencies, clarify the authority of agencies, and 
+reduce potential disputes. With respect to the revision of the RIF 
+regulation, it clarifies when it is appropriate to provide 
+administrative leave during a RIF notice period. With respect to the 
+revision of the resignation regulation, it will provide a regulatory 
+basis for denying a resignation withdrawal request and set clear 
+expectations for employees who enter into a deferred resignation 
+agreement.
+
+VI. Regulatory Compliance
+
+A. Regulatory Flexibility Act
+
+    The Director of OPM certifies that this rule will not have a 
+significant economic impact on a substantial number of small entities 
+because it will apply only to Federal agencies and employees.
+
+B. Regulatory Review
+
+    The Office of Information and Regulatory Affairs in the Office of 
+Management and Budget has designated this as a significant regulatory 
+action under E.O. 12866 section 3(f). Accordingly, OPM has examined the 
+impact of this rule as required by E.O.s 12866 and 13563, which direct 
+agencies to assess all costs and benefits of available regulatory 
+alternatives and, if regulation is necessary, to select regulatory 
+approaches that maximize net benefits (including potential economic, 
+environmental, public, health, and safety effects, distributive 
+impacts, and equity). A regulatory impact analysis must be prepared for 
+rules that have an annual effect on the economy of $100 million or more 
+in any one year or adversely affect in a material way the economy, a 
+sector of the economy, productivity, competition, jobs, the 
+environment, public health or safety, or State, local, or tribal 
+governments or communities. This rulemaking does not reach that 
+threshold. This rule is not considered a regulatory action under E.O. 
+14192 because it imposes no more than de minimis costs. This rule has 
+been reviewed by the Office of Information and Regulatory Affairs in 
+the Office of Management and Budget.
+
+C. Federalism
+
+    This regulation will not have substantial direct effects on the 
+States, on the relationship between the National Government and the 
+States, or on distribution of power and responsibilities among the 
+various levels of government. Therefore, in accordance with E.O. 13132, 
+the Director of OPM certifies that this final rule does not have 
+sufficient federalism implications to warrant preparation of a 
+Federalism Assessment.
+
+D. Civil Justice Reform
+
+    This rulemaking meets the applicable standards set forth in section 
+3(a) and (b)(2) of E.O. 12988.
+
+[[Page 65939]]
+
+E. Unfunded Mandates Reform Act of 1995
+
+    Section 202 of the Unfunded Mandates Reform Act of 1995 (UMRA) 
+requires that agencies assess anticipated costs and benefits before 
+issuing any rule that would impose spending costs on State, local, or 
+tribal governments in the aggregate, or on the private sector, in any 1 
+year of $100 million in 1995 dollars, updated annually for inflation. 
+That threshold is currently approximately $206 million. This rulemaking 
+will not result in the expenditure by State, local, or tribal 
+governments, in the aggregate, or by the private sector, in excess of 
+the threshold. Thus, no written assessment of unfunded mandates is 
+required.
+
+F. Paperwork Reduction Act
+
+    This rulemaking does not impose any reporting or recordkeeping 
+requirements subject to the Paperwork Reduction Act (44 U.S.C. chapter 
+35).
+
+G. Congressional Review Act
+
+    Subtitle E of the Small Business Regulatory Enforcement Fairness 
+Act of 1996, known as the Congressional Review Act (5 U.S.C. 801 et 
+seq.), requires that agencies submit final rules to Congress and the 
+Comptroller General of the United States for review before the rules 
+can take effect. OPM will submit this final rule and other required 
+materials to Congress and the Comptroller General. The Office of 
+Information and Regulatory Affairs has determined that this rule is not 
+a ``major rule'' as defined by the Congressional Review Act (5 U.S.C. 
+804(2)).
+
+List of Subjects
+
+5 CFR Part 351
+
+    Administrative practice and procedure, Government employees.
+
+5 CFR Part 630
+
+    Emergency preparedness, Government employees, Reporting and 
+recordkeeping requirements, Wages, Weather.
+
+5 CFR Part 715
+
+    Government employees.
+Signing Statement
+    The Director of OPM, Scott Kupor, reviewed and approved this 
+document and has authorized the undersigned to electronically sign and 
+submit this document to the Office of the Federal Register for 
+publication.
+
+Office of Personnel Management
+Jerson Matias,
+Federal Register Liaison.
+
+    For the reasons stated in the preamble, OPM amends 5 CFR parts 351, 
+630, and 715 as follows:
+
+PART 351--REDUCTION IN FORCE
+
+0
+1. The authority citation for part 351 is revised to read as follows:
+
+    Authority: 5 U.S.C. 1103, 1104, 1302, 2301, 3502, 3503; 38 
+U.S.C. 4331; E.O. 14284, 90 FR 17729; 5 CFR 2.2(c). Sec. 351.801 
+also issued under E.O. 12828, 58 FR 2965, 3 CFR, 1993 Comp., p. 569.
+
+Subpart H--Notice to Employee
+
+0
+2. Revise Sec.  351.806 to read as follows:
+
+
+Sec.  351.806  Status during notice period.
+
+    (a) General. Under ordinary circumstances, an employee will remain 
+in a duty status during the notice period.
+    (b) Administrative leave. Nothing in this section precludes an 
+agency from placing an employee on administrative leave for all or part 
+of the notice period when the agency determines that such leave is 
+appropriate and the use of administrative leave is consistent with part 
+630, subpart N, of this chapter.
+    (c) Emergency lack of work or funds. When, in an emergency, the 
+agency lacks work or funds for all or part of the notice period, it may 
+place the employee on annual leave with or without the employee's 
+consent, on leave without pay with the employee's consent, or in a 
+nonpay status without the employee's consent.
+
+PART 630--ABSENCE AND LEAVE
+
+0
+3. The authority citation for 5 CFR Part 630 is revised to read as 
+follows:
+
+    Authority: Subparts A through E issued under 5 U.S.C. 6133(a) 
+(read with 5 U.S.C. 6129), 6303(e) and (f), 6304(d)(2), 6306(b), 
+6308(a) and 6311; subpart F issued under 5 U.S.C. 6305(a) and 6311 
+and E.O. 11228, 30 FR 7739, 3 CFR, 1974 Comp., p. 163; subpart G 
+issued under 5 U.S.C. 6305(c) and 6311; subpart H issued under 5 
+U.S.C. 6133(a) (read with 5 U.S.C. 6129) and 6326(b); subpart I 
+issued under 5 U.S.C. 6332, 6334(c), 6336(a)(1) and (d), and 6340; 
+subpart J issued under 5 U.S.C. 6340, 6363, 6365(d), 6367(e), 
+6373(a); subpart K issued under 5 U.S.C. 6391(g); subpart L issued 
+under 5 U.S.C. 6383(f) and 6387; subpart M issued under Sec. 2(d), 
+Pub. L. 114-75, 129 Stat. 641 (5 U.S.C. 6329 note); subpart N issued 
+under 5 U.S.C. 6329a(c); subpart O issued under 5 U.S.C. 6329b(h); 
+subpart P issued under 5 U.S.C. 6329c(d); and subpart Q issued under 
+5 U.S.C. 6387.
+
+Subpart N--Administrative Leave
+
+0
+4. In subpart N:
+0
+a. Remove the word ``grant'', wherever it appears, and add, in its 
+place, the word ``provide'';
+0
+b. Remove the word ``granted'', wherever it appears, and add, in its 
+place, the word ``provided''; and
+0
+c. Remove the word ``granting'', wherever it appears, and add, in its 
+place, the word ``providing''.
+
+0
+5. Amend Sec.  630.1401 by revising paragraph (b) to read as follows:
+
+
+Sec.  630.1401  Purpose and applicability.
+
+* * * * *
+    (b) This subpart applies to an employee as defined in 5 U.S.C. 2105 
+who is employed in an agency, but does not apply to--
+    (1) An intermittent employee who, by definition, does not have an 
+established regular tour of duty during the administrative workweek; or
+    (2) A Presidential appointee or other employee who is excluded from 
+coverage under title 5 leave laws (5 U.S.C. 6301(2)(x)-(xiii)) and who 
+is entitled to the pay of his or her office solely because of status as 
+an officer (5 U.S.C. 5508).
+* * * * *
+
+0
+6. Amend Sec.  630.1402 by removing the definition of ``Head of the 
+agency'' and adding, in alphabetical order, the definition of ``Sole 
+and exclusive discretion'' to read as follows:
+
+
+Sec.  630.1402  Definitions.
+
+* * * * *
+    Sole and exclusive discretion means discretion that rests with an 
+agency alone; that is exercised within the bounds of 5 U.S.C. 6329a and 
+other applicable law, applicable Presidential directives, and the 
+regulations in this subpart; and that may not be limited or conditioned 
+by any agreement or established as a mandatory entitlement to 
+administrative leave.
+
+0
+7. Amend Sec.  630.1403 by:
+0
+a. Revising the section heading;
+0
+b. In paragraph (a)(2), adding the words ``sole and exclusive'' before 
+the word ``discretion'';
+0
+c. Revising paragraph (a)(3);
+0
+d. In paragraph (a)(4), adding the words ``sole and exclusive'' before 
+the word ``discretion'';
+0
+e. Revising paragraph (a)(5)(ii);
+0
+f. Revising paragraph (b); and
+0
+g. Adding paragraph (c).
+    The revisions and addition read as follows:
+
+
+Sec.  630.1403  Principles, prohibitions, and examples of acceptable 
+uses.
+
+    (a) * * *
+
+[[Page 65940]]
+
+    (3) Administrative leave is appropriately used for brief or short 
+periods of time--usually for not more than 1 workday. An incidence of 
+administrative leave lasting more than 1 workday may be approved in 
+applicable circumstances described in paragraph (c) of this section or 
+when otherwise determined to be appropriate by an agency.
+* * * * *
+    (5) * * *
+    (ii) Reviewed and approved by an official of the agency who is (or 
+is acting) at a higher level than the official making the 
+determination, if the specific type of use and amount of leave for that 
+use has not been authorized under established written policy as 
+described in paragraph (a)(5)(i) of this section.
+* * * * *
+    (b) Specific prohibited uses. An agency may not provide 
+administrative leave--
+    (1) To mark the memory of a deceased former Federal official (see 
+also 5 U.S.C. 6105);
+    (2) As a reward to recognize the performance or contributions of an 
+employee or group of employees (i.e., in lieu of a cash award or a 
+time-off award), except that an agency may provide administrative leave 
+to all employees of an organization as a morale-boosting goodwill 
+gesture, even if it is broadly linked to the accomplishments of the 
+organization;
+    (3) For investigative purposes (i.e., involving an 
+``investigation'' as defined in Sec.  630.1502) after an employee has 
+reached the 10-workday calendar year limit described in Sec.  630.1404 
+in connection with a given investigation;
+    (4) For a purpose for which sick leave could be used (Sec.  
+630.401(a))--unless such use in a particular scenario is specifically 
+approved by Governmentwide policy issued by OPM or the President; 
+however, an employee who is eligible to use sick leave may be provided 
+administrative leave on the same basis it is provided to an employee 
+who is not so eligible when the administrative leave is provided for 
+some other purpose; or
+    (5) To cover service by poll workers or poll observers in 
+connection with elections.
+    (c) Examples of acceptable uses. An agency may, at its sole and 
+exclusive discretion, provide administrative leave in circumstances 
+that satisfy the requirements in paragraph (a) of this section, 
+including in the following circumstances:
+    (1) For investigative purposes until the employee has reached the 
+10-workday calendar year limit described in Sec.  630.1404;
+    (2) To provide an employee who has not voted early with a 
+reasonable opportunity to vote on a regular election day;
+    (3) To allow an employee to donate blood during the employee's tour 
+of duty;
+    (4) To allow an employee to participate in an agency's employee 
+assistance program for problem identification and referral to an 
+outside resource and for general employee orientation or education 
+activities;
+    (5) To provide for early dismissal (generally no more than 2 hours) 
+on the scheduled workday immediately before a Federal public holiday as 
+a morale-boosting goodwill gesture;
+    (6) To allow an employee to rest and recover following unusually 
+lengthy tours of duty or extended travel for work purposes (for 
+example, the U.S. Forest Service in the Department of Agriculture or 
+the Department of the Interior may provide 2 to 3 days of 
+administrative leave to employees who have completed an extended 
+deployment to fight a wildland fire);
+    (7) To provide up to 5 days of administrative leave for a civilian 
+employee who needs time off to effectuate a change in his or her 
+residence to a different geographic area in order to accompany a 
+qualifying spouse--that is, a spouse who is a member of one of the 
+uniformed services or a civilian Federal Government employee--when the 
+qualifying spouse's residence change is the result of military orders 
+or agency direction, as applicable;
+    (8) To provide limited amounts of administrative leave for approved 
+physical fitness activities on a conditional basis (consistent with 
+paragraphs (a)(4) and (6) and subject to any Governmentwide policies 
+issued by OPM or the President) for employees who do not have job-
+related mandatory fitness standards that allow for use of official duty 
+time for such activities;
+    (9) To provide extended periods of administrative leave (subject to 
+Governmentwide limits established by OPM and agency limits) to 
+employees who sign a written agreement to voluntarily separate on a 
+specified future date as a transition-to-separation tool that supports 
+workforce restructuring and realignment initiatives that are based on 
+agency and Governmentwide interests, including voluntary deferred 
+resignation programs, use of voluntary separation incentive payments, 
+or use of voluntary early retirement authorizations;
+    (10) To provide administrative leave to employees subject to an 
+involuntary separation via a reduction in force (RIF) during the period 
+between receipt of the RIF notice and the RIF separation when the 
+agency determines it is in the Government's best interests; or
+    (11) To provide extended periods of administrative leave (subject 
+to Governmentwide limits established by OPM and agency limits) to 
+facilitate the voluntary resignation of employees with documented 
+allegations of poor performance or misconduct under a settlement 
+agreement that the agency determines is in the Government's best 
+interests after considering all other reasonable alternatives.
+
+
+Sec.  630.1405  [Amended]
+
+0
+8. Amend Sec.  630.1405 by removing, in paragraph (b), the words ``5 
+CFR 610.102'' and adding in their place the words ``Sec.  610.102 of 
+this chapter''.
+
+PART 715--NONDISCIPLINARY SEPARATIONS, DEMOTIONS, AND FURLOUGHS
+
+0
+9. The authority citation for 5 CFR Part 715 is revised to read as 
+follows:
+
+    Authority:  5 U.S.C. 1302, 3301, 3302, 7301; E.O. 10577, 19 FR 
+7521, 3 CFR, 1954-1958 Comp., p. 218.
+
+Subpart B--Voluntary Separations
+
+0
+10. Revise Sec.  715.202 to read as follows:
+
+
+Sec.  715.202  Resignation.
+
+    (a) General. An employee is free to resign at any time, to set the 
+effective date of his or her resignation, and to have his or her 
+reasons for resigning entered in his or her official records.
+    (b) Withdrawal of resignation. An agency may, in its sole and 
+exclusive discretion, accept or decline an employee's request to 
+withdraw his or her resignation at any time before it has become 
+effective. An agency may decline a request to withdraw a resignation 
+before its effective date only when the agency has a valid reason and 
+explains that reason to the employee. A valid reason includes, but is 
+not limited to, administrative disruption, the hiring or commitment to 
+hire a replacement, or the employee's acceptance of benefits provided 
+under a deferred resignation agreement. Avoidance of adverse action 
+proceedings is not a valid reason.
+
+[FR Doc. 2026-21320 Filed 10-16-26; 8:45 am]
+BILLING CODE 6325-39-P

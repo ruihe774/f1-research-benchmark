@@ -1,0 +1,1007 @@
+# Machine-readable scoring rubric, derived from ANSWER_KEY.md.
+#
+# The grader agent gives a verdict ("yes", "no" or "unclear") for every
+# criterion. grader.py turns verdicts into points; the grader never sees points.
+#
+#   kind = "credit"   yes earns `points`
+#   kind = "penalty"  yes deducts `points`
+#   kind = "gate"     no points; a group whose gate is not "yes" is multiplied
+#                     by the group's `factor`
+#
+# A question's score is (credits - penalties), clamped to [0, question points].
+# Questions other than Q11 keep the criteria of earlier drafts on their original
+# scale and carry `criteria_points`; grader.py rescales them to the question's
+# `points`. Q11 is written directly in final points.
+#
+# Where this file and the point split in ANSWER_KEY.md differ, this file
+# decides the points. Criterion text should still be read with the key.
+
+[grader]
+finding = "a finding of the President or an agency"
+outside_sources = "the Harmonized Tariff Schedule, CBP messages or agency websites"
+
+[[question]]
+id = "Q1"
+points = 2
+criteria_points = 8
+
+[[question]]
+id = "Q2"
+points = 3
+criteria_points = 8
+
+[[question]]
+id = "Q3"
+points = 3
+criteria_points = 10
+
+[[question]]
+id = "Q4"
+points = 4
+criteria_points = 12
+
+[[question]]
+id = "Q5"
+points = 3
+criteria_points = 10
+
+[[question]]
+id = "Q6"
+points = 3
+criteria_points = 12
+
+[[question]]
+id = "Q7"
+points = 1
+criteria_points = 8
+
+[[question]]
+id = "Q8"
+points = 2
+criteria_points = 8
+
+[[question]]
+id = "Q9"
+points = 3
+criteria_points = 8
+
+[[question]]
+id = "Q10"
+points = 3
+criteria_points = 10
+
+[[question]]
+id = "Q11"
+points = 20
+
+[[question]]
+id = "Q12"
+points = 4
+criteria_points = 12
+
+[[question]]
+id = "Q13"
+points = 16
+criteria_points = 14
+
+[[question]]
+id = "Q14"
+points = 8
+criteria_points = 12.5
+
+[[question]]
+id = "Q15"
+points = 25
+criteria_points = 18
+
+# Applied to every question; ids become e.g. "q3_cite".
+[[per_question_penalty]]
+suffix = "cite"
+points = 1
+text = "Citation discipline: a substantial share of the factual claims in this answer have no FR document number, proclamation clause, note subdivision or FR page citation."
+
+[[per_question_penalty]]
+suffix = "fab"
+points = 2
+text = "Fabrication: the answer invents a source. Yes only for (i) an FR document number, FR page citation, proclamation number or clause that does not exist; (ii) a quotation, in quotation marks, that does not appear in the cited source; (iii) a provision, statement or figure attributed to a source that has no basis anywhere in that source; or (iv) specific annex content (HTS numbers, product lists) asserted as fact although the annexes are images the tools cannot read. Not fabrication: misreading, misapplying or overstating the scope of a real provision, a wrong inference from real text, an arithmetic slip, or misnumbering a real clause that is otherwise described correctly. Those errors lose the related credit criteria instead. Check citations the key does not cover with the tools before answering yes."
+
+# --------------------------------------------------------------------------- Q1
+[[criterion]]
+id = "q1_duty_procs"
+question = "Q1"
+points = 1.5
+text = "Lists the three duty proclamations with their numbers and FR document numbers: 11046 (2026-14991), 11047 (2026-14992) and 11048 (2026-14997), signed July 20, 2026 and published July 23, 2026. FR first pages (91 FR 46639, 46653, 46663) are welcome but not required. No if any of the three is missing or has a wrong document number or signing date."
+
+[[criterion]]
+id = "q1_delay"
+question = "Q1"
+points = 1
+text = "Lists Proclamation 11056 (2026-17294), signed August 18, 2026 and published August 24, 2026, and says it moved the effective date of the three duties to 12:01 a.m. on August 22, 2026 (from August 19)."
+
+[[criterion]]
+id = "q1_exclusions"
+question = "Q1"
+points = 1.5
+text = "Lists the three import exclusion proclamations 11061, 11062 and 11063 (2026-18835, 2026-18836, 2026-18837), signed September 8, 2026 and published September 14, 2026, and gives their operative time as 12:01 a.m. on September 29, 2026. No if any of the three is missing."
+
+[[criterion]]
+id = "q1_scope"
+question = "Q1"
+points = 1.5
+text = "Lists the three scope proclamations with operative times: 11064 (2026-18838) and 11065 (2026-18839), signed September 8, 2026, applying from 12:01 a.m. on September 15, 2026; and 11076 (2026-22292), signed October 23, 2026 and published October 30, 2026, applying from 12:01 a.m. on October 30, 2026. No if any of the three is missing or has a wrong operative date."
+
+[[criterion]]
+id = "q1_events"
+question = "Q1"
+points = 1
+text = "Says that the duties and the scope changes are measured against entry for consumption or withdrawal from warehouse for consumption, while the import exclusions are measured against importation (goods 'imported on or after'). Both halves are required."
+
+[[criterion]]
+id = "q1_dairy_none"
+question = "Q1"
+points = 1
+text = "Says that no proclamation modified the scope of the dairy duty list: the alcohol list was modified by 11064 and the motor-vehicles list by 11065 and 11076, and for dairy there is only the exclusion (11062). Mentioning that the exclusion proclamations moved some products from duty to exclusion is welcome but not required. No if the answer attributes a dairy scope modification to any document."
+
+[[criterion]]
+id = "q1_dairy_xref"
+question = "Q1"
+points = 0.5
+text = "Notes that Proclamation 11062, clause (3), refers to a September 8, 2026 proclamation modifying the scope of the dairy duties, and that no such proclamation appears in the Federal Register."
+
+# --------------------------------------------------------------------------- Q2
+[[criterion]]
+id = "q2a_zero"
+question = "Q2"
+points = 1
+text = "(a) Says no section 338 duty ($0) is owed on entry 1 (August 20) and on entry 2 (11:59 p.m. August 21). No if either is given as dutiable."
+
+[[criterion]]
+id = "q2a_third"
+question = "Q2"
+points = 1
+text = "(a) Says entry 3 (12:01 a.m. August 22) owes 50% of $40,000 = $20,000."
+
+[[criterion]]
+id = "q2a_basis"
+question = "Q2"
+points = 0.5
+text = "(a) Cites Proclamation 11056, clause (1) (the effective date of the duties 'shall be 12:01 a.m. eastern time on August 22, 2026'), FR Doc. 2026-17294 or 91 FR 54790."
+
+[[criterion]]
+id = "q2b_chapeau"
+question = "Q2"
+points = 1
+text = "(b) Says that 11056 formally amended only the chapeau of Annex II of each of the three proclamations (deleting 'August 19, 2026' and inserting 'August 22, 2026'), and that the numbered clauses of the duty proclamations that state August 19 (clause (1), and clause (3)) were not themselves amended. Naming clause (1) alone as the unamended text is enough."
+
+[[criterion]]
+id = "q2b_resolve"
+question = "Q2"
+points = 1
+text = "(b) Says what resolves the leftover August 19 text: the first sentence of 11056 clause (1), which sets the effective date outright, and/or 11056 clause (5), under which inconsistent provisions of previous proclamations are superseded to the extent of the inconsistency. Either is enough."
+
+[[criterion]]
+id = "q2c_refund"
+question = "Q2"
+points = 1
+text = "(c) Cites 11056 clause (4): to the extent implementation requires a refund of duties collected, refunds are processed under applicable law and CBP's standard procedures. Adding that clause (2) tells agencies to suspend collection, or that no special procedure or deadline is given, is welcome but not required. No if the answer says the documents are silent on refunds."
+
+[[criterion]]
+id = "q2d_no_action"
+question = "Q2"
+points = 0.75
+text = "(d) Says no further presidential action was needed or issued for the duties to begin: 11056 only reset the effective date, and later proclamations (11061 recital 4, or the same recital in 11062-11065 or 11076) say the 3-day suspension lapsed at 12:01 a.m. on August 22, 2026 and the duties became effective."
+
+[[criterion]]
+id = "q2d_reneged"
+question = "Q2"
+points = 0.75
+text = "(d) Says what the documents report about the days before: the delay was granted after Canada expressed a commitment to remove the discrimination, and on August 21, 2026 Canada reneged on that commitment (and ceased negotiating in good faith), per the recitals of the September 8 proclamations (for example 11061 recital 3, 91 FR 58311). The August 21 date is required."
+
+[[criterion]]
+id = "q2e_thirty"
+question = "Q2"
+points = 1
+text = "(e) Explains August 19 from the recited section 338 rule that additional duties may not take effect earlier than 30 days after the President's proclamation: July 20, 2026 plus 30 days is August 19, 2026."
+
+# --------------------------------------------------------------------------- Q3
+[[criterion]]
+id = "q3a_shipment_a"
+question = "Q3"
+points = 0.5
+text = "(a) Shipment A (arrives September 10, entered September 14): may be imported, and owes 50% of $30,000 = $15,000."
+
+[[criterion]]
+id = "q3a_shipment_b"
+question = "Q3"
+points = 1.5
+text = "(a) Shipment B (arrives September 27, withdrawn from warehouse October 5): not excluded, and owes $15,000, because it was imported before September 29 and 11061 clause (2) keeps goods imported but not yet entered or withdrawn before September 29 at the 50% duty. No if the answer treats it as excluded or as owing no duty."
+
+[[criterion]]
+id = "q3a_shipment_c"
+question = "Q3"
+points = 1.5
+text = "(a) Shipment C (arrives 11:30 p.m. September 28, entry filed September 29): not excluded, because the exclusion turns on importation and it was imported before 12:01 a.m. on September 29; owes $15,000. No if the answer treats it as excluded because the entry was filed on September 29."
+
+[[criterion]]
+id = "q3a_shipment_d"
+question = "Q3"
+points = 1.5
+text = "(a) Shipment D (arrives 12:30 a.m. September 29): excluded from importation under 11061 clause (1) (imported on or after 12:01 a.m. on September 29, 2026), so it cannot be entered for consumption. No if the answer has it admitted on payment of the 50% duty."
+
+[[criterion]]
+id = "q3b_result"
+question = "Q3"
+points = 1.5
+text = "(b) Concludes, as the best or likely reading, that shipment E is not excluded and owes the 50% duty ($15,000) when entered from the zone on October 6, because it was imported before September 29 and had not yet been entered for consumption, which is the case 11061 clause (2) describes. Yes whether stated as likely or as settled."
+
+[[criterion]]
+id = "q3b_ftz"
+question = "Q3"
+points = 1
+text = "(b) Either cites the foreign-trade-zone clause of the duty proclamation (11046 clause (4): admission in privileged foreign status, with the duty owed on entry for consumption), or states that the exclusion proclamation does not itself address foreign trade zones. Either is enough."
+
+[[criterion]]
+id = "q3c_invalid"
+question = "Q3"
+points = 1.5
+text = "(c) Says the 50% duty imposed by Proclamation 11046 applies to imports to which the invalidated exclusion had applied, citing 11061 clause (9)(b) (or 91 FR 58313). No if the answer says the goods would enter free of the section 338 duty."
+
+[[criterion]]
+id = "q3d_no_change"
+question = "Q3"
+points = 1
+text = "(d) Says no: under 11061 clause (3) the proclamation does not otherwise affect the products subject to the Proclamation 11046 duty, so listed products outside the exclusion Annex remain subject to the 50% duty."
+
+# --------------------------------------------------------------------------- Q4
+[[criterion]]
+id = "q4a_amounts"
+question = "Q4"
+points = 2
+text = "(a) For entries on September 10, 2026: section 232 duty $25,000 and section 338 duty $0 on each of X, Y and Z. No if any of the three is given a section 338 duty."
+
+[[criterion]]
+id = "q4a_basis"
+question = "Q4"
+points = 1
+text = "(a) Bases the $0 on clause (2) of the duty proclamations (11046, 11047, 11048): the duties 'shall not apply to articles subject to duties pursuant to section 232'. No if the only reason given is that the duties had not yet started."
+
+[[criterion]]
+id = "q4b_x"
+question = "Q4"
+points = 1.5
+text = "(b) Product X on October 1, 2026: section 232 duty $25,000 and section 338 duty $50,000, because Proclamation 11064 makes the 11046 duty apply in addition to section 232 duties from September 15, 2026."
+
+[[criterion]]
+id = "q4b_z"
+question = "Q4"
+points = 1.5
+text = "(b) Product Z on October 1, 2026: section 232 duty $25,000 and section 338 duty $50,000, because Proclamation 11065 makes the 11048 duty apply in addition to section 232 duties from September 15, 2026."
+
+[[criterion]]
+id = "q4b_y"
+question = "Q4"
+points = 2
+text = "(b) Product Y on October 1, 2026: section 232 duty $25,000 and section 338 duty $0, because no document modified Proclamation 11047 and its clause (2) carve-out for section 232 articles still applies. Yes also if the answer gives $0 as the result on the published text and flags doubt about it. No if the answer gives Y a $50,000 section 338 duty, or gives both figures without choosing $0 as the answer on the text."
+
+[[criterion]]
+id = "q4c_text"
+question = "Q4"
+points = 1.5
+text = "(c) Identifies both pieces of deciding text: clause (2) of the duty proclamations (carve-out for articles subject to section 232 duties) and the sentence in clause (1) of Proclamations 11064 and 11065 that the duties 'shall apply in addition to duties imposed pursuant to section 232', effective for entries on or after 12:01 a.m. on September 15, 2026."
+
+[[criterion]]
+id = "q4c_supersede"
+question = "Q4"
+points = 0.5
+text = "(c) Notes that the September proclamations do not expressly amend or repeal clause (2) of the duty proclamations, and/or that the conflict is resolved by their supersession clause (inconsistent provisions of earlier proclamations are superseded to the extent of the inconsistency). Either is enough."
+
+[[criterion]]
+id = "q4c_xref"
+question = "Q4"
+points = 1.5
+text = "(c) Points out that Proclamation 11062, clause (3), refers to a September 8, 2026 proclamation 'Modifying the Scope ... With Respect to Dairy' and that no such proclamation has been published in the Federal Register."
+
+[[criterion]]
+id = "q4c_doubt"
+question = "Q4"
+points = 0.5
+text = "(c) Says that this leaves some doubt about, or qualifies, the answer for Y (for example: the result rests on the absence of a dairy modification document, or a dairy modification with the same stacking sentence appears to have been contemplated). No if the answer presents all six results as free of doubt."
+
+# --------------------------------------------------------------------------- Q5
+[[criterion]]
+id = "q5a_p"
+question = "Q5"
+points = 1.75
+text = "(a) Product P: not dutiable at 3:00 p.m. September 14; dutiable at 12:01 a.m. September 15, at 4:00 p.m. October 29, at 12:01 a.m. October 30 and on November 3. All five answers must be right."
+
+[[criterion]]
+id = "q5a_q"
+question = "Q5"
+points = 1.75
+text = "(a) Product Q: dutiable at 3:00 p.m. September 14; not dutiable at the other four times (from 12:01 a.m. September 15 on). All five answers must be right."
+
+[[criterion]]
+id = "q5a_r"
+question = "Q5"
+points = 1.75
+text = "(a) Product R: dutiable at 3:00 p.m. September 14, at 12:01 a.m. September 15 and at 4:00 p.m. October 29; not dutiable at 12:01 a.m. October 30 or on November 3, because in Proclamation 11076 the Part A products are the ones that 'shall no longer be subject'. All five answers must be right."
+
+[[criterion]]
+id = "q5a_s"
+question = "Q5"
+points = 1.75
+text = "(a) Product S: not dutiable at the first three times; dutiable at 12:01 a.m. October 30 and on November 3, because in Proclamation 11076 the Part B products are the ones that 'shall be subject'. All five answers must be right."
+
+[[criterion]]
+id = "q5b_dates"
+question = "Q5"
+points = 1
+text = "(b) Proclamation 11076: signed October 23, 2026; filed October 29, 2026; published October 30, 2026; applies to entries or withdrawals on or after 12:01 a.m. on October 30, 2026. All four are required (the 11:15 a.m. filing time is not)."
+
+[[criterion]]
+id = "q5b_prospective"
+question = "Q5"
+points = 0.5
+text = "(b) Says the scope proclamations apply only to entries made on or after their effective times (they do not reach earlier entries) and contain no refund provision. Adding that the only refund text in the series is in Proclamation 11056 is welcome but not required."
+
+[[criterion]]
+id = "q5c_days"
+question = "Q5"
+points = 0.75
+text = "(c) Says P became dutiable 7 days after signing (September 8 to September 15) and S became dutiable 7 days after signing (October 23 to October 30)."
+
+[[criterion]]
+id = "q5c_silent"
+question = "Q5"
+points = 0.75
+text = "(c) Says the scope proclamations recite the 30-day rule (and/or the President's power to suspend, revoke, supplement or amend a section 338 proclamation) but do not explain how adding products after 7 days is consistent with the 30-day waiting period; the documents leave this open. Yes also if the answer says they appear to rely on the amend/supplement power, as long as it makes clear that the documents do not say so expressly. No if the answer asserts that the documents resolve the point."
+
+# --------------------------------------------------------------------------- Q6
+[[criterion]]
+id = "q6a_switzerland"
+question = "Q6"
+points = 0.6
+text = "(a)(1) Switzerland: section 301 duty $8,500 (12.5% minus the 4% MFN rate = 8.5%); total with MFN $12,500. A total, if given, must be right."
+
+[[criterion]]
+id = "q6a_norway"
+question = "Q6"
+points = 0.6
+text = "(a)(2) Norway: section 301 duty $12,500 (flat 12.5%, no net-of-MFN cap); total $16,500. A total, if given, must be right."
+
+[[criterion]]
+id = "q6a_uk"
+question = "Q6"
+points = 0.6
+text = "(a)(3) United Kingdom: section 301 duty $10,000 (flat 10%); total $14,000. A total, if given, must be right."
+
+[[criterion]]
+id = "q6a_germany"
+question = "Q6"
+points = 0.6
+text = "(a)(4) Germany: section 301 duty $6,000 (EU, 10% minus 4%); total $10,000. A total, if given, must be right."
+
+[[criterion]]
+id = "q6a_taiwan"
+question = "Q6"
+points = 0.6
+text = "(a)(5) Taiwan: section 301 duty $6,000; total $10,000. A total, if given, must be right."
+
+[[criterion]]
+id = "q6a_turkiye"
+question = "Q6"
+points = 0.6
+text = "(a)(6) Türkiye: section 301 duty $12,500 (flat 12.5%); total $16,500. A total, if given, must be right."
+
+[[criterion]]
+id = "q6a_japan"
+question = "Q6"
+points = 0.6
+text = "(a)(7) Japan: section 301 duty $8,500; total $12,500. A total, if given, must be right."
+
+[[criterion]]
+id = "q6a_liechtenstein"
+question = "Q6"
+points = 0.6
+text = "(a)(8) Liechtenstein: no section 301 duty ($0), because it is not one of the 60 investigated economies; total $4,000. No if the answer applies the Swiss or EU treatment or the 12.5% rate to it."
+
+[[criterion]]
+id = "q6a_hongkong"
+question = "Q6"
+points = 0.6
+text = "(a)(9) Hong Kong: section 301 duty $12,500 (flat 12.5%); total $16,500. A total, if given, must be right."
+
+[[criterion]]
+id = "q6a_india"
+question = "Q6"
+points = 0.6
+text = "(a)(10) India: section 301 duty $10,000 (flat 10%); total $14,000. No if the answer gives $12,500."
+
+[[criterion]]
+id = "q6b_germany12"
+question = "Q6"
+points = 0.7
+text = "(b) Germany with a 12% MFN rate: section 301 duty $0."
+
+[[criterion]]
+id = "q6b_japan12"
+question = "Q6"
+points = 0.7
+text = "(b) Japan with a 12% MFN rate: section 301 duty $500 (0.5%)."
+
+[[criterion]]
+id = "q6b_taiwan10"
+question = "Q6"
+points = 0.7
+text = "(b) Taiwan with an MFN rate of exactly 10%: section 301 duty $0 (the zero rule covers 'greater than or equal to')."
+
+[[criterion]]
+id = "q6b_korea10"
+question = "Q6"
+points = 0.7
+text = "(b) South Korea with an MFN rate of exactly 10%: section 301 duty $2,500 (12.5% minus 10%)."
+
+[[criterion]]
+id = "q6b_swiss_free"
+question = "Q6"
+points = 0.7
+text = "(b) Switzerland, MFN duty-free: section 301 duty $12,500 (the full 12.5%)."
+
+[[criterion]]
+id = "q6c_net"
+question = "Q6"
+points = 1.5
+text = "(c) Says that for Germany (the EU), Taiwan, Switzerland and Japan the June proposal had a flat rate (10% for the EU and Taiwan, 12.5% for Switzerland and Japan) with no cap, and the adopted action made the rate net of MFN. All four economies must be identified as changed. No if the answer says that the rate, or the way the rate relates to the MFN rate, changed for Norway, the United Kingdom, Türkiye or Hong Kong (saying that the United Kingdom gained product exemptions is not such a claim)."
+
+[[criterion]]
+id = "q6c_india"
+question = "Q6"
+points = 1
+text = "(c) Says India was proposed at 12.5% and adopted at 10%, and gives the stated reason: after the proposal India (with other economies) imposed a forced labor import prohibition (presidential memorandum, 91 FR 47720, or the corresponding passage of the notice)."
+
+# --------------------------------------------------------------------------- Q7
+[[criterion]]
+id = "q7a_france"
+question = "Q7"
+points = 1.5
+text = "(a) France: duty payable $60, ad valorem equivalent 0.5%, section 301 rate 9.5%, section 301 duty $1,140. The $1,140 is required."
+
+[[criterion]]
+id = "q7b_italy"
+question = "Q7"
+points = 1
+text = "(b) Italy: duty payable $1,800 ($800 + $1,000), ad valorem equivalent 9%, section 301 duty $200 (1%). The $200 is required."
+
+[[criterion]]
+id = "q7b_japan"
+question = "Q7"
+points = 1
+text = "(b) Japan: section 301 duty $700 (12.5% minus 9% = 3.5%)."
+
+[[criterion]]
+id = "q7b_brazil"
+question = "Q7"
+points = 1
+text = "(b) Brazil: section 301 duty $2,500 (flat 12.5% of $20,000; no conversion and no cap, since Brazil is not a net-of-MFN economy)."
+
+[[criterion]]
+id = "q7c_taiwan"
+question = "Q7"
+points = 1
+text = "(c) Taiwan: ad valorem equivalent 11%, at or above the 10% cap, so the section 301 duty is $0."
+
+[[criterion]]
+id = "q7c_switzerland"
+question = "Q7"
+points = 1
+text = "(c) Switzerland: section 301 duty $300 (12.5% minus 11% = 1.5%)."
+
+[[criterion]]
+id = "q7d_note"
+question = "Q7"
+points = 0.75
+text = "(d) Identifies U.S. note 52(k) (91 FR 47394): the ad valorem equivalent is the amount of duty payable under column 1-General divided by the customs value of the good."
+
+[[criterion]]
+id = "q7d_zero"
+question = "Q7"
+points = 0.75
+text = "(d) Says note 52(k) itself states only the case where the rate is less than the cap, and that the zero result at or above the cap is stated elsewhere: in the presidential memorandum (section 1(a)) and/or in the notice's determinations ('greater than or equal to ... shall be zero'). Naming either location is enough."
+
+# --------------------------------------------------------------------------- Q8
+[[criterion]]
+id = "q8a_case1"
+question = "Q8"
+points = 0.75
+text = "(a) Case 1 (loaded July 22, entered July 29): $10,000 owed, because the entry was not made before 12:01 a.m. on July 28."
+
+[[criterion]]
+id = "q8a_case2"
+question = "Q8"
+points = 0.75
+text = "(a) Case 2 (loaded July 22, entered 3:00 p.m. July 27): $0."
+
+[[criterion]]
+id = "q8a_case3"
+question = "Q8"
+points = 0.75
+text = "(a) Case 3 (entered at 12:01 a.m. July 28): $10,000 owed, because the entry is not 'before' 12:01 a.m. on July 28."
+
+[[criterion]]
+id = "q8a_case4"
+question = "Q8"
+points = 0.5
+text = "(a) Case 4 (loaded 6:00 a.m. July 24, entered July 27): $10,000 owed, because the goods were not loaded before 12:01 a.m. on July 24."
+
+[[criterion]]
+id = "q8a_case5"
+question = "Q8"
+points = 0.5
+text = "(a) Case 5 (entered July 23): $0, entered before the duties apply."
+
+[[criterion]]
+id = "q8a_case6"
+question = "Q8"
+points = 0.75
+text = "(a) Case 6 (withdrawn from warehouse July 26): $10,000 owed; a withdrawal for consumption on or after July 24 is covered and the goods were not in transit."
+
+[[criterion]]
+id = "q8a_case7"
+question = "Q8"
+points = 1
+text = "(a) Case 7 (air freight): says the in-transit exception as written covers goods loaded onto a vessel, so an air shipment does not meet it and $10,000 is owed on the text. 'Most likely owed', with a note that the documents do not otherwise address air shipments, is also yes. No if the answer treats the air shipment as exempt, or gives $0 as its answer."
+
+[[criterion]]
+id = "q8b_where"
+question = "Q8"
+points = 1
+text = "(b) Says the in-transit rule is stated in the DATES line of the USTR notice (FR Doc. 2026-15181, 91 FR 47318) and is not in the presidential memorandum. Adding that the readable text of note 52 / Annex I does not contain it is welcome but not required. No if the answer places the rule in the memorandum or in note 52."
+
+[[criterion]]
+id = "q8c_dates"
+question = "Q8"
+points = 0.5
+text = "(c) Memorandum signed July 23, 2026; duties apply from 12:01 a.m. eastern time on July 24, 2026; published July 28, 2026. All three are required."
+
+[[criterion]]
+id = "q8d_july30"
+question = "Q8"
+points = 0.75
+text = "(d) Entered July 30, 2026: $10,000 owed, because the exemption for patented pharmaceutical articles in headings 9903.04.60-9903.04.66 (note 52(f)(8), Annex I.B of the notice) applies only to entries on or after 12:01 a.m. on July 31, 2026."
+
+[[criterion]]
+id = "q8d_aug3"
+question = "Q8"
+points = 0.75
+text = "(d) Entered August 3, 2026: $0, exempt under note 52(f)(8) as added with effect from July 31, 2026."
+
+# --------------------------------------------------------------------------- Q9
+[[criterion]]
+id = "q9a_assembly"
+question = "Q9"
+points = 1.5
+text = "(a) Section 301 duty $8,125: 12.5% of $65,000, the value of the article assembled abroad less the U.S. components (note 52(a), heading 9802.00.80). No if the answer gives $12,500 or $0."
+
+[[criterion]]
+id = "q9b_repairs"
+question = "Q9"
+points = 1
+text = "(b) Section 301 duty $750: 12.5% of the $6,000 value of the repairs (note 52(a), subheading 9802.00.50)."
+
+[[criterion]]
+id = "q9c_usmca"
+question = "Q9"
+points = 0.75
+text = "(c)(i) $0: note 52(h) exempts products of Mexico entered free of duty under the USMCA."
+
+[[criterion]]
+id = "q9c_no_claim"
+question = "Q9"
+points = 0.75
+text = "(c)(ii) $5,000: Mexico is in the flat 10% group (10% of $50,000). No if the answer says products of Mexico are outside the action."
+
+[[criterion]]
+id = "q9d_car"
+question = "Q9"
+points = 1
+text = "(d) $0: note 52(f)(2) exempts passenger vehicles provided for in section 232 heading 9903.94.01."
+
+[[group]]
+id = "q9e"
+question = "Q9"
+gate = "q9e_flag"
+factor = 0.5
+
+[[criterion]]
+id = "q9e_reading"
+question = "Q9"
+group = "q9e"
+points = 1.5
+text = "(e) Concludes that on the text the 12.5% section 301 duty ($12,500) applies in addition to the section 232 duty, because note 52(f) exempts only the section 232 headings it lists and note 52(a) makes covered products also subject to other additional duties in chapter 99. Award yes whether this is stated as likely or as settled; overconfidence is handled by the q9e_flag gate, not here. No if the answer concludes the product is exempt because it is a section 232 good."
+
+[[criterion]]
+id = "q9e_flag"
+question = "Q9"
+kind = "gate"
+text = "(e) Flags that the documents are not of one mind on this: the proposal, and passages of the notice's own discussion, speak of goods subject to section 232 tariffs as exempt in general, while note 52(f) lists particular headings (or flags that the text does not address section 232 headings it does not list), so the conclusion is a reading of the operative text. No if the answer presents its conclusion in (e) as certain with no such caveat."
+
+[[criterion]]
+id = "q9f_232"
+question = "Q9"
+points = 0.75
+text = "(f) Says the June proposal would have exempted all articles and parts subject to section 232 tariffs, while the adopted note 52(f) exempts only listed section 232 headings (for example aluminum, steel and copper, vehicles and parts, wood products, semiconductors, and patented pharmaceuticals from July 31)."
+
+[[criterion]]
+id = "q9f_info"
+question = "Q9"
+points = 0.75
+text = "(f) Says the proposal listed informational materials (e.g. books), donations and accompanied baggage as exemptions, while the adopted readable text (note 52(a)) excepts only products for personal use in accompanied baggage and does not mention informational materials or donations. Saying that an image-only list could not be checked is welcome but not required. No if the answer says the adopted text exempts informational materials or donations."
+
+# -------------------------------------------------------------------------- Q10
+[[criterion]]
+id = "q10a_338"
+question = "Q10"
+points = 0.75
+text = "(a) September 10: section 338 duty $0, because clause (2) of Proclamation 11048 excludes articles subject to section 232 duties."
+
+[[criterion]]
+id = "q10a_301"
+question = "Q10"
+points = 0.75
+text = "(a) Section 301 duty $0 (on both dates), because note 52(f)(1) exempts aluminum articles provided for in section 232 heading 9903.82.02. No if the answer adds a 10% section 301 duty."
+
+[[criterion]]
+id = "q10a_total"
+question = "Q10"
+points = 0.5
+text = "(a) September 10 total $106,000: MFN $6,000 plus section 232 $100,000."
+
+[[criterion]]
+id = "q10b_338"
+question = "Q10"
+points = 1
+text = "(b) September 16: section 338 duty $100,000 (50% of $200,000), because Proclamation 11065 makes the 11048 duty apply in addition to section 232 duties for entries on or after September 15, 2026."
+
+[[criterion]]
+id = "q10b_total"
+question = "Q10"
+points = 0.5
+text = "(b) September 16 total $206,000: MFN $6,000, section 232 $100,000, section 338 $100,000, section 301 $0."
+
+[[criterion]]
+id = "q10c_338"
+question = "Q10"
+points = 1
+text = "(c) Section 338 duty $30,000 on the USMCA entry: nothing in the readable text of the proclamation exempts goods entered under the USMCA, and the duty is in addition to other duties. Yes also if the answer adds that the annex, an image, could not be checked. No if the answer treats USMCA goods as exempt from the section 338 duty."
+
+[[criterion]]
+id = "q10c_301"
+question = "Q10"
+points = 1
+text = "(c) Section 301 duty $0 on the USMCA entry: note 52(g) exempts products of Canada entered free of duty under the USMCA."
+
+[[criterion]]
+id = "q10d_stack"
+question = "Q10"
+points = 1.5
+text = "(d) With no USMCA claim: section 338 duty $30,000 plus section 301 duty $6,000 (10% of $60,000, Canada being in the flat 10% group), total $36,000. Both amounts and the total are required."
+
+[[criterion]]
+id = "q10e_excluded"
+question = "Q10"
+points = 1
+text = "(e) The October 2 shipment is excluded from importation (imported on or after 12:01 a.m. on September 29, 2026; Proclamation 11061 clause (1)); no duty is computed. No if the answer computes a duty and admits the goods."
+
+[[criterion]]
+id = "q10f_ieepa"
+question = "Q10"
+points = 1
+text = "(f) Says the IEEPA duties on Canada (Executive Order 14193, as amended) were ended by Executive Order 14389 of February 20, 2026 (FR Doc. 2026-03832, 91 FR 9437), so none applies in September 2026. The executive order number or the document number is required."
+
+[[criterion]]
+id = "q10f_surcharge"
+question = "Q10"
+points = 1
+text = "(f) Says the 10% temporary import surcharge (Proclamation 11012, FR Doc. 2026-03824, section 122) ran only through 12:01 a.m. on July 24, 2026, so it does not apply in September 2026. The July 24, 2026 end date is required, with the proclamation number or the document number."
+
+# -------------------------------------------------------------------------- Q11
+# Count of valid discrepancies (at least 1, 2, 3, 4, 5, 6, 8, 10).
+[[ladder]]
+id = "q11_valid"
+question = "Q11"
+
+[[criterion]]
+id = "q11_valid_1"
+question = "Q11"
+ladder = "q11_valid"
+points = 2
+text = "At least 1 valid discrepancy. A valid discrepancy is one in the key's list for Q11, or another that you confirm with the tools, in which a statement in one document of the section 301 forced-labor action (the June 2026 proposal, the presidential memorandum, the USTR notice including the readable text of its annex) or of the section 338 actions against Canada (Proclamations 11046-11048, 11056, 11061-11065, 11076) about what the action provides, or about what another document of the same action says or does, differs from the operative text of that document or of the other document. The answer must state both sides correctly and locate each by document and FR page or clause. Count each discrepancy once. Do not count the items the key lists as not counting, matters a document is merely silent about, content published only as an image, or an item whose description of either side is wrong."
+
+[[criterion]]
+id = "q11_valid_2"
+question = "Q11"
+ladder = "q11_valid"
+points = 2
+text = "At least 2 valid discrepancies. (Same standard as q11_valid_1.)"
+
+[[criterion]]
+id = "q11_valid_3"
+question = "Q11"
+ladder = "q11_valid"
+points = 2
+text = "At least 3 valid discrepancies. (Same standard as q11_valid_1.)"
+
+[[criterion]]
+id = "q11_valid_4"
+question = "Q11"
+ladder = "q11_valid"
+points = 2
+text = "At least 4 valid discrepancies. (Same standard as q11_valid_1.)"
+
+[[criterion]]
+id = "q11_valid_5"
+question = "Q11"
+ladder = "q11_valid"
+points = 3
+text = "At least 5 valid discrepancies. (Same standard as q11_valid_1.)"
+
+[[criterion]]
+id = "q11_valid_6"
+question = "Q11"
+ladder = "q11_valid"
+points = 3
+text = "At least 6 valid discrepancies. (Same standard as q11_valid_1.)"
+
+[[criterion]]
+id = "q11_valid_8"
+question = "Q11"
+ladder = "q11_valid"
+points = 3
+text = "At least 8 valid discrepancies. (Same standard as q11_valid_1.)"
+
+[[criterion]]
+id = "q11_valid_10"
+question = "Q11"
+ladder = "q11_valid"
+points = 3
+text = "At least 10 valid discrepancies. (Same standard as q11_valid_1.)"
+
+# -------------------------------------------------------------------------- Q12
+[[criterion]]
+id = "q12a"
+question = "Q12"
+points = 2
+text = "(a) Cambodia: $0, because note 52(j) exempts 'Aloe, Tasmanian pepper, coconut and centella (classifiable in subheading 1302.19.91)' as a particular article the product of Cambodia (heading 9903.06.03; 91 FR 47366). Malaysia: 10% x $60,000 = $6,000, because Malaysia's list of particular articles (psyllium seed husks, Boswellia, argan oil; 91 FR 47365) does not include it. Both amounts are required."
+
+[[criterion]]
+id = "q12b_exempt"
+question = "Q12"
+points = 1
+text = "(b) Boswellia: $0 as a product of Malaysia and $0 as a product of Taiwan (each economy's list of particular articles in note 52(j) names Boswellia, subheading 1301.90.91)."
+
+[[criterion]]
+id = "q12b_dutiable"
+question = "Q12"
+points = 1.5
+text = "(b) Boswellia: $10,000 as a product of Bangladesh (its list has only psyllium seed husks and argan oil) and $10,000 as a product of Argentina (its list has psyllium seed husks, aloe etc. and argan oil); both are flat 10% economies. Both amounts are required."
+
+[[criterion]]
+id = "q12c_taiwan"
+question = "Q12"
+points = 1.5
+text = "(c) Argan oil of Taiwan: section 301 duty $0, because Taiwan's particular-article exemption (heading 9903.06.15, covering both of Taiwan's headings 9903.05.75-9903.05.76; 91 FR 47384) names argan oil. (The 4% MFN duty of $4,000 is still owed; saying so is welcome but not required.) No if the answer applies the net-of-MFN rate (10% - 4% = 6%, $6,000)."
+
+[[criterion]]
+id = "q12c_japan"
+question = "Q12"
+points = 1
+text = "(c) Argan oil of Japan: (12.5% - 4%) x $100,000 = $8,500; Japan has no list of particular articles."
+
+[[criterion]]
+id = "q12c_indonesia"
+question = "Q12"
+points = 1
+text = "(c) Argan oil of Indonesia: 10% x $100,000 = $10,000; Indonesia's list names only aloe, Tasmanian pepper, coconut and centella."
+
+[[criterion]]
+id = "q12d"
+question = "Q12"
+points = 2
+text = "(d) Sesame seeds for sowing (1207.40.00): $0 for Japan, Mexico and Thailand alike, because note 52(c) (heading 9903.05.87; 91 FR 47356) exempts this particular article from the duties of headings 9903.05.20-9903.05.84, that is, for every economy. All three must be $0. No if the answer charges 10.5% for Japan, 10% for Mexico or 12.5% for Thailand."
+
+[[criterion]]
+id = "q12e"
+question = "Q12"
+points = 2
+text = "(e) Psyllium seed husks: Cambodia $0 (named in Cambodia's list); Thailand 12.5% x $40,000 = $5,000; El Salvador 10% x $40,000 = $4,000 (El Salvador's list names only aloe etc.); Italy (European Union, net of MFN) (10% - 2%) x $40,000 = $3,200. Yes only if at least three of the four amounts are right, including Cambodia's."
+
+# -------------------------------------------------------------------------- Q13
+[[criterion]]
+id = "q13a"
+question = "Q13"
+points = 2.5
+text = "(a) $35,000: under clause (2)(d) of Proclamation 11032 (FR Doc. 2026-11314, 91 FR 34087) the 25 percent duty applies only to the non-U.S. content of a USMCA-qualifying product of Canada: ($200,000 - $60,000) x 25% = $35,000, which is 17.5 percent of the value and so above the 15 percent minimum. The amount and clause (2)(d) (or the proclamation and its non-U.S. content rule) are required."
+
+[[criterion]]
+id = "q13b"
+question = "Q13"
+points = 1
+text = "(b) $50,000: with no U.S. content the non-U.S. content is the whole value; 25% x $200,000."
+
+[[criterion]]
+id = "q13c"
+question = "Q13"
+points = 2
+text = "(c) $50,000: a product of Canada that does not qualify for USMCA treatment gets no reduction for U.S. content; the 25 percent rate of clause (2)(a) applies to the full customs value (Proclamation 11021, clause (1): the full customs value regardless of metal content). No if the answer deducts the U.S. parts ($35,000)."
+
+[[criterion]]
+id = "q13d"
+question = "Q13"
+points = 2
+text = "(d) $25,000: under clause (2)(b) of Proclamation 11032 products of Japan pay a section 232 rate such that the Column 1 rate plus the section 232 rate equals 15 percent: (15% - 2.5%) x $200,000 = $25,000."
+
+[[criterion]]
+id = "q13e"
+question = "Q13"
+points = 2.5
+text = "(e) $37,500: for entries on or after October 14, 2026 the Department of Commerce guidance (FR Doc. 2026-20938, 91 FR 65162) defines U.S. content as the value attributable to parts wholly obtained, entirely produced or substantially transformed in the United States plus, to the extent not already counted, the value attributable to steel melted and poured, or aluminum or copper smelted and cast, in the United States. U.S. content is $20,000 + $30,000 = $50,000; ($200,000 - $50,000) x 25% = $37,500 (18.75 percent, above the minimum). The amount and the Commerce notice are required. No if the answer gives $45,000."
+
+[[criterion]]
+id = "q13f"
+question = "Q13"
+points = 1
+text = "(f) Says the Commerce guidance applies only to goods entered on or after October 14, 2026, so for an entry on October 6 the answer rests on the proclamation's own definition (non-U.S. content is total value minus the value attributable to parts produced in the United States): on that text $20,000 counts and the duty is ($200,000 - $20,000) x 25% = $45,000, and whether the U.S.-smelted aluminum in a Canadian part could count before October 14 is not settled by the documents. Yes if the answer gives $45,000 on this reasoning, with or without the caveat, or sets out both $45,000 and $37,500 and explains that the date of the guidance is what separates them. No if it gives $37,500 with no mention of the October 14 date."
+
+[[criterion]]
+id = "q13g"
+question = "Q13"
+points = 2
+text = "(g) $30,000: 25% of the non-U.S. content is $15,000, only 7.5 percent of the value, and clause (2)(d) says the total effective duty assessed under it 'shall not be less than 15 percent ad valorem', so the duty is 15% x $200,000 = $30,000. Yes also if the answer gives $30,000 as the better reading and notes that the detail of the minimum is in Annex IV, which is published as an image. No if the answer gives $15,000 without applying the minimum."
+
+[[criterion]]
+id = "q13h"
+question = "Q13"
+points = 1
+text = "(h) The clause (2) rates apply through 11:59 p.m. eastern standard time on December 31, 2027; from 12:01 a.m. on January 1, 2028 the rates of clause (3) of Proclamation 11021 apply to Annex I-C products (clause (3)(a) of Proclamation 11032). (Clause (3) of Proclamation 11021 sets 25 percent unless a lower rate applies.) The end date and the reversion to Proclamation 11021 are both required."
+
+# -------------------------------------------------------------------------- Q14
+[[criterion]]
+id = "q14_2_operative"
+question = "Q14"
+points = 1
+text = "Statement 1: incorrect. The operative text of the memorandum (section 2) directs the quotas 'as soon as the Trade Representative determines that it is feasible' and sets no deadline; 'feasible by September 1, 2026' appears only in a recital reporting the Trade Representative's advice (91 FR 47720)."
+
+[[criterion]]
+id = "q14_2_notice"
+question = "Q14"
+points = 1
+text = "Statement 1: adds at least one of these: the USTR notice gives no date and says the mechanism will be established in a subsequent notice (91 FR 47334-47335); no such notice has been published as of November 14, 2026; in the meantime the textile and apparel goods concerned pay the 10 percent rate (memorandum section 2(c))."
+
+[[criterion]]
+id = "q14_4"
+question = "Q14"
+points = 1.5
+text = "Statement 2: incorrect. Over 450 comments and nearly 60 witnesses (hearings of April 28-29, 2026) are the figures for the earlier, investigation phase, reported in the June proposal (91 FR 34273). On the proposed action USTR received over 1,600 written comments and heard over 100 witnesses at a three-day hearing on July 7-9, 2026 (91 FR 47319). The 1,600 and 100 figures are required."
+
+[[criterion]]
+id = "q14_5_jordan"
+question = "Q14"
+points = 1
+text = "Statement 3: says Jordan did not adopt an import ban; its 10 percent rate rests on commitments in an agreement on reciprocal trade, while Cambodia, Guatemala, Honduras, India, Sri Lanka and Trinidad and Tobago imposed bans after the June proposal (91 FR 47319; memorandum, 91 FR 47720)."
+
+[[criterion]]
+id = "q14_5_five"
+question = "Q14"
+points = 1
+text = "Statement 3: says not all seven moved from 12.5 percent: Cambodia and Guatemala were already proposed at 10 percent in June (because of trade-agreement commitments), so only Honduras, India, Jordan, Sri Lanka and Trinidad and Tobago moved from 12.5 to 10 percent."
+
+[[criterion]]
+id = "q14_6"
+question = "Q14"
+points = 1
+text = "Statement 4: incorrect. USTR 'determined not to remove these products from the list of exempted products' (beef, avocados, paprika, lithium hexafluorophosphate, forgings), citing limited availability from domestic sources (91 FR 47330-47331)."
+
+[[criterion]]
+id = "q14_7"
+question = "Q14"
+points = 1.5
+text = "Statement 5: incorrect. The net-of-MFN economies are the European Union, Taiwan, Japan, South Korea and Switzerland; economy-specific exemptions exist for thirteen economies (Argentina, Bangladesh, Cambodia, Ecuador, El Salvador, the European Union, Guatemala, Indonesia, Jordan, Malaysia, Switzerland, Taiwan, the United Kingdom; 91 FR 47333, memorandum section 1(b)(v)), and Japan and South Korea are not among them. Naming Japan and South Korea (or either, with the list of thirteen) as lacking a list is required."
+
+[[criterion]]
+id = "q14_8"
+question = "Q14"
+points = 1
+text = "Statement 6: partly correct. The 471 additional products are right (91 FR 47331), but for sugar the addition is limited to 'in-quota imports of certain sugar and sugar-containing products'."
+
+[[criterion]]
+id = "q14_9"
+question = "Q14"
+points = 1.5
+text = "Statement 7: incorrect. The notice's phrase 'maximum tariffs of 12.5 percent' (91 FR 47334) refers to the section 301 rate; under note 52(a) the flat-rate duties are in addition to the general (MFN) rates and to other additional duties, so the total can exceed 12.5 percent (only the net-of-MFN economies have a combined ceiling)."
+
+[[criterion]]
+id = "q14_ok"
+question = "Q14"
+points = 2
+text = "Says statements 8, 9 and 10 are all correct, citing a deciding passage for at least two: 8, the foreign trade zone paragraph of the notice (91 FR 47321); 9, section 4(e) of the memorandum (91 FR 47723) or part IV of the notice (91 FR 47335); 10, the Trade Representative determined to exempt all products proposed for exemption in Annex A 'except the non-pharmaceutical applications of certain chemical products' (91 FR 47330). An answer that calls 10 correct for the Annex A list and adds that the proposal's wider exemptions (all section 232 goods, informational materials, donations) were also narrowed still counts as calling it correct."
+
+[[criterion]]
+id = "q14_false"
+question = "Q14"
+kind = "penalty"
+points = 1.5
+text = "Calls statement 8, statement 9 or statement 10 incorrect. (Calling statement 10 correct as to the Annex A product list while noting that other proposed exemptions were narrowed is not calling it incorrect.)"
+
+# -------------------------------------------------------------------------- Q15
+# Each criterion needs the totals for both cases unless it says otherwise.
+[[criterion]]
+id = "q15_1"
+question = "Q15"
+points = 1
+text = "February 10, 2025: $0 in both cases, because the Canada duty of Executive Order 14193 was paused until March 4, 2025 (Executive Order 14197) and Canada remained exempt from the section 232 aluminum duty until March 12, 2025. At least one of the two reasons is required."
+
+[[criterion]]
+id = "q15_2"
+question = "Q15"
+points = 2
+text = "March 6, 2025: $25,000 (the 25% Canada duty under the International Emergency Economic Powers Act) in both cases, including case U, because the USMCA exemption applies only to entries on or after March 7, 2025 (Executive Order 14231). No if case U is given as $0."
+
+[[criterion]]
+id = "q15_3"
+question = "Q15"
+points = 1.5
+text = "March 10, 2025: case N $25,000 (Canada IEEPA duty); case U $0 (USMCA goods exempt from the Canada duty since March 7, and the section 232 aluminum duty did not reach Canada until March 12)."
+
+[[criterion]]
+id = "q15_4n"
+question = "Q15"
+points = 1.5
+text = "March 14, 2025, case N: $25,000 owed, the Canada IEEPA duty only, because Executive Order 14289 (FR Doc. 2025-07835), retroactive to entries on or after March 4, 2025, provides that an article subject to the Canada duty is not also subject to the section 232 aluminum duty. Yes also if the answer says 50 percent was collected at entry and 25 percent is owed after the retroactive order. No if the answer gives $50,000 as the duty owed."
+
+[[criterion]]
+id = "q15_4u"
+question = "Q15"
+points = 1
+text = "March 14, 2025, case U: $25,000, the 25% section 232 aluminum duty (Proclamation 10895, effective for Canada from March 12, 2025), with no Canada IEEPA duty because of the USMCA exemption."
+
+[[criterion]]
+id = "q15_5"
+question = "Q15"
+points = 2
+text = "June 10, 2025: $50,000 in both cases: the section 232 aluminum duty at 50% (Proclamation 10947, from June 4, 2025), and in case N no Canada IEEPA duty on top, because Proclamation 10947 made the section 232 duty apply instead of the Canada duty for aluminum articles. No if case N is given as 75 percent."
+
+[[criterion]]
+id = "q15_6"
+question = "Q15"
+points = 1
+text = "August 5, 2025: $50,000 in both cases; the increase of the Canada IEEPA rate to 35% on August 1, 2025 (Executive Order 14325) does not change the result for a section 232 aluminum article. No if case N is given as 85 percent or 35 percent."
+
+[[criterion]]
+id = "q15_7"
+question = "Q15"
+points = 2
+text = "March 2, 2026: $50,000 in both cases (section 232, 50%), with the statement that the 10% temporary import surcharge under section 122 (Proclamation 11012, in effect from February 24, 2026) does not apply because articles subject to section 232 duties are excepted. No if a 10% surcharge is added in either case."
+
+[[criterion]]
+id = "q15_8"
+question = "Q15"
+points = 1.5
+text = "June 10, 2026: $50,000 in both cases (section 232, 50% of the full customs value under Proclamation 11021), with case U not reduced: the non-U.S.-content rule (and the 25% rate) of Proclamation 11032 applies only to Annex I-C articles. No if either case is given at 25 percent or computed on non-U.S. content."
+
+[[criterion]]
+id = "q15_9"
+question = "Q15"
+points = 1.5
+text = "July 27, 2026: $50,000 in both cases, with no section 301 duty because note 52(f)(1) exempts articles of aluminum under the section 232 headings (case U is also exempt under note 52(g)). No if a 10% section 301 duty is added in either case."
+
+[[criterion]]
+id = "q15_10"
+question = "Q15"
+points = 1
+text = "August 25, 2026: $50,000 in both cases; the section 338 duty (in force from August 22, 2026) does not apply because clause (2) of Proclamation 11048 excludes articles subject to section 232 duties."
+
+[[criterion]]
+id = "q15_11"
+question = "Q15"
+points = 2
+text = "September 16, 2026 and November 10, 2026: $100,000 in both cases on both dates: section 232 50% plus section 338 50%, because Proclamation 11065 (repeated in Proclamation 11076 from October 30) makes the 11048 duty apply in addition to section 232 duties for entries on or after September 15, 2026; no USMCA relief from the section 338 duty and no section 301 duty. No if case U is given a lower total than case N."

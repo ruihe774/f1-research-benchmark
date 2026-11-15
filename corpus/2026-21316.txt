@@ -1,0 +1,2864 @@
+Federal Register, Volume 91 Issue 200 (Monday, October 19, 2026)
+
+
+[Federal Register Volume 91, Number 200 (Monday, October 19, 2026)]
+[Rules and Regulations]
+[Pages 65904-65924]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-21316]
+
+
+-----------------------------------------------------------------------
+
+OFFICE OF PERSONNEL MANAGEMENT
+
+5 CFR Parts 351, 430, 451, 534, 537, 630, and 894
+
+[Docket ID: OPM-2025-0011]
+RIN 3206-AO88
+
+OFFICE OF MANAGEMENT AND BUDGET
+
+5 CFR Part 1330
+
+RIN 0348-AB92
+
+
+Managing Senior Professional Performance
+
+AGENCY: Office of Personnel Management and the Office of Management and 
+Budget.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Office of Personnel Management (OPM) and the Office of 
+Management and Budget (OMB) are issuing a final rule to strengthen the 
+performance appraisal of senior-level (SL) and scientific or 
+professional (ST) employees, collectively referred to as ``senior 
+professionals.'' This final rule establishes a new subpart dedicated 
+exclusively to senior professional performance appraisal that aligns 
+more closely with Senior Executive Service (SES) performance appraisal 
+regulations. The rule also eliminates senior professional appraisal 
+programs, removes the prohibition of a standardized distribution of 
+performance rating levels, and enhances oversight of the appraisal 
+process.
+
+DATES: Effective November 18, 2026.
+
+FOR FURTHER INFORMATION CONTACT: Aaron Gottesman, Senior Advisor to the 
+Director, 202-606-8046 or by email at [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The Office of Personnel Management (OPM) is issuing this final rule 
+to revise the performance appraisal framework applicable to senior-
+level (SL) and scientific or professional (ST) employees, collectively 
+referred to as ``senior professionals.'' These positions are 
+established under 5 U.S.C. 5376 and are classified above GS-15 and just 
+below the Senior Executive Service (SES). Senior professionals serve in 
+positions that require a high level of expertise and are expected to 
+exercise significant responsibility and independent judgment in support 
+of agency missions. As such, they play a critical role in advancing 
+agency priorities and delivering mission outcomes comparable in impact 
+to those of SES members.
+    Although Congress has aligned the pay structure for senior 
+professionals with that of the SES, including through the Federal 
+Employees Pay Comparability Act of 1990 \1\ and the Senior Professional 
+Performance Act of 2008, Public Law 110-372 (October 8, 2008), the 
+performance management requirements applicable to senior professionals 
+have remained governed by the general appraisal provisions in 5 CFR 
+part 430, subpart B. These regulations have not been updated since the 
+mid-1990s and were designed to meet the needs of a broad population of 
+federal employees such as prevailing rate employees, seasonal 
+employees, and employees across all grades and steps of the General 
+Schedule. Over time, these regulations have become increasingly 
+incompatible with OPM's efforts to develop a dedicated modern senior 
+professional performance appraisal system. Hence, OPM has determined 
+that this misalignment between pay, responsibilities, and performance 
+appraisal requirements warrants regulatory revision.
+---------------------------------------------------------------------------
+
+    \1\ Enacted as Section 529 of the Treasury, Postal Service and 
+General Government Appropriations Act, 1991 (Pub. L. 101-509, 104 
+Stat. 1427).
+---------------------------------------------------------------------------
+
+    In the proposed rule published on February 24, 2026 (91 FR 8763), 
+OPM explained that the current performance appraisal framework does not 
+sufficiently support meaningful differentiation in performance among 
+senior professionals. As noted in the proposed rule, despite prior 
+efforts by OPM to curb ratings inflation through guidance,\2\ 
+Governmentwide data showed that, in fiscal years 2023 and 2024, 
+approximately 90 percent of senior professionals received ratings at 
+Levels 4 and 5, while less than a half of one percent of senior 
+professionals received ratings below Level 3 (``Fully Successful'').\3\ 
+Additionally, the 2024 Federal Employee Viewpoint Survey (FEVS) results 
+showed that only 47% of federal employees agreed with the statement, 
+``In my work unit, differences in performance are recognized in a 
+meaningful way.'' \4\ This was the lowest
+
+[[Page 65905]]
+
+positive response rate for any question and has consistently been the 
+lowest over the past three years.\5\ OPM noted that these data raise 
+concerns regarding rating inflation and the effectiveness of existing 
+appraisal systems in holding senior professionals accountable for 
+performance. In this final rule, OPM eliminates the prior prohibition 
+on forced, or standardized, distribution for senior professionals and 
+provides that OPM may establish a standardized distribution of some or 
+all rating levels for agencies to apply with respect to their senior 
+professional cohorts, except that senior professionals appointed under 
+Schedules C and G may be excluded from such requirements.\6\
+---------------------------------------------------------------------------
+
+    \2\ See, e.g., Off. of Pers. Mgmt., Applying Rigor in the 
+Performance Management Process and Leveraging Awards Programs for a 
+High-Performing Workforce, (July 12, 2019), available at 
+www.opm.gov/chcoc/transmittals/2019/applying-rigor-performance-management-process-and-leveraging-awards-programs-high-performing_508_0.pdf.
+    \3\ SL and ST Governmentwide ratings data for fiscal years 2023 
+and 2024 were obtained from OPM's Enterprise Human Resources 
+Integration-Statistical Data Mart and are on file with OPM.
+    \4\ See Federal Employee Viewpoint Survey, U.S. Off. of Pers. 
+Mgmt.,www.opm.gov/fevs/reports/governmentwide-reports (last visited 
+July 31, 2026) (providing FEVS Results for years up to 2024).
+    \5\ Id.
+    \6\ As used in this rule, the term ``standardized distribution'' 
+refers to a prescribed allocation of performance rating levels 
+across a rated population--e.g., limits or targets on the percentage 
+of senior professionals who may receive a given rating level. The 
+term is not used in its statistical sense and does not refer to a 
+standard normal (Gaussian) distribution or any other formal 
+probability distribution. Nothing in this rule requires that ratings 
+conform to a bell curve or other statistical model.
+---------------------------------------------------------------------------
+
+    Consistent with OPM's authority under 5 U.S.C. chapter 43 and the 
+Civil Service Reform Act of 1978, this final rule is intended to 
+strengthen performance management for senior professionals by better 
+aligning appraisal practices with the scope and impact of their duties. 
+The new subpart generally mirrors the provisions and structure of the 
+SES appraisal regulations at 5 CFR part 430, subpart C, but certain 
+elements of the non-SES appraisal regulations at 5 CFR part 430, 
+subpart B, are retained in the new subpart due to the different 
+statutory authorities and requirements that apply to the SES and senior 
+professionals. The reforms in this final rule are designed to promote 
+greater rigor, transparency, oversight, and accountability in the 
+evaluation of senior professional performance.
+
+Digest of Public Comments
+
+    In response to the proposed rule, OPM received 12 comments during 
+the 30-day public comment period from various individuals, 
+organizations, and a professional association representing employment 
+law attorneys. Of the 12 comments received, nine were posted to 
+Regulations.gov, including one comment that was substantively identical 
+to another submission. Three of the comments received were outside the 
+scope of this rulemaking and therefore not posted. At the conclusion of 
+the public comment period, OPM reviewed and analyzed the comments.
+    The comments are summarized and discussed in the subsequent 
+sections, beginning with general comments followed by comments specific 
+to each section. A discussion of the suggested revisions that were 
+considered and either adopted, adopted in part, or declined, and the 
+rationale therefor is included.
+
+General Comments
+
+    The comments received reflect a range of views, with some 
+expressing support, others acknowledging the need for performance 
+management reforms but disagreeing with OPM's approach, and others 
+strongly objecting to the rule. For example, Commenter 0007 stated ``I 
+support the proposed rule to implement standardized distributions for 
+senior professional performance appraisals. The reasoning is that for 
+too long, `leniency bias' has led to rating inflation.'' Another 
+individual characterized the rule as ``a step in the wrong direction to 
+ensure high level performers necessary for these positions are willing 
+to become civil servants.'' (Commenter 0011). Most commenters focused 
+their objections on only a few specific provisions of the rule and 
+framed their concerns in terms of the potential impact on the Federal 
+workforce, implementation challenges, and perceived legal issues, which 
+OPM addresses below in the relevant sections of the preamble.
+    Commenter 0011 argued that OPM failed to provide sufficient time to 
+address the proposed rule and that an additional 60 to 180 days should 
+be provided, citing the complexity of the rule and the fact that OPM 
+has recently issued several other proposed rules. Respectfully, OPM 
+provided sufficient time for the public to review the proposed rule and 
+submit comments. Courts have held that a 30-day comment period is 
+generally sufficient to comply with the Administrative Procedure Act 
+(APA).\7\
+---------------------------------------------------------------------------
+
+    \7\ See Chamber of Com. of the U.S. v. U.S. Sec. & Exch. Comm'n, 
+85 F.4th 760, 779 (5th Cir. 2023) (``[T]he APA generally requires 
+only a minimum thirty-day comment period.''); see also Riverbend 
+Farms, Inc. v. Madigan, 958 F.2d 1479, 1484 (9th Cir. 1992) 
+(``Although the APA mandates no minimum comment period, some window 
+of time, usually thirty days or more, is . . . allowed for 
+interested parties to comment.''); Nat'l Lifeline Ass'n v. FCC, 921 
+F.3d 1102, 1117 (D.C. Cir. 2019) (``When substantial rule changes 
+are proposed, a 30-day comment period is generally the shortest time 
+period sufficient for interested persons to meaningfully review a 
+proposed rule and provide informed comment.'').
+---------------------------------------------------------------------------
+
+    Commenters 0010 and 0011 also urged OPM to withdraw the rule based 
+on the broader context in which it was proposed, arguing that other 
+recent personnel actions have destabilized the Federal workforce and 
+that performance data generated in that environment cannot justify 
+reform. Those objections are directed at actions and policies outside 
+the scope of this rulemaking, and OPM does not address them here. OPM 
+notes, however, that the ratings data on which this rule relies are 
+from fiscal years 2023 and 2024, and the FEVS results it cites span 
+2022 through 2024, largely predating the events the commenters 
+describe. OPM has evaluated this rule on its own record and pursuant to 
+its own statutory authorities, as discussed throughout this preamble.
+
+Part 430--Performance Management
+
+    This final rule revises 5 CFR part 430 by establishing a new 
+subpart E dedicated to managing senior professional performance. In the 
+following sections, we address the public comments related to the 
+specific sections of the regulation to which each comment applied.
+
+Section 430.501 General
+
+    This section identifies the statutory and regulatory basis for the 
+senior professional performance appraisal subpart. This section also 
+describes the conditions under which agencies and employees not covered 
+by the provisions of this subpart can receive performance evaluations 
+and ratings that are considered ratings of record for reduction in 
+force purposes.
+    Commenter 0011 asserted that OPM lacks statutory authority for this 
+rulemaking. As described in more detail in the Background and the 
+proposed rule,\8\ OPM not only has authority to regulate performance 
+management but is required to do so. Chapter 43 of title 5, U.S. Code, 
+remains the applicable authority for performance appraisal systems and 
+establishes OPM's responsibility to prescribe regulations governing 
+performance management for senior professionals. The commenter's 
+constitutional objections are likewise unavailing. This rule implements 
+an express delegation of rulemaking authority from Congress at 5 U.S.C. 
+4305, 1103, and 1104; it does not purport to enact, amend, or repeal 
+any statute. Nor does Loper Bright Enterprises v. Raimondo, 603 U.S. 
+369 (2024), assist the commenter: that decision concerns judicial 
+deference to agency interpretations of ambiguous statutes and does not 
+diminish an agency's exercise of authority Congress has expressly 
+conferred. Nothing in this
+
+[[Page 65906]]
+
+rule purports to limit judicial review otherwise available by law.
+---------------------------------------------------------------------------
+
+    \8\ 91 FR at 8763-64.
+---------------------------------------------------------------------------
+
+    Although 5 U.S.C. 4305 provides OPM the authority to prescribe 
+regulations governing performance appraisal under subchapter I of 
+chapter 43 of title 5, U.S. Code, Commenters 0005 and 0008 recommended 
+that OPM instead use the demonstration project authority under 5 U.S.C. 
+4703 to test the proposed reforms in this final rule before 
+implementing them Governmentwide. These commenters argue that the 
+proposed changes, including the use of a standardized distribution of 
+performance ratings and other structural modifications, are untested in 
+the Federal context and may carry significant risks for workforce 
+morale, retention, and organizational effectiveness. Commenters 
+suggested that pilot programs, randomized trials, or phased 
+implementation approaches would provide an evidence-based foundation 
+for broader adoption and allow OPM to assess potential unintended 
+consequences.
+    OPM appreciates the commenters' recommendations regarding the use 
+of demonstration project authority and agrees that demonstration 
+projects can be a valuable tool for testing innovative personnel 
+management approaches in appropriate circumstances. However, OPM has 
+determined that the use of a demonstration project under 5 U.S.C. 4703 
+is not necessary and would create unacceptable delays to the urgently 
+needed reforms adopted in this final rule.
+    Demonstration projects, by definition, ``must require the waiver of 
+a provision of law, rule, or regulation which is eligible for waiver 
+under the demonstration authority contained in 5 U.S.C. 4703.'' \9\ OPM 
+requires no waiver of any provision of law or rule to exercise its 
+statutory authority under 5 U.S.C. 4305 to prescribe non-SES 
+performance appraisal regulations. Many of the provisions in this final 
+rule are grounded in longstanding principles of effective performance 
+management, including the need for meaningful differentiation in 
+performance ratings, clear accountability, and alignment between 
+performance outcomes and organizational goals.
+---------------------------------------------------------------------------
+
+    \9\ 5 CFR 470.103 (defining ``Demonstration Project'').
+---------------------------------------------------------------------------
+
+    Additionally, senior professionals have already been operating 
+under a new senior professional performance appraisal system and plan 
+\10\ since October 1, 2025, which in many ways is similar to the new 
+SES performance appraisal system and plan.\11\ OPM also notes that the 
+rule, Assuring Responsive and Accountable Federal Executive Management, 
+published on September 15, 2025 (90 FR 44291), authorized OPM to 
+establish a standardized distribution of rating levels for the SES and 
+this final rule seeks to establish parity with that SES rule. The 
+effects of standardized distribution systems have been extensively 
+studied across multiple organizational contexts,\12\ and OPM relied on 
+this robust existing body of evidence in both the SES rulemaking and 
+this current rulemaking. Conducting further study through a 
+demonstration project is, therefore, unlikely to produce novel results 
+that have not been documented elsewhere in the literature. Moreover, 
+OPM will diligently monitor the implementation of all the reforms in 
+this rule and through ongoing oversight, data analysis, and engagement 
+with agencies, continue to refine its senior professional performance 
+appraisal guidance to ensure the final rule achieves its intended 
+objectives.
+---------------------------------------------------------------------------
+
+    \10\ Off. of Pers. Mgmt., New Senior Professional Performance 
+Appraisal System and Plan (Apr. 3, 2025), available at www.opm.gov/chcoc/latest-memos/new-senior-professional-performance-appraisal-system-and-plan.pdf.
+    \11\ Off. of Pers. Mgmt., New Senior Executive Service 
+Performance Appraisal System and Performance Plan, and Guidance on 
+Next Steps for Agencies to Implement Restoring Accountability for 
+Career Senior Executives (Feb. 25, 2025), available at www.opm.gov/policy-data-oversight/latest-memos/new-senior-executive-service-performance-appraisal-system-and-performance-plan-and-guidance-on-next-steps-for-agencies-to-implement-restoring-accountability-for-career-senior-executives.pdf.
+    \12\ See, e.g., Aniek Wijayanti et al., What do we know about 
+the forced distribution system: A systematic literature review and 
+opportunities for future research, 75 Mgmt. Rev. Q. 747 (Feb. 2025), 
+available at doi.org/10.1007/s11301-023-00396-8.
+---------------------------------------------------------------------------
+
+    For these reasons, OPM has determined that proceeding with 
+Governmentwide implementation of the final rule, rather than using 
+demonstration project authority, is appropriate and consistent with the 
+objectives of improving the rigor and effectiveness of senior 
+professional performance appraisal and increased parity with the SES 
+performance appraisal framework. Accordingly, OPM is adopting the 
+language in this section as proposed.
+
+Section 430.502 Coverage
+
+    This section addresses coverage under the new subpart. It applies 
+only to senior professionals paid under 5 U.S.C. 5376, which includes 
+all SL positions that are classified above GS-15 pursuant to 5 U.S.C. 
+5108 and all ST positions established under 5 U.S.C. 3104. It also 
+authorizes OPM to exclude certain excepted service positions where 
+applicable.
+    OPM received no comments on this section and is adopting the 
+language as proposed.
+
+Section 430.503 Definitions
+
+    This section provides definitions necessary for administration. Key 
+defined terms include ``agency,'' ``appraisal period,'' ``critical 
+element,'' ``initial summary rating,'' ``oversight official,'' 
+``performance standard,'' ``PRB (Performance Review Board),'' 
+``progress review,'' and ``rating official.'' Certain defined terms in 
+the new subpart are retained from both the SES appraisal framework and 
+non-SES appraisal regulations, tailored for senior professionals to 
+reflect their unique performance management context. Notably, the 
+definition of ``agency'' reflects that, under 5 U.S.C. 5108, OPM 
+determines the maximum number of SL positions that may be established 
+in an Executive agency and, under 5 U.S.C. 3104, OPM determines the 
+maximum number of ST positions in any agency, except for the Library of 
+Congress, which also may establish eight ST positions under 5 U.S.C. 
+3104.
+    OPM received no comments on this section and is adopting the 
+language as proposed.
+
+Section 430.504 Senior Professional Performance Appraisal Systems
+
+    This section requires agencies to establish performance appraisal 
+systems specifically for senior professionals. OPM proposed to revise 
+these systems to require that they be developed and administered in 
+accordance with the system standards in Sec.  430.505, which more 
+closely align with those applicable to SES appraisal systems. To 
+further align senior professional appraisal with SES appraisal, OPM 
+also proposed to eliminate the requirement that agencies develop 
+separate performance appraisal programs and instead require that senior 
+professional appraisal systems encompass all policies, parameters, 
+procedures, and requirements necessary for OPM approval and be 
+consistent with the criteria for performance appraisal system 
+certification.
+    Commenter 0006 challenges OPM's underlying authority to change the 
+evaluation system for senior professionals, asserting that OPM's final 
+rulemaking errs in interpreting the Senior Professional Performance Act 
+of 2008 ``as constituting Congressional authority to change the 
+performance evaluation system for SL/ST employees.'' The commenter 
+contends that because Congress did not make substantive changes to 
+senior professional performance appraisal at the time of the 2008 Act, 
+that OPM is
+
+[[Page 65907]]
+
+precluded from making the regulatory reforms included in this final 
+rule.
+    OPM respectfully disagrees because the commenter misunderstands 
+OPM's authority. While OPM referenced the Senior Professional 
+Performance Act of 2008 in the proposed rule as an example of 
+legislation that has increased pay parity with the SES, the fact that 
+the legislation did not also make statutory changes to how senior 
+professionals' performance is appraised cannot be interpreted as 
+Congress barring OPM from exercising its statutorily-conferred 
+authority at 5 U.S.C. 4305 to prescribe non-SES performance management 
+regulations. Coverage of senior professionals under subchapter I of 
+chapter 43 of title 5, U.S. Code has not changed. Therefore, OPM is 
+authorized to prescribe regulations affecting the performance 
+management of senior professionals, consistent with statute.
+    Commenter 0010 argues that OPM has not sufficiently explained why 
+the SES appraisal system is the right comparator to guide the 
+development of the senior professional appraisal system rules, as 
+opposed to constructing a more tailored model that reflects the actual 
+duties of senior professionals. Along a similar line, Commenter 0005 
+asserts that because senior professionals perform such highly 
+specialized and diverse work across a wide range of competencies, it 
+makes more sense for their performance appraisal systems to align with 
+non-SES appraisal systems as opposed to SES systems--which are focused 
+on executive management competencies.
+    OPM recognizes and appreciates the broad range of competencies 
+possessed by senior professionals. Using the SES appraisal framework as 
+a model for developing the senior professional appraisal rules in no 
+way equates to senior professionals being evaluated on the same 
+competencies as SES members. The final rule maintains important 
+distinctions that reflect the non-supervisory and highly specialized 
+nature of senior professional roles. Agencies retain the flexibility to 
+tailor senior professional performance plans through inclusion of 
+position-specific performance objectives. Additionally, since senior 
+professionals do not supervise employees other than personal 
+assistants, they do not have ``employee perspectives'' included as a 
+performance factor for their appraisals, nor do their performance plans 
+include a critical element focused on holding others accountable. 
+Although senior professionals do not carry supervisory or executive 
+management responsibilities like SES, they are comparable in terms of 
+their organizational impact, influence on agency mission, and level of 
+accountability. Senior professionals frequently serve as the Federal 
+Government's leading experts in critical fields, provide authoritative 
+technical or scientific advice, and contribute directly to high-level 
+policy, programmatic, or mission outcomes. Thus, given the importance 
+of these positions, OPM continues to believe that a more rigorous and 
+structured appraisal framework--similar to that used for the SES--is 
+appropriate to ensure meaningful differentiation, accountability, and 
+consistency for these positions. Accordingly, OPM is adopting the 
+language in this section as proposed.
+
+Section 430.505 System Standards for Senior Professional Performance 
+Appraisal Systems
+
+    This section sets forth the system standards that agencies' senior 
+professional performance appraisal systems must incorporate. Standards 
+include the use of critical elements, alignment of performance 
+requirements with agency mission and strategic planning activities, 
+defined performance standards for each summary rating level, annual 
+performance appraisals, a mathematical method for deriving ratings, 
+establishment of five summary performance levels, and that performance 
+appraisals be used as a basis to adjust pay, reward, retain, develop, 
+and remove senior professionals. OPM also proposed to eliminate the 
+prohibition on a forced, or standardized distribution of rating levels 
+and authorize OPM to establish and refine, as needed, a standardized 
+distribution of some or all rating levels for senior professionals.
+
+Justification of Policy Change
+
+    Commenter 0010 asserted that OPM has not provided sufficient 
+justification for departing from its longstanding policy prohibiting 
+pre-established distributions of performance ratings, as reflected in 
+OPM's 1979 regulation.\13\ The commenter argued that the prior rule 
+barred forced, or standardized distributions because they could 
+interfere with appraisal of actual performance against standards, and 
+that OPM has not adequately explained its change in position.
+---------------------------------------------------------------------------
+
+    \13\ 44 FR 45587, 45590 (Aug. 3, 1979).
+---------------------------------------------------------------------------
+
+    OPM respectfully disagrees that it has not articulated a sufficient 
+reason for departing from its prior policy. The APA requires, as 
+relevant here, that OPM provide a reasoned explanation and show 
+awareness that there is, in fact, a change in policy.\14\ The Court 
+also held that an agency's reasoning need not prove to be a better 
+solution than the status quo but rather that there are good reasons the 
+agency believes support the change in policy.\15\
+---------------------------------------------------------------------------
+
+    \14\ F.C.C. v. Fox Television Stations, Inc., 556 U.S. 502, 515-
+16 (2009).
+    \15\ Id.
+---------------------------------------------------------------------------
+
+    In the proposed rule, OPM expressly acknowledged its prior 
+prohibition on pre-established rating distributions and explained that, 
+based on current data, experience, and research, a different approach 
+is warranted to address the persistent lack of meaningful 
+differentiation that exists within senior professional performance 
+ratings. OPM further notes that the 1979 regulatory prohibition was 
+directed at rigid, pre-established ``bell curve'' distributions for 
+fear that requiring a specific distribution of all rating levels would 
+impede appraisal of actual performance against standards. As is common 
+in rulemakings from that time, there is virtually no accompanying 
+preamble explaining the rationale for the provision.
+    This final rule does not espouse adoption of the rigid ``forced 
+distribution'' approach that animated the prohibition in the 1979 
+regulation. OPM has explained that it has no intention of imposing any 
+limits on ratings at the Level 3 (``Fully Successful'') level or below 
+and instead, will limit only the highest rating levels. As discussed in 
+the Background, Governmentwide data show that performance ratings for 
+senior professionals are heavily concentrated at the highest levels, 
+with the vast majority of employees receiving top ratings and very few 
+receiving lower ratings.\16\ As further explained throughout the 
+proposed rule, this lack of meaningful differentiation limits the 
+effectiveness of performance appraisal systems as tools for 
+accountability, recognition, and workforce management. OPM emphasizes 
+that such rating inflation raises concerns regarding whether existing 
+systems are fully achieving the objectives reflected in 5 U.S.C. 4302 
+permitting the accurate evaluation of job performance, as systems that 
+do not distinguish among levels of performance fail to meaningfully 
+assess differences in contribution and impact. OPM believes the lack of 
+differentiation in ratings under the current system is so severe that, 
+because previous efforts to normalize ratings through guidance \17\ 
+have failed, adoption of a standardized
+
+[[Page 65908]]
+
+distribution is a necessary remedy. As such, OPM concludes that it has 
+provided a reasoned explanation for its change in policy, grounded in 
+current data, research, and statutory considerations, and that the 
+final rule represents a permissible exercise of its authority under 5 
+U.S.C. chapter 43.
+---------------------------------------------------------------------------
+
+    \16\ See supra text accompanying note 3.
+    \17\ See supra note 2.
+---------------------------------------------------------------------------
+
+    Commenter 0010 also asserted that OPM failed to consider narrower 
+alternatives, such as clearer performance standards, stronger 
+supervisory training, or more tailored agency-specific rating systems. 
+OPM considered less sweeping approaches, including continued reliance 
+on guidance, and explains in the Regulatory Alternatives section of 
+this preamble why they are inadequate. Guidance-based efforts to 
+instill rigor have been in place since at least 2019 and have not 
+curbed ratings compression, and clearer standards and training do not 
+address the structural incentives toward leniency documented by GAO. 
+Nor does the final rule displace agency tailoring: agencies continue to 
+design their own performance plans, standards, and position-specific 
+requirements under the new subpart.
+
+Consistency With 5 U.S.C. 4302
+
+    Commenters 0003 and 0010 argue that the proposed rule is 
+inconsistent with 5 U.S.C. 4302(c)(1), which requires that performance 
+appraisal systems permit the accurate evaluation of job performance on 
+the basis of objective criteria related to the job in question. These 
+commenters argued that a distribution framework substitutes relative 
+comparisons for job-based standards and may result in ratings that do 
+not reflect actual performance where multiple employees perform at a 
+similarly high level. Commenter 0010 further articulated the argument 
+stating, ``If several employees satisfy the criteria for a high rating, 
+but the system permits only a fixed percentage or number of such 
+ratings, some employees necessarily will receive lower ratings for 
+reasons unrelated to whether they met the requirements of their jobs.''
+    OPM does not agree that the final rule is inconsistent with 5 
+U.S.C. 4302. The statute requires that appraisal systems ``to the 
+maximum extent feasible, permit the accurate evaluation of job 
+performance on the basis of objective criteria . . . related to the job 
+in question for each employee or position under the system'' \18\; it 
+does not prescribe or prohibit a specific rating methodology or 
+preclude the use of a standardized distribution to differentiate among 
+levels of performance. Under this final rule, agencies remain 
+responsible for establishing performance plans with clear, job-related 
+expectations and for evaluating employees against those expectations. 
+The standardized distribution framework provides a structured mechanism 
+to support consistent application of performance distinctions; it does 
+not authorize ratings based on non-performance factors or require 
+agencies to disregard evidence of individual performance.
+---------------------------------------------------------------------------
+
+    \18\ 5 U.S.C. 4302(c)(1) (emphasis added).
+---------------------------------------------------------------------------
+
+    OPM intends, in exercising its authority to establish a 
+standardized distribution, to instruct that any established rating 
+limits be applied at the appropriate aggregate level as opposed to 
+supervisors applying the rating limits within their own group or team. 
+Thus, the requirement to differentiate between relative levels of 
+performance through the use of a standardized distribution operates 
+only after employees are assessed against established performance 
+standards and does not replace or supplant those standards. The concern 
+put forth by commenters claiming that distributional requirements 
+create tension with statute where multiple employees perform at 
+similarly high levels is misplaced. The final rule does not require the 
+mechanical application of quotas without regard to objective, job-
+related performance evidence. Rather, it requires agencies to exercise 
+informed judgment within a structured framework designed to support 
+meaningful differentiation.
+    The final rule also provides sufficient flexibility to accommodate 
+circumstances in which performance is uniformly high, as determined 
+through centralized review and the application of professional 
+judgment, including recommendations from the Performance Review Board 
+(PRB). Where an agency determines that adherence to the limits imposed 
+by the standardized distribution is not appropriate because the 
+performance of its senior professional population was genuinely 
+outstanding, OPM's new senior professional performance appraisal system 
+\19\ provides that the President may waive the standardized 
+distribution requirement by certifying that the performance of the 
+agency's senior professionals was outstanding during the relevant time 
+period.
+---------------------------------------------------------------------------
+
+    \19\ See supra note 10.
+---------------------------------------------------------------------------
+
+Merit System Principles
+
+    Several commenters, including Commenters 0003 and 0010 object to 
+the rule on the basis that it undermines merit system principles at 5 
+U.S.C. 2301(b). Commenter 0003 specifically claims that a standardized 
+distribution undermines principles calling for ``efficient use of the 
+Federal workforce'' (5 U.S.C. 2301(b)(5)) and that ``Employees should 
+be retained on the basis of the adequacy of their performance.'' (5 
+U.S.C. 2301(b)(6)). The commenter suggests that because a forced 
+distribution centralizes control over ratings, it creates leverage for 
+an agency to use ratings punitively against experts whose results or 
+conclusions displease political appointees. The commenter argues that 
+this creates an invitation for prohibited personnel practices such as 
+discrimination based on political affiliation (5 U.S.C. 2302(b)(1)(E)) 
+and coercion of political activity (5 U.S.C. 2302(b)(3)). Similarly, a 
+commenter argued that ``OPM's proposed rule creates an unconstitutional 
+loophole and attempts to remove power from established laws, tying 
+employee ``performance'' to political perspectives.'' (Commenter 0011).
+    OPM does not agree that the final rule undermines the merit system 
+principles or creates an increased risk of prohibited personnel 
+practices. The merit system principles require that employees be 
+managed in a manner that promotes efficiency, effectiveness, and fair 
+treatment based on performance. The final rule specifically includes 
+``compliance with merit system principles'' as a factor taken into 
+account when appraising senior professionals. 5 CFR 430.508(d)(5). The 
+final rule further advances merit system principles by strengthening 
+the rigor and credibility of performance appraisals and ensuring that 
+ratings meaningfully differentiate between levels of contribution and 
+impact.
+    Any argument that this final rule negatively affects an employee's 
+ability to be retained on the basis of the adequacy of their 
+performance is unfounded. As previously mentioned, OPM intends that the 
+standardized distribution will apply only to the assignment of the 
+highest performance rating levels (Levels 4 and 5) and will not impose 
+limitations on any of the levels at or below Level 3 (``Fully 
+Successful''), such as a ``quota'' requiring the issuance of a certain 
+amount of Level 1 (``Unacceptable'') ratings. Because Level 3 
+represents fully adequate performance and remains unrestricted, the 
+application of a standardized distribution will not require a senior 
+professional to receive lower than a Level 3 rating, invalidating 
+concerns over associated performance-based demotion or removal. As 
+such, OPM concludes that a standardized
+
+[[Page 65909]]
+
+distribution does not interfere with an employee's ability to be 
+retained on the basis of the adequacy of their performance and, 
+therefore, does not conflict with 5 U.S.C. 2301(b)(6).
+    OPM also disagrees with the commenter's assertion that the rule 
+invites prohibited personnel practices and will have a chilling effect 
+on the independent professional judgment of experts. Under the final 
+rule, performance ratings remain based on individual merit and 
+individual performance--not on irrelevant factors like race, political 
+affiliation, or religion. Supervisors who assign ratings based on 
+personal favoritism or engage in political coercion would continue to 
+violate merit system principles regardless of the rating structure in 
+place. OPM emphasizes that all existing statutory protections remain 
+fully applicable. Allegations of retaliation, discrimination, or 
+coercion remain subject to review by appropriate oversight bodies, 
+including the Office of Special Counsel (OSC), the Merit Systems 
+Protection Board (MSPB), and equal employment opportunity (EEO) 
+processes. Hence, distinguishing employees based on relative 
+performance does not conflict with the merit system principles or 
+undermine fair and equitable treatment.
+    Relatedly, Commenter 0010 argued that requiring supervisors to 
+distinguish among similarly performing employees will shift appraisals 
+toward subjective judgments about style, visibility, or personality, 
+increasing the risk of favoritism and implicit bias, and cited Equal 
+Employment Opportunity Commission (EEOC) best-practices guidance 
+recommending neutral and objective criteria. OPM disagrees that the 
+final rule invites such subjectivity. Ratings remain anchored to 
+written, job-related critical elements and performance standards 
+established in advance, and OPM intends for any rating limits to be 
+applied at an aggregate level rather than within a supervisor's own 
+team. Moreover, the multilayered review structure adopted in this 
+rule--higher-level review, centralized PRB review, and the involvement 
+of approving and oversight officials--provides more checks against 
+idiosyncratic or biased judgments than the current framework, under 
+which a rating may rest largely on a single supervisor's unreviewed 
+assessment. These features are consistent with the EEOC guidance the 
+commenter cites, and all EEO protections and remedies remain fully 
+available to senior professionals.
+    OPM has also taken additional steps in the final rule to ensure 
+that senior professional appraisals under standardized distribution are 
+free from undue political influence. Consistent with the standardized 
+distribution approach adopted for the SES, which excluded noncareer 
+appointees from the standardized distribution requirements, OPM is 
+excluding Schedule C and Schedule G excepted service appointees from 
+these requirements. This exclusion eliminates even the perception that 
+rating distributions could be used in a manner that favors issuing high 
+ratings to political appointees over career employees.
+    For these reasons, OPM concludes that the final rule is consistent 
+with the merit system principles and continues to support accurate, 
+objective, and job-related evaluation of employee performance.
+
+Differentiation Among High Performers
+
+    Commenters 0003, 0005, and 0010 asserted that the use of a 
+standardized distribution is inappropriate for senior professional 
+employees because these positions are, by design, filled by highly 
+qualified experts who are expected to perform at consistently high 
+levels. These commenters argued that the concentration of ratings at 
+the highest levels may not be indicative of rating inflation but rather 
+a reflection of the inherently high caliber performance demonstrated by 
+the senior professional workforce.
+    OPM recognizes that senior professional employees are selected 
+based on their advanced expertise, qualifications, and ability to 
+perform work of significant difficulty and responsibility. OPM agrees 
+that senior professionals are expected to perform at a high level and 
+that agencies rely on these employees to provide critical technical, 
+scientific, and professional contributions. However, OPM does not agree 
+that the presence of a highly qualified workforce obviates the need for 
+meaningful differentiation in performance ratings.
+    As discussed in the proposed rule, available data indicate that 
+performance ratings for senior professionals are heavily concentrated 
+at the highest levels across agencies. While this may, in part, reflect 
+the high caliber of the workforce, it also reflects the failure of 
+agencies to distinguish among varying levels of performance, 
+contribution, and impact. Even within a highly skilled population, 
+differences in performance outcomes, innovation, leadership within 
+technical domains, and contributions to mission results can and do 
+exist. A performance appraisal system must be capable of recognizing 
+these distinctions to support accountability and the effective use of 
+performance-based personnel decisions. As mentioned above, OPM's new 
+senior professional performance appraisal system provides an exception 
+to the standardized distribution requirements by Presidential waiver, 
+so as to avoid a situation where truly high performing senior 
+professionals are precluded from receiving appropriately high ratings.
+
+Consideration of Empirical Evidence
+
+    Several commenters, including 0003, 0008, and 0010, asserted that 
+the research literature generally does not support the use of 
+standardized distribution in performance management systems and may, in 
+some cases, demonstrate negative effects. Others suggested that such 
+approaches lead to inaccurate ratings, can reduce collaboration, 
+discourage knowledge sharing, and increase perceptions of unfairness. 
+Commenter 0008 argued that OPM needs to consider the limits of the 
+evidence it is relying on and the mixed experience employers have had 
+with strategies like forced ranking.
+    In the proposed rule, OPM noted that the literature on standardized 
+distribution reflects a broad range of findings with respect to its 
+efficacy and potential impacts on collaboration, morale, and 
+perceptions of fairness. However, OPM does not agree that the existence 
+of contrary or mixed research findings precludes adopting the changes 
+in the final rule. The APA does not require agencies to resolve all 
+disagreements in the academic literature or to demonstrate that a 
+policy is supported by uniform empirical consensus. OPM has considered 
+the evidence cited in the proposed rule and in comments and has 
+determined that the amendments made in the final rule are necessary to 
+address longstanding concerns regarding the lack of meaningful 
+differentiation in performance ratings across the Federal workforce.
+    Additionally, other research has demonstrated positive outcomes 
+with respect to the accuracy of comparative judgments. Performance 
+appraisal inherently involves human judgment and any human judgment is 
+by nature comparative.\20\ Thus, the quality of an evaluation is 
+improved by ensuring that it is comparative in nature (that is, 
+involving relative judgments of a target in comparison to other 
+individuals and groups), instead of absolute (that is, involving 
+judgments on scales that do
+
+[[Page 65910]]
+
+not reference others).\21\ One study, for example, concluded that 
+``[t]he relatively few studies that have investigated the validity of 
+comparative performance appraisal methods have tended to support their 
+validity.'' \22\ It found significant evidence from ``at least three 
+important and quite different domains that comparative evaluative 
+judgments of the self or others may be more advantageous than absolute 
+evaluative judgments.'' \23\ These findings suggest that a performance 
+appraisal framework that permits comparative judgments among employees, 
+by utilizing a standardized distribution of ratings, will more 
+accurately and objectively measure individual performance than one that 
+prohibits any comparative judgments between employees and requires that 
+any measurement of employee performance be framed in absolute terms. 
+Moreover, OPM's reforms in this final rule not only address 
+longstanding challenges in Federal performance management with respect 
+to ratings inflation but also provide an approach designed to increase 
+appraisal accuracy.
+---------------------------------------------------------------------------
+
+    \20\ Kedia G, Mussweiler T, Linden DE. Brain mechanisms of 
+social comparison and their influence on the reward system. 
+Neuroreport. 2014 Nov 12:25.
+    \21\ Goffin RD, Olson JM. Is It All Relative? Comparative 
+Judgments and the Possible Improvement of Self-Ratings and Ratings 
+of Others. Perspect. Psychol. Sci. 2011 Jan; 6(1):48-60.
+    \22\ Id. at 50.
+    \23\ Id. at 53.
+---------------------------------------------------------------------------
+
+Use in Private Industry
+
+    Other commenters, including Commenters 0008 and 0010, asserted that 
+standardized distribution approaches have been broadly abandoned in the 
+private sector and argued that this trend demonstrates that such 
+systems are ineffective or inappropriate for use in the Federal 
+Government. They cite examples of large individual companies that have 
+moved away from forced ranking systems and suggested that these 
+developments undermine the rationale for adopting a standardized 
+distribution framework.
+    OPM acknowledges that some private sector organizations have moved 
+away from rigid forced ranking systems. However, the context of the 
+Federal Government differs greatly from the private sector in terms of 
+the relative value that utilizing a standardized distribution framework 
+can provide. For instance, private sector companies have an inherent 
+profit motive to drive distinctions among levels of performance. In 
+contrast, the Federal Government has no such profit motive and instead 
+provides broad procedural and legal protections for employees that 
+discourage supervisors from holding them accountable.
+    The reluctance of Federal supervisors to identify poor performers 
+has been an issue for decades. In 1990, GAO issued a Governmentwide 
+report on the management of poor performers and found that more than 
+60% of the personnel officials, managers, and supervisors interviewed 
+believed that not all supervisors were identifying poor performers. 
+According to those officials, supervisors were often reluctant to 
+identify poor performers because the process was too time-consuming, 
+they wanted to avoid confrontation, or they believed they lacked 
+management support. GAO further reported that many supervisors found it 
+especially difficult to address employees performing at the minimally 
+successful level and that the Government had often tolerated less-than-
+fully-successful performance for extended periods because supervisors 
+had limited options for addressing such employees.\24\
+---------------------------------------------------------------------------
+
+    \24\ U.S. Gov't Accountability Off., Performance Management: How 
+Well Is the Government Dealing With Poor Performers, GGD-91-7, at 3, 
+32 (Oct. 2, 1990).
+---------------------------------------------------------------------------
+
+    As a result, over time supervisors have defaulted to issuing 
+lenient ratings, thereby avoiding the procedural hurdles and negative 
+personal interactions associated with issuing low ratings. This 
+tendency of supervisors to avoid issuing low ratings and instead issue 
+high ratings inflates the overall ratings distribution and diminishes 
+the value and meaning of a high rating. As previously mentioned, the 
+2024 FEVS results showed that only 47% of federal employees agreed with 
+the statement, ``In my work unit, differences in performance are 
+recognized in a meaningful way.'' \25\ This was the lowest positive 
+response rate for any question and has consistently been the lowest 
+over the past three years.
+---------------------------------------------------------------------------
+
+    \25\ See supra note 4.
+---------------------------------------------------------------------------
+
+Impact on Individual Employee Motivation
+
+    Commenter 0005 argues that standardized distribution will be 
+demotivating to senior professionals because it will lead to lower 
+ratings and reduced incentives.
+    On the contrary, because performance ratings for senior 
+professionals are so heavily concentrated at the highest rating levels 
+and agencies have limited awards budgets, the size of performance-based 
+awards has decreased, along with the connection between ratings and 
+rewards. In this environment, modestly sized awards are broadly 
+distributed. However, under the framework established by the final 
+rule, with fewer employees receiving the highest ratings, those ratings 
+will carry greater meaning and warrant more significant recognition and 
+reward. OPM's Governmentwide awards guidance \26\ directly supports 
+this approach by calling for agencies to allocate the majority of 
+awards spending for the highest performers. By increasing the magnitude 
+and visibility of rewards for top performance, the standardized 
+distribution approach enables a stronger performance-reward connection 
+and helps to establish a culture of excellence.
+---------------------------------------------------------------------------
+
+    \26\ OPM, ``Guidance on Awards for Federal Employees'' (August 
+11, 2025), available at https://www.opm.gov/chcoc/transmittals/2025/OPM%20Memo%20-%20Awards%20Guidance%208-11-2025.pdf.
+---------------------------------------------------------------------------
+
+Impact on Teamwork
+
+    Several commenters contend that standardized distribution may 
+specifically have a negative impact on teamwork. For instance, 
+Commenter 0010 cited an MSPB study \27\ as well as a study by Loberg et 
+al. (2021) \28\ to argue that standardized distribution may reduce 
+collaboration, discourage knowledge sharing, and negatively affect team 
+performance. The commenter suggests that such findings demonstrate that 
+standardized distribution is not appropriate for the Federal workforce, 
+where work is often collaborative in nature.
+---------------------------------------------------------------------------
+
+    \27\ U.S. Merit Sys. Protection Bd., Designing an Effective Pay 
+for Performance Compensation System, 22-25 (Jan. 2006), available at 
+www.mspb.gov/studies/studies/Designing_an_Effective_Pay_for_Performance_Compensation_System_224104.pdf.
+    \28\ See Linda Loberg et al., Forced Distribution Rating Systems 
+and Team Collaboration, 188 J. Econ. Behav. & Org. 18 (2021), 
+available at www.sciencedirect.com/science/article/pii/S0167268121001827.
+---------------------------------------------------------------------------
+
+    OPM acknowledges the studies cited and agrees that performance 
+management systems must be carefully designed to support both 
+individual accountability and effective collaboration. However, OPM 
+does not agree that such findings warrant rejecting the use of a 
+standardized distribution framework for senior professional performance 
+appraisal. The Loberg et al. (2021) study itself found that the 
+effectiveness of standardized distribution systems depends on the work 
+context and, where the need for teamwork is not essential and there 
+exist individual performance measures on which to base performance, 
+that standardized distribution increases performance.\29\ OPM 
+acknowledges that the study observed these positive effects only where 
+individuals worked alone and found reduced collaboration and knowledge 
+sharing in team settings; that
+
+[[Page 65911]]
+
+limitation, however, reinforces rather than undermines the approach 
+adopted here. OPM also notes that senior professionals frequently 
+perform highly specialized, expert-level work that is individually 
+driven and assessed based on the quality and impact of their 
+contributions. In such contexts, a structured approach to 
+differentiating performance will enhance accountability and 
+recognition. To the extent collaboration and teamwork are essential to 
+mission outcomes, agencies retain the ability to incorporate those 
+elements into senior professional performance plans and evaluate 
+employees accordingly. Teamwork and collaboration may also be promoted 
+through team-based awards.
+---------------------------------------------------------------------------
+
+    \29\ Id. at 26, 31.
+---------------------------------------------------------------------------
+
+Interaction With Other Rulemakings
+
+    Commenter 0010 claims that OPM has not adequately addressed how 
+this rule will interact with other pending rules that give performance 
+ratings greater weight. For instance, OPM has separately finalized a 
+reduction in force rule that prioritizes ratings over tenure or length 
+of service for determining retention standing.\30\ The commenter argues 
+that this makes ratings more consequential Governmentwide, given that 
+this final rule will force greater distinctions in performance 
+appraisal.
+---------------------------------------------------------------------------
+
+    \30\ Reduction in Force, 91 FR 49178 (August 3, 2026).
+---------------------------------------------------------------------------
+
+    OPM notes that commenters had an opportunity to submit comments 
+during the public comment period for each of its rulemakings including 
+the proposed rule on reductions in force, and OPM continues to receive 
+higher comment response rates than it has historically received. OPM 
+has since issued a final rule in the reduction in force rulemaking, in 
+which it responded to relevant concerns, and it will respond to 
+comments in its other rulemakings if or when it issues a final rule in 
+each.
+    OPM observes, however, that performance ratings have long affected 
+retention standing in a reduction in force. Such usage is consistent 
+with 5 U.S.C. 3502(a), which requires that OPM issue regulations that 
+``give due effect'' to, inter alia, ``performance ratings'' in 
+determining retention standing among competing employees in a reduction 
+in force. See Am. Fed'n of Gov't Emps., AFL-CIO v. Off. of Pers. Mgmt., 
+821 F.2d 761, 765 (D.C. Cir. 1987). Further, 5 U.S.C. 4302(a)(3) 
+contemplates using appraisal results as a basis for training, 
+rewarding, reassigning, promoting, reducing in grade, retaining, and 
+removing employees. Thus, the interaction between this rulemaking and 
+OPM's reduction in force rulemaking does not represent an unexplained 
+gap in OPM's reasoning, but a longstanding feature of the Title 5 
+statutory scheme.
+    Further, this rule is complementary to OPM's reduction in force 
+rule, as it seeks to ensure that performance appraisal systems 
+accurately evaluate employee performance while better distinguishing 
+levels of performance. A rule that makes performance matter more in RIF 
+retention and a rule that seeks to improve the accuracy and 
+differentiation of performance ratings address complementary parts of 
+the same merit-based personnel system. Indeed, the current compression 
+of ratings at the highest levels would deprive any performance-based 
+retention criterion of meaningful content; improving the accuracy and 
+differentiation of ratings makes any lawful downstream use of those 
+ratings more, not less, merit-based.
+    While OPM recognizes that implementing standardized distribution 
+could involve some risks, the current failure of senior professional 
+appraisal systems to meaningfully distinguish performance presents an 
+even greater risk. Therefore, OPM continues to believe that any 
+potential negative effects in areas such as teamwork or collaboration 
+can be adequately addressed through modifications to performance plans 
+and tailored team-based awards. The increased accuracy and rigor that 
+will be achieved by a standardized distribution directly addresses 
+longstanding issues of leniency bias and rating inflation across the 
+Federal Government, thereby strengthening accountability and the 
+effectiveness of senior professional performance management. 
+Accordingly, OPM adopts the language in this section as proposed.
+
+Section 430.506 Planning and Communicating Performance
+
+    This section explains the requirements for planning and 
+communicating performance expectations. OPM proposed that rating 
+officials must consult with senior professionals to develop written 
+performance plans that include critical elements (no non-critical 
+elements or additional performance elements), performance standards, 
+and performance requirements. Performance plans must be communicated to 
+senior professionals on or before the beginning of the appraisal 
+period, or upon appointment to a new senior professional position. OPM 
+also proposed that agencies may require a review of senior professional 
+performance plans by the PRB or another body of the agency's choosing 
+to ensure consistency of agency-specific performance requirements.
+    OPM did not receive comments specifically addressing this section. 
+However, several commenters raised general concerns regarding the 
+establishment of objective, job-related performance expectations and 
+the challenges of applying standardized approaches to highly 
+specialized senior professional roles. These comments are addressed in 
+the relevant sections of this preamble. Accordingly, OPM is adopting 
+the language in this section as proposed.
+
+Section 430.507 Monitoring Performance
+
+    This section establishes expectations for ongoing performance 
+monitoring and feedback throughout the appraisal period. Notably, this 
+section requires that progress reviews be held at least quarterly, 
+during which the rating official must inform senior professionals of 
+how they are performing. Rating officials must also provide advice and 
+assistance to senior professionals on how to improve their performance 
+and may also discuss available development opportunities for the senior 
+professional. The intent of this section is to promote frequent 
+performance-related communication between the rating official and 
+senior professional.
+    Commenter 0005 objected to the requirement that senior 
+professionals receive progress reviews at least quarterly, claiming 
+that it adds an unnecessary administrative burden. This commenter also 
+noted that if OPM's intention is to align the senior professional 
+appraisal system more closely with the SES performance appraisal 
+system, that the SES regulations only require senior executives to 
+receive at least one progress review per year.
+    While it is true that the SES regulations require conducting 
+progress reviews at least once during the appraisal period,\31\ on 
+February 25, 2025, OPM issued a new Senior Executive Service 
+performance appraisal system and performance plan,\32\ requiring that 
+``[a]t least quarterly, supervisors and executives must meet to 
+discuss, and document, progress toward meeting the critical elements in 
+the senior executive's performance plan.'' Thus, requiring that senior 
+professional progress reviews be conducted at least quarterly aligns 
+with the progress review frequency OPM
+
+[[Page 65912]]
+
+expects agencies to be providing for SES members.
+---------------------------------------------------------------------------
+
+    \31\ 5 CFR 430.304(b)(2).
+    \32\ See supra note 10.
+---------------------------------------------------------------------------
+
+    OPM believes that frequent feedback is critical to effective 
+performance management and that the benefits of such increased 
+communication outweigh the costs, especially in the context of other 
+changes that are being made in this final rule. Accordingly, OPM is 
+adopting the language in this section as proposed.
+
+Section 430.508 Appraising Performance
+
+    This section describes how agencies must appraise senior 
+professionals' performance. It generally parallels the SES appraisal 
+rules, requiring timely communication of expectations, establishment of 
+appraisal timelines, and assessment of both individual and 
+organizational performance. Appraisals must take into account factors 
+such as results achieved, the overall quality of performance, appraisal 
+guidelines based upon assessments of the agency's performance provided 
+by the oversight official, customer perspectives, and compliance with 
+merit system principles. The section clarifies that certain SES-
+specific factors, such as employee perspectives, are excluded given 
+senior professionals' non-supervisory roles.
+    OPM received no comments on this section and is adopting the 
+language as proposed. We note that the NPRM contained a typographical 
+error in which the word ``and'' was omitted from the end of proposed 
+Sec.  430.508(d)(4). In this final rule, we correct that error.
+
+Section 430.509 Rating Performance
+
+    This section specifies procedures for deriving and finalizing 
+senior professional ratings. It mirrors certain aspects of the SES 
+rating procedures, such as requiring rating officials to prepare 
+initial summary ratings in writing, share them with senior 
+professionals, and provide an opportunity for written response and 
+higher-level review before finalizing ratings of record. OPM also 
+proposed that agencies with ten or more senior professionals use their 
+agency-level Performance Review Board (PRB) to conduct centralized 
+review of the initial summary ratings and corresponding recommended pay 
+actions. OPM additionally proposed that senior professional performance 
+appraisals and ratings are not appealable, beyond what is otherwise 
+provided under applicable law and regulation.
+    Commenter 0003 claims the final rule eliminates procedural 
+protections by removing appeal rights and replacing mandatory review of 
+Level 1 (``Unacceptable'') ratings with discretionary processes, 
+thereby increasing the risk of arbitrary action.
+    On the contrary, while Sec.  430.509(e) establishes that senior 
+professional performance appraisals and ratings are not appealable 
+beyond what is otherwise provided under applicable law or regulation, 
+this provision does not limit or eliminate employees' ability to pursue 
+recourse through established statutory or regulatory avenues, such as 
+EEO processes or appeals to the MSPB, where applicable. The final rule 
+simply eliminates the informal grievance process and the mandatory 
+review of Level 1 ratings that previously applied to senior 
+professionals under 5 CFR part 430, subpart B. In place of those 
+mechanisms, the rule establishes a more structured and robust review 
+framework aligned with SES review processes. OPM emphasizes that SES 
+members are similarly prohibited by statute \33\ from appealing 
+performance appraisals or ratings, yet the SES rating process is widely 
+recognized as providing strong procedural safeguards through 
+multilayered review. Mirroring these SES provisions, the final rule 
+provides that senior professionals are afforded the opportunity to 
+receive a higher-level review of their initial summary rating 
+regardless of the rating level. In addition, the employee's written 
+response and the findings of the higher-level review are provided to 
+the PRB, which conducts an independent review and makes recommendations 
+to the approving official.
+---------------------------------------------------------------------------
+
+    \33\ 5 U.S.C. 4312(d).
+---------------------------------------------------------------------------
+
+    Commenter 0011 further argued that the rule violates the Due 
+Process Clause of the Fifth Amendment, citing Cleveland Board of 
+Education v. Loudermill, 470 U.S. 532 (1985), by eliminating review by 
+a neutral adjudicator and foreclosing judicial review. OPM disagrees. A 
+performance rating, standing alone, does not deprive an employee of a 
+constitutionally protected property or liberty interest; Loudermill 
+concerned the procedures required before removal from employment. Any 
+suspension, reduction in grade or pay, or removal based on performance 
+remains subject to the applicable statutory procedures, including 
+advance notice, an opportunity to respond, and, where provided by law, 
+appeal to the MSPB and judicial review under 5 U.S.C. 7703. Nothing in 
+this rule alters those protections or forecloses any review otherwise 
+available by law.
+    The final rule adopts a strong oversight framework for senior 
+professional ratings that has proven to be effective for the SES, 
+ensuring that ratings are subject to multiple levels of review and 
+oversight before being finalized. For these reasons, OPM concludes that 
+the final rule maintains appropriate procedural protections, reduces 
+the risk of arbitrary action, and strengthens the consistency and 
+integrity of the senior professional rating process. Accordingly, OPM 
+is adopting the language in this section as proposed.
+
+Section 430.510 Details and Job Changes
+
+    This section addresses how performance appraisal systems are to 
+handle senior professionals who experience job changes, such as 
+details, temporary assignments, transfers, or reassignments during the 
+appraisal period. It closely mirrors SES provisions, requiring 
+performance goals and requirements to be established for such 
+assignments and ensuring that written appraisals are completed and 
+transferred appropriately to the receiving organization or agency.
+    OPM received no comments on this section and is adopting the 
+language as proposed.
+
+Section 430.511 Performance Review Boards (PRBs)
+
+    This section refines existing requirements for agency-level 
+centralized review of senior professional performance ratings and pay 
+actions. As discussed in the proposed rule, current senior professional 
+pay regulations at 5 CFR part 534, subpart E, require agencies with 10 
+or more senior professionals to conduct a centralized review of 
+proposed ratings and pay actions by a panel designated by the agency 
+head. This final rule requires that agencies subject to the SES must 
+use their established agency-level PRB to conduct the centralized 
+review, including providing written recommendations to the approving 
+official on senior professional ratings of record, performance awards, 
+and pay adjustments. However, agencies not subject to the SES must 
+establish a body equivalent to the PRB.
+    Commenter 0010 argues that the use of PRBs could introduce 
+politicization into the appraisal process, citing a separate directive 
+by the Administration to reconstitute ERBs with a majority of senior 
+noncareer officials. The commenter states, ``If that same approach is 
+extended to PRBs reviewing SL/ST employees, the result would be a more 
+politicized performance-review process at precisely the point where the 
+proposal centralizes more authority in
+
+[[Page 65913]]
+
+PRBs and makes ratings less contestable.''
+    OPM understands the commenter to be referring to the Presidential 
+Memorandum titled, ``Restoring Accountability for Career Senior 
+Executives,'' \34\ which did direct agency heads to terminate their 
+existing ERBs and reconstitute them with a majority of senior noncareer 
+officials. However, the commenter erroneously conflates the ERB and PRB 
+directives. The PRB directive makes no mention of noncareer officials. 
+Rather, it calls for agency heads to reconstitute PRB membership ``with 
+individuals committed to full enforcement of SES performance 
+evaluations that promote and assure an SES of the highest caliber.'' 90 
+FR at 8482. This directive is specifically intended to strengthen 
+accountability and ensure rigorous, consistent application of 
+performance standards--not to politicize PRBs. OPM notes that both the 
+SES appraisal regulations \35\ and this final rule \36\ require that 
+the PRB, or equivalent body as appropriate, be comprised of a majority 
+of career appointees when appraising the performance of a career 
+appointee. The Presidential Memorandum does not alter that regulatory 
+requirement: even a reconstituted PRB must consist of a majority of 
+career appointees whenever it appraises the performance of a career 
+senior professional--a structural safeguard that distinguishes PRBs 
+from the ERB directive the commenter cites.
+---------------------------------------------------------------------------
+
+    \34\ 90 FR 8481 (Jan. 30, 2025).
+    \35\ 5 CFR 430.311(a)(3).
+    \36\ 5 CFR 430.511 requires the PRB or equivalent body to 
+fulfill all requirements of centralized review found in 5 CFR part 
+534, subpart E, including 5 CFR 534.505(f)(1).
+---------------------------------------------------------------------------
+
+    OPM also notes that prior approaches to PRB composition included 
+practices which were determined to be inconsistent with merit-based 
+principles, including the use of ``DEI'' considerations that were 
+addressed in subsequent SES regulatory revisions.\37\ Those changes 
+clarified that PRB membership must be based on merit and free from 
+impermissible considerations, reinforcing objectivity in the review 
+process. Thus, reconstituting PRBs with members committed to full 
+enforcement of performance evaluations enhances, rather than 
+diminishes, merit-focused objectivity.
+---------------------------------------------------------------------------
+
+    \37\ 90 FR 44291 (Sept. 15, 2025).
+---------------------------------------------------------------------------
+
+    Further, the PRB, or the equivalent body conducting the centralized 
+review, operates alongside higher-level review and other safeguards to 
+ensure that ratings are not determined unilaterally but are subject to 
+structured oversight. For these reasons, OPM concludes that PRBs, as 
+implemented under this rule, strengthen the integrity, consistency, and 
+accountability of the senior professional performance appraisal 
+process. Accordingly, OPM is adopting the language in this section as 
+proposed.
+
+Section 430.512 Using Performance Results
+
+    This section requires agencies to use performance results as a 
+basis for making human capital decisions, including pay adjustments, 
+awards, retention decisions, and other personnel actions. OPM 
+reiterates that actions to suspend, demote, or remove senior 
+professionals from the civil service for unacceptable performance 
+remain subject to the provision(s) of applicable law. OPM also proposed 
+that performance appraisals be used as a factor in assessing a senior 
+professional's continuing development needs and that agencies must 
+provide appropriate incentives and recognition for high performance.
+    OPM received no comments on this section and is adopting the 
+language as proposed.
+
+Section 430.513 Training and Evaluation
+
+    To assure effective implementation of performance appraisal 
+systems, this section requires agencies to provide appropriate 
+information and training to individuals involved in the senior 
+professional performance appraisal process, periodically evaluate the 
+effectiveness of their appraisal systems, and implement improvements as 
+needed. OPM proposed that these evaluations must provide for both 
+assessment of effectiveness and compliance with relevant laws, OPM 
+regulations, and OPM performance management policy.
+    OPM received no comments on this section and is adopting the 
+language as proposed.
+
+Section 430.514 OPM Review of Agency Systems
+
+    This section requires agencies to submit senior professional 
+performance appraisal systems to OPM for review and approval. Appraisal 
+systems are reviewed by OPM for compliance with statutory, regulatory, 
+and OPM policy requirements. Consistent with 5 U.S.C. 4304(b)(3), this 
+section also requires that if OPM determines a system does not meet the 
+requirements of the law or regulation, OPM will identify the 
+requirements that were not met and direct the agency to take corrective 
+action, and the agency must comply. This review function supports 
+consistent and compliant performance management practices across the 
+Federal Government.
+    Commenter 0011 asserted that OPM lacks authority to review agency 
+performance appraisal systems and direct corrective action, arguing 
+that such oversight constitutes an impermissible intrusion into agency 
+personnel management and conflicts with statutory roles assigned to 
+other entities, such as the MSPB and the OSC.
+    OPM does not agree that the review and oversight provisions in 5 
+CFR 430.514 exceed its statutory authority or improperly intrude on 
+agency personnel management. OPM's authority to oversee performance 
+appraisal systems derives directly from 5 U.S.C. chapter 43, which 
+authorizes OPM to prescribe regulations governing performance appraisal 
+systems and ensure that such systems comply with statutory 
+requirements. Under 5 U.S.C. 4302, agencies are required to develop 
+performance appraisal systems in accordance with regulations prescribed 
+by OPM. This statutory framework necessarily contemplates that OPM will 
+not only establish requirements for agency systems but also ensure that 
+those systems are implemented in a manner consistent with law and 
+regulation. The authority to review agency systems for compliance and 
+to require corrective action where deficiencies are identified is 
+inherent in OPM's responsibility to administer and enforce these 
+statutory requirements.
+    OPM also does not agree that its oversight role conflicts with the 
+statutory functions of the MSPB or the OSC. Those entities serve 
+distinct and complementary roles within the Federal personnel system. 
+The MSPB adjudicates appeals and enforces merit system principles in 
+individual cases, while the OSC investigates and prosecutes prohibited 
+personnel practices. In contrast, OPM's role under chapter 43 is to 
+establish Governmentwide performance management policy and ensure that 
+agency systems comply with applicable requirements. The oversight 
+provided in Sec.  430.514 operates at the system level and does not 
+replace or diminish the independent authorities of these entities. 
+Nothing in this rule amends 5 U.S.C. 2302 or the Whistleblower 
+Protection Act, and allegations of prohibited personnel practices 
+remain fully within the jurisdiction of the OSC and the MSPB.
+    For these reasons, OPM concludes that the review and oversight 
+provisions in Sec.  430.514 are fully consistent with OPM's statutory 
+authority and responsibilities under 5 U.S.C. chapter 43 and are 
+necessary to ensure that
+
+[[Page 65914]]
+
+performance appraisal systems for senior professionals are implemented 
+in a lawful, consistent, and effective manner across the Federal 
+Government. Accordingly, OPM is adopting the language in this section 
+as proposed.
+
+Conforming Amendments
+
+    OPM proposed conforming amendments in parts 351, 430, 451, 534, 
+537, and 630 to harmonize terms, citations, and language to comport 
+with this rule. OPM also proposed an editorial correction to a citation 
+in part 894. OPM did not receive comments on those proposals and is 
+adopting them in this final rule, except for technical updates to the 
+part 351 conforming amendments described below.
+    After the proposed rule was published, OPM issued a final rule 
+comprehensively revising its reduction in force regulations at 5 CFR 
+part 351, effective September 2, 2026. See Reduction in Force, 91 FR 
+49178 (Aug. 3, 2026). In this final rule, OPM is accordingly updating 
+the conforming amendments to part 351 to reflect part 351 as amended by 
+that final rule, including the revised authority citation, the revised 
+definition of ``rating of record'' in Sec.  351.203, and the relocation 
+of the performance-credit provisions from former Sec.  351.504 to Sec.  
+351.503. These updates are technical and conforming in nature; they 
+harmonize terminology and cross-references with the amended part 351 
+and do not alter the substance of the amendments as proposed.
+    In addition, OPM is making four technical corrections in subpart B 
+of part 430, which this rule already amends. On July 7, 2026, OPM 
+published a final rule, Performance Appraisal for General Schedule, 
+Prevailing Rate, and Certain Other Employees, 91 FR 41521 (effective 
+August 6, 2026), which revised and republished Sec.  430.208 and 
+relocated the patterns of summary levels from Sec.  430.208(d) to Sec.  
+430.208(e). That rule updated cross-references in Sec. Sec.  351.504 
+and 537.108(b) but did not update four references within part 430 
+itself. This final rule accordingly revises the references to Sec.  
+430.208(d) in Sec.  430.201(c)(3), in the definitions of ``Performance 
+rating'' and ``Rating of record'' in Sec.  430.203, and in Sec.  
+430.204(b)(3)(iv) to refer to Sec.  430.208(e).
+    In revising the definition of ``Rating of record,'' OPM is also 
+correcting a longstanding defective paragraph designation--the 
+definition refers to ``(2)'' with no corresponding ``(1)''--without 
+change in meaning. OPM is further correcting Sec.  430.204(b)(3)(iii), 
+which cites ``Sec.  430.206(b)(7)(i)(A) and (ii)(A)'' although Sec.  
+430.206(b)(7) contains no subdivisions; the provisions cited are 
+located in Sec.  430.206(b)(8)(i)(A) and (b)(8)(ii)(A). These 
+corrections are technical and non-substantive: they conform citations 
+and paragraph designations to regulations previously promulgated and do 
+not alter the rights or obligations of any party. To the extent these 
+corrections were not included in the proposed rule, OPM finds good 
+cause under 5 U.S.C. 553(b)(B) to adopt them without prior notice and 
+comment because notice and comment are unnecessary for non-substantive, 
+technical corrections.
+
+Parallel Regulations in Part 1330
+
+    The regulations at 5 CFR part 1330, subpart D, are parallel 
+regulations to 5 CFR part 430 subpart D, which govern the performance 
+appraisal system certification requirements for the SES and senior 
+professionals. Performance appraisal system certification is co-
+regulated by OPM and OMB and, since OPM proposed conforming amendments 
+to 5 CFR part 430, subpart D, OMB proposed identical conforming changes 
+to 5 CFR part 1330, subpart D. Neither OPM nor OMB received comments 
+specific to those proposals and OMB is adopting them with changes 
+consistent with those discussed in this final rule.
+
+Expected Impact of This Rulemaking
+
+A. Statement of Need
+
+    OPM is issuing this rule pursuant to its authority to issue 
+regulations governing performance appraisals under subchapter I of 
+chapter 43 of title 5, United States Code. As discussed in the 
+Background, the purpose of this rule is to establish separate 
+regulations that will be better suited to the performance appraisal 
+needs of senior professionals. While many provisions applicable to 
+senior professionals such as pay, aggregate limit on compensation, 
+leave accrual, and leave carryover limit have evolved over the years to 
+match what the SES receive, senior professionals have remained subject 
+to the same general performance appraisal regulations that apply to 
+most non-SES federal employees, including rank-and-file GS and 
+prevailing rate employees. The lack of appraisal rules specifically 
+tailored to senior professionals' important roles and high level of 
+compensation hinders agencies' ability to fully leverage the strategic 
+potential of these positions.
+    OPM found that, despite its previous efforts to promote rigor in 
+senior professional performance appraisal by encouraging agencies to 
+develop more stringent performance requirements,\38\ senior 
+professional ratings distributions come nowhere close to resembling a 
+normal bell curve. As mentioned in the Background, Governmentwide 
+senior professional performance rating data for fiscal years 2023 and 
+2024 \39\ show that approximately 90 percent of senior professionals 
+received a Level 5 (``Outstanding'') or Level 4 (``Exceeds Fully 
+Successful'') rating and less than a half of one percent of senior 
+professionals were rated below Level 3 (``Fully Successful''). The 
+distribution of these ratings suggests there is inflation of senior 
+professional ratings and poor performing employees are likely not being 
+identified or held accountable through a rigorous appraisal process. As 
+such, action must be taken to re-set and infuse rigor into the senior 
+professional performance appraisal process.
+---------------------------------------------------------------------------
+
+    \38\ See note 2.
+    \39\ See note 3.
+---------------------------------------------------------------------------
+
+    OPM recognizes that agencies have operated under a regulatory 
+framework that prohibited pre-established distributions of ratings for 
+several decades. After evaluating Governmentwide ratings data, 
+implementation experience, and academic literature, OPM has concluded 
+that the previous approach has not adequately promoted meaningful 
+distinctions in performance among senior professionals.
+
+B. Impact
+
+    OPM is establishing a new subpart specifically dedicated to the 
+performance appraisal of senior professionals and that more closely 
+resembles the SES appraisal system--including changes that allow OPM to 
+establish and enforce a standardized distribution of performance 
+ratings--to enable agencies and senior professionals to be held to a 
+higher standard of accountability and ensure only the truly deserving 
+performers are rewarded for their performance.
+    Allowing for the establishment of limits on senior professional 
+ratings will result in a more normalized distribution of performance 
+ratings. OPM anticipates that a standardized distribution will 
+incentivize improved performance of senior professionals as they no 
+longer would expect to receive high ratings without demonstrating 
+superior performance relative to the other senior professionals in 
+their agency. Consequently, improved senior professional performance 
+would ultimately improve the performance of the Federal Government in 
+providing services to the American public.
+
+[[Page 65915]]
+
+    Establishing senior professional performance appraisal regulations 
+that more closely align with the Senior Executive Service appraisal 
+regulations creates greater opportunities for oversight and review of 
+senior professional ratings. In the final rule, agencies employing 10 
+or more senior professionals will utilize their agency-level PRB to 
+conduct the centralized review required in subpart E of 5 CFR part 534. 
+Additionally, all senior professionals will now be able to request 
+higher-level review of their initial summary rating, regardless of the 
+rating level, bringing enhanced credibility, transparency, and 
+accountability to the rating process.
+
+C. Costs
+
+    This rule will affect the operations of more than 60 Federal 
+agencies--ranging from cabinet-level departments to small independent 
+agencies--that have SL or ST employees. To comply with the regulatory 
+changes, individuals employed by affected agencies will need to spend 
+time updating agency senior professional performance appraisal policies 
+and procedures. For this cost analysis, the assumed average salary rate 
+of federal employees performing this work will be the rate in 2025 for 
+GS-14, step 5, in the Washington, DC, locality pay table ($161,486 
+annual locality rate and $77.38 hourly locality rate). We assume the 
+total dollar value of labor, which includes wages, benefits, and 
+overhead, is equal to 200 percent of the wage rate, resulting in an 
+assumed labor cost of $154.76 per hour.
+    Additionally, affected agencies will need to review the rule and 
+update their policies and procedures. We estimate that, in the first 
+year following publication of the final rule, this will require an 
+average of 80 hours of work by employees with an average hourly cost of 
+$154.76 per hour. This will result in estimated one-time costs of about 
+$12,400 per agency and about $744,000 Governmentwide.
+    Senior professionals revise their performance requirements each 
+year as they develop their performance plans. OPM anticipates that 
+adjusting their specific performance requirements to reflect the 
+updated critical elements may take each senior professional slightly 
+longer than usual in the first year. We estimate that this will require 
+approximately 15 additional minutes in the first year of implementation 
+compared to the time usually spent developing specific performance 
+requirements for the annual performance plan. Based on the average 
+salary of the SL and ST pay plans in September 2024 (most recent 
+available data), we assume an overall average SL/ST salary rate of 
+$204,735, or $98.43 per hour.\40\ We assume the total dollar value of 
+labor, which includes wages, benefits, and overhead, is equal to 200 
+percent of the wage rate, resulting in an assumed labor cost of $196.86 
+per hour. There are approximately 1,420 employees with an SL or ST pay 
+plan in the executive branch. We estimate this will result in a one-
+year, transitional increase in costs of about $70,000 Governmentwide.
+---------------------------------------------------------------------------
+
+    \40\ Average senior professional pay drawn from Office of 
+Personnel Management FedScope data.
+---------------------------------------------------------------------------
+
+    OPM anticipates that the overall implementation costs would be 
+limited in duration and would total about $814,000. OPM did not receive 
+any comments on its estimates of costs.
+
+D. Benefits
+
+    Senior professionals are critical to the effective operation and 
+strategic direction of the Federal Government. The changes in this rule 
+enhance parity between senior professionals and the SES by establishing 
+appraisal rules for senior professionals that are more closely aligned 
+with SES appraisal rules. This relieves agencies from superfluous 
+requirements found in subpart B of part 430 that are not well-suited to 
+managing senior professional performance, such as the requirement to 
+establish one or more performance appraisal programs.
+    By allowing OPM to establish a limit on the number of senior 
+professionals who can receive the highest ratings, there will be a 
+clear distinction of the highest performers across an agency and the 
+Federal Government. Agencies will no longer be able to rate all of 
+their senior professionals at the highest performance ratings, thus 
+encouraging senior professionals to strive for increased levels of 
+performance and ultimately provide better results for the Federal 
+Government and the American public.
+    Senior professionals will benefit from increased feedback and 
+oversight under the new subpart, as it requires more frequent progress 
+reviews and provides the opportunity for a higher-level review of an 
+initial summary rating at any level instead of a mandatory review of a 
+Level 1 (``Unacceptable'') rating of record. Agencies employing 10 or 
+more senior professionals will see enhanced oversight by utilizing 
+agency-level PRBs to oversee recommended ratings of record, pay 
+adjustments, and performance awards, thus providing overall increased 
+Governmentwide consistency for senior professional performance 
+appraisal.
+
+E. Regulatory Alternatives
+
+    An alternative to this rulemaking is to not establish a new subpart 
+in part 430 dedicated to senior professional performance appraisal and 
+instead OPM could issue further guidance encouraging agencies to be 
+increasingly rigorous in managing the performance of their senior 
+professionals. However, without the provisions in this subpart, 
+agencies would continue to be prevented from applying a standardized 
+distribution of senior professional ratings by 5 CFR 430.208(c). As 
+mentioned in the Statement of Need, previous attempts to curb rating 
+inflation through guidance have not been successful; instead, it 
+appears that the percentage of senior professionals receiving Level 4 
+or 5 performance ratings has reached a point where almost all senior 
+professionals (i.e., approximately 90%) are receiving a Level 4 or 5 
+rating. Without the ability to place limits on senior professional 
+ratings, the pervasive inflation of senior professional ratings will 
+likely continue, resulting in a lack of meaningful rating distinction 
+and thus, lack of accountability.
+    Another alternative to this rulemaking is for OPM to pursue a 
+different rulemaking that would amend subpart B of part 430 by 
+excluding senior professionals from the forced distribution prohibition 
+contained in that subpart. While this approach would achieve some of 
+the intended purpose of the proposed rule, it would lack the meaningful 
+reforms to senior professional performance appraisal that increase 
+parity with the SES appraisal rules, such as providing for higher-level 
+review of initial summary ratings and the PRB providing centralized 
+review. Failing to establish a separate subpart in part 430 dedicated 
+to senior professional performance appraisal would result in senior 
+professionals continuing to be subject to the cumbersome provisions of 
+subpart B of part 430, which require agencies to establish both 
+appraisal systems and appraisal programs, which is burdensome and not 
+aligned with OPM's vision of centralized, effective senior professional 
+performance management.
+
+Severability
+
+    OPM intends that, if any of the provisions of this rule as 
+finalized were held to be invalid or unenforceable by its terms, or as 
+applied to any person or circumstance, that provision would be 
+severable from its respective section(s) and would not affect the 
+remainder thereof or the application of the
+
+[[Page 65916]]
+
+provision to other persons not similarly situated or to other 
+dissimilar circumstances. For example, if the implementation of a 
+standardized distribution of ratings were held to be unenforceable, the 
+remaining provisions established by this final rule would be unaffected 
+and could remain in effect.
+
+Regulatory Compliance
+
+A. Regulatory Flexibility Act
+
+    The Director of OPM certifies that this rulemaking will not have a 
+significant economic impact on a substantial number of small entities 
+because it will apply only to Federal agencies and employees.
+
+B. Regulatory Review
+
+    OPM has examined the impact of this rule as required by Executive 
+Order 12866 and Executive Order 13563, which direct agencies to assess 
+all costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public, 
+health, and safety effects, distributive impacts, and equity). This 
+rulemaking is not a ``significant regulatory action'' under section 
+3(f) of Executive Order 12866. This final rule is not an E.O. 14192 
+regulatory action because it does not impose any more than de minimis 
+regulatory costs.
+
+C. Federalism
+
+    This regulation will not have substantial direct effects on the 
+States, on the relationship between the National Government and the 
+States, or on distribution of power and responsibilities among the 
+various levels of government. Therefore, in accordance with Executive 
+Order 13132, it is determined that this rule does not have sufficient 
+federalism implications to warrant preparation of a Federalism 
+Assessment.
+
+D. Civil Justice Reform
+
+    This regulation meets the applicable standards set forth in section 
+3(a) and (b)(2) of Executive Order 12988.
+
+E. Unfunded Mandates Reform Act of 1995
+
+    Section 202 of the Unfunded Mandates Reform Act of 1995 (UMRA) 
+requires that agencies assess anticipated costs and benefits before 
+issuing any rule that would impose spending costs on State, local, or 
+tribal governments in the aggregate, or on the private sector, in any 1 
+year of $100 million in 1995 dollars, updated annually for inflation. 
+That threshold is currently approximately $206 million. This rulemaking 
+will not result in the expenditure by State, local, or tribal 
+governments, in the aggregate, or by the private sector, in excess of 
+the threshold. Thus, no written assessment of unfunded mandates is 
+required.
+
+F. Congressional Review Act
+
+    The Office of Management and Budget's (OMB) Office of Information 
+and Regulatory Affairs has determined this rule does not meet the 
+criteria listed in 5 U.S.C. 804(2).
+
+G. Paperwork Reduction Act
+
+    This regulatory action will not impose any reporting or 
+recordkeeping requirements under the Paperwork Reduction Act.
+
+List of Subjects
+
+5 CFR Part 351
+
+    Administrative practice and procedure, Government employees.
+
+5 CFR Parts 430 and 451
+
+    Decorations, Government employees.
+
+5 CFR Part 534
+
+    Government employees, Hospitals, Students, Wages.
+
+5 CFR Part 537
+
+    Administrative practice and procedure, Government employees, 
+Students, Wages.
+
+5 CFR Part 630
+
+    Emergency preparedness, Government employees, Reporting and 
+recordkeeping requirements, Wages, Weather.
+
+5 CFR Part 894
+
+    Administrative practice and procedure, Government employees, Health 
+facilities, Health insurance, Health professions, Hostages, Iraq, 
+Kuwait, Lebanon, Military personnel, Reporting and recordkeeping 
+requirements, Retirement.
+
+5 CFR Part 1330
+
+    Government employees.
+
+    Accordingly, for the reasons stated in the preamble, OPM amends 5 
+CFR parts 351, 430, 451, 534, 537, 630, and 894, and OMB amends 5 CFR 
+part 1330 as follows:
+
+PART 351--REDUCTION IN FORCE
+
+0
+1. The authority citation for part 351 continues to read as follows:
+
+    Authority:  5 U.S.C. 1103, 1104, 1302, 2301, 3502, 3503, 38 
+U.S.C. 4331; E.O. 14284, 90 FR 17729; 5 CFR 2.2(c). Sec. 351.801 
+also issued under E.O. 12828, 58 FR 2965, 3 CFR, 1993 Comp., p. 569.
+
+Subpart B--General Provisions
+
+0
+2. Amend Sec.  351.203 by revising the definition of ``Rating of 
+record'' to read as follows:
+
+
+Sec.  351.203  Definitions.
+
+* * * * *
+    Rating of record means the performance rating prepared at the end 
+of an appraisal period for performance of agency-assigned duties over 
+the entire period and the assignment of a summary level within a 
+pattern (as specified in Sec.  430.208(e) of this chapter) or, for an 
+employee covered by subpart E of part 430 of this chapter, a summary 
+level specified in Sec.  430.505(a)(6) of this chapter. For an employee 
+not subject to 5 U.S.C. chapter 43, or part 430 of this chapter, it 
+means the officially designated performance rating, as provided for in 
+the agency's appraisal system, that is considered to be an equivalent 
+rating of record under the provisions of Sec.  430.201(c) or Sec.  
+430.501(b) of this chapter, as applicable.
+* * * * *
+
+Subpart E--Retention Standing
+
+0
+3. Amend Sec.  351.503 by:
+0
+a. In paragraph (a)(1), adding the words ``or the summary performance 
+levels in Sec.  430.505(a)(6) of this chapter'' after the words ``the 
+patterns of summary level in 5 CFR 430.208(e)''; and
+0
+b. Revising paragraphs (b)(2) and (3).
+    The revisions read as follows:
+
+
+Sec.  351.503  Performance.
+
+* * * * *
+    (b) * * *
+    (2) For competing employees who received ratings of record while 
+covered by part 430, subpart B or E, of this chapter, the summary 
+levels assigned for those ratings of record must be used to establish 
+the employee's performance credit in a reduction in force in accordance 
+with paragraph (a) of this section (as augmented by veterans' 
+preference in accordance with Sec.  351.504).
+    (3) For competing employees who received performance ratings while 
+not covered by the provisions of 5 U.S.C. chapter 43 and subpart B or E 
+of part 430 of this chapter, those performance ratings must be 
+considered ratings of record with summary levels for designating an 
+employee's performance credit in a reduction in force only when the 
+agency conducting the reduction in force determines, in its sole 
+discretion, that those performance ratings are equivalent to ratings of 
+record under the
+
+[[Page 65917]]
+
+provisions of Sec.  430.201(c) or Sec.  430.501(b) of this chapter, as 
+applicable.
+* * * * *
+
+PART 430--PERFORMANCE MANAGEMENT
+
+0
+4. The authority citation for part 430 continues to read as follows:
+
+    Authority:  5 U.S.C. 2301, chapter 43 and 5307(d).
+
+Subpart B--Performance Appraisal for General Schedule, Prevailing 
+Rate, and Certain Other Employees
+
+
+Sec.  430.201  [Amended]
+
+0
+5. Amend Sec.  430.201, in paragraph (c)(3), by removing ``Sec.  
+430.208(d)'' and adding in its place ``Sec.  430.208(e)''.
+
+0
+6. Amend Sec.  430.202 by revising paragraph (a)(2) to read as follows:
+
+
+Sec.  430.202  Coverage.
+
+    (a) * * *
+    (2) Section 4301(2) of title 5, United States Code, defines 
+employees covered by statute by this subpart. In addition to General 
+Schedule (GS/GM) employees, coverage includes, but is not limited to 
+prevailing rate employees, and excludes senior-level and scientific and 
+professional employees paid under 5 U.S.C. 5376.
+* * * * *
+
+0
+7. Amend Sec.  430.203 by revising the definitions of ``Performance 
+rating'' and ``Rating of record'' to read as follows:
+
+
+Sec.  430.203  Definitions.
+
+* * * * *
+    Performance rating means the written, or otherwise recorded, 
+appraisal of performance compared to the performance standard(s) for 
+each critical and non-critical element on which there has been an 
+opportunity to perform for the minimum period. A performance rating may 
+include the assignment of a summary level within a pattern (as 
+specified in Sec.  430.208(e)).
+* * * * *
+    Rating of record means the performance rating, which constitutes 
+the official rating of record referenced in this chapter, prepared--
+    (1) At the end of an appraisal period for performance of agency-
+assigned duties over the entire period, including the assignment of a 
+summary level within a pattern (as specified in Sec.  430.208(e)); or
+    (2) In accordance with Sec.  531.404(a)(1) of this chapter.
+* * * * *
+
+
+Sec.  430.204  [Amended]
+
+0
+8. Amend Sec.  430.204 by:
+0
+a. In paragraph (b)(3)(iii), removing ``Sec.  430.206(b)(7)(i)(A) and 
+(ii)(A)'' and adding in its place ``Sec.  430.206(b)(7), (b)(8)(i)(A), 
+and (b)(8)(ii)(A)''; and
+0
+b. In paragraph (b)(3)(iv), removing ``Sec.  430.208(d)'' and adding in 
+its place ``Sec.  430.208(e)''.
+
+Subpart C--Managing Senior Executive Performance
+
+0
+9. Amend Sec.  430.305 by revising paragraph (d) to read as follows:
+* * * * *
+    (d) OPM may establish, and refine as needed, a standardized 
+distribution of some or all SES rating levels which agencies must apply 
+when rating SES members, except that noncareer SES members may be 
+excluded from such standardized distribution requirements, as 
+determined by OPM.
+
+Subpart D--Performance Appraisal Certification for Pay Purposes
+
+0
+10. Amend Sec.  430.402 by revising the definitions of ``Appraisal 
+system'' and ``Performance expectations'' to read as follows:
+
+
+Sec.  430.402  Definitions.
+
+* * * * *
+    Appraisal system means the policies, practices, and procedures an 
+agency establishes under 5 U.S.C. chapter 43 and subparts C and E of 
+this part, or other applicable legal authority, for planning, 
+monitoring, developing, evaluating, and rewarding employee performance. 
+This includes performance management systems as defined at Sec.  
+430.303 and performance appraisal systems as defined at Sec.  430.503.
+* * * * *
+    Performance expectations means critical elements and performance 
+requirements that constitute the senior executive performance plans (as 
+defined in Sec.  430.303) established for senior executives, the 
+critical elements and performance requirements that constitute the 
+senior professional performance plans (as defined in Sec.  430.503) 
+established for senior professionals, or other appropriate means 
+authorized under performance appraisal systems not covered by 5 U.S.C. 
+chapter 43 for communicating what a senior employee is expected to do 
+and the manner in which he/she is expected to do it, and may include 
+contribution to agency performance, where appropriate.
+* * * * *
+
+0
+11. Amend Sec.  430.403 by revising paragraphs (b) through (d) to read 
+as follows:
+
+
+Sec.  430.403  System certification.
+
+* * * * *
+    (b) Except as provided in paragraph (c) of this section, agencies 
+subject to 5 U.S.C. chapter 43 and this part seeking certification of 
+their appraisal systems must submit systems that have been approved by 
+OPM under Sec.  430.314 or Sec.  430.514 as applicable. In some 
+agencies, the performance appraisal system(s) covers employees in many 
+organizations and/or components, and their ability to meet the 
+certification criteria in Sec.  430.404 may vary significantly. In such 
+cases, an agency may establish and/or submit separate performance 
+appraisal systems for each of these distinct organizations and/or 
+components to ensure timely certification of those performance 
+appraisal system(s) that meet the criteria. New appraisal systems 
+established under subpart C or E of this part, as applicable based on 
+the employees covered, must be approved by OPM.
+    (c) When an agency establishes a new appraisal system for the 
+purpose of seeking certification under this subpart, the agency may 
+submit that system for certification even if it has not yet been 
+approved by OPM under Sec.  430.314 or Sec.  430.514, as applicable. 
+OPM will certify, with OMB concurrence, only those systems that OPM 
+determines meet the approval requirements of subpart C or E of this 
+part, as applicable.
+    (d) An agency must establish an appraisal system(s), as defined in 
+Sec.  430.402, for its senior professionals that meets the requirements 
+of subpart E of this part, and is separate from the system(s) 
+established to cover its SES members under subpart C of this part. For 
+the purpose of certification under this subpart, such senior 
+professional appraisal system(s) must meet the certification criteria 
+set forth in Sec.  430.404.
+* * * * *
+
+0
+12. Amend Sec.  430.404 by revising paragraphs (a)(2), (5), (7), and 
+(8) to read as follows:
+
+
+Sec.  430.404  Certification criteria.
+
+    (a) * * *
+    (2) Consultation, so that the performance expectations for senior 
+employees meet the requirements of subparts C and E of this part, as 
+applicable, and/or other applicable legal authority; are developed with 
+the input and involvement of the individual senior employees who are 
+covered thereby; and are communicated to them at the beginning of the 
+applicable
+
+[[Page 65918]]
+
+appraisal period, and/or at appropriate times thereafter;
+* * * * *
+    (5) Appropriate assessments of the agency's performance--overall 
+and with respect to each of its particular missions, components, 
+programs, policy areas, and support functions--such as reports of the 
+agency's Government Performance and Results Act (GPRA) goals, annual 
+performance plans and targets, program performance measures, and other 
+appropriate indicators, as well as evaluation guidelines based, in 
+part, upon those assessments, that are communicated by the agency head, 
+or an individual specifically designated by the agency head for such 
+purpose, to senior employees, appropriate senior employee rating and 
+reviewing officials, and PRB members. These assessments and guidelines 
+are to be provided at the conclusion of the appraisal period but before 
+individual senior employee performance ratings are recommended, so that 
+they may serve as a basis for individual performance evaluations, as 
+appropriate. The guidance provided must conform to subpart C or E of 
+this part, as applicable;
+* * * * *
+    (7) Accountability, so that final agency head decisions and any PRB 
+recommendations regarding senior employee ratings consistent with 
+subparts C and E of this part, individually and overall, appropriately 
+reflect the employee's performance expectations, relevant program 
+performance measures, and such other relevant factors as the PRB may 
+find appropriate; in the case of supervisory senior employees, ratings 
+must reflect the degree to which performance standards, requirements, 
+or expectations for individual subordinate employees clearly link to 
+organizational mission, GPRA strategic goals, or other program or 
+policy objectives and take into account the degree of rigor in the 
+appraisal of their subordinate employees;
+    (8) Performance differentiation, so that the system(s) includes at 
+least one summary level of performance above fully successful, 
+including a summary level that reflects outstanding performance, as 
+defined in Sec.  430.402, and so that its annual administration results 
+in meaningful distinctions based on relative performance that take into 
+account the assessment of the agency's performance against relevant 
+program performance measures, as described in paragraph (a)(6) of this 
+section, employee performance expectations, and such other relevant 
+factors as may be appropriate. For equivalent systems that do not use 
+summary ratings, the performance appraisal system must provide for 
+clear differentiation of performance at the outstanding level; and
+* * * * *
+
+0
+13. Amend Sec.  430.405 by revising paragraphs (b)(1)(iii)(B) and (C) 
+and (h)(2) to read as follows:
+
+
+Sec.  430.405  Procedures for certifying agency appraisal systems.
+
+* * * * *
+    (b) * * *
+    (1) * * *
+    (iii) * * *
+    (B) For the agency's senior professionals covered by subpart E of 
+this part, five summary levels--an outstanding level, a fully 
+successful level, a level between outstanding and fully successful, an 
+unacceptable level, and a level between fully successful and 
+unacceptable; and
+    (C) For agencies not subject to subparts C and E of this part, a 
+summary rating level that reflects outstanding performance or a 
+methodology that clearly differentiates outstanding performance, as 
+defined in Sec.  430.402;
+* * * * *
+    (h) * * *
+    (2) An agency's system certification is automatically suspended 
+when OPM withdraws performance appraisal system approval or mandates 
+corrective action because of misapplication of the system as authorized 
+under Sec. Sec.  430.314(c), 430.403(e), and 430.514(c).
+* * * * *
+
+0
+14. Add subpart E to read as follows:
+Subpart E--Managing Senior Professional Performance
+Sec.
+430.501 General.
+430.502 Coverage.
+430.503 Definitions.
+430.504 Senior professional performance appraisal systems.
+430.505 System standards for senior professional performance 
+appraisal systems.
+430.506 Planning and communicating performance.
+430.507 Monitoring performance.
+430.508 Appraising performance.
+430.509 Rating performance.
+430.510 Details and job changes.
+430.511 Performance Review Boards (PRBs).
+430.512 Using performance results.
+430.513 Training and evaluation.
+430.514 OPM review of agency systems.
+
+
+Sec.  430.501  General.
+
+    (a) Statutory authority. Chapter 43 of title 5, United States Code, 
+provides for the establishment of agency performance appraisal systems 
+and requires the Office of Personnel Management (OPM) to prescribe 
+regulations governing such systems. The regulations in this subpart in 
+combination with statute set forth the requirements for managing the 
+performance for senior-level (SL) positions classified above GS-15 
+pursuant to 5 U.S.C. 5108 and scientific or professional (ST) positions 
+established under 5 U.S.C. 3104, and which are compensated under 5 
+U.S.C. 5376.
+    (b) Equivalent ratings of record. (1) If an agency has 
+administratively adopted and applied the procedures of this subpart to 
+evaluate the performance of its employees, the ratings of record 
+resulting from that evaluation are considered ratings of record for 
+reduction in force purposes.
+    (2) Other performance evaluations given while an employee is not 
+covered by the provisions of this subpart are considered ratings of 
+record for reduction in force purposes when the performance 
+evaluation--
+    (i) Was issued as an officially designated evaluation under the 
+employing agency's performance evaluation system;
+    (ii) Was derived from the appraisal of performance against 
+expectations that are established and communicated in advance and are 
+work related; and
+    (iii) Identified whether the employee performed acceptably.
+    (3) When the performance evaluation does not include five summary 
+levels comparable to those established at Sec.  430.505(a)(6), the 
+agency may identify a level based on information related to the 
+appraisal process.
+
+
+Sec.  430.502  Coverage.
+
+    (a) Covered positions. This subpart applies to the following types 
+of positions:
+    (1) Senior-level (SL) positions classified above GS-15 pursuant to 
+5 U.S.C. 5108 and paid under 5 U.S.C. 5376; and
+    (2) Scientific or professional (ST) positions established under 5 
+U.S.C. 3104 and paid under 5 U.S.C. 5376.
+    (b) Administrative exclusions. OPM may exclude any position or 
+group of positions in the excepted service under the authority of 5 
+U.S.C. 4301(2)(G). Excepted service positions for which employment is 
+not reasonably expected to exceed the minimum period established under 
+Sec.  430.504(b)(4) in a consecutive 12-month period are not subject to 
+this subpart.
+
+
+Sec.  430.503  Definitions.
+
+    In this subpart--
+    Agency means--
+
+[[Page 65919]]
+
+    (1) An Executive agency as defined in 5 U.S.C. 105;
+    (2) Any other entity that is not part of an Executive agency and 
+for which OPM has approved establishment of one or more scientific or 
+professional positions under 5 U.S.C. 3104.
+    Appraisal period means the established period of time for which a 
+senior professional's performance will be appraised and rated.
+    Approving official means an agency designated official with 
+authority to make SL or ST appointments and who assigns the rating of 
+record.
+    Critical element means a key component of a senior professional's 
+work that contributes to organizational goals and results and is so 
+important that unacceptable performance on the element would make the 
+senior professional's overall job performance unacceptable.
+    Initial summary rating means an overall rating level the rating 
+official derives, from appraising the senior professional's performance 
+during the appraisal period in relation to the critical elements and 
+performance standards and requirements, and forwards to the Performance 
+Review Board as the recommended rating of record.
+    Oversight official means the agency head or the individual 
+specifically designated by the agency head who provides oversight of 
+the performance management system and issues performance appraisal 
+guidelines.
+    Performance means the accomplishment of the work described in the 
+senior professional's performance plan.
+    Performance appraisal means the review and evaluation of a senior 
+professional's performance against critical elements and performance 
+standards and requirements.
+    Performance appraisal system means the policies, practices, and 
+procedures an agency establishes under 5 U.S.C. chapter 43 and this 
+subpart, or other applicable legal authority, for planning, monitoring, 
+developing, evaluating, and rewarding employee performance.
+    Performance rating means the written, or otherwise recorded, 
+appraisal of performance compared to the performance standard(s) for 
+each critical element on which there has been an opportunity to perform 
+for the minimum period. A performance rating may include the assignment 
+of a numerical summary performance level.
+    Performance requirement means a description of what a senior 
+professional must accomplish, or the competencies demonstrated, for a 
+critical element. A performance requirement establishes the criteria to 
+be met to be rated at a specific level of performance and generally 
+includes quality, quantity, timeliness, cost savings, manner of 
+performance, or other factors.
+    Performance standard means a normative description of a single 
+level of performance within five such described levels of performance 
+ranging from unacceptable performance to outstanding performance. 
+Performance standards provide the benchmarks for developing performance 
+requirements against which actual performance will be assessed.
+    PRB means Performance Review Board, which for the purposes of this 
+subpart includes a PRB established under Sec.  430.311 or an equivalent 
+body, as described in Sec.  430.511.
+    Progress review means a review of the senior professional's 
+progress in meeting the performance requirements. A progress review is 
+not a performance rating.
+    Rating official means the official, generally the supervisor of the 
+senior professional, who develops the initial summary rating and 
+forwards it to the Performance Review Board, as the recommended rating 
+of record.
+    Rating of record means the final official performance rating at the 
+end of an appraisal period for performance of agency-assigned duties 
+over the entire period after the initial summary rating has been 
+reviewed and approved by the approving official.
+    Senior professional means an employee in a senior-level (SL) or 
+scientific or professional position (ST) paid under 5 U.S.C. 5376.
+    Senior professional performance plan means the written critical 
+elements and performance requirements against which performance will be 
+evaluated during the appraisal period by applying the established 
+performance standards. The plan includes all critical elements, 
+performance standards, and performance requirements, including any 
+specific goals, targets, competencies, objectives, or other measures 
+established for the senior professional.
+    Strategic planning initiatives means agency strategic plans as 
+required by the GPRA Modernization Act of 2010, annual performance 
+plans, organizational work plans, and other related initiatives.
+
+
+Sec.  430.504  Senior professional performance appraisal systems.
+
+    (a) Each agency must develop and administer one or more performance 
+appraisal systems for its senior professionals in accordance with the 
+system standards established in Sec.  430.505.
+    (b) Performance appraisal systems must provide for--
+    (1) Identifying employees covered by the system;
+    (2) Monitoring progress in accomplishing critical elements and 
+performance requirements and conducting progress reviews at least 
+quarterly during the appraisal period, including informing senior 
+professionals on how well they are performing;
+    (3) Establishing an official performance appraisal period for which 
+a rating of record must be prepared;
+    (4) Establishing a minimum appraisal period of at least 90 days;
+    (5) Establishing criteria and procedures to address performance of 
+senior professionals who are on detail, temporarily reassigned, or 
+transferred as described at Sec.  430.510, and for other special 
+circumstances established by the agency.
+
+
+Sec.  430.505  System standards for senior professional performance 
+appraisal systems.
+
+    (a) Each agency performance appraisal system must incorporate the 
+following system standards:
+    (1) Use critical elements to evaluate the quality of the senior 
+professional's job performance for the designated appraisal period;
+    (2) Align performance requirements with agency mission and 
+strategic planning initiatives;
+    (3) Define performance standards for each of the summary rating 
+performance levels, which also may be used for the individual elements 
+or performance requirements being appraised;
+    (4) Appraise each senior professional's performance at least 
+annually against performance requirements based on established 
+performance standards and other measures;
+    (5) Derive a rating of record through a mathematical method that 
+ensures the senior professional's performance aligns with level 
+descriptors contained in performance standards that clearly 
+differentiate levels above fully successful;
+    (6) Establish five summary performance levels. Level 1 through 
+Level 5 are ordered categories, with Level 1 as the lowest and Level 5 
+as the highest, as follows:
+    (i) An outstanding level (Level 5);
+    (ii) An exceeds fully successful level (Level 4);
+    (iii) A fully successful level (Level 3);
+    (iv) A minimally satisfactory level (Level 2); and
+
+[[Page 65920]]
+
+    (v) An unacceptable level (Level 1);
+    (7) Include equivalency statements in the system description for 
+agency-specific terms for the five summary performance levels aligning 
+them with the five performance levels required in paragraph (a)(6) of 
+this section; and
+    (8) Use performance appraisals as a basis to adjust pay, reward, 
+retain, and develop senior professionals or make other personnel 
+decisions, including removals as described in Sec.  430.512.
+    (b) An agency must develop and implement a performance appraisal 
+system for its senior professionals in accordance with the requirements 
+of this section and applicable OPM guidance.
+    (c) OPM may establish, and refine as needed, a governmentwide 
+performance management system incorporating all requirements of this 
+section for agencies to adopt, with limited adaptation, for performance 
+appraisal of its senior professionals.
+    (d) OPM may establish, and refine as needed, a standardized 
+distribution of some or all rating levels for senior professionals 
+which agencies must apply when rating senior professionals, except that 
+senior professionals appointed under Schedules C or G in the excepted 
+service may be excluded from such standardized distribution 
+requirements, as determined by OPM.
+
+
+Sec.  430.506  Planning and communicating performance.
+
+    (a) Each senior professional must have a performance plan that 
+describes the individual and organizational expectations for the 
+appraisal period that clearly fall within the senior professional's 
+area of responsibility and control.
+    (b) Rating officials must develop performance plans in consultation 
+with senior professionals and communicate the plans to them in writing, 
+including through the use of automated systems, on or before the 
+beginning of the appraisal period, or upon appointment to a new SL or 
+ST position.
+    (c) A senior professional performance plan must include--
+    (1) Critical elements. Critical elements must reflect individual 
+performance results or competencies as well as organizational 
+performance priorities within each senior professional's respective 
+area of responsibility and control.
+    (2) Performance standards. Performance plans must include the 
+performance standards describing each level of performance at which a 
+senior professional's performance can be appraised. Performance 
+standards describe the general expectations that must be met to be 
+rated at each level of performance and provide the benchmarks for 
+developing performance requirements.
+    (3) Performance requirements. At a minimum, performance 
+requirements must describe expected accomplishments or demonstrated 
+competencies for fully successful performance by the senior 
+professional. An agency may establish performance requirements 
+associated with other levels of performance as well. These performance 
+requirements must align with agency mission and strategic planning 
+initiatives. Performance requirements must contain measures of the 
+quality, quantity, timeliness, cost savings, or manner of performance, 
+as appropriate, expected for the applicable level of performance.
+    (d) Agencies may require a review of senior professional 
+performance plans at the beginning of the appraisal period to ensure 
+consistency of agency-specific performance requirements. Such reviews 
+may be performed by the PRB or another body of the agency's choosing.
+
+
+Sec.  430.507  Monitoring performance.
+
+    Rating officials must monitor each senior professional's 
+performance throughout the appraisal period and hold at least quarterly 
+progress reviews. At a minimum, rating officials must inform senior 
+professionals during the progress review about how well they are 
+performing with regard to their performance plan. Rating officials must 
+provide advice and assistance to senior professionals on how to improve 
+their performance. Rating officials and senior professionals may also 
+discuss available development opportunities for the senior 
+professional.
+
+
+Sec.  430.508  Appraising performance.
+
+    (a) Agencies must establish appropriate timelines for communicating 
+performance plans, conducting appraisals, and assigning and 
+communicating ratings of record.
+    (b) At least annually, agencies must appraise each senior 
+professional's performance in writing, including through the use of 
+automated systems, and assign a rating of record at the end of the 
+appraisal period.
+    (c) Agencies must appraise a senior professional's performance on 
+the critical elements and performance requirements in the senior 
+professional's performance plan.
+    (d) Agencies must base appraisals of senior professional 
+performance on both individual and organizational performance as it 
+applies to the senior professional's area of responsibility and 
+control, taking into account factors such as--
+    (1) Results achieved in accordance with agency mission and 
+strategic planning initiatives;
+    (2) Overall quality of performance rendered by the senior 
+professional;
+    (3) Performance appraisal guidelines that must be based upon 
+assessments of the agency's performance and are provided by the 
+oversight official to senior professionals, rating and reviewing 
+officials, PRB members, and approving officials at the conclusion of 
+the appraisal period and before completion of the initial summary 
+ratings;
+    (4) Customer perspectives; and
+    (5) Compliance with the merit system principles set forth under 5 
+U.S.C. 2301.
+
+
+Sec.  430.509  Rating performance.
+
+    (a) For agencies employing ten or more senior professionals, when 
+rating senior professional performance, each agency must use its 
+agency-level PRB, as described at Sec.  430.511 to fulfill the 
+requirements of centralized review under part 534, subpart E, of this 
+chapter.
+    (b) The rating of record or performance rating for a disabled 
+veteran shall not be lowered because the veteran has been absent from 
+work to seek medical treatment as provided in Executive Order 5396.
+    (c) Each rating of record shall cover a specified appraisal period. 
+Agencies are prohibited from carrying over a rating of record prepared 
+for a previous appraisal period as the rating of record for a 
+subsequent appraisal period(s) without an actual evaluation of the 
+employee's performance during the subsequent appraisal period.
+    (d) When a rating of record cannot be prepared at the time 
+specified, the appraisal period must be extended. Once the conditions 
+necessary to complete a rating of record have been met, a rating of 
+record must be prepared as soon as practicable.
+    (e) Senior professional performance appraisals and ratings are not 
+appealable, beyond what is otherwise provided under applicable law or 
+regulation.
+    (f) Procedures for rating senior professionals must provide for the 
+following:
+    (1) Initial summary rating. The rating official must develop an 
+initial summary rating of the senior professional's performance, in 
+writing, including through the use of automated systems, and share that 
+rating with the senior professional. The senior professional may 
+respond in writing.
+    (2) Higher-level review (HLR). A senior professional may ask for a 
+higher-
+
+[[Page 65921]]
+
+level official to review the initial summary rating before the rating 
+is given to the PRB. The agency must provide each senior professional 
+an opportunity for review of the initial summary rating by an employee, 
+or (with the consent of the senior professional) a commissioned officer 
+in the uniformed services on active duty in the agency, in a higher 
+level in the agency than the rating official who issued the initial 
+summary rating.
+    (i) A single review by an official at a higher level who did not 
+participate in determining the senior professional's initial summary 
+rating will satisfy this requirement. An official providing HLR may not 
+change the initial summary rating but may recommend a different rating 
+to the PRB. HLR may be provided by an official who is at a higher level 
+in the agency than the approving official who will approve the final 
+rating under paragraph (f)(4) of this section.
+    (ii) When an agency cannot provide review by a higher-level 
+official for a senior professional who receives an initial summary 
+rating from the agency head because no such official exists in the 
+agency, the agency must offer an alternative review as it determines 
+appropriate, except that the review may not be provided by a member of 
+the PRB or an official who participated in determining the initial 
+summary rating.
+    (iii) If a senior professional declines review by agency-designated 
+higher-level officials, the agency may offer an alternative review but 
+is not obligated to do so. The agency must document the senior 
+professional's declination of the HLR opportunity provided by the 
+agency before offering an alternative review.
+    (iv) Copies of findings and recommendations of the HLR official or 
+the official performing an alternative review under paragraph 
+(f)(2)(ii) through (iii) of this section must be given to the senior 
+professional, the rating official, and the PRB.
+    (3) PRB review. For agencies with ten or more senior professionals, 
+the agency-level PRB must receive and review the initial summary 
+rating, the senior professional's response to the initial rating if 
+made, and findings and recommendations of any HLR or any alternative 
+review under paragraph (f)(2) of this section before making 
+recommendations to the approving official, as provided in Sec.  430.511 
+and consistent with the requirements in part 534, subpart E, of this 
+chapter pertaining to centralized review. Centralized review is not 
+required for agencies employing fewer than ten senior professionals.
+    (4) Rating of record. The approving official must assign the rating 
+of record of the senior professional's performance after considering 
+the applicable PRB's recommendations. This rating is the official final 
+rating for the appraisal period and must be communicated to the senior 
+professional in writing, including through the use of automated 
+systems, in accordance with the timelines developed under Sec.  
+430.508(a).
+    (g) A performance rating may be prepared at such other times as may 
+be necessary, such as for special circumstances including, but not 
+limited to, transfers and performance on details.
+
+
+Sec.  430.510  Details and job changes.
+
+    (a) When a senior professional is detailed or temporarily 
+reassigned for 120 days or longer, the gaining organization must set 
+performance goals and requirements for the detail or temporary 
+assignment. The gaining organization must appraise the senior 
+professional's performance in writing, including through the use of 
+automated systems, and the rating official must consider this appraisal 
+when deriving the initial summary rating.
+    (b) When a senior professional is reassigned or transferred to 
+another agency after completing the minimum appraisal period, the 
+rating official must appraise the senior professional's performance in 
+writing, including through the use of automated systems, before the 
+senior professional leaves and provide this information to the senior 
+professional.
+    (c) The most recent rating of record and any subsequent appraisals 
+must be transferred to the gaining agency or organization. The gaining 
+rating official must consider the rating and appraisals when deriving 
+the initial summary rating at the end of the appraisal period.
+
+
+Sec.  430.511  Performance Review Boards (PRBs).
+
+    Each agency that employs ten or more senior professionals must use 
+its agency-level PRB established under Sec.  430.311, or an equivalent 
+body if the agency is not subject to the SES, to make written 
+recommendations to the approving official on ratings of record, 
+performance awards, and pay adjustments regarding senior professionals. 
+The agency-level PRB or equivalent body will be responsible for 
+fulfilling all requirements of centralized review found in part 534, 
+subpart E, of this chapter.
+
+
+Sec.  430.512  Using performance results.
+
+    (a) Agencies must use performance appraisals as a basis for 
+adjusting pay, granting awards, retaining senior professionals, and 
+making other personnel decisions. Performance appraisals must be a 
+factor in assessing a senior professional's continuing development 
+needs.
+    (b) Agencies must provide appropriate incentives and recognition 
+(including pay adjustments under subpart E of part 534 of this chapter 
+and performance awards under part 451, subpart A, of this chapter) for 
+excellence in performance.
+    (c) A senior professional may be suspended, demoted, or removed 
+from the civil service for unacceptable performance, subject to the 
+provisions of 5 U.S.C. 4303, 7503, and 7513.
+
+
+Sec.  430.513  Training and evaluation.
+
+    (a) To assure effective implementation of agency performance 
+appraisal systems, agencies must provide appropriate information and 
+training to agency leadership, rating officials, and senior 
+professionals on performance management, including planning and 
+appraising performance.
+    (b) Agencies must periodically evaluate the effectiveness of their 
+performance appraisal system(s) and implement improvements as needed. 
+Evaluations must provide for both assessment of effectiveness and 
+compliance with relevant laws, OPM regulations, and OPM performance 
+management policy.
+    (c) Agencies must maintain all performance-related records for no 
+fewer than 4 years from the date the rating of record is issued, as 
+required in Sec.  293.404(a)(1) of this chapter.
+
+
+Sec.  430.514  OPM review of agency systems.
+
+    (a) Agencies must submit proposed senior professional performance 
+appraisal systems to OPM for approval. Agency systems must address the 
+system standards and requirements specified in this subpart.
+    (b) OPM will review agency systems for compliance with the 
+requirements of law, OPM regulations, and OPM performance management 
+policy, including the system standards specified at Sec.  430.505.
+    (c) If OPM finds that an agency system does not meet the 
+requirements and intent of subchapter I of chapter 43 of title 5, 
+United States Code, or of this subpart, OPM will identify the 
+requirements that were not met and direct the agency to take corrective 
+action, and the agency must comply.
+
+PART 451--AWARDS
+
+0
+15. The authority citation for part 451 continues to read as follows:
+
+
+[[Page 65922]]
+
+
+    Authority: 5 U.S.C. 4302, 4501-4509; E.O. 11438, 33 FR 18085, 3 
+CFR, 1966-1970 Comp., p. 755; E.O. 12828, 58 FR 2965, 3 CFR, 1993 
+Comp., p. 569.
+
+Subpart A--Agency Awards
+
+0
+16. Amend Sec.  451.103 by revising paragraph (c)(2) to read as 
+follows:
+
+
+Sec.  451.103  Agency award program(s).
+
+* * * * *
+    (c) * * *
+    (2) Documenting justification for awards that are not based on a 
+rating of record (as defined in Sec. Sec.  430.203 and 430.503 of this 
+chapter).
+
+0
+17. Amend Sec.  451.104 by revising paragraph (a)(3) to read as 
+follows:
+
+
+Sec.  451.104  Awards.
+
+    (a) * * *
+    (3) Performance as reflected in the employee's most recent rating 
+of record (as defined in Sec. Sec.  430.203 and 430.503 of this 
+chapter), provided that the rating of record is at the fully successful 
+level (or equivalent) or above, except that performance awards may be 
+paid to SES members only under Sec.  534.405 of this chapter and not on 
+the basis of this subpart.
+* * * * *
+
+PART 534--PAY UNDER OTHER SYSTEMS
+
+0
+18. The authority citation for part 534 is revised to read as follows:
+
+    Authority:  5 U.S.C. 1104, 3161(d), 5304, 5307, 5351, 5352, 
+5353, 5376, 5382, 5383, 5384, 5385, 5541, 5550a, 7302; 18 U.S.C. 
+207.
+
+Subpart D--Pay and Performance Awards Under the Senior Executive 
+Service
+
+0
+19. Amend Sec.  534.402 by revising the definition for ``PRB'' to read 
+as follows:
+
+
+Sec.  534.402  Definitions.
+
+* * * * *
+    PRB means Performance Review Board, as described in Sec.  430.311 
+of this chapter.
+* * * * *
+
+Subpart E--Pay for Senior-Level and Scientific or Professional 
+Positions
+
+0
+20. Amend Sec.  534.503 by revising the definitions for ``Performance 
+appraisal system'', ``Performance rating'', and ``Rating of record'' to 
+read as follows:
+
+
+Sec.  534.503  Definitions.
+
+* * * * *
+    Performance appraisal system means the framework of policies, 
+practices, and procedures an agency establishes under subchapter I of 
+chapter 43 of title 5, United States Code, subpart A of this part, and 
+this subpart for planning, monitoring, developing, evaluating, and 
+rewarding both individual and organizational performance and for using 
+resulting performance information in making personnel decisions.
+* * * * *
+    Performance rating means the written, or otherwise recorded, 
+appraisal of performance compared to the SL or ST employee's 
+performance standard(s) for each critical element on which there has 
+been an opportunity to perform for a minimum of 90 days. A performance 
+rating may include the assignment of a summary level.
+* * * * *
+    Rating of record means the performance rating prepared at the end 
+of an appraisal period for performance of agency-assigned duties over 
+the entire period and the assignment of a summary level that has been 
+reviewed and approved in accordance with Sec.  534.505(a).
+* * * * *
+
+0
+21. Amend Sec.  534.505 by revising and republishing paragraph (a)(5) 
+introductory text to read as follows:
+
+
+Sec.  534.505  Written procedures.
+
+    (a) * * *
+    (5) The administrative and management controls that will be applied 
+to assure compliance with applicable statutes, OPM regulations, the 
+agency's written procedures established under this section, the 
+applicable maximum rate of basic pay in Sec.  534.504(a), and, where 
+applicable, the certification requirements set forth in part 430, 
+subpart D, of this chapter. In an agency that employs ten or more 
+senior professionals, these controls must include centralized review of 
+ratings proposed under Sec.  430.509 of this chapter and pay actions 
+proposed under Sec.  534.507 by a panel of individuals designated by 
+the agency head to provide advice from an agency-wide perspective for 
+authorized agency officials to consider before approving pay 
+adjustments on whether--
+* * * * *
+
+0
+22. Amend Sec.  534.507 by revising paragraphs (c)(2), (f), and (h) to 
+read as follows:
+
+
+Sec.  534.507  Annual increases in basic pay.
+
+* * * * *
+    (c) * * *
+    (2) A performance rating that covers a period of at least 90 days 
+and is assigned in accordance with subpart E of part 430 of this 
+chapter and the centralized review required by Sec.  534.505(a)(5), but 
+only if a rating of record is not available or does not reflect current 
+performance.
+* * * * *
+    (f) Except as required by paragraph (g) of this section, a pay 
+increase under this section may not be provided to an employee--
+    (1) Who has a current rating of record below Level 3 (Fully 
+Successful or equivalent), as described in Sec.  430.505(a)(6) of this 
+chapter; or
+    (2) Who, after receiving a rating of record at Level 3 or above, 
+receives a more recent performance rating as defined at Sec.  430.503 
+of this chapter that rates performance in a critical element at a level 
+below Level 3 (Fully Successful).
+* * * * *
+    (h)(1) If the rates of basic pay under the General Schedule are 
+increased under 5 U.S.C. 5303 on the date specified in paragraph (a)(1) 
+of this section and the agency head decides upon a zero adjustment for 
+an SL or ST employee who has a current rating of record or applicable 
+performance rating at Level 3 or above, the agency must communicate the 
+reasons for that decision to the employee in writing.
+    (2) Paragraph (h)(1) of this section does not apply to a senior 
+professional with a rate of basic pay described in Sec.  534.505(c)(1) 
+unless--
+    (i) The rates of basic pay for the Executive Schedule are also 
+increased on the date specified in paragraph (a)(1) of this section; 
+and
+    (ii) The senior professional has a current rating of record or 
+applicable performance rating at Level 5.
+    (3) Paragraphs (h)(1) and (2) of this section may not be construed 
+to require a pay increase for any senior professional employee.
+
+PART 537--REPAYMENT OF STUDENT LOANS
+
+0
+23. The authority citation for part 537 is revised to read as follows:
+
+    Authority:  5 U.S.C. 2301, 2302, and 5379(g). E.O. 11478, 3 CFR 
+1966-1970 Comp., p. 803, unless otherwise noted; E.O. 13087, 63 FR 
+30097, 3 CFR 1998 Comp., p. 191; and E.O. 13152, 65 FR 26115, 3 CFR 
+2000 Comp., p. 264.
+
+
+0
+24. Amend Sec.  537.108 by revising paragraph (b) to read as follows:
+
+
+Sec.  537.108  Loss of eligibility for student loan repayment benefits.
+
+* * * * *
+    (b) For the purpose of applying paragraph (a)(2) of this section, 
+an acceptable level of performance is one that is equivalent to level 3 
+(``Fully Successful'' or equivalent) or higher, as described in Sec.  
+430.208(e) or
+
+[[Page 65923]]
+
+Sec.  430.505(a)(6) of this chapter, as applicable. An employee loses 
+eligibility for student loan repayment benefits if his or her most 
+recent official performance evaluation does not meet this requirement.
+
+PART 630--ABSENCE AND LEAVE
+
+0
+25. The authority citation for part 630 continues to read as follows:
+
+    Authority: Subparts A through E issued under 5 U.S.C. 6133(a) 
+(read with 5 U.S.C. 6129), 6303(e) and (f), 6304(d)(2), 6306(b), 
+6308(a) and 6311; subpart F issued under 5 U.S.C. 6305(a) and 6311 
+and E.O. 11228, 30 FR 7739, 3 CFR, 1974 Comp., p. 163; subpart G 
+issued under 5 U.S.C. 6305(c) and 6311; subpart H issued under 5 
+U.S.C. 6133(a) (read with 5 U.S.C. 6129) and 6326(b); subpart I 
+issued under 5 U.S.C. 6332, 6334(c), 6336(a)(1) and (d), and 6340; 
+subpart J issued under 5 U.S.C. 6340, 6363, 6365(d), 6367(e), 
+6373(a); subpart K issued under 5 U.S.C. 6391(g); subpart L issued 
+under 5 U.S.C. 6383(f) and 6387; subpart M issued under Sec. 2(d), 
+Pub. L. 114-75, 129 Stat. 641 (5 U.S.C. 6329 note); subpart N issued 
+under 5 U.S.C. 6329a(c); subpart O issued under 5 U.S.C. 6329b(h); 
+and subpart P issued under 5 U.S.C. 6329c(d).
+
+Subpart C--Annual Leave
+
+0
+26. Amend Sec.  630.301 by revising paragraph (b)(3) to read as 
+follows:
+
+
+Sec.  630.301  Annual leave accrual and accumulation--Senior Executive 
+Service, Senior-Level, and Scientific and Professional Employees.
+
+* * * * *
+    (b) * * *
+    (3) Covered positions are subject to a performance appraisal system 
+established under 5 U.S.C. chapter 43 and 5 CFR part 430, subpart B, C, 
+or E or other applicable legal authority, for planning, monitoring, 
+developing, evaluating, and rewarding employee performance.
+* * * * *
+
+PART 894--FEDERAL EMPLOYEES DENTAL AND VISION INSURANCE PROGRAM
+
+0
+27. The authority citation for part 894 is revised to read as follows:
+
+    Authority:  5 U.S.C. 8962; 5 U.S.C. 8992. Subpart C also issued 
+under 2 U.S.C. 2051. Sec. 894.601(b) also issued under sec. 1111, 
+Pub. L. 116-92, 133 Stat. 1600 (5 U.S.C. 8956 note).
+
+Subpart C--Eligibility
+
+0
+28. Amend Sec.  894.302 by revising paragraph (k)(1) to read as 
+follows:
+
+
+Sec.  894.302  What is an excluded position?
+
+* * * * *
+    (k) * * *
+    (1) An employee appointed to perform ``part-time career 
+employment,'' as defined in 5 U.S.C. 3401(2) and 5 CFR part 340, 
+subpart B; or
+* * * * *
+
+PART 1330--HUMAN RESOURCES MANAGEMENT
+
+0
+29. The authority citation for part 1330 continues to read as follows:
+
+    Authority:  5 U.S.C. 5307(d).
+
+Subpart D--Performance Appraisal Certification for Pay Purposes
+
+0
+30. Amend Sec.  1330.402 by revising the definitions of ``Appraisal 
+system'' and ``Performance expectations'' to read as follows:
+
+
+Sec.  1330.402  Definitions.
+
+* * * * *
+    Appraisal system means the policies, practices, and procedures an 
+agency establishes under 5 U.S.C. chapter 43 and 5 CFR part 430, 
+subparts C and E, or other applicable legal authority, for planning, 
+monitoring, developing, evaluating, and rewarding employee performance. 
+This includes performance management systems as defined at Sec.  
+430.303 and performance appraisal systems as defined at Sec.  430.503.
+* * * * *
+    Performance expectations means critical elements and performance 
+requirements that constitute the senior executive performance plans (as 
+defined in 5 CFR 430.303) established for senior executives, the 
+critical elements and performance requirements that constitute the 
+senior professional performance plans (as defined in 5 CFR 430.503) 
+established for senior professionals, or other appropriate means 
+authorized under performance appraisal systems not covered by 5 U.S.C. 
+chapter 43 for communicating what a senior employee is expected to do 
+and the manner in which he/she is expected to do it, and may include 
+contribution to agency performance, where appropriate.
+* * * * *
+
+0
+31. Amend Sec.  1330.403 by revising paragraphs (b) through (d) to read 
+as follows:
+
+
+Sec.  1330.403  System certification.
+
+* * * * *
+    (b) Except as provided in paragraph (c) of this section, agencies 
+subject to 5 U.S.C. chapter 43 and 5 CFR part 430 seeking certification 
+of their appraisal systems must submit systems that have been approved 
+by OPM under 5 CFR 430.314 or 430.514, as applicable. In some agencies, 
+the performance appraisal system(s) covers employees in many 
+organizations and/or components, and their ability to meet the 
+certification criteria in Sec.  1330.404 may vary significantly. In 
+such cases, an agency may establish and/or submit separate performance 
+appraisal systems for each of these distinct organizations and/or 
+components to ensure timely certification of those performance 
+appraisal system(s) that meet the criteria. New appraisal systems 
+established under 5 CFR part 430, subpart C or E, as applicable based 
+on the employees covered, must be approved by OPM.
+    (c) When an agency establishes a new performance appraisal system 
+for the purpose of seeking certification under this subpart, the agency 
+may submit that system for certification even if it has not yet been 
+approved by OPM under 5 CFR 430.314 or 430.514, as applicable. OPM will 
+certify, with OMB concurrence, only those systems that OPM determines 
+meet the approval requirements of 5 CFR part 430, subpart C or E, as 
+applicable.
+    (d) An agency must establish an appraisal system(s), as defined in 
+Sec.  1330.402, for its senior professionals that meets the 
+requirements of 5 CFR part 430, subpart E, and is separate from the 
+system(s) established to cover its SES members under 5 CFR part 430, 
+subpart C. For the purpose of certification under this subpart, such 
+senior professional appraisal system(s) must meet the certification 
+criteria set forth in Sec.  1330.404.
+* * * * *
+
+0
+32. Amend Sec.  1330.404 by revising paragraphs (a)(2), (5), (7), and 
+(8) to read as follows:
+
+
+Sec.  1330.404  Certification criteria.
+
+    (a) * * *
+    (2) Consultation, so that the performance expectations for senior 
+employees meet the requirements of 5 CFR part 430, subparts C and E, as 
+applicable, and/or other applicable legal authority; are developed with 
+the input and involvement of the individual senior employees who are 
+covered thereby; and are communicated to them at the beginning of the 
+applicable appraisal period, and/or at appropriate times thereafter;
+* * * * *
+    (5) Appropriate assessments of the agency's performance--overall 
+and with respect to each of its particular missions, components, 
+programs, policy areas, and support functions--such as reports of the 
+agency's GPRA goals, annual performance plans and targets,
+
+[[Page 65924]]
+
+program performance measures, and other appropriate indicators, as well 
+as evaluation guidelines based, in part, upon those assessments, that 
+are communicated by the agency head, or an individual specifically 
+designated by the agency head for such purpose, to senior employees, 
+appropriate senior employee rating and reviewing officials, and PRB 
+members. These assessments and guidelines are to be provided at the 
+conclusion of the appraisal period but before individual senior 
+employee performance ratings are recommended, so that they may serve as 
+a basis for individual performance evaluations, as appropriate. The 
+guidance provided must conform to 5 CFR part 430, subpart C or E, as 
+applicable;
+* * * * *
+    (7) Accountability, so that final agency head decisions and any PRB 
+recommendations regarding senior employee ratings consistent with 5 CFR 
+part 430, subparts C and E, individually and overall, appropriately 
+reflect the employee's performance expectations, relevant program 
+performance measures, and such other relevant factors as the PRB may 
+find appropriate; in the case of supervisory senior employees, ratings 
+must reflect the degree to which performance standards, requirements, 
+or expectations for individual subordinate employees clearly link to 
+organizational mission, GPRA strategic goals, or other program or 
+policy objectives and take into account the degree of rigor in the 
+appraisal of their subordinate employees;
+    (8) Performance differentiation, so that the system(s) includes at 
+least one summary level of performance above fully successful, 
+including a summary level that reflects outstanding performance, as 
+defined in Sec.  1330.402, and so that its annual administration 
+results in meaningful distinctions based on relative performance that 
+take into account the assessment of the agency's performance against 
+relevant program performance measures, as described in paragraph (a)(6) 
+of this section, employee performance expectations, and such other 
+relevant factors as may be appropriate. For equivalent systems that do 
+not use summary ratings, the appraisal system must provide for clear 
+differentiation of performance at the outstanding level; and
+* * * * *
+
+0
+33. Amend Sec.  1330.405 by revising paragraphs (b)(1)(iii)(B) and (C) 
+and (h)(2) to read as follows:
+
+
+Sec.  1330.405  Procedures for certifying agency appraisal systems.
+
+* * * * *
+    (b) * * *
+    (1) * * *
+    (iii) * * *
+    (B) For the agency's senior professionals covered by 5 CFR part 
+430, subpart E, five summary levels--an outstanding level, a fully 
+successful level, a level between outstanding and fully successful, an 
+unacceptable level, and a level between fully successful and 
+unacceptable; and
+    (C) For agencies not subject to 5 CFR part 430, subparts C and E, a 
+summary rating level that reflects outstanding performance or a 
+methodology that clearly differentiates outstanding performance, as 
+defined in Sec.  1330.402;
+* * * * *
+    (h) * * *
+    (2) An agency's system certification is automatically suspended 
+when OPM withdraws performance appraisal system approval or mandates 
+corrective action because of misapplication of the system as authorized 
+under 5 CFR 430.314(c), 430.514(c), and 1330.403(e).
+* * * * *
+
+Office of Personnel Management.
+Scott Kupor,
+Director.
+
+Office of Management and Budget.
+Russell Vought,
+Director.
+[FR Doc. 2026-21316 Filed 10-16-26; 8:45 am]
+BILLING CODE 6325-39-P

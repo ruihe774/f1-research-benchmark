@@ -1,0 +1,3170 @@
+Federal Register, Volume 91 Issue 180 (Friday, September 18, 2026)
+
+
+[Federal Register Volume 91, Number 180 (Friday, September 18, 2026)]
+[Proposed Rules]
+[Pages 59076-59098]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-19222]
+
+
+ ========================================================================
+ Proposed Rules
+                                                 Federal Register
+ ________________________________________________________________________
+ 
+ This section of the FEDERAL REGISTER contains notices to the public of 
+ the proposed issuance of rules and regulations. The purpose of these 
+ notices is to give interested persons an opportunity to participate in 
+ the rule making prior to the adoption of the final rules.
+ 
+ ========================================================================
+ 
+
+  Federal Register / Vol. 91, No. 180 / Friday, September 18, 2026 / 
+Proposed Rules  
+
+[[Page 59076]]
+
+
+
+OFFICE OF PERSONNEL MANAGEMENT
+
+5 CFR Parts 213, 302, 317, 359, 362, 432, 550, 731, 920, and 930
+
+[Docket ID: OPM-2026-0166]
+RIN 3206-AO92
+
+
+Employment in the Excepted Service
+
+AGENCY: Office of Personnel Management.
+
+ACTION: Proposed rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Office of Personnel Management (OPM) proposes to amend its 
+regulations governing the excepted service, Pathways Programs, and 
+administrative law judge (ALJ) appointments. The proposed rule would 
+conform OPM regulations to current excepted-service schedules, 
+including Schedules E, Policy/Career, and G; modernize part 302 
+procedures while preserving veterans' preference, compensable-injury 
+restoration rights, and other priority placement rights; authorize and 
+clarify Pathways conversions to Schedule Policy/Career; and make 
+related conforming amendments.
+
+DATES: Comments must be received on or before November 17, 2026.
+
+ADDRESSES: You may submit comments by using the Federal eRulemaking 
+Portal: https://www.regulations.gov. Follow the instructions for 
+submitting comments.
+    All submissions must include the agency name and docket number or 
+RIN for this Federal Register document. Please arrange and identify 
+your comments about the regulatory text by subpart and section number. 
+If your comments relate to the supplementary information, please refer 
+to the heading and page number in the supplementary section. All 
+comments must be received by the end of the comment period for them to 
+be considered. All comments and other submissions received generally 
+will be posted on the internet at https://www.regulations.gov as they 
+are received, without change, including any personal information 
+provided. However, OPM retains discretion to redact personal or 
+sensitive information, including but not limited to personal or 
+sensitive information pertaining to third parties. As required by 5 
+U.S.C. 553(b)(4), a summary of this rule may be found in the docket for 
+this rulemaking at https://www.regulations.gov.
+
+FOR FURTHER INFORMATION CONTACT: Ms. Katika Floyd at (202) 606-9531 or 
+by email at [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+I. Background
+
+    OPM proposes to revise several civil service regulations to conform 
+them to current excepted service schedules, recent Executive orders, 
+and the statutory framework governing excepted service appointment 
+procedures. These amendments are intended to modernize excepted service 
+hiring rules, remove obsolete or unnecessarily complex procedures, 
+preserve statutory veterans' preference and restoration rights, update 
+regulations governing Pathways Programs and ALJ appointments, and 
+simplify the priority reemployment list provisions. This proposal to 
+overhaul excepted service employment is supplemented by another OPM 
+regulation--Shared Certificates and Pooled Hiring Actions--that 
+includes additional enhancements to 5 CFR part 302 (Employment in the 
+Excepted Service) that align with changes being made to the regulations 
+governing recruitment and hiring in the competitive service. 91 FR 
+58347; Sept. 15, 2026.
+
+A. Excepted Service Appointments and 5 U.S.C. 3320
+
+    Section 3320 of title 5, United States Code, provides that the 
+nominating or appointing authority must select for each excepted 
+service vacancy from qualified applicants ``in the same manner and 
+under the same conditions'' required for the competitive service by the 
+veterans' preference and related provisions referenced in that section, 
+and excludes appointments requiring Senate confirmation or advice and 
+consent. OPM's regulations in part 302 have long implemented this 
+requirement for positions in the excepted service. Current part 302 
+contains detailed procedures for accepting applications, examining 
+applicants, maintaining employment lists, applying orders of 
+consideration, and making selections.
+    OPM now proposes to simplify part 302 while preserving the 
+statutory core of the rule: veterans' preference, job-related 
+qualification requirements, and legally required priority 
+consideration. The proposed rule would remove the legacy structure of 
+priority reemployment lists, reemployment lists, regular employment 
+lists, Orders A, B, and C, professional orders, and unranked orders. In 
+place of that structure, the rule would require agencies to identify 
+and consider qualified and available priority candidates before 
+selecting non-priority candidates, subject to any available and lawful 
+exception. The rule also would retain and clarify restoration and 
+priority-placement protections for employees recovering from 
+compensable injuries under 5 U.S.C. 8151.
+
+B. Recent Executive Orders Affecting Excepted Service Schedules
+
+    Several recent Executive orders require conforming amendments to 
+part 213 and related civil service regulations.
+    First, Executive Order (E.O.) 13843 of July 10, 2018, ``Excepting 
+Administrative Law Judges From the Competitive Service,'' (83 FR 32755) 
+directed that appointments of ALJs under 5 U.S.C. 3105 be made under 
+Schedule E of the excepted service. The order amended Civil Service 
+Rule VI to create Schedule E and stated that appointment to an ALJ 
+position is not subject to part 302 examination and rating 
+requirements, though agencies must follow the principle of veterans' 
+preference as far as administratively feasible.
+    Second, E.O. 13957 of October 21, 2020, ``Creating Schedule F in 
+the Excepted Service,'' (85 FR 67631) created Schedule F in the 
+excepted service for career positions of a confidential, policy-
+determining, policy-making, or policy-advocating character. E.O. 14171 
+of January 20, 2025, ``Restoring Accountability to Policy-Influencing 
+Positions Within the Federal Workforce,'' (90 FR 8625) reinstated and 
+amended E.O. 13957, including by replacing Schedule F terminology with 
+Schedule Policy/Career.
+    Third, E.O. 14317 of July 17, 2025, ``Creating Schedule G in the 
+Excepted
+
+[[Page 59077]]
+
+Service,'' (90 FR 34753) created Schedule G for noncareer positions of 
+a policy-making or policy-advocating character normally subject to 
+change as a result of a Presidential transition. The order also revised 
+Civil Service Rule VI to identify Schedules A, B, C, D, E, Policy/
+Career, and G, and distinguished Schedule G from Schedule C and 
+Schedule Policy/Career.
+    Fourth, E.O. 14410 of June 3, 2026, ``Implementing Schedule Policy/
+Career in the Excepted Service,'' (91 FR 34893) further implemented 
+Schedule Policy/Career by placing identified positions in Schedule 
+Policy/Career and amending the Civil Service Rules and prior Executive 
+orders. Among other things, the order:
+     Amended Civil Service Rule I to clarify retention of 
+competitive status when an employee's competitive service position is 
+first listed under Schedule A, B, C, Policy/Career, or G;
+     Amended Civil Service Rule III to recognize a basis for 
+appointment without competitive examination for an employee whose 
+initial appointment was to a Pathways Program position in Schedule D 
+and who was later converted to Schedule Policy/Career without a break 
+in service of 1 day;
+     Amended Civil Service Rule VI to require at least annual 
+publication of excepted-service schedules;
+     Provided for acquisition of competitive status by certain 
+employees serving probationary periods when their positions are first 
+placed in Schedule Policy/Career;
+     Amended Civil Service Rule XI to provide that individuals 
+appointed to positions in Schedule C, Schedule E, Schedule Policy/
+Career, and Schedule G are not subject to trial periods; and
+     Amended E.O. 13562 (75 FR 82585, Dec. 30, 2010) to provide 
+that Pathways career appointments may include positions in Schedule 
+Policy/Career, subject to OPM review.
+    Together, these Executive orders require conforming amendments to 
+several parts of OPM's regulations to ensure that the Code of Federal 
+Regulations (CFR) accurately reflects the current structure of the 
+excepted service and the legal consequences of appointments under 
+Schedules C, E, Policy/Career, and G.
+
+C. Purpose of This Proposed Rule
+
+    The proposed rule has four principal purposes.
+    First, it would conform part 213 to the current excepted service 
+schedule structure by adding express regulatory text for Schedule E ALJ 
+appointments and Schedule G appointments, and by conforming provisions 
+governing publication, temporary and time-limited appointments, unique 
+identifiers, and certain Schedule A authorities. It would also make 
+conforming amendments to parts 317, 359, 432, 550, 731, and 920 to 
+account for the creation of Schedule G.
+    Second, it would modernize part 302 by replacing outdated and 
+difficult-to-administer list and order-of-consideration procedures with 
+a simpler framework centered on veterans' preference, qualification 
+requirements, job-related evaluation methods, and priority 
+consideration for employees with legally required restoration or 
+reemployment rights.
+    Third, it would implement conforming changes to Pathways and 
+Schedule Policy/Career regulations so that eligible Pathways 
+Participants may be converted to permanent Schedule Policy/Career 
+appointments where authorized.
+    Fourth, it would conform ALJ regulations in part 930 to Schedule E 
+by removing obsolete competitive-examination and list-of-eligibles 
+terminology for new ALJ appointments, while preserving applicable 
+statutory protections for ALJs, including 5 U.S.C. 3105 and 7521. It 
+would also update the part 930 regulations relating to reductions in 
+force (RIFs) involving ALJs, conforming those regulations to the status 
+of ALJs appointed after July 10, 2018 as excepted service employees.
+    OPM previously proposed amendments to its ALJ regulations to 
+implement E.O. 13843 and conform the regulations governing ALJ 
+appointment and employment to the creation of Schedule E. See 
+Administrative Law Judges, 85 FR 59207 (Sept. 21, 2020). On April 2, 
+2026, OPM withdrew that proposed rule, explaining that the comments 
+received in response to the 2020 proposal were more than five years 
+old, that agencies had already implemented E.O. 13843, and that OPM 
+intended to propose Schedule E regulatory changes as part of a broader 
+excepted-service rulemaking under RIN 3206-AO92. See Administrative Law 
+Judges; Withdrawal, 91 FR 16584 (Apr. 2, 2026). Consistent with that 
+withdrawal notice, this proposed rule now addresses Schedule E as part 
+of the broader overhaul of OPM's excepted service regulations.
+
+II. Proposed Changes
+
+A. Part 213--Excepted Service
+
+    OPM proposes to revise part 213 to reflect the current schedules in 
+the excepted service: Schedules A, B, C, D, E, Policy/Career, and G.
+    Proposed amendments to Sec.  213.102 would update the heading and 
+conform the provision governing OPM placement of positions into 
+excepted service schedules.
+    OPM proposes to revise Sec.  213.103 to eliminate the requirement 
+that OPM publish a monthly Federal Register notice identifying each 
+establishment or revocation of an agency-specific Schedule A, B, C, 
+Policy/Career, or G authority. Current Sec.  213.103 requires 
+governmentwide excepted-service authorities to be published as 
+regulations in the Federal Register and the CFR, requires monthly 
+notice of agency-specific Schedule A, B, C, and Policy/Career 
+authorities, and requires an annual consolidated listing of all such 
+agency-specific authorities current as of June 30. The proposed rule 
+would retain publication of governmentwide authorities in the Federal 
+Register and CFR and would retain an annual consolidated Federal 
+Register notice for agency-specific authorities, but would remove the 
+monthly notice requirement.
+    OPM has tentatively determined that monthly publication is no 
+longer necessary to provide meaningful transparency or oversight, or 
+effective administration of agency-specific excepted-service 
+authorities. Agency-specific authorities do not have general 
+applicability across the Government and historically have not been 
+codified in the CFR. OPM has instead used notices to inform the public 
+of the existence and status of these authorities. The annual 
+consolidated notice is a more complete and useful transparency 
+mechanism because it provides a single authoritative listing of agency-
+specific authorities, with assigned authority numbers or other unique 
+identifiers, rather than requiring agencies, applicants, employees, and 
+the public to reconstruct the current state of agency-specific 
+authorities from a series of monthly notices. OPM's annual consolidated 
+notices have historically served this function by identifying the 
+agency-specific authorities current as of a specified date and 
+explaining that governmentwide authorities are codified in the CFR 
+while agency-specific authorities are not.
+    OPM believes that the annual consolidated Federal Register notice 
+satisfies Civil Service Rule VI because Rule VI requires Federal 
+Register publication of notice of OPM's decision granting authority to 
+make excepted-service appointments, but does not prescribe monthly 
+publication. Further, proposed Sec.  213.103(b) would continue to 
+provide public Federal Register notice of all current agency-specific 
+authorities in a single consolidated
+
+[[Page 59078]]
+
+annual notice, with additional notices available when OPM determines 
+they would promote sound administration or public transparency.
+    OPM notes that removing the monthly publication requirement does 
+not reduce OPM's substantive oversight of agency-specific authorities. 
+OPM will continue to approve, deny, limit, condition, modify, or revoke 
+agency-specific authorities as appropriate under Civil Service Rule VI, 
+part 213, and applicable Executive orders. Agencies must continue to 
+use the proper authority number or unique identifier when documenting 
+appointments, and OPM will continue to maintain internal records of 
+current agency-specific authorities. In addition, OPM is proposing that 
+it may publish additional notices concerning agency-specific 
+authorities when OPM determines that additional notice would promote 
+sound administration or public transparency.
+    Proposed Sec.  213.104 would update terminology for temporary, 
+time-limited, intermittent, or seasonal appointments and clarify 
+applicable service limits for appointments in Schedules A, B, C, D, and 
+G. OPM also is not including Schedule E or Schedule Policy/Career in 
+the operative Sec.  213.104 amendments because these appointments are 
+not intended to be temporary, time-limited, intermittent, or seasonal.
+    OPM also proposes targeted amendments to Sec.  213.3102. Proposed 
+Sec.  213.3102(i)(1) would modernize the Schedule A authority for 
+positions in remote or isolated locations where examination is 
+impracticable. Proposed Sec.  213.3102(u) would update the Schedule A 
+authority for individuals with intellectual disabilities, severe 
+physical disabilities, or psychiatric disabilities, including by 
+revising the structure of the provision and proof-of-disability 
+language.
+    The proposed rule would amend Sec.  213.3301 to replace the 
+reference to a Schedule C ``number'' with the phrase ``unique 
+identifier.'' This change is intended to modernize appointment-record 
+terminology while preserving OPM's position-specific authorization 
+process for Schedule C.
+    The proposed rule would revise Sec.  213.3402(b) to raise the 
+default Recent Graduates appointment ceiling to GS-11 or equivalent, 
+while preserving a GS-12 exception for certain scientific and 
+professional research positions requiring a directly related Ph.D. or 
+equivalent degree. This revision would conform to the changes made in 
+the Pathways Programs final regulation published at 89 FR 25751 (Apr. 
+12, 2024).
+    The proposed rule would add a new Schedule E heading and new Sec.  
+213.3501 for ALJ positions appointed under 5 U.S.C. 3105. Proposed 
+Sec.  213.3501 would provide that new ALJ appointments made on or after 
+July 10, 2018, must be made under Schedule E; would preserve the 
+competitive-service status of incumbents whose status is preserved 
+under Sec.  6.8(d); would exempt Schedule E appointments from part 302 
+appointment procedures, including examination and rating; would require 
+agencies to follow veterans' preference as far as administratively 
+feasible; would cross-reference the professional license requirement in 
+Civil Service Rule VI and applicable ALJ statutory and regulatory 
+requirements; and would provide that Schedule E ALJs are not subject to 
+a trial period under part 11.
+    Proposed Sec.  213.3601 would revise the Schedule Policy/Career 
+regulation. Proposed Sec.  213.3601 would revise paragraphs (b) and (c) 
+to clarify the procedures for making appointments under Schedule 
+Policy/Career. The language formerly found in paragraph (d) of this 
+section will be incorporated into paragraph (b). Paragraphs (e) and (f) 
+of this section will be redesignated as paragraphs (d) and (e) of this 
+section.
+    Proposed Sec.  213.3601 would revise the newly designated paragraph 
+(e) to make clear that Schedule Policy/Career appointments are not 
+subject to a trial period, in alignment with E.O. 14410's revision to 
+Civil Service Rule XI. Revised paragraph (e) also would restate that an 
+individual appointed under Sec.  213.3601(b) in the same manner as an 
+appointment in the competitive service acquires competitive status 
+after completing 2 years of continuing service in the same or similar 
+positions, and would preserve the retention of competitive status under 
+Sec.  1.3(d) and the acquisition of competitive status under Sec.  
+3.1(a)(5) or Sec.  6.8(e).
+    Proposed Sec.  213.3601(f) would address positions in statutory 
+personnel systems outside title 5 that may be designated as Schedule 
+Policy/Career. The proposed paragraph would provide that, to the extent 
+permitted by the statute governing the position and any applicable 
+E.O., such a position may be designated as Schedule Policy/Career if 
+the position is of a confidential, policy-determining, policy-making, 
+or policy-advocating character. For positions otherwise covered by 
+chapters 23, 43, or 75 of title 5, designation in Schedule Policy/
+Career would affect coverage under those chapters to the extent 
+provided by 5 U.S.C. 2302(a)(2)(B)(i), 4301(2)(G), 4303(e)(3), and 
+7511(b)(2), and applicable implementing regulations. The designation 
+would not otherwise alter the governing statutory personnel system 
+unless expressly provided by statute, E.O., or regulation.
+    Finally, the proposed rule would add a new Schedule G heading and 
+new Sec.  213.3701 for noncareer positions of a policy-making or 
+policy-advocating character normally subject to change as a result of a 
+Presidential transition. Section 213.3701 would retain OPM's position-
+specific authorization process and would require a unique identifier 
+for positions authorized under Schedule G.
+
+B. Part 302--Employment in the Excepted Service
+
+    OPM proposes to revise part 302 extensively. Proposed part 302 
+would replace the current employment-list and order-of-consideration 
+structure with a simpler framework that preserves the substantive 
+requirements of 5 U.S.C. 3320. Section 3320 requires excepted service 
+selections to be made from qualified applicants ``in the same manner 
+and under the same conditions'' required for the competitive service by 
+5 U.S.C. 3308 through 3319, but it does not require OPM to retain the 
+specific legacy labels and procedures in current part 302, such as 
+regular employment lists or Orders A, B, and C. Although section 3320 
+incorporates the competitive-service requirements of 5 U.S.C. 3308 
+through 3319, current Sec.  302.302(b)(2) also permits category rating 
+consistent with the principles of 5 U.S.C. 3319, and proposed 
+Sec. Sec.  302.201(b), 302.302(d), and 302.401(c) would continue to 
+permit category rating, applied with the pass-over protections of 5 
+U.S.C. 3319(c)(6).
+    Section 3315(a) of title 5, United States Code, provides that a 
+preference eligible who has been separated or furloughed without 
+delinquency or misconduct is entitled, upon request, to have the 
+individual's name placed on appropriate registers and employment lists 
+for every position for which the individual's qualifications have been 
+established, in the order prescribed by 5 U.S.C. 3313. Section 3320 
+applies that requirement to covered appointments in the excepted 
+service by requiring selection from qualified applicants in the same 
+manner and under the same conditions required by 5 U.S.C. 3308 through 
+3319.
+    OPM therefore interprets sections 3315 and 3320 as requiring 
+agencies to preserve the reemployment-priority rights established by 
+those provisions. OPM does not interpret those statutes, however, as 
+requiring agencies to retain the particular list architecture or 
+terminology prescribed by current Sec.  302.303. Current Sec.  302.303
+
+[[Page 59079]]
+
+implements the statutory requirements through three separately 
+denominated categories: a priority reemployment list, a discretionary 
+reemployment list, and a regular employment list. Those categories are 
+an administrative means of implementing the statute; the terms 
+themselves do not appear in 5 U.S.C. 3315. Section 3315 also does not 
+prescribe a particular paper or electronic format, database structure, 
+or personnel-management system through which an agency must maintain 
+the required information. Section 1302(c) directs OPM to prescribe 
+regulations administering veterans' preference in the excepted service 
+and therefore permits OPM to modernize the administrative mechanism 
+used to carry out the statutory entitlement, provided that the revised 
+mechanism does not diminish that entitlement.
+    In subpart A, proposed Sec.  302.101 would restate the coverage of 
+part 302 for purposes of veterans' preference and compensable-injury 
+restoration rights, clarify that Senate-confirmed or advice-and-consent 
+appointments are not covered, and update the list of positions exempt 
+from part 302 appointment procedures. OPM proposes to add law clerk 
+trainee positions filled under 5 CFR 213.3102(e) to the list of 
+positions exempt from the appointment procedures of 5 CFR part 302. 
+Section 213.3102(e) authorizes time-limited appointments of law clerk 
+trainees for law school graduates or persons with equivalent experience 
+pending admission to the bar, while Sec.  213.3102(d) covers attorney 
+positions. Current Sec.  302.101(c) already exempts attorney positions 
+from the appointment procedures of part 302, but it does not expressly 
+identify law clerk trainee positions. Law clerk trainee appointments 
+are closely related to attorney hiring and often serve as a temporary, 
+pre-bar status before an individual may be appointed to an attorney 
+position. OPM therefore proposes to expressly exempt law clerk trainee 
+positions filled under Sec.  213.3102(e) to provide additional 
+flexibility in hiring for these positions and to promote consistency 
+with attorney hiring procedures.
+    OPM proposes to amend 5 CFR 302.101(c) to add three other 
+categories of positions to the list exempt from the appointment 
+procedures of part 302: positions in remote or isolated locations 
+filled under 5 CFR 213.3102(i)(1), positions in Schedule G, and ALJ 
+positions in Schedule E. These additions would promote clarity and 
+consistency by aligning part 302 with appointing authorities and 
+excepted-service schedules where the application of ordinary part 302 
+examining, rating, and selection procedures is impracticable, 
+unnecessary, or inconsistent with the nature of the position. Remote or 
+isolated location appointments are expressly limited to circumstances 
+where examination is impracticable; Schedule G positions are policy-
+making or policy-advocating positions normally subject to change as a 
+result of a Presidential transition; and Schedule E ALJ appointments 
+are already treated under 5 CFR part 6 as not subject to part 302 
+appointment procedures. In addition, proposed Sec.  302.101(c)(12) 
+would revise the reemployment exemption in current Sec.  302.101(c)(9) 
+to remove the redundant requirement limiting the exemption, which is 
+already reflected in the introductory text to paragraph (c).
+    OPM proposes to amend 5 CFR 302.101(c)(6) to make clear the 
+circumstances under which OPM, in consultation with the agency 
+involved, determines the applicability of part 302 procedures on an 
+agency-specific exception to the competitive service. Over the years, 
+this paragraph has had several interpretations. A final rule was 
+published in October 2020, 85 FR 63191, to clarify the intent of the 
+provision. However, agencies continue to seek clarification on the 
+types of positions under paragraph (c)(6) that are exempt from the 
+appointment procedures of part 302. Rather than identify the positions 
+by a specific Schedule, OPM proposes to use its general authority to 
+except positions from the competitive service under Civil Service Rule 
+VI (5 CFR 6.1) to identify the positions for which an exemption may be 
+warranted. This amendment will be reflected in this rule under a newly 
+designated paragraph (c)(8).
+    The proposed exemptions would not relieve agencies of any 
+obligation under Sec.  302.101(c) to follow the principle of veterans' 
+preference as far as administratively feasible or to honor applicable 
+priority consideration rights.
+    Proposed Sec.  302.103 would revise the definition of ``person 
+entitled to priority consideration,'' which currently is limited to 
+certain individuals recovering from compensable injury who apply for 
+reappointment within 30 days of the date of cessation of compensation, 
+to cover any individual entitled to priority consideration under 5 
+U.S.C. 8151, part 353, Sec. Sec.  302.303 and 302.304, a final order, 
+or other applicable statute, regulation, or binding legal authority. 
+Proposed Sec.  302.104 would clarify when agencies must apply the 
+provisions of part 302 to accord veterans' preference and priority 
+consideration. Proposed Sec.  302.105 would replace the existing 
+special agency plan provision with a broader alternative-procedures 
+rule, allowing agencies to use written alternative procedures that are 
+applied uniformly, are consistent with merit system principles, and 
+provide preference eligibles and person entitled to priority 
+consideration at least as much advantage as the default procedures in 
+part 302.
+    Proposed Sec.  302.105(e) would authorize OPM to establish 
+procedures, consistent with 5 U.S.C. 3317(b), 5 U.S.C. 3318, 5 U.S.C. 
+3319, 5 U.S.C. 3320, and part 302, for rating, ranking, and selection 
+of eligible candidates by participating agencies in OPM-administered 
+cross-government shared hiring actions, including OPM-led pooled hiring 
+actions under Sec.  302.601. OPM increasingly uses shared hiring 
+actions to help agencies fill common mission-critical positions across 
+the Government. The proposed provision would support those actions by 
+permitting OPM to establish documentation and administration procedures 
+suited to multi-agency certificates while preserving veterans' 
+preference, pass-over requirements, and other applicable statutory 
+protections.
+    Proposed Sec.  302.106 would retain the requirement in current 
+Sec.  302.106 that an excepted service vacancy announcement include a 
+reasonable accommodation statement that complies with part 330, subpart 
+A. Proposed Sec.  302.106 also would clarify that part 302 does not 
+itself require an agency to issue a public vacancy announcement unless 
+public notice is required by statute, regulation, the applicable 
+appointing authority, or agency policy, and would require an 
+announcement for a position covered by part 302 to include, as 
+applicable, instructions for claiming veterans' preference and priority 
+consideration.
+    In subpart B, proposed Sec.  302.201 would modernize the treatment 
+of veterans' preference under numerical rating, category rating, and 
+alternative procedures. Proposed Sec.  302.202 would revise 
+qualification requirements, including by retaining the statutory 
+limitation on minimum educational requirements for scientific, 
+technical, or professional positions whose duties cannot be performed 
+without prescribed education. Proposed Sec.  302.201 would not retain 
+the separate unranked-referral preference notations in current Sec.  
+302.201(b) because unranked referral would no longer be a default 
+evaluation method under proposed Sec.  302.302; an agency could adopt a 
+comparable approach only through an alternative procedure under 
+proposed Sec.  302.105 that provides preference eligibles and
+
+[[Page 59080]]
+
+persons entitled to priority consideration at least as much advantage 
+as the default procedures of part 302.
+    In subpart C, proposed Sec. Sec.  302.301 through 302.304 would 
+replace the various employment lists and order-of-consideration 
+framework with a simplified model. Proposed Sec.  302.303 eliminates 
+the requirement for agencies to establish priority reemployment lists, 
+by geographic area, consisting of priority candidates who had been 
+rated eligible for positions being filled. Instead, priority candidates 
+would apply for consideration for vacancies on a case-by-case basis 
+similar to the requirements for receiving consideration under the 
+career transition programs in part 330 of this chapter. Proposed Sec.  
+302.303 also includes a requirement that each agency maintain 
+documented priority-consideration procedures and records sufficient to 
+demonstrate compliance with proposed Sec. Sec.  302.303 and 302.304. 
+Proposed Sec.  302.303 would continue to require agencies to provide 
+priority consideration for specified current or former employees, 
+including preference-eligible employees furloughed or separated from 
+continuing excepted service appointments by RIF or similar workforce 
+reduction action, and current or former employees entitled to priority 
+consideration because of recovery from compensable injury or 
+disability. In addition, the proposal would include any other 
+individual entitled to reemployment priority under statute, regulation, 
+final order, or other binding legal authority.
+    Under proposed Sec.  302.303(a), an agency would be required to 
+maintain documented procedures sufficient to identify, notify, 
+evaluate, and consider priority candidates for positions covered by 
+part 302. Although an agency would no longer be required to maintain 
+separate records designated as a priority reemployment list, 
+reemployment list, or regular employment list, it would be required to 
+maintain records sufficient to document compliance with Sec. Sec.  
+302.303 and 302.304. Under proposed Sec.  302.303(f), each agency's 
+written procedures would be required to address, at a minimum: how 
+individuals, including preference eligibles covered by 5 U.S.C. 3315, 
+may apply for priority consideration for specific vacancies; how 
+individuals may update their availability, location, qualification, 
+grade, pay level, work schedule, and other placement information; how 
+the agency will determine whether an individual is a priority candidate 
+for a specific vacancy; how the agency will evaluate and rank priority 
+candidates and apply veterans' preference among them; and how the 
+agency will notify priority candidates of the outcome of consideration. 
+An agency could administer these requirements through a standing 
+electronic registry, an automated vacancy-matching system, vacancy-
+specific rosters, or another documented mechanism, provided that the 
+mechanism satisfies Sec. Sec.  302.303 and 302.304.
+    For purposes of 5 U.S.C. 3315, the records an agency maintains 
+under proposed Sec.  302.303(a) and (f)--which must be sufficient to 
+identify each individual entitled to priority consideration and to 
+determine, for each vacancy, whether the individual is qualified, 
+available, and within the scope of consideration--would perform the 
+function of the appropriate registers and employment lists required by 
+section 3315. When 5 U.S.C. 3318(d) applies, the registered preference 
+eligibles whom the agency has determined under proposed Sec. Sec.  
+302.303 and 302.304 to be qualified, available, and within the scope of 
+consideration for a particular vacancy would constitute the 
+reemployment list appropriate for the position to be filled. Agencies 
+would remain required to order and consider covered individuals in 
+accordance with 5 U.S.C. 3313 and 3318, as applicable, and the 
+implementing requirements of part 302, including the requirements in 
+proposed Sec.  302.303(f)(5) and (6) that the agency establish how 
+priority candidates will be evaluated and ranked and how veterans' 
+preference will be applied among them, and the requirements in proposed 
+Sec.  302.304(b) governing selection among priority candidates.
+    The proposed rule would also preserve the operative consequences of 
+placement on the statutory register or employment list. Before making a 
+covered appointment, proposed Sec.  302.304 would require an agency to 
+determine whether a qualified and available priority candidate is 
+within the scope of consideration for the vacancy. If one priority 
+candidate is available, the agency ordinarily would be required to 
+select that candidate before selecting another applicant. If more than 
+one priority candidate is available, the agency would be required to 
+apply the evaluation method established for the vacancy and applicable 
+veterans' preference requirements, and to select from among the 
+priority candidates before considering non-priority candidates. An 
+agency could depart from those requirements only when an exception 
+authorized by statute, regulation, or other applicable law applies and 
+the agency documents the basis for the exception.
+    The proposal therefore does not replace the statutory list 
+entitlement with generalized or discretionary consideration. Proposed 
+Sec.  302.303(f) would require each agency to establish its priority-
+consideration procedures in advance, including the means by which 
+individuals may apply for priority consideration and keep their 
+placement information current; proposed Sec.  302.301(d) would require 
+the agency, when filling a covered position, to provide a means for 
+individuals claiming priority consideration to identify their 
+eligibility and submit the information necessary for the agency to 
+determine whether they are priority candidates; and proposed Sec.  
+302.304(a) would require the agency to determine whether a priority 
+candidate exists before making any covered appointment and, under 
+proposed Sec.  302.304(f), to document that determination. Maintaining 
+records only after a selection has been made would not satisfy proposed 
+Sec. Sec.  302.303 and 302.304 or 5 U.S.C. 3315.
+    OPM recognizes that 5 U.S.C. 3320 does not permit OPM to substitute 
+materially lesser protections for procedures that Congress has made 
+applicable to the excepted service. In Gingery v. Department of 
+Defense, 550 F.3d 1347, 1352-54 (Fed. Cir. 2008), the Federal Circuit 
+held that an OPM regulation could not replace the pass-over protections 
+prescribed by 5 U.S.C. 3318 with lesser protections for an excepted-
+service applicant when the statutory procedures could be applied. The 
+proposed rule follows that principle. It does not rely on a 
+determination that compliance with 5 U.S.C. 3315 is administratively 
+infeasible, and it does not reduce the registration, ordering, 
+referral, selection, or pass-over protections required by 5 U.S.C. 
+3315, 3318, and 3320. It changes only the administrative form in which 
+agencies maintain and use the information necessary to provide those 
+protections.
+    The proposed approach is also consistent with the flexibility 
+recognized in current Sec.  302.105, under which an agency may use a 
+system that does not conform to every procedural requirement of part 
+302 only if eligible applicants entitled to veterans' preference or 
+priority consideration receive at least as much advantage as they would 
+receive under the default procedures. Proposed Sec.  302.105 would 
+retain that limiting principle and would additionally make clear that 
+an alternative procedure may not waive any statutory requirement.
+
+[[Page 59081]]
+
+    The requirement in current Sec.  302.303 that all other applicants 
+be entered on a regular employment list presents a different issue. 
+Section 3315 establishes a specific entitlement for covered preference 
+eligibles who have been separated or furloughed; it does not 
+independently require an agency to maintain a separately denominated 
+regular employment list containing every other applicant. Agencies 
+would remain required to evaluate, arrange, refer, and select other 
+applicants in accordance with the applicable provisions of 5 U.S.C. 
+3308 through 3319 and part 302, but they would not be required to 
+preserve the current ``regular employment list'' as a separate 
+administrative artifact. Proposed Sec.  302.304 would require agencies 
+to consider and select qualified and available priority candidates 
+before non-priority candidates unless a lawful exception applies.
+    In subpart D, proposed Sec.  302.401 would set out simplified rules 
+for selection and appointment after priority consideration has been 
+satisfied. The proposed rule would replace the existing Sec.  302.401 
+with a simpler selection rule organized around priority consideration, 
+the evaluation and referral method used for the vacancy, veterans' 
+preference and pass-over protections, discontinuance of consideration, 
+documentation, and special conditions for OPM-led pooled hiring 
+actions, as set out in proposed Sec.  302.401(a) through (h).
+    First, proposed Sec.  302.401(a) would require agencies to satisfy 
+the priority-consideration requirements in proposed Sec. Sec.  302.303 
+and 302.304 before making any appointment to a position covered by part 
+302. This makes priority consideration the first step in the selection 
+process.
+    Second, proposed Sec.  302.401(b) would govern selections when an 
+agency uses numerical rating. Agencies could refer candidates using a 
+method established before applications are solicited and documented in 
+the recruitment file. The referral method could include a cut-off 
+score, a set number of the highest-ranked eligible candidates, a set 
+percentage of the highest-ranked eligible candidates, or another job-
+related method consistent with Sec.  302.105. Selecting officials could 
+select any referred eligible candidate but could not pass over a 
+higher-standing preference eligible to select a lower-standing 
+nonpreference eligible unless the agency satisfies the pass-over 
+requirements in Sec.  302.401(e).
+    Third, proposed Sec.  302.401(c) would govern selections when an 
+agency uses category rating. Agencies could select from the highest 
+quality category. If fewer than three candidates are in the highest 
+category, the agency could merge the highest and second-highest quality 
+categories and select from the merged category. Preference eligibles 
+must be listed ahead of nonpreference eligibles within each category or 
+merged category, and agencies may not select a nonpreference eligible 
+over a preference eligible in the same category unless the pass-over 
+requirements are satisfied.
+    Fourth, proposed Sec.  302.401(d) would expressly allow agencies to 
+make selections under alternative procedures authorized by Sec.  
+302.105. Those procedures must provide preference eligibles and persons 
+entitled to priority consideration at least as much advantage in 
+consideration, referral, and selection as they would receive under the 
+default part 302 procedures.
+    Fifth, proposed Sec.  302.401(e) would consolidate the rule for 
+passing over preference eligibles. Agencies proposing to select a 
+nonpreference eligible over a preference eligible must comply with 
+applicable requirements in 5 U.S.C. 3318(c), 5 U.S.C. 3319(c)(6), and 
+OPM instructions.
+    Sixth, proposed Sec.  302.401(f) would address discontinuing 
+consideration of an eligible candidate as authorized by 5 U.S.C. 
+3318(e), Sec.  302.105(e), or other applicable law, in accordance with 
+the procedures set forth in Sec.  332.405, which implements the three-
+consideration rule of 5 U.S.C. 3318(e).
+    Seventh, proposed Sec.  302.401(g) would add a documentation 
+requirement. Agencies must document the selection method used, the 
+application of veterans' preference, the application of priority 
+consideration, any pass-over decision, and the basis for selection. The 
+documentation must be sufficient to permit reconstruction or third-
+party review.
+    Eighth, proposed Sec.  302.401(h) would establish special 
+conditions for OPM-led pooled hiring actions, including when OPM may 
+discontinue the consideration of a candidate from a shared certificate 
+after documented bona fide consideration for three separate 
+appointments for the same position. Nothing in those provisions would 
+authorize passing over a preference eligible except as permitted by 
+Sec.  302.401(e) and applicable law. These conditions would apply to 
+OPM-led pooled hiring actions under Sec.  302.601, as added by OPM's 
+interim rule on shared certificates and OPM-led pooled hiring actions 
+(91 FR 58347), and would supplement, not displace, the three-
+consideration provisions of Sec. Sec.  302.502(b), 302.603(d), and 
+302.604(e).
+    The proposed rule would also revise Sec.  302.402 to preserve a 
+streamlined reappointment option while making clear that it cannot be 
+used to bypass the new priority-consideration framework. Proposed Sec.  
+302.402(a) would allow an agency, subject to Sec. Sec.  302.303 and 
+302.304, to reappoint a current or former nontemporary executive-branch 
+employee who is a preference eligible to a covered position without 
+applying the examination, rating, ranking, and referral procedures of 
+part 302. Proposed Sec.  302.402(b) would clarify that this 
+reappointment authority does not permit an agency to bypass a qualified 
+and available person entitled to priority consideration unless a lawful 
+exception under Sec.  302.304 applies. Proposed Sec.  302.402(c) would 
+further clarify that any reappointment must still be consistent with 
+statute, regulation, the applicable appointing authority, and agency 
+reemployment policy.
+    Proposed Sec. Sec.  302.201, 302.302, and 302.401 would continue to 
+apply the same statutory veterans' preference protections through the 
+rating method used for the vacancy: preference points would be added 
+when numerical rating is used; preference eligibles would receive the 
+statutory ordering and placement advantages when category rating is 
+used; and any alternative procedure would have to provide preference 
+eligibles and persons entitled to priority consideration at least as 
+much advantage in evaluation, referral, and selection as the default 
+procedures in part 302. The proposed rule also would preserve 
+applicable pass-over requirements before an agency may select a 
+nonpreference eligible over a preference eligible. Accordingly, OPM 
+views the proposed framework as a modernization of the mechanics for 
+accepting, evaluating, referring, and selecting applicants, not a 
+reduction in the veterans' preference and related protections required 
+by 5 U.S.C. 3320.
+    Proposed Sec.  302.701 would update the appeals provision for 
+individuals asserting compensable-injury restoration rights. The 
+proposed amendment would clarify that the relevant restoration or 
+priority-consideration entitlement may arise under 5 U.S.C. 8151, part 
+353, or part 302, while preserving the existing limitation that an 
+appeal must involve an alleged violation of restoration rights and 
+factual information showing that the individual was denied restoration 
+or priority consideration because another person was employed. Proposed 
+Sec.  302.701 also would clarify that a preference eligible or person 
+entitled to priority consideration may appeal an action taken under 
+part 302 only to the extent an appeal right is provided by
+
+[[Page 59082]]
+
+statute, Merit Systems Protection Board (MSPB) regulation, or other 
+applicable law, and that part 302 does not create an appeal right not 
+otherwise provided by law.
+    OPM's interim rule on shared certificates and OPM-led pooled hiring 
+actions redesignated subpart E of part 302 (Appeals) as subpart G and 
+added new subparts E and F governing shared excepted service 
+certificates and OPM-led pooled hiring actions. The references in this 
+proposed rule reflect that redesignation, and, apart from the 
+conforming cross-reference amendments described below, nothing in this 
+proposed rule would alter the new subparts E and F. This proposal would 
+correct the authority citation for part 302 to include 5 U.S.C. 1104 
+and the section-specific authority for subparts E and F, which were 
+inadvertently not included in the interim rule.
+    Consistent with the paragraph designations proposed for Sec. Sec.  
+302.302 and 302.401, OPM proposes conforming amendments to the cross-
+references in subparts E and F. Proposed Sec. Sec.  302.502(b), 
+302.603(d), and 302.604(e) would replace the references to Sec.  
+302.302(b)(1) and Sec.  302.302(b)(2) with references to Sec.  
+302.302(c) and Sec.  302.302(d), respectively, and proposed Sec. Sec.  
+302.603(e) and 302.604(f) would replace the reference to Sec.  
+302.401(b) with a reference to Sec.  302.401(e). These conforming 
+amendments would align the cross-references with the redesignated 
+paragraphs proposed in this rule and would not alter the three-
+consideration or pass-over requirements those provisions impose.
+    OPM is not proposing changes to Sec. Sec.  302.102, 302.107, 
+302.108, 302.203, or 302.403. Those provisions address related but 
+distinct requirements that remain necessary under the proposed part 302 
+framework.
+
+C. Part 317--Employment in the Senior Executive Service
+
+    In part 317, OPM proposes to amend provisions governing conversion 
+to the Senior Executive Service (SES), Qualifications Review Board 
+certification, and SES reassignments. The proposed amendments would 
+clarify that Schedule G service would be treated consistently with 
+Schedule C service when identifying noncareer-type or transition-linked 
+service. Specifically, OPM proposes to amend Sec. Sec.  317.304 and 
+317.305 to include Schedule G in the provisions governing conversion of 
+certain appointees to SES appointments; Sec.  317.502 to include 
+Schedule G appointees within the category of ``noncareer-type'' 
+employees whose conversion to career SES appointment would not be 
+forwarded to a Qualifications Review Board; and Sec.  317.901 to 
+include Schedule G appointees in the definition of noncareer appointee 
+for purposes of the 120-day restriction on involuntary reassignment of 
+career SES appointees.
+
+D. Part 359--Removal From the Senior Executive Service; Guaranteed 
+Placement in Other Personnel Systems
+
+    In part 359, OPM proposes to amend Sec. Sec.  359.406 and 359.503 
+to include Schedule G appointees in the definition of noncareer 
+appointee for purposes of restrictions on certain SES removals 
+following the appointment of a new agency head or certain noncareer 
+supervisors. OPM also proposes to amend Sec.  359.701 to clarify that 
+service in a Schedule G position, or in a position meeting the same 
+criteria as a Schedule G position, would not constitute an appointment 
+of equivalent tenure for purposes of guaranteed placement rights 
+following certain removals from the SES.
+
+E. Part 362--Pathways Programs
+
+    OPM proposes to revise part 362 to permit eligible Pathways 
+Participants to be converted to permanent positions in Schedule Policy/
+Career. OPM also proposes to eliminate the definition of ``advanced 
+degree'' in Sec.  362.102 because the phrase is no longer used in part 
+362.
+    Proposed Sec.  362.107 would be revised to describe conversion to 
+the competitive service or Schedule Policy/Career. It would authorize 
+noncompetitive conversion of an eligible Pathways Participant to a term 
+or permanent position in the competitive service, or to a permanent 
+position in Schedule Policy/Career if the position is a career position 
+described in Sec.  213.3601(a) and the conversion is authorized by part 
+362 and applicable OPM policy or guidance. The proposed section would 
+distinguish direct conversion to a competitive-service position from 
+conversion to Schedule Policy/Career. It would clarify that conversion 
+to Schedule Policy/Career does not itself confer competitive status, 
+career tenure, or a career or career-conditional appointment and that 
+pre-conversion Pathways service does not count toward the 2 years of 
+continuing Schedule Policy/Career service required for acquisition of 
+competitive status under Sec.  213.3601(e).
+    Proposed Sec.  362.107 also would address career-transition 
+programs, probationary periods, trial periods, and no-entitlement 
+principles. Pathways Participants converted to career or career-
+conditional appointments under Sec.  315.713 would be subject to 
+applicable probationary-period requirements under part 11 and would 
+acquire competitive status upon completion of those requirements. 
+Pathways Participants converted to permanent Schedule Policy/Career 
+appointments would not be required to serve a trial period under part 
+11 and would obtain competitive status after 2 years of continuing 
+service in the Schedule Policy/Career position, but that conversion 
+would not itself confer competitive status. Competitive status could be 
+retained or acquired only as provided in Sec.  213.3601(e), Sec.  
+362.107(f), Sec.  3.1(a)(5), Sec.  6.8(e), part 315, or another 
+applicable statute, E.O., civil service rule, or OPM regulation.
+    The proposed rule also would revise Pathways reporting requirements 
+to capture the number of Pathways Participants converted to Schedule 
+Policy/Career and separated and would add Sec.  362.110 to authorize 
+OPM to develop and administer a governmentwide Pathways Leadership 
+Development Program under the Recent Graduates Program authority. That 
+program may include formal training, career development, and rotational 
+assignments across participating agencies, and would be administered 
+consistent with part 362 and applicable OPM implementing instructions.
+
+F. Part 432--Performance Based Reduction in Grade and Removal Actions
+
+    OPM proposes to amend Sec.  432.102(f)(11), as redesignated by 
+OPM's final rule on probationary and trial period appeals (91 FR 49072, 
+Aug. 3, 2026), to add employees occupying positions in Schedule G to 
+the categories of employees excluded from coverage under part 432. Part 
+432 implements the procedures governing performance-based reductions in 
+grade and removals under 5 U.S.C. chapter 43. Section 432.102(f)(11) 
+currently excludes employees occupying positions in Schedule C or 
+Schedule Policy/Career, as authorized under part 213 of this chapter. 
+This amendment would add Schedule G to that same exclusion.
+    This change is a conforming amendment to reflect the establishment 
+of Schedule G in the excepted service. E.O. 14317 created Schedule G 
+for positions of a policy-making or policy-advocating character that 
+are normally subject to change as a result of a Presidential transition 
+and directed OPM to adopt implementing regulations, with particular 
+attention to amendments to 5 CFR part 213. E.O. 14317 also amended 
+Civil Service Rule VI to provide that, except as required by statute, 
+the Civil Service Rules and
+
+[[Page 59083]]
+
+Regulations do not apply to removals from positions listed in Schedule 
+G.
+    Consistent with that framework, OPM proposes that employees 
+occupying Schedule G positions should be treated in the same manner as 
+employees occupying Schedule C and Schedule Policy/Career positions for 
+purposes of part 432 coverage. The amendment would clarify that the 
+performance-based reduction in grade and removal procedures in part 432 
+do not apply to employees occupying positions in Schedule G. The 
+amendment would not otherwise alter the coverage of part 432, and 
+employees not expressly excluded under Sec.  432.102(f) would remain 
+covered in accordance with that section.
+
+G. Part 550--Pay Administration (General)
+
+    In part 550, OPM is proposing to amend the definition of 
+``nonqualifying appointment'' in Sec.  550.703 to include an excepted 
+appointment under Schedule G. This change would align the definition of 
+``nonqualifying appointment'' with the existing definition of 
+``qualifying appointment,'' which excludes excepted appointments 
+without time limitation under Schedule C or Schedule G.
+
+H. Part 731 (Suitability and Fitness) and Part 920 (Timing of Criminal 
+History Inquiries)
+
+    In parts 731 and 920, OPM proposes to amend the definition of 
+``political appointment'' to include appointments under Schedule G. 
+These changes would ensure that Schedule G appointees are treated 
+consistently with other political appointees for purposes of 
+suitability and fitness regulations in part 731 and the timing of 
+criminal history inquiries in part 920.
+
+I. Part 930--Administrative Law Judge Program
+
+    OPM proposes to amend part 930, subpart B, to conform the 
+Administrative Law Judge Program regulations to Schedule E. Current 
+part 930, subpart B, retains provisions tied to competitive 
+examination, lists of eligibles, and career appointments. The proposed 
+amendments would revise those provisions to recognize that new ALJ 
+appointments are made under Schedule E, remove or reserve the rule on 
+cost of competitive examination, revise appointment provisions, update 
+incumbent and reappointment provisions, revise promotion provisions, 
+and remove references to positions being filled through competitive 
+examination. The proposed amendments would preserve applicable ALJ 
+statutory protections, including those under 5 U.S.C. 3105 and 7521.
+    OPM proposes to revise Sec.  930.210 to conform the ALJ RIF 
+regulation to the current status of ALJ positions. Effective July 10, 
+2018, ALJ positions appointed under 5 U.S.C. 3105 were placed in 
+Schedule E of the excepted service, while incumbents who were in the 
+competitive service on that date retain competitive-service status so 
+long as they remain in their current positions. Current Sec.  930.210 
+was written against the prior competitive-service ALJ framework and 
+provides ALJs both agency RPL placement assistance and placement on 
+OPM's ALJ priority referral list. The proposed revision would 
+distinguish between legacy competitive-service ALJs whose status is 
+preserved under Sec.  6.8(d) and ALJs appointed in Schedule E after 
+July 10, 2018.
+    Under proposed Sec.  930.210(a), ALJs would remain subject to the 
+RIF regulations in part 351, except as modified by Sec.  930.210. 
+Schedule E ALJs would compete as excepted-service employees if 
+otherwise covered by part 351, while ALJs whose competitive-service 
+status is preserved under Sec.  6.8(d) would continue to be treated as 
+competitive-service employees for RIF purposes. This distinction 
+reflects the current legal structure of ALJ appointments and avoids 
+treating post-July 10, 2018 Schedule E ALJs as if they remained in the 
+competitive service.
+    Proposed Sec.  930.210(b) would also update the rule for 
+determining ALJ retention standing. Because agencies may not rate the 
+job performance of ALJs under Sec.  930.206, agencies may not prepare, 
+assign, or use an ALJ performance rating for RIF purposes. The proposed 
+rule would instead require agencies to determine ALJ performance credit 
+in accordance with the rules in part 351 governing employees who do not 
+have ratings of record. This approach preserves the prohibition on ALJ 
+performance ratings while allowing ALJs to be placed on retention 
+registers under the RIF framework. Section 3502 requires OPM to 
+prescribe RIF regulations that give due effect to tenure, military 
+preference, length of service, and efficiency or performance ratings; 
+the proposed rule applies that framework to ALJs without requiring 
+agencies to create ALJ ratings where another regulation prohibits them.
+    Proposed Sec.  930.210(c) would clarify assignment rights. 
+Competitive-service employees receive assignment rights under Sec.  
+351.701, but excepted-service assignment rights are discretionary under 
+Sec.  351.705 and may be provided only under agency procedures that are 
+consistent with part 351 and uniformly applied in the RIF. Accordingly, 
+proposed Sec.  930.210(c) would provide that Schedule E ALJs do not 
+have mandatory assignment rights under Sec.  351.701. An agency may, in 
+its discretion, provide Schedule E ALJs assignment rights under Sec.  
+351.705, but if the agency does not do so, it may release a Schedule E 
+ALJ from the competitive level in accordance with the order of release 
+under part 351 without offering assignment to another position. By 
+contrast, an ALJ whose competitive-service status is preserved under 
+Sec.  6.8(d) would remain subject to the competitive-service 
+assignment-right provisions in Sec.  351.701 while that status remains 
+preserved.
+    Proposed Sec.  930.210(d) would revise ALJ placement-assistance 
+provisions. Under current 5 CFR part 330, the RPL is a required 
+placement program for current and former competitive-service employees 
+who will be or were separated by RIF or who recovered from compensable 
+injury after more than one year. Accordingly, proposed Sec.  
+930.210(d)(1) would provide that an ALJ in the competitive service 
+whose status is preserved under Sec.  6.8(d) remains eligible for RPL 
+placement assistance under part 330 if reached in a RIF and issued a 
+separation notice.
+    For Schedule E ALJs, proposed Sec.  930.210(d)(2) would clarify 
+that a Schedule E ALJ who is separated, furloughed, or demoted by RIF 
+does not, solely by virtue of service in a Schedule E ALJ position or 
+appointment under 5 U.S.C. 3105, have a statutory entitlement to 
+priority consideration, priority referral, or reemployment as an ALJ. 
+This treatment aligns Schedule E ALJs with other excepted-service 
+employees separated by RIF. Under current OPM regulations, excepted 
+service employees separated or furloughed from continuing appointments 
+generally do not have a mandatory priority reemployment entitlement. 
+Current Sec.  302.303 requires a priority reemployment list for certain 
+categories, including preference-eligible former employees separated or 
+furloughed from continuing appointments without delinquency or 
+misconduct and certain compensable-injury cases, while agency priority 
+consideration for nonpreference eligibles separated or furloughed from 
+continuing appointments is discretionary.
+    Thus, the proposed rule would treat Schedule E ALJs like similarly 
+situated excepted-service employees: a Schedule E ALJ would not receive 
+a mandatory priority reemployment list or priority-
+
+[[Page 59084]]
+
+referral entitlement merely because the position is an ALJ position, 
+but the individual would retain any priority, restoration, or placement 
+right that arises from another source of law. Proposed Sec.  
+930.210(d)(3) would expressly preserve rights under 5 U.S.C. 8151, part 
+353, 5 U.S.C. 3315, 5 U.S.C. 3320, the Uniformed Services Employment 
+and Reemployment Rights Act (USERRA), a final order, or another 
+applicable statute, regulation, or binding legal authority. This 
+savings clause is intended to ensure, for example, that a preference-
+eligible Schedule E ALJ or an ALJ with compensable-injury restoration 
+rights receives any priority consideration required by the applicable 
+authority.
+    OPM also proposes to remove the current mandatory ALJ-specific OPM 
+priority referral list as a regulatory entitlement for Schedule E ALJs. 
+OPM has determined that this special list is no longer necessary as a 
+mandatory rule for employees appointed under Schedule E, particularly 
+because Schedule E ALJs are now part of the excepted service and 
+because current law does not provide an ALJ-specific statutory 
+reemployment entitlement after a RIF. Section 7521 provides special 
+good-cause protections for certain actions against ALJs, but expressly 
+excludes RIF actions under 5 U.S.C. 3502 from those procedures. RIF 
+actions involving ALJs are therefore governed by part 351 and Sec.  
+930.210, not by the good-cause procedures applicable to disciplinary or 
+adverse actions against ALJs. As a conforming change, OPM also proposes 
+to remove Sec.  930.201(e)(9), which describes OPM's authority to 
+maintain and administer the ALJ priority referral program under Sec.  
+930.210(c) and to redesignate the remaining paragraphs of Sec.  
+930.201(e) accordingly.
+    Finally, proposed Sec.  930.210(d)(4) would preserve flexibility 
+for OPM or agencies to establish discretionary placement-assistance 
+procedures for ALJs separated, furloughed, or demoted by RIF. Any such 
+discretionary procedure would have to be in writing and identify its 
+coverage, duration, order of consideration, geographic scope, 
+qualification requirements, and termination conditions. The proposed 
+rule would also clarify that discretionary placement assistance does 
+not create a statutory entitlement to priority consideration, priority 
+referral, or reemployment. This approach preserves agency and OPM 
+flexibility to provide additional assistance where appropriate, while 
+aligning mandatory reemployment-priority rights for Schedule E ALJs 
+with the treatment of other excepted-service employees under current 
+OPM regulations.
+    Proposed Sec.  930.211(c)(3) would conform the ALJ adverse-action 
+regulation by clarifying that Sec.  930.211 does not apply to RIF 
+actions taken under 5 U.S.C. 3502, part 351, and Sec.  930.210. This 
+change preserves the distinction between ALJ disciplinary or adverse 
+actions governed by 5 U.S.C. 7521 and RIF actions governed by 5 U.S.C. 
+3502, part 351, and Sec.  930.210.
+
+III. Requests for Comment
+
+    OPM requests comment on all aspects of this proposed rule. OPM is 
+especially interested in comments on the following issues.
+
+A. Governmentwide Schedule A and Schedule B Authorities That May Be 
+Obsolete, Duplicative, or Better Handled Differently
+
+    OPM requests comment on whether the following governmentwide 
+Schedule A authorities in Sec.  213.3102 remain necessary; whether any 
+should be removed, reserved, consolidated with another authority, or 
+converted to agency-specific Schedule A authorities; and whether 
+agencies currently rely on these authorities for mission-critical 
+hiring:
+    Sec.  213.3102(l)--temporary or intermittent professional, 
+scientific, or technical experts for consultation purposes;
+    Sec.  213.3102(n)--local physicians, surgeons, or dentists employed 
+under contract or on a part-time or fee basis;
+    Sec.  213.3102(o)--scientific, professional, or analytical 
+positions filled by bona fide faculty members of accredited colleges or 
+universities with special qualifications, with employment limited to 
+130 working days per year;
+    Sec.  213.3102(x) --positions filled by inmates of penal or 
+correctional institutions under work-release programs where a local 
+recruiting shortage exists;
+    Sec.  213.3102(aa)--temporary scientific and professional research 
+associate positions at GS-11 and above filled through the National 
+Research Council post-doctoral research associate program; and
+    Sec.  213.3102(ff)--not more than 24 positions filled under an 
+agreement between OPM and the Department of Justice (DOJ) by persons in 
+programs administered by the Attorney General under Public Law 91-452 
+and related statutes.
+    Current Sec.  213.3102 includes these authorities, including the 
+expert/consultant, local physician/surgeon/dentist, faculty, work-
+release, National Research Council associate, and DOJ program 
+authorities. OPM also requests comment on whether any of these 
+authorities overlap with other statutory or regulatory hiring 
+authorities, whether agencies continue to use them, and whether any 
+program-specific authority should be narrowed, modernized, or moved 
+from a governmentwide authority to an agency-specific authority.
+    OPM also requests comment on whether the governmentwide Schedule B 
+authority in Sec.  213.3202(n) remains necessary. That provision 
+applies to positions filled by preference eligibles or veterans 
+separated under honorable conditions after three or more years of 
+continuous active military service who applied under merit-promotion 
+procedures when applications were accepted from outside the agency's 
+own workforce; the regulation states that no new appointments may be 
+made under this authority after November 30, 1999. OPM requests comment 
+on whether this authority should be removed and reserved, retained only 
+for legacy status purposes, revised, or addressed through another 
+regulatory mechanism.
+    OPM may, in a final rule, remove, reserve, consolidate, or narrow 
+any of the identified authorities based on comments received, and 
+interested parties should comment now if they rely on any of these 
+authorities and would be affected by such action. Also, OPM requests 
+that agencies identify any current employees, mission-critical hiring 
+pipelines, workforce-planning needs, or legal obligations that would be 
+affected if any of these authorities were removed, reserved, 
+consolidated, narrowed, or converted to agency-specific authority.
+
+B. Additional Schedule A Authorities That May Warrant Exemption From 
+Part 302 Appointment Procedures
+
+    Proposed Sec.  302.101(c) would update the list of positions exempt 
+from the appointment procedures of part 302 while preserving the 
+principle of veterans' preference as far as administratively feasible 
+and preserving legally required restoration and priority-consideration 
+rights. OPM requests comment on whether additional governmentwide 
+Schedule A appointing authorities should be exempt from part 302 
+appointment procedures.
+
+C. Priority Consideration Framework in Part 302/Reliance Interests
+
+    OPM requests comment on whether the proposed priority-consideration 
+framework in Sec. Sec.  302.303 and 302.304 adequately preserves rights 
+of employees who are furloughed, separated by RIF or similar workforce
+
+[[Page 59085]]
+
+reduction action, or entitled to restoration or priority consideration 
+because of recovery from compensable injury. OPM also requests comment 
+on whether the proposed framework provides sufficient flexibility for 
+agencies while preserving veterans' preference and legally required 
+restoration and priority-placement rights.
+    OPM requests comment on whether the proposed rule, if finalized, 
+should apply only to vacancies announced on or after the effective 
+date, and how agencies should treat pending recruitment actions, 
+existing employment lists, certificates, priority reemployment lists, 
+and agency plans established under current part 302.
+    OPM further requests comment on any reliance interests implicated 
+by the proposed rule and will address them with particularity in any 
+final rule that it issues.
+
+IV. Expected Impact of This Proposed Rule
+
+A. Statement of Need
+
+    OPM is issuing this proposed rule to modernize and clarify the 
+regulations governing appointments in the excepted service while 
+preserving the statutory protections required by 5 U.S.C. 3320. Current 
+part 302 relies on legacy employment-list and order-of-consideration 
+procedures that are more complex than necessary to implement the 
+veterans' preference, rating, ranking, referral, and pass-over 
+requirements incorporated by 5 U.S.C. 3320. This proposed rule would 
+replace those procedures with a simpler, more transparent framework 
+that allows agencies to use numerical rating, category rating, or other 
+job-related procedures consistent with 5 U.S.C. 3308 through 3319, 
+while continuing to protect veterans' preference, compensable-injury 
+restoration rights, and other legally required priority-placement 
+rights. The rule is also needed to conform OPM's regulations to current 
+excepted-service schedules and related Executive orders, including 
+provisions governing Schedule E, Schedule G, Schedule Policy/Career, 
+Pathways conversions, career-transition exceptions, merit-promotion 
+rules, and ALJ appointments.
+
+B. Impact
+
+    This proposed rule would primarily affect Federal agencies and 
+Federal applicants or employees subject to the covered excepted service 
+appointment authorities. OPM expects the rule to reduce administrative 
+burden by simplifying part 302 appointment procedures and eliminating 
+legacy employment-list and order-of-consideration structures. Agencies 
+would retain responsibility for applying veterans' preference, 
+establishing job-related qualification requirements, identifying and 
+clearing priority candidates, documenting selection decisions, and 
+complying with restoration rights and other applicable law.
+    OPM expects the conforming amendments to part 213, part 317, part 
+359, part 362, part 432, part 550, part 731, part 920, and part 930 to 
+improve regulatory clarity by aligning the CFR with current Executive 
+orders, Pathways conversion policy, Schedule Policy/Career 
+implementation, Schedule G, and Schedule E ALJ appointments. OPM 
+requests comment on the expected implementation costs and benefits of 
+these changes, including any costs associated with revising agency 
+excepted service hiring procedures, updating human resources (HR) 
+systems and personnel-action coding, training HR staff and selecting 
+officials, and documenting priority-consideration and veterans' 
+preference determinations.
+
+C. Regulatory Alternatives
+
+    OPM considered retaining the current part 302 framework but 
+rejected that approach because the existing procedures are more complex 
+than necessary to implement the statutory requirements governing 
+veterans' preference and excepted service appointments. OPM also 
+considered preserving the employment-list and order-of-consideration 
+terminology while simplifying specific provisions, but concluded that a 
+more direct priority-consideration model would be clearer for agencies 
+and applicants and would better align part 302 with modern hiring 
+practices.
+    OPM further considered whether to address Schedule E, Schedule G, 
+Schedule Policy/Career, Pathways conversions, and ALJ conforming 
+amendments in separate rulemakings. OPM proposes to address them 
+together because the provisions interact across parts 213, 302, 317, 
+359, 362, 432, 550, 731, 920, and 930. Addressing them in a single 
+rulemaking promotes consistency and reduces the risk of conflicting 
+regulatory text.
+
+D. Costs
+
+    This proposed rule, once finalized, will affect the operations of 
+approximately 80 Federal agencies--ranging from cabinet-level 
+departments to small independent agencies. OPM will provide guidance on 
+implementing this proposed rule in the form of a fact sheet or 
+frequently asked questions. OPM estimates that this rulemaking will 
+require individuals employed by these agencies to modify policies and 
+procedures to implement the rulemaking and train HR practitioners and 
+hiring managers on its use. For this cost analysis, OPM assumed an 
+average salary rate of Federal employees performing this work using the 
+rate in 2025 for GS-14, step 5, from the Washington, DC, locality pay 
+table ($161,486 annual locality rate and $77.38 hourly locality rate). 
+We assumed that the total dollar value of labor, which includes wages, 
+benefits, and overhead, is equal to 200 percent of the wage rate, 
+resulting in an assumed labor cost of $154.76 per hour. To comply with 
+the regulatory changes in the proposed rule, affected agencies will 
+need to review the rule and update their policies and procedures. We 
+estimate that, in the first year following publication of any final 
+rule, doing so will require an average of 100 hours of work by 
+employees per agency with an average hourly cost of $154.76. This work 
+would result in estimated costs in that first year of implementation of 
+about $15,476 per agency, and about $1,238,080 in total governmentwide. 
+Some agencies may incur additional costs because they have to establish 
+excepted service employment policies where none have existed. We do not 
+believe this rulemaking will substantially increase the ongoing 
+administrative costs to agencies (including the administrative costs of 
+using these new procedures and training new staff) because the 
+rulemaking is streamlining existing procedures and processes.
+
+E. Benefits
+
+    OPM expects this proposed rule to improve the clarity, consistency, 
+and administrability of excepted service hiring regulations. The 
+proposal would replace legacy employment-list and order-of-
+consideration procedures in part 302 with a more direct framework for 
+identifying qualified applicants, applying veterans' preference, 
+clearing priority candidates, documenting selection decisions, and 
+preserving restoration and other legally required placement rights. 
+This simplified structure should reduce agency burden, make excepted-
+service hiring procedures easier for HR staff and selecting officials 
+to apply, and improve transparency for applicants and employees. The 
+proposed amendments to parts 213, 317, 359, 362, 432, 550, 731, 920, 
+and 930 would also align OPM's regulations with current excepted-
+service schedules, Pathways
+
+[[Page 59086]]
+
+conversion rules, Schedule Policy/Career implementation, Schedule G, 
+and Schedule E ALJ appointments, reducing ambiguity and the risk of 
+inconsistent agency application. Overall, OPM expects the rule to 
+support faster and more reliable hiring administration while preserving 
+the statutory protections that apply to excepted service appointments.
+
+F. Severability
+
+    If any provision of this rule is held to be invalid or 
+unenforceable by its terms, or as applied to any person or 
+circumstance, OPM intends that it shall be severable from its 
+respective section(s) and shall not affect the remainder thereof or the 
+application of the provision to other persons not similarly situated or 
+to other dissimilar circumstances, unless such holding is that the 
+provision is invalid and unenforceable in all circumstances, in which 
+event the provision shall be severable from the remainder of this part 
+and shall not affect the remainder thereof. Should provisions related 
+to one of the sections be held to be invalid we believe that the other 
+sections should be severable and would not be impacted.
+
+V. Regulatory Compliance
+
+1. Regulatory Review
+
+    OPM has examined the impact of this rule as required by E.O.s 12866 
+and 13563, which direct agencies to assess all costs and benefits of 
+available regulatory alternatives and, if regulation is necessary, to 
+select regulatory approaches that maximize net benefits (including 
+potential economic, environmental, public, health, and safety effects, 
+distributive impacts, and equity). A regulatory impact analysis must be 
+prepared for rules that have an annual effect on the economy of $100 
+million or more or adversely affect in a material way the economy, a 
+sector of the economy, productivity, competition, jobs, the 
+environment, public health or safety, or State, local, or tribal 
+governments or communities. This rulemaking does not reach that 
+threshold but has otherwise been designated as a ``significant 
+regulatory action'' under section 3(f) of E.O. 12866, as supplemented 
+by E.O. 13563. This rulemaking is not expected to be considered an E.O. 
+14192 regulatory action because it imposes no more than de minimis 
+costs.
+
+2. Regulatory Flexibility Act
+
+    The Director of the Office of Personnel Management certifies that 
+this regulation will not have a significant impact on a substantial 
+number of small entities because it applies only to Federal agencies 
+and employees.
+
+3. Federalism
+
+    OPM has examined this proposed rule under E.O. 13132 and has 
+determined that it will not have substantial direct effects on the 
+States, on the relationship between the National Government and the 
+States, or on the distribution of power and responsibilities among the 
+various levels of government.
+
+4. Civil Justice Reform
+
+    This rule meets the applicable standard set forth in section 3(a) 
+and (b)(2) of E.O. 12988.
+
+5. Unfunded Mandates Reform Act of 1995
+
+    Section 202 of the Unfunded Mandates Reform Act of 1995 requires 
+that agencies assess anticipated costs and benefits before issuing any 
+rule that would impose spending costs on State, local, or tribal 
+governments in the aggregate, or on the private sector, in any 1 year 
+of $100 million in 1995 dollars, updated annually for inflation. That 
+threshold is currently approximately $193 million. This rulemaking will 
+not result in the expenditure by State, local, or tribal governments, 
+in the aggregate, or by the private sector, in excess of the threshold. 
+Thus, no written assessment of unfunded mandates is required.
+
+6. Congressional Review Act
+
+    OPM will submit the final rule, if issued, to Congress and the 
+Comptroller General under 5 U.S.C. 801. OPM has preliminarily 
+determined that this proposed rule would not be a ``major rule'' as 
+defined in 5 U.S.C. 804(2).
+
+7. Paperwork Reduction Act (PRA)
+
+    This proposed rule does not impose a new collection of information 
+from the public within the meaning of the Paperwork Reduction Act of 
+1995, as amended (44 U.S.C. 3501 et seq.). The proposed rule primarily 
+governs internal Federal agency personnel procedures, documentation, 
+and administration. Notwithstanding any other provision of law, no 
+person is required to respond to, nor shall any person be subject to a 
+penalty for failure to comply with, a collection of information subject 
+to the requirements of the PRA unless that collection of information 
+displays a currently valid Office of Management and Budget (OMB) 
+Control Number.
+
+List of Subjects
+
+5 CFR Part 213
+
+    Government employees, Reporting and recordkeeping requirements.
+
+5 CFR Part 302
+
+    Administrative practice and procedure, Authority delegations 
+(Government agencies), Government contracts, Government employees, 
+Investigations.
+
+5 CFR Part 317
+
+    Administrative practice and procedure, Government employees.
+
+5 CFR Part 359
+
+    Government employees.
+
+5 CFR Part 362
+
+    Administrative practice and procedure, Colleges and universities, 
+Government employees.
+
+5 CFR Part 432
+
+    Government employees.
+
+5 CFR Part 550
+
+    Administrative practice and procedure, Claims, Government 
+employees, Wages.
+
+5 CFR Part 731
+
+    Administrative practice and procedure, Authority delegations 
+(Government agencies), Government contracts, Government employees, 
+Investigations.
+
+5 CFR Part 920
+
+    Administrative practice and procedure, Government employees.
+
+5 CFR Part 930
+
+    Administrative practice and procedure, Computer technology, 
+Government employees, Motor vehicles.
+
+    Office of Personnel Management.
+Alexys Stanley,
+Federal Register Liaison.
+    Accordingly, for the reasons stated in the preamble, OPM proposes 
+to amend 5 CFR parts 213, 302, 317, 359, 362, 432, 550, 731, 920, and 
+930 as follows:
+
+PART 213--EXCEPTED SERVICE
+
+0
+1. The authority citation for part 213 is revised to read as follows:
+
+    Authority:  5 U.S.C. 3161, 3301, and 3302; 38 U.S.C. 4301 et 
+seq.; E.O. 10577, 19 FR 7521, 3 CFR, 1954-1958 Comp., p. 218; E.O. 
+13843, 83 FR 32755; E.O. 14171, 90 FR 8625; E.O. 14317, 90 FR 34753; 
+E.O. 14410, 91 FR 34893.
+    Sec. 213.101 also issued under 5 U.S.C. 2103.
+    Sec. 213.3102 also issued under 5 U.S.C. 3307, 8337(h), and 
+8456; 38 U.S.C. 4301 et
+
+[[Page 59087]]
+
+seq.; E.O. 12125, 44 FR 16879, 3 CFR, 1979 Comp., p. 375; E.O. 
+13124, 64 FR 31103, 3 CFR, 1999 Comp., p. 192; E.O. 13562, 75 FR 
+82585, 3 CFR, 2010 Comp., p. 291; E.O. 14217, 90 FR 10577; and 
+Presidential Memorandum of May 11, 2010, 75 FR 27157, 3 CFR, 2010 
+Comp., p. 327.
+    Sec. 213.3202 also issued under 5 U.S.C. 3304.
+
+Subpart A--General Provisions
+
+0
+2. Amend Sec.  213.102 by revising the section heading and paragraph 
+(b)(3)(i) to read as follows:
+
+
+Sec.  213.102  Identification of positions in Schedules A, B, C, D, or 
+G.
+
+* * * * *
+    (b) * * *
+    (3) * * *
+    (i) Upon determining that any position or group of positions, as 
+defined in paragraph (c) of this section, should be excepted 
+indefinitely or temporarily from the competitive service, the Office of 
+Personnel Management will authorize placement of the position or group 
+of positions into Schedule A, B, C, D, or G, as applicable. Unless 
+otherwise specified in a particular appointing authority, an agency may 
+make Schedule A, B, C, D, or G appointments on either a permanent or 
+nonpermanent basis, with any appropriate work schedule (i.e., full-
+time, part-time, seasonal, on-call, or intermittent).
+* * * * *
+0
+3. Revise Sec.  213.103 to read as follows:
+
+
+Sec.  213.103  Publication of excepted appointing authorities in 
+Schedules A, B, C, D, E, Policy/Career, and G.
+
+    (a) Schedule A, B, C, D, E, Policy/Career, and G appointing 
+authorities available for use by all agencies will be published as 
+regulations in the Federal Register and the Code of Federal 
+Regulations.
+    (b) OPM will publish annually, as a notice in the Federal Register, 
+a consolidated listing of all agency-specific Schedule A, B, C, Policy/
+Career, and G authorities current as of June 30 of each year, with 
+assigned authority numbers or other unique identifiers. The annual 
+notice will also identify agency-specific authorities established, 
+modified, or revoked during the preceding reporting period. OPM may 
+publish additional notices concerning agency-specific authorities when 
+OPM determines that additional notice would promote sound 
+administration or public transparency.
+0
+4. Amend Sec.  213.104 by revising the section heading and paragraphs 
+(a) introductory text, (a)(1), (a)(2), (b)(1), and (b)(3)(iii) to read 
+as follows:
+
+
+Sec.  213.104  Special provisions for temporary, time-limited, 
+intermittent, or seasonal appointments in Schedule A, B, C, D, or G.
+
+    (a) When OPM specifies that appointments under a particular 
+Schedule A, B, C, D, or G authority must be temporary, intermittent, or 
+seasonal, or when agencies elect to make temporary, intermittent, or 
+seasonal appointments in Schedule A, B, C, D, or G, those terms have 
+the following meaning:
+    (1) Temporary appointments, unless otherwise specified in a 
+particular Schedule A, B, C, D, or G exception, are made for a 
+specified period not to exceed 1 year and are subject to the time 
+limits in paragraph (b) of this section. Time-limited appointments made 
+for more than 1 year are not considered to be temporary appointments 
+and are not subject to these time limits.
+    (2) Intermittent positions are positions without a regular tour of 
+duty.
+* * * * *
+    (b) * * *
+    (1) Service limits. Agencies may make temporary appointments for a 
+period not to exceed 1 year, unless the applicable Schedule A, B, C, D, 
+or G authority specifies a shorter period. Except as provided in 
+paragraph (b)(3) of this section, agencies may extend temporary 
+appointments for no more than 1 additional year (24 months of total 
+service). Appointment to a successor position (i.e., a position that 
+replaces and absorbs the original position) is considered to be an 
+extension of the original appointment. Appointment to a position 
+involving the same basic duties, in the same major subdivision of the 
+agency, and in the same local commuting area is also considered to be 
+an extension of the original appointment.
+* * * * *
+    (3) * * *
+    (iii) OPM may approve extension of specific temporary appointments 
+beyond 2 years (24 months total service) for specific positions, 
+projects or other unusual circumstances.
+
+Subpart C--Excepted Schedules
+
+Schedule A
+
+0
+5. Amend Sec.  213.3102 by revising paragraphs (i)(1) and (u) to read 
+as follows:
+
+
+Sec.  213.3102  Entire executive civil service.
+
+* * * * *
+    (i) * * *
+    (1) Positions in remote/isolated locations where examination is 
+impracticable. A remote/isolated location is outside the local 
+commuting area of a population center from which an employee can 
+reasonably be expected to travel on short notice under adverse weather 
+or road conditions that are normal for the area. For this purpose, a 
+population center is a town with housing, schools, health care, stores 
+and other businesses in which the government can reasonably expect to 
+attract applicants. An individual appointed under this authority may 
+not be employed in the same agency under a combination of this and any 
+other appointment to positions involving related duties and requiring 
+the same qualifications for more than 1,040 working hours in a service 
+year. Temporary appointments under this authority may be extended in 1-
+year increments, with no limit on the number of such extensions, as an 
+exception to the service limits in Sec.  213.104.
+* * * * *
+    (u) Appointment of persons with intellectual disabilities, severe 
+physical disabilities, or psychiatric disabilities --
+    (1) Purpose. An agency may appoint, on a permanent, time-limited, 
+or temporary basis, a person with an intellectual disability, a severe 
+physical disability, or a psychiatric disability according to the 
+provisions described below.
+    (2) Proof of disability.
+    (i) An agency must require proof of an applicant's intellectual 
+disability, severe physical disability, or psychiatric disability prior 
+to making an appointment under this section.
+    (ii) An agency may accept, as proof of disability, appropriate 
+documentation (e.g., records, statements, or other appropriate 
+information) issued by a licensed medical professional (e.g., a 
+physician or other medical professional duly certified by a State, the 
+District of Columbia, or a U.S. territory, to practice medicine); a 
+licensed vocational rehabilitation specialist (State or private); or 
+any Federal agency, State agency, or an agency of the District of 
+Columbia or a U.S. territory that issues or provides disability 
+benefits.
+    (3) Permanent or time-limited employment options. An agency may 
+make permanent or time-limited appointments under this paragraph (u)(3) 
+where an applicant supplies proof of disability as described in 
+paragraph (u)(2) of this section and the agency determines that the 
+individual is likely to succeed in performing the duties of the 
+position for which he or she is applying. In determining whether the 
+individual is likely to succeed in performing the duties of the 
+position, the agency may rely upon the
+
+[[Page 59088]]
+
+applicant's employment, educational, or other relevant experience, 
+including but not limited to service under another type of appointment 
+in the competitive or excepted services.
+    (4) Temporary employment options. An agency may make a temporary 
+appointment when:
+    (i) The agency determines that it is necessary to observe the 
+applicant on the job to determine whether the applicant is able or 
+ready to perform the duties of the position. When an agency uses this 
+option to determine an individual's job readiness, the hiring agency 
+may convert the individual to a permanent appointment in the excepted 
+service whenever the agency determines the individual is able to 
+perform the duties of the position; or
+    (ii) The work is of a temporary nature.
+    (5) Noncompetitive conversion to the competitive service.
+    (i) An agency may noncompetitively convert to the competitive 
+service an employee who has completed 2 years of satisfactory service 
+under this authority in accordance with the provisions of Executive 
+Order 12125, as amended by Executive Order 13124, and Sec.  315.709 of 
+this chapter, except as provided in paragraph (u)(5)(ii) of this 
+section.
+    (ii) Time spent on a temporary appointment specified in paragraph 
+(u)(4)(ii) of this section does not count towards the 2-year 
+requirement.
+* * * * *
+
+
+Sec.  213.3301  [Amended]
+
+0
+6. Amend Sec.  213.3301 by removing the phrase ``number from 213.3302 
+through 213.3399, or other appropriate number,'' in paragraph (a) and 
+adding in its place the phrase ``unique identifier''.
+0
+7. Amend Sec.  213.3402 by revising paragraph (b) to read as follows:
+
+
+Sec.  213.3402  Entire executive civil service; Pathways Programs.
+
+* * * * *
+    (b) Recent Graduates Program; Positions in the Recent Graduates 
+Program.
+    (1) Except as provided in paragraph (b)(2) of this section, initial 
+appointments of Recent Graduates may be made at any grade level, not to 
+exceed GS-11 (or equivalent level under another pay and classification 
+system, including the Federal Wage System (FWS)), depending on the 
+candidates' qualifications.
+    (2) Initial appointments may be made to scientific and professional 
+research positions at the GS-12 level for which the classification and 
+qualification criteria for research positions apply, if the candidate 
+possesses a Ph.D. or equivalent degree directly related to the position 
+the agency is seeking to fill.
+    (3) Appointments must be made in accordance with the provisions of 
+subpart C of part 362 of this chapter.
+0
+8. Add a new undesignated center heading after Sec.  213.3402 to read 
+as follows:
+
+SCHEDULE E
+
+0
+9. Add new Sec.  213.3501 below the undesignated heading SCHEDULE E to 
+read as follows:
+
+
+Sec.  213.3501  Positions of administrative law judge appointed under 5 
+U.S.C. 3105.
+
+    (a) An agency may appoint an individual under this section only to 
+an administrative law judge position appointed under 5 U.S.C. 3105. 
+Positions filled under this section are excepted from the competitive 
+service and constitute Schedule E.
+    (b) A new appointment to an administrative law judge position made 
+on or after July 10, 2018, must be made under Schedule E. This section 
+does not alter the status of an incumbent administrative law judge 
+whose competitive-service status is preserved under Sec.  6.8(d) of 
+this chapter.
+    (c) An appointment under this section is not subject to the 
+appointment procedures of part 302 of this chapter, including 
+examination and rating procedures. Each agency shall follow the 
+principle of veterans' preference as far as administratively feasible.
+    (d) Appointments under this section must comply with Sec.  6.3(b) 
+of this chapter. At the time of application and any new appointment, an 
+individual, other than an incumbent administrative law judge, must 
+possess a professional license to practice law and be authorized to 
+practice law under the laws of a State, the District of Columbia, the 
+Commonwealth of Puerto Rico, or a territorial court established under 
+the Constitution of the United States, subject to the license-status 
+provisions in Sec.  6.3(b) of this chapter.
+    (e) Appointments and personnel actions under this section remain 
+subject to applicable statutory and regulatory requirements governing 
+administrative law judges, including 5 U.S.C. 3105, 5 U.S.C. 7521, and 
+subpart B of part 930 of this chapter.
+    (f) An individual appointed under this section is not subject to a 
+trial period under part 11 of this chapter.
+0
+10. Amend Sec.  213.3601 by:
+0
+a. Revising paragraphs (b) and (c);
+0
+b. Removing paragraph (d) and redesignating paragraphs (e) and (f) as 
+paragraphs (d) and (e), respectively; and
+0
+c. Revising newly redesignated paragraph (e) and adding paragraph (f) 
+to read as follows:
+
+
+Sec.  213.3601  Career positions of a confidential, policy-determining, 
+policy-making, or policy-advocating character.
+
+* * * * *
+    (b)(1) Except as provided in paragraph (c) of this section, 
+agencies must make appointments to positions in Schedule Policy/Career 
+of the excepted service in the same manner as to positions in the 
+competitive service, to include:
+    (i) Public notification of job opportunities;
+    (ii) Applicant evaluation based on valid, job-related assessments; 
+and
+    (iii) Selections of highly qualified individuals based on merit.
+    (2) In making appointments under paragraph (b)(1) of this section, 
+agencies must follow the principles of veterans' preference as far as 
+administratively feasible based on the rating, ranking, and selection 
+processes used for making appointments. Where numerical ratings are 
+used in the evaluation and referral of candidates, agencies shall 
+follow the regulations related to veterans' preference in part 302 and 
+subpart A of part 337 of this chapter, as applicable. When category 
+rating is used, agencies shall follow the procedures related to 
+veterans' preference in part 302 and subpart C of part 337 of this 
+chapter. Where another process is used in accordance with Sec.  302.105 
+of this chapter, veteran status must be considered a positive factor.
+    (c) Agencies must make appointments to positions in Schedule 
+Policy/Career of the excepted service that, but for their placement in 
+Schedule Policy/Career, would be listed in another excepted service 
+schedule pursuant to the rules applicable to such positions in the 
+corresponding schedule, including the application of veterans' 
+preference as far as administratively feasible.
+* * * * *
+    (e) Individuals appointed to positions in Schedule Policy/Career 
+are not subject to trial periods under part 11 of this chapter. An 
+individual appointed under paragraph (b) of this section in the same 
+manner as an appointment in the competitive service acquires 
+competitive status after completing 2 years of continuing service in 
+the same or similar positions. Nothing in this paragraph limits the 
+retention of competitive status under Sec.  1.3(d) of this chapter or 
+the acquisition of competitive status under Sec.  3.1(a)(5) or Sec.  
+6.8(e) of this chapter.
+    (f) To the extent permitted by the statute governing the position 
+and any applicable Executive order, a position in a statutory personnel 
+system outside title 5, United States Code, may be designated as 
+Schedule Policy/Career if the position is of a confidential, policy-
+
+[[Page 59089]]
+
+determining, policy-making, or policy-advocating character. For a 
+position described in this paragraph that is otherwise covered by 
+chapters 23, 43, or 75 of title 5, designation in Schedule Policy/
+Career affects coverage under those chapters to the extent provided by 
+5 U.S.C. 2302(a)(2)(B)(i), 4301(2)(G), 4303(e)(3), and 7511(b)(2), and 
+applicable implementing regulations. Such designation does not 
+otherwise alter the governing statutory personnel system unless 
+expressly provided by statute, Executive order, or regulation.
+0
+11. Add a new undesignated center heading after Sec.  213.3601 to read 
+as follows:
+
+SCHEDULE G
+
+0
+12. Add new Sec.  213.3701 below the undesignated heading SCHEDULE G to 
+read as follows:
+
+
+Sec.  213.3701  Positions of a policy-making or policy-advocating 
+character normally subject to change as a result of a Presidential 
+transition.
+
+    Upon specific authorization by OPM, agencies may make appointments 
+under this section to noncareer positions that are of a policy-making 
+or policy-advocating character and are normally subject to change as a 
+result of a Presidential transition. Positions filled under this 
+authority are excepted from the competitive service and constitute 
+Schedule G. Each position will be assigned a unique identifier to be 
+used by the agency in recording appointments made under that 
+authorization.
+
+PART 302--EMPLOYMENT IN THE EXCEPTED SERVICE
+
+0
+13. The authority citation for part 302 is revised to read as follows:
+
+    Authority:  5 U.S.C. 1103, 1104, 1302, 3301, 3302, 3308, 3309, 
+3313, 3315, 3317, 3318, 3319, 3320, and 8151; E.O. 10577, 19 FR 
+7521, 3 CFR, 1954-1958 Comp., p. 218; E.O. 14171, 90 FR 8625.
+    Sec. 302.105 also issued under 5 U.S.C. 1104 and sec. 3(5), Pub. 
+L. 95-454, 92 Stat. 1112.
+    Sec. 302.107 also issued under 5 U.S.C. 9201-9206 and sec. 
+1122(b)(1), Pub. L. 116-92, 133 Stat. 1605.
+    Secs. 302.108 and 302.203 also issued under E.O. 13764, 82 FR 
+8115, 3 CFR, 2017 Comp., p. 243.
+    Subparts E and F also issued under 5 U.S.C. 3318(c), 3319(c), 
+and 3320; sec. 2(d), Pub. L. 114-137, 130 Stat. 312 (5 U.S.C. 3318 
+note).
+    Sec. 302.701 also issued under 5 U.S.C. chapter 77.
+
+Subpart A--General Provisions
+
+0
+14. Revise Sec.  302.101 to read as follows:
+
+
+Sec.  302.101  Positions covered by regulations.
+
+    (a) Positions covered. With respect to the application of veterans' 
+preference, this part applies to each position in the executive branch 
+of the Federal Government that is not in the competitive service and 
+that is subject to title 5, United States Code, or subject to a 
+statutory requirement to follow the veterans' preference provisions of 
+title 5. With respect to restoration rights due to compensable injury 
+and appeals therefrom, this part applies to positions covered by 5 
+U.S.C. 8101(1) that are not in the competitive service.
+    (b) Positions not covered. This part does not apply to a position 
+or appointment that is required by the Congress to be confirmed by, or 
+made with the advice and consent of, the Senate.
+    (c) Positions exempt from appointment procedures. An agency is not 
+required to apply the examination, rating, ranking, referral, and 
+selection procedures of this part to the following positions or 
+appointments. Each agency shall, however, follow the principle of 
+veterans' preference as far as administratively feasible and, upon 
+request of a qualified and available preference eligible, shall provide 
+the reasons for the individual's nonselection. Nothing in this 
+paragraph relieves an agency of any restoration, reemployment, or 
+priority consideration obligation required by 5 U.S.C. 8151, part 353 
+of this chapter, this part, a final order, or other applicable law.
+    (1) Positions filled by persons appointed without pay or at pay of 
+$1 a year.
+    (2) Positions outside the continental United States and outside the 
+State of Hawaii and the Commonwealth of Puerto Rico when filled by 
+persons resident in the locality, and positions in the State of Hawaii 
+and the Commonwealth of Puerto Rico when paid in accordance with 
+prevailing wage rates.
+    (3) Positions that the exigencies of the national defense program 
+require to be filled immediately before qualified applicants can be 
+identified or considered, provided that appointments under this 
+paragraph are temporary and may not exceed 1 year, with not more than 1 
+additional year of extension.
+    (4) Positions filled by appointees serving on an irregular or 
+occasional basis whose hours or days of work are not based on a 
+prearranged schedule and who are paid only for the time actually 
+employed or for services actually performed.
+    (5) Positions paid on a fee basis.
+    (6) Attorney positions.
+    (7) Law clerk trainee positions filled under Sec.  213.3102(e) of 
+this chapter.
+    (8) Positions OPM excepts from the competitive service under Sec.  
+6.1 of this chapter when OPM agrees with the agency that the positions 
+should be included hereunder and provides in writing that an agency is 
+not required to fill positions according to the procedures in this 
+part.
+    (9) Positions included in Schedule C and Schedule G.
+    (10) Administrative law judge positions in Schedule E.
+    (11) Confidential, policy-determining, policy-making, or policy-
+advocating positions filled under Schedule Policy/Career. Appointments 
+under this authority must be made in accordance with the provisions of 
+Sec.  213.3601 of this chapter.
+    (12) Positions filled by reemployment of an individual in the same 
+agency, at the same or lower grade or pay level, and under the same 
+appointing authority as the position last held.
+    (13) Positions in remote or isolated locations when filled under 
+Sec.  213.3102(i)(1) of this chapter.
+    (14) Positions for which a critical hiring need exists when filled 
+under Sec.  213.3102(i)(2) of this chapter.
+    (15) Positions filled under Sec.  213.3102(u) of this chapter by 
+persons with intellectual disabilities, severe physical disabilities, 
+or psychiatric disabilities.
+0
+15. Revise Sec.  302.103 to read as follows:
+
+
+Sec.  302.103  Definitions.
+
+    For purposes of this part:
+    Person entitled to priority consideration means an individual who 
+is entitled to priority consideration for appointment under 5 U.S.C. 
+8151, part 353 of this chapter, Sec. Sec.  302.303 and 302.304, a final 
+order, or other applicable statute, regulation, or binding legal 
+authority.
+0
+16. Revise Sec.  302.104 to read as follows:
+
+
+Sec.  302.104  Applicability of regulations to applicants and 
+employees.
+
+    Except as otherwise authorized in this chapter, an agency must 
+apply the provisions of this part necessary to accord veterans' 
+preference and priority consideration whenever a qualified preference 
+eligible or a person entitled to priority consideration applies for 
+appointment to a position covered by this part. When no qualified 
+preference eligible or person entitled to priority consideration 
+applies, the agency may use any lawful appointing procedure consistent 
+with the applicable excepted service authority.
+
+[[Page 59090]]
+
+0
+17. Revise Sec.  302.105 to read as follows:
+
+
+Sec.  302.105  Alternative procedures.
+
+    (a) General. An agency may use an alternative procedure for 
+accepting, evaluating, referring, or selecting applicants for positions 
+subject to this part if the procedure is in writing, is applied 
+uniformly, is consistent with merit system principles, and provides 
+preference eligibles and persons entitled to priority consideration at 
+least as much advantage in consideration, referral, and selection as 
+they would receive under the procedures otherwise set forth in this 
+part.
+    (b) Contents. An alternative procedure must describe--
+    (1) The positions or appointing authorities covered;
+    (2) The method for accepting applications or expressions of 
+interest;
+    (3) The method for determining qualifications and evaluating 
+applicants;
+    (4) The method for applying veterans' preference;
+    (5) The method for identifying and considering persons entitled to 
+priority consideration;
+    (6) The documentation the agency will maintain; and
+    (7) The circumstances under which the agency may use an exception 
+to selection of a person entitled to priority consideration or pass 
+over a preference eligible.
+    (c) OPM review. OPM may require an agency to submit an alternative 
+procedure for review and may require the agency to modify or 
+discontinue any procedure that does not satisfy this section.
+    (d) No waiver of law. An alternative procedure may not waive any 
+statutory requirement, including any requirement concerning veterans' 
+preference, pass-over of preference eligibles, restoration rights, 
+priority consideration, suitability, fitness, or prohibited personnel 
+practices.
+    (e) OPM-led pooled hiring actions. When OPM administers an OPM-led 
+pooled hiring action under subpart F of this part, OPM may establish 
+procedures, consistent with 5 U.S.C. 3317(b), 5 U.S.C. 3318, 5 U.S.C. 
+3319, 5 U.S.C. 3320, and this part, for the rating, ranking, and 
+selection of eligible candidates by participating agencies.
+0
+18. Revise Sec.  302.106 to read as follows:
+
+
+Sec.  302.106  Vacancy announcements.
+
+    (a) This section does not require an agency to issue a public 
+vacancy announcement unless public notice is required by statute, 
+regulation, the applicable appointing authority, or agency policy.
+    (b) When an agency announces a vacancy for a position covered by 
+this part, the announcement must also provide, as applicable, 
+instructions for claiming veterans' preference and priority 
+consideration.
+    (c) When an agency announces a vacancy in the excepted service, the 
+announcement must include a reasonable accommodation statement that 
+complies with part 330, subpart A of this chapter.
+
+Subpart B--Eligibility Standards
+
+0
+19. Revise Sec.  302.201 to read as follows:
+
+
+Sec.  302.201  Persons entitled to veterans' preference.
+
+    In actions subject to this part, each agency shall grant veterans' 
+preference as follows:
+    (a) Numerical rating. When numerical scores are used in evaluation 
+and referral, the agency shall grant 5 additional points to preference 
+eligibles under 5 U.S.C. 2108(3)(A) and (B), and 10 additional points 
+to preference eligibles under 5 U.S.C. 2108(3)(C) through (G), 
+consistent with 5 U.S.C. 3309.
+    (b) Category rating. When quality categories are used in evaluation 
+and referral, preference eligibles do not receive additional points. 
+The agency must apply veterans' preference consistent with 5 U.S.C. 
+3319(b) and (c)(6). Within each quality category, preference eligibles 
+must be listed ahead of individuals who are not preference eligibles. 
+For positions other than scientific and professional positions at the 
+GS-9 level or equivalent or higher, qualified preference eligibles with 
+a compensable service-connected disability of 10 percent or more must 
+be listed in the highest quality category.
+    (c) Alternative procedures. When an agency uses an alternative 
+procedure under Sec.  302.105, the agency must provide preference 
+eligibles at least as much advantage in evaluation, referral, and 
+selection as they would receive under the procedures otherwise set 
+forth in this part.
+0
+20. Revise Sec.  302.202 to read as follows:
+
+
+Sec.  302.202  Qualification requirements.
+
+    (a) General. Before making an appointment to a position covered by 
+this part, each agency must establish qualification requirements that 
+are job-related and consistent with the duties to be performed. 
+Qualification requirements may include requirements relating to 
+experience, training, competencies, knowledge, skills, abilities, 
+citizenship, minimum age, physical condition, or other lawful job-
+related factors.
+    (b) Documentation and uniform application. Each agency must make 
+its qualification requirements a matter of record, include the 
+requirements in any vacancy announcement for the position, apply the 
+requirements uniformly to all applicants, and furnish information 
+concerning the requirements to an applicant upon request.
+    (c) Minimum education. An agency may not include a minimum 
+educational requirement in qualification requirements unless the 
+position is scientific, technical, or professional and the agency 
+determines that the duties of the position cannot be performed by a 
+person who does not have the prescribed minimum education.
+    (d) Maximum age. An agency may not establish a maximum age 
+requirement for a position unless the requirement is authorized by 
+statute or OPM regulation.
+    (e) Waiver for preference eligibles. Qualification requirements 
+must include--
+    (1) A provision for waiver by the agency of requirements as to age, 
+height, and weight for each preference eligible when the requirements 
+are not essential to performance of the duties of the position; and
+    (2) A provision for waiver by the agency of physical requirements 
+for each preference eligible when the agency, after giving due 
+consideration to the recommendation of an accredited physician, finds 
+that the applicant is physically able to discharge the duties of the 
+position.
+
+Subpart C--Accepting, Rating, and Arranging Applications
+
+0
+21. Revise Sec.  302.301 to read as follows:
+
+
+Sec.  302.301  Receipt of applications.
+
+    (a) Each agency shall determine the methods it will use to provide 
+information concerning opportunities to apply for positions covered by 
+this part. The agency shall provide applicants with information on how 
+to apply, a description of the duties of the position, the applicable 
+qualification requirements, and any other job-related information the 
+agency determines is necessary.
+    (b) Each agency shall establish definite policies and procedures 
+regarding the acceptance of applications for positions covered by this 
+part and shall make those policies and procedures a matter of record.
+    (c) Each agency shall apply its application policies and procedures
+
+[[Page 59091]]
+
+uniformly to all applicants being considered for employment and shall 
+furnish information concerning those policies and procedures to an 
+applicant upon request.
+    (d) When an agency fills a position covered by this part and 
+priority consideration under Sec.  302.303 may apply, the agency shall 
+provide a means for individuals claiming priority consideration to 
+identify their eligibility and submit the information necessary for the 
+agency to determine whether they are priority candidates for the 
+vacancy.
+0
+22. Revise Sec.  302.302 to read as follows:
+
+
+Sec.  302.302  Examination and evaluation of applicants.
+
+    (a) General. An agency may evaluate the qualifications of 
+applicants for positions covered by this part at any time before an 
+appointment is made. The evaluation must be job-related and may be 
+conducted using numerical rating, category rating, or an alternative 
+evaluation method authorized under Sec.  302.105, unless otherwise 
+exempt from the procedures of this part under Sec.  302.101.
+    (b) Record of evaluation method. The agency shall make the 
+evaluation method used to rate and rank applicants a matter of record 
+and shall make information concerning that method available to an 
+applicant upon request.
+    (c) Numerical rating. When an agency uses numerical rating, scores 
+must be assigned on a scale of 100. An applicant must meet the 
+qualification requirements established under Sec.  302.202 and receive 
+an eligible rating of 70 or more to be eligible for appointment. 
+Candidates with eligible ratings must receive additional points for 
+veterans' preference as provided in Sec.  302.201.
+    (d) Category rating. When an agency uses category rating, the 
+agency must establish and define at least two quality categories before 
+accepting applications. The quality categories must reflect the 
+requirements to perform the job successfully and must distinguish 
+differences in the quality of candidates' job-related competencies, 
+knowledge, skills, and abilities. An agency may not establish a ``not 
+qualified'' category. Only qualified applicants may be placed in a 
+quality category. Veterans' preference must be applied as provided in 
+Sec.  302.201 and 5 U.S.C. 3319.
+    (e) Alternative evaluation methods. When an agency uses an 
+alternative evaluation method authorized under Sec.  302.105, the 
+agency must apply the method in accordance with its written alternative 
+procedure and must ensure that preference eligibles and persons 
+entitled to priority consideration receive at least as much advantage 
+in referral or selection as they would receive under the procedures 
+otherwise set forth in this part.
+    (f) Nonpreference applicants for certain positions. An agency may 
+not consider or rate an application for the position of elevator 
+operator, messenger, guard, or custodian submitted by a nonpreference 
+eligible as long as at least three qualified preference eligibles are 
+available for the position.
+    (g) Evaluating experience. When experience is a factor in 
+determining eligibility, an agency shall credit a preference eligible 
+--
+    (1) With time spent in the military service of the United States if 
+the position for which the preference eligible is applying is similar 
+to the position the preference eligible held immediately before 
+entering military service; and
+    (2) With all valuable experience, including experience gained in 
+religious, civic, welfare, service, and organizational activities, 
+regardless of whether pay was received therefor.
+0
+23. Revise Sec.  302.303 to read as follows:
+
+
+Sec.  302.303  Priority consideration.
+
+    (a) General. An agency shall maintain documented procedures 
+sufficient to identify, notify, evaluate, and consider priority 
+candidates for positions covered by this part. In addition, an agency 
+shall maintain sufficient records to document compliance with this 
+section and Sec.  302.304. An agency is not required to maintain 
+separate records designated as a priority reemployment list, 
+reemployment list, or regular employment list.
+    (b) Priority candidate. For purposes of this subpart, a priority 
+candidate is an individual described in paragraph (c) of this section 
+who has applied for priority consideration under the agency's 
+procedures, is within the scope of priority consideration established 
+under this section, is qualified for the vacancy under Sec.  302.202, 
+and is available for appointment.
+    (c) Mandatory priority consideration. Subject to any available and 
+lawful exception, an agency shall provide priority consideration to the 
+following individuals before appointing any other candidate to a 
+position covered by this part:
+    (1) A current or former employee of the agency who is a preference 
+eligible, who is serving or served under a continuing excepted service 
+appointment, who has been or will be furloughed or separated by 
+reduction in force or other workforce reduction action not based on 
+delinquency or misconduct, and who applies or registers for 
+reemployment under the agency's procedures;
+    (2) A current or former employee who is entitled to restoration or 
+priority consideration because of recovery from compensable injury 
+under 5 U.S.C. 8151, part 353 of this chapter, or other applicable law; 
+and
+    (3) Any other individual to whom the agency is required to provide 
+reemployment priority under statute, regulation, final order, or other 
+binding legal authority.
+    (d) Scope of priority consideration.
+    (1) Except as otherwise required by statute, regulation, final 
+order, or other binding legal authority, priority consideration under 
+paragraph (c)(1) of this section applies to positions in the agency in 
+the local commuting area from which the individual was or will be 
+furloughed or separated, at the same or lower grade or pay level, with 
+no greater promotion potential, and with a work schedule no broader 
+than the work schedule of the position from which the individual was or 
+will be furloughed or separated.
+    (2) Priority consideration under paragraph (c)(2) of this section 
+applies in accordance with 5 U.S.C. 8151, part 353 of this chapter, and 
+other applicable law. Nothing in this section limits an employee's 
+right to immediate and unconditional restoration where such restoration 
+is required by law or regulation.
+    (3) An agency may provide broader priority consideration than the 
+minimum required by this section, including broader geographic 
+consideration, additional grades or pay levels, different work 
+schedules, or longer eligibility periods, if the agency establishes the 
+broader consideration in written policy and applies it uniformly to 
+similarly situated individuals.
+    (e) Duration of priority consideration.
+    (1) Priority consideration under paragraph (c)(1) of this section 
+expires 2 years after the effective date of the furlough or separation, 
+unless a longer period is required by statute, regulation, final order, 
+or other binding legal authority, or the agency establishes a longer 
+period in written policy.
+    (2) Priority consideration and restoration rights under paragraph 
+(c)(2) of this section are governed exclusively by 5 U.S.C. 8151, part 
+353 of this chapter, and other applicable law, and continue for the 
+period, and on the terms, established by that statute and those 
+regulations. Nothing in this section imposes a 2-year or other 
+durational limit on an entitlement
+
+[[Page 59092]]
+
+arising under 5 U.S.C. 8151 or part 353 of this chapter, and nothing in 
+this section shall be construed to shorten, condition, or otherwise 
+diminish the restoration or priority-consideration rights provided by 
+that statute and those regulations.
+    (3) Priority consideration under paragraph (c)(3) of this section 
+continues for the period required by the applicable statute, 
+regulation, final order, or other binding legal authority.
+    (f) Agency procedures. Each agency shall establish written 
+procedures for administering priority consideration under this section. 
+The procedures must address, at a minimum--
+    (1) How individuals may apply for priority consideration for 
+specific vacancies;
+    (2) How the agency will determine the qualifications of individuals 
+who may be eligible for priority consideration;
+    (3) How individuals may update availability, location, 
+qualification, grade, pay level, work schedule, and other placement 
+information;
+    (4) How the agency will determine whether an individual is a 
+priority candidate for a specific vacancy;
+    (5) How the agency will evaluate and rank priority candidates, if 
+more than one priority candidate is available for the same vacancy;
+    (6) How the agency will apply veterans' preference among priority 
+candidates; and
+    (7) How the agency will notify priority candidates of the outcome 
+of consideration.
+0
+24. Revise Sec.  302.304 to read as follows:
+
+
+Sec.  302.304  Applying priority consideration and considering other 
+candidates.
+
+    (a) Priority consideration before other candidates. Before 
+appointing any individual to a position covered by this part, an agency 
+must determine whether there is a priority candidate under Sec.  
+302.303 for the vacancy. Except as provided in paragraph (d) of this 
+section, an agency may not appoint a non-priority candidate if a 
+priority candidate is qualified, available, within the scope of 
+priority consideration, and eligible for selection for the vacancy.
+    (b) Selection among priority candidates.
+    (1) If there is one priority candidate for a vacancy, the agency 
+must select that candidate before selecting any other candidate, unless 
+an exception under paragraph (d) of this section applies.
+    (2) If there is more than one priority candidate for a vacancy, the 
+agency shall evaluate the priority candidates using the method 
+established for the vacancy under Sec.  302.302 or Sec.  302.105 and 
+shall apply veterans' preference under Sec.  302.201. The agency shall 
+select from among the priority candidates before selecting any non-
+priority candidate, unless an exception under paragraph (d) of this 
+section applies.
+    (3) An agency may not pass over a preference eligible to select a 
+nonpreference eligible from the same group of priority candidates 
+unless the applicable pass-over requirements of this part, 5 U.S.C. 
+3318, 5 U.S.C. 3319, or other applicable authority are satisfied.
+    (c) Consideration of non-priority candidates. After an agency has 
+satisfied the priority consideration requirements of this section or 
+has documented that no priority candidate is available and qualified 
+for the vacancy, the agency may consider other qualified applicants 
+using the evaluation method established for the vacancy under Sec.  
+302.302 or Sec.  302.105. The agency must apply veterans' preference 
+under Sec.  302.201.
+    (d) Exceptions. An agency may appoint an individual other than a 
+priority candidate only when an available and lawful exception applies. 
+Such exceptions include--
+    (1) A position or appointment exempt from the appointment 
+procedures of this part under Sec.  302.101(c), provided that the 
+exemption does not relieve the agency of any restoration or priority-
+placement obligation required by 5 U.S.C. 8151, part 353 of this 
+chapter, this part, or other applicable law;
+    (2) An action required to satisfy an individual's superior 
+statutory or regulatory restoration, reemployment, or placement right, 
+including immediate restoration under part 353 of this chapter, 
+restoration following military service, or compliance with a final 
+order of the Merit Systems Protection Board, a court, or other 
+competent authority;
+    (3) A determination, documented by the agency, that no priority 
+candidate is qualified, available, or within the scope of priority 
+consideration for the vacancy;
+    (4) A determination, documented by the agency, that the duties of 
+the position cannot be taken over without undue interruption by any 
+available priority candidate;
+    (5) A priority candidate's declination of an offer, failure to 
+respond to a written inquiry regarding availability, or failure to 
+appear for a scheduled interview, when the agency's written inquiry or 
+notice advised the candidate of the consequence of nonresponse or 
+nonappearance;
+    (6) A conversion, extension, reappointment, or other personnel 
+action that is expressly excepted from priority consideration by 
+statute, regulation, this chapter, OPM-approved plan, or the terms of 
+the applicable appointing authority; or
+    (7) Any other exception authorized in writing by OPM or otherwise 
+required by law.
+    (e) Notice to affected priority candidates. When an agency uses an 
+exception under paragraph (d) of this section to appoint an individual 
+other than a priority candidate, the agency shall notify each adversely 
+affected priority candidate of the reason for the exception. The agency 
+shall notify the individual of any appeal rights provided by subpart G 
+of this part, part 1201 of this title, part 353 of this chapter, or 
+other applicable law.
+    (f) Documentation. An agency shall maintain documentation showing--
+    (1) The vacancy or personnel action filled;
+    (2) Whether priority consideration applied;
+    (3) The identity of each priority candidate considered;
+    (4) The agency's qualification and availability determination for 
+each priority candidate;
+    (5) The evaluation method used;
+    (6) The application of veterans' preference, if applicable;
+    (7) The selection or nonselection decision; and
+    (8) The basis for any exception used under paragraph (d) of this 
+section.
+
+Subpart D--Selection and Appointment; Reappointment; and 
+Qualifications for Promotion
+
+0
+25. Revise Sec.  302.401 to read as follows:
+
+
+Sec.  302.401  Selection and appointment.
+
+    (a) Priority consideration first. Before making an appointment to a 
+position covered by this part, an agency must satisfy the priority 
+consideration requirements in Sec. Sec.  302.303 and 302.304.
+    (b) Numerical rating. When an agency uses numerical rating, the 
+agency may refer candidates for selection using a method established 
+before applications are solicited and documented in the recruitment 
+file. The method may include a cut-off score, a set number of the 
+highest-ranked eligible candidates, a set percentage of the highest-
+ranked eligible candidates, or another job-related method consistent 
+with Sec.  302.105. A selecting official may select any referred 
+eligible candidate, except that the selecting official may not pass 
+over a higher-standing preference eligible to select a lower-standing 
+nonpreference eligible unless the agency satisfies paragraph (e) of 
+this section.
+
+[[Page 59093]]
+
+    (c) Category rating. When an agency uses category rating, the 
+agency may select any eligible candidate in the highest quality 
+category. If fewer than three candidates are in the highest quality 
+category, the agency may merge the highest and second-highest quality 
+categories and make selections from the merged category. Preference 
+eligibles must be listed ahead of nonpreference eligibles within each 
+category or merged category. A selecting official may not select a 
+nonpreference eligible over a preference eligible in the same category 
+unless the agency satisfies paragraph (e) of this section.
+    (d) Alternative procedures. When an agency uses an alternative 
+procedure under Sec.  302.105, selection must be made in accordance 
+with that procedure. The procedure must provide preference eligibles 
+and persons entitled to priority consideration at least as much 
+advantage in consideration, referral, and selection as they would 
+receive under the procedures otherwise set forth in this part.
+    (e) Passing over a preference eligible. When an agency proposes to 
+pass over a preference eligible to select a nonpreference eligible, the 
+agency must comply with the applicable requirements of 5 U.S.C. 
+3318(c), 5 U.S.C. 3319(c)(6), and OPM instructions.
+    (f) Discontinuing consideration. An agency may discontinue 
+consideration of an eligible candidate only as authorized by 5 U.S.C. 
+3318(e), Sec.  302.105(e), or other applicable law, consistent with the 
+requirements in Sec.  332.405 of this chapter. Nothing in this 
+paragraph authorizes passing over a preference eligible except as 
+permitted by paragraph (e) of this section and applicable law.
+    (g) Documentation. The agency must document the selection method 
+used, the application of veterans' preference, the application of 
+priority consideration, any pass-over decision, and the basis for the 
+selection. The documentation must be sufficient to permit 
+reconstruction or third-party review.
+    (h) Special conditions for OPM-led pooled hiring actions.
+    (1) When OPM administers an OPM-led pooled hiring action under 
+subpart F of this part, and determines, based on written documentation, 
+that an eligible candidate has received bona fide consideration for 
+three separate appointments from the same shared certificate for the 
+same position, OPM may discontinue further referral of that candidate 
+from that certificate for that position. For purposes of this 
+paragraph, ``the same position'' means a position in the same 
+occupational series, at the same grade or equivalent pay level, and 
+involving substantially equivalent duties, qualification requirements, 
+competencies, and, as applicable, duty location or other lawful 
+position requirements. OPM's authority under this paragraph 
+supplements, and does not limit, agency authority under Sec. Sec.  
+302.502(b), 302.603(d), and 302.604(e).
+    (2) Before discontinuing referral under this paragraph, OPM must 
+document the basis for the determination. The documentation must show 
+that the candidate's application material was reviewed and considered, 
+that the candidate received bona fide consideration for three separate 
+appointments, and that discontinuing further referral is supported by a 
+job-related skill, competency, location, availability, or other lawful 
+requirement relevant to the position being filled. OPM must maintain 
+documentation sufficient to reconstruct the action and must provide 
+written notification to a candidate whose referral is discontinued 
+under this paragraph upon request by the candidate.
+    (3) Nothing in this paragraph authorizes passing over a preference 
+eligible except as permitted by Sec.  302.401(e) and applicable law.
+0
+26. Revise Sec.  302.402 to read as follows:
+
+
+Sec.  302.402  Reappointment.
+
+    (a) Subject to Sec. Sec.  302.303 and 302.304, an agency may 
+reappoint a current or former nontemporary employee of the executive 
+branch of the Federal Government who is a preference eligible to a 
+position covered by this part without applying the examination, rating, 
+ranking, and referral procedures of this part.
+    (b) This section does not authorize an agency to bypass a qualified 
+and available person entitled to priority consideration unless a lawful 
+exception under Sec.  302.304 applies.
+    (c) A reappointment under this section must be otherwise consistent 
+with statute, regulation, the applicable appointing authority, and any 
+agency policy governing reemployment.
+
+Subpart E--Shared Use of Excepted Service Certificates
+
+
+Sec.  302.502  [Amended]
+
+0
+27. Amend Sec.  302.502 in paragraph (b) by:
+0
+a. Removing the phrase ``Sec.  302.302(b)(1)'' and adding in its place 
+the phrase ``Sec.  302.302(c)''; and
+0
+b. Removing the phrase ``Sec.  302.302(b)(2)'' and adding in its place 
+the phrase ``Sec.  302.302(d)''.
+
+Subpart F--OPM-Led Pooled Hiring Actions
+
+
+Sec.  302.603  [Amended]
+
+0
+28. Amend Sec.  302.603 by:
+0
+a. In paragraph (d), removing the phrase ``Sec.  302.302(b)(1)'' and 
+adding in its place the phrase ``Sec.  302.302(c)'', and removing the 
+phrase ``Sec.  302.302(b)(2)'' and adding in its place the phrase 
+``Sec.  302.302(d)''; and
+0
+b. In paragraph (e), removing the phrase ``Sec.  302.401(b)'' and 
+adding in its place the phrase ``Sec.  302.401(e)''.
+
+
+Sec.  302.604  [Amended]
+
+0
+29. Amend Sec.  302.604 by:
+0
+a. In paragraph (e), removing the phrase ``Sec.  302.302(b)(1)'' and 
+adding in its place the phrase ``Sec.  302.302(c)'', and removing the 
+phrase ``Sec.  302.302(b)(2)'' and adding in its place the phrase 
+``Sec.  302.302(d)''; and
+0
+b. In paragraph (f), removing the phrase ``Sec.  302.401(b)'' and 
+adding in its place the phrase ``Sec.  302.401(e)''.
+
+Subpart G--Appeals
+
+0
+30. Revise Sec.  302.701 to read as follows:
+
+
+Sec.  302.701  Entitlement.
+
+    (a) Restoration-rights appeals. An individual who is covered by 5 
+U.S.C. 8101(1) and who is entitled to restoration or priority 
+consideration under 5 U.S.C. 8151, part 353 of this chapter, or this 
+part may appeal an alleged violation of restoration rights to the Merit 
+Systems Protection Board under the Board's regulations by presenting 
+factual information that the individual was denied restoration or 
+priority consideration because of the employment of another person.
+    (b) Other appeals. A preference eligible or person entitled to 
+priority consideration may appeal an action taken under this part only 
+to the extent an appeal right is provided by statute, MSPB regulation, 
+or other applicable law. Nothing in this part creates an appeal right 
+not otherwise provided by statute, regulation, or other applicable law.
+
+PART 317--EMPLOYMENT IN THE SENIOR EXECUTIVE SERVICE
+
+0
+31. The authority citation for part 317 is revised to read as follows:
+
+    Authority:  5 U.S.C. 3392, 3393, 3395, 3397, 3592, 3593, 3595, 
+3596, 8414, and 8421; E.O. 14317, 90 FR 34753. Section 317.202 also 
+issued under 5 U.S.C. 9201-9206 and Pub. L. 116-92, sec. 1122(b)(1).
+0
+32. Amend Sec.  317.304 by revising paragraphs (a)(2)(i) and (iii) to 
+read as follows:
+
+[[Page 59094]]
+
+Sec.  317.304  Conversion of career and career-type appointees.
+
+    (a) * * *
+    (2) * * *
+    (i) To a Schedule C or Schedule G position established under part 
+213 of this chapter;
+* * * * *
+    (iii) To a position which meets the same criteria as a Schedule C 
+or Schedule G position or a position authorized to be filled by non-
+career executive assignment; or
+* * * * *
+0
+33. Amend Sec.  317.305 by revising paragraph (a)(1) to read as 
+follows:
+
+
+Sec.  317.305  Conversion of excepted appointees.
+
+    (a) * * *
+    (1) In Schedule C or Schedule G of subpart C of part 213 of this 
+chapter;
+* * * * *
+0
+34. Amend Sec.  317.502 by revising paragraph (e) to read as follows:
+
+
+Sec.  317.502  Qualifications Review Board certification.
+
+* * * * *
+    (e) An action to convert a ``noncareer-type'' employee to a career 
+SES appointment in the employee's current position or a successor to 
+that position will not be forwarded to a QRB. A ``noncareer-type'' 
+employee includes a noncareer SES appointee, a Schedule C appointee, a 
+Schedule G appointee, or equivalent.
+* * * * *
+0
+35. Amend Sec.  317.901 by revising paragraph (c)(1)(ii) to read as 
+follows:
+
+
+Sec.  317.901  Reassignments.
+
+* * * * *
+    (c) * * *
+    (1) * * *
+    (ii) Noncareer appointee includes an SES noncareer or limited 
+appointee, an appointee in a position filled under Schedule C or 
+Schedule G, or an appointee in an Executive Schedule or equivalent 
+position that is not required to be filled competitively.
+* * * * *
+
+PART 359--REMOVAL FROM THE SENIOR EXECUTIVE SERVICE; GUARANTEED 
+PLACEMENT IN OTHER PERSONNEL SYSTEMS
+
+0
+36. The authority citation for part 359 is revised to read as follows:
+
+    Authority:  5 U.S.C. 1302, 3302, and 3596, unless otherwise 
+noted; E.O. 14317, 90 FR 34753.
+
+0
+37. Amend Sec.  359.406 by revising paragraph (b) to read as follows:
+
+
+Sec.  359.406  Restrictions.
+
+* * * * *
+    (b) For purposes of this section, a noncareer appointee includes an 
+SES noncareer or limited appointee, an appointee in a position filled 
+under Schedule C or Schedule G, or an appointee in an Executive 
+Schedule or equivalent position other than a career Executive Schedule 
+or equivalent position.
+* * * * *
+0
+38. Amend Sec.  359.503 by revising paragraph (b) to read as follows:
+
+
+Sec.  359.503  Restrictions.
+
+* * * * *
+    (b) For purposes of this section, a noncareer appointee includes an 
+SES noncareer or limited appointee, an appointee in a position filled 
+under Schedule C or Schedule G, or an appointee in an Executive 
+Schedule or equivalent position other than a career Executive Schedule 
+or equivalent position.
+* * * * *
+0
+39. Amend Sec.  359.701 by revising paragraphs (a)(1) and (2) to read 
+as follows:
+
+
+Sec.  359.701  Coverage.
+
+* * * * *
+    (a) * * *
+    (1) To a Schedule C or Schedule G position established under part 
+213 of this chapter;
+    (2) To a position that meets the same criteria as a Schedule C or 
+Schedule G position; or
+* * * * *
+
+PART 362--PATHWAYS PROGRAMS
+
+0
+40. The authority citation for part 362 is revised to read as follows:
+
+    Authority:  E.O. 13562, 75 FR 82585, 3 CFR, 2010 Comp., p. 291, 
+as amended by E.O. 14217, 90 FR 10577; and E.O. 14410, 91 FR 34893.
+
+Subpart A--General Provisions
+
+
+Sec.  362.102  [Amended]
+
+0
+41. Amend Sec.  362.102 by removing the definition of ``Advanced 
+degree.''
+0
+42. Amend Sec.  362.104 by revising paragraph (a)(8) to read as 
+follows:
+
+
+Sec.  362.104  Agency requirements.
+
+    (a) * * *
+    (8) Prescribe criteria and procedures on how the agency will 
+determine whether it has the resources available to convert a Pathways 
+Participant to a term or permanent position in the competitive service 
+or, when authorized under Sec.  362.107, to a permanent Schedule 
+Policy/Career position. These procedures must specify the timeline for 
+making the determination, which must include informing the Pathways 
+Participant no later than 60 calendar days prior to the end of the 
+appointment about whether the agency is able to convert them. If an 
+agency is unable to convert a Pathways Participant, its procedures may 
+include the actions it will take to assist a Participant in pursuing 
+conversion at another agency, when appropriate.
+* * * * *
+0
+43. Amend Sec.  362.105 by revising paragraph (e)(2) to read as 
+follows:
+
+
+Sec.  362.105  Filling positions.
+
+* * * * *
+    (e) * * *
+    (2) A Pathways Participant must be a United States citizen to be 
+eligible for noncompetitive conversion to term or permanent employment 
+in the competitive service or to permanent employment in Schedule 
+Policy/Career.
+* * * * *
+0
+44. Amend Sec.  362.106 by revising paragraph (h) to read as follows:
+
+
+Sec.  362.106  Participant Agreement.
+
+* * * * *
+    (h) Minimum eligibility requirements for noncompetitive conversion 
+to term or permanent competitive service employment, or to permanent 
+Schedule Policy/Career employment when authorized under Sec.  362.107, 
+according to the requirements of the applicable Pathways Program.
+0
+45. Revise Sec.  362.107 to read as follows:
+
+
+Sec.  362.107  Conversion to the competitive service or Schedule 
+Policy/Career.
+
+    (a) General conversion authority. Subject to any limits on 
+conversion imposed by the Director, and in accordance with the 
+provisions of each Pathways Program, an agency may noncompetitively 
+convert an eligible Pathways Participant to:
+    (1) A term or permanent position in the competitive service; or
+    (2) A permanent position in Schedule Policy/Career, if the position 
+is a career position described in Sec.  213.3601(a) of this chapter and 
+the conversion is authorized under this part and any applicable OPM 
+policy or guidance. A noncompetitive conversion to a permanent position 
+is subject to review by OPM.
+    (b) Competitive service term appointment. A Pathways Participant 
+who is noncompetitively converted to a competitive service term 
+appointment may be subsequently converted noncompetitively to a 
+permanent competitive service position.
+    (c) Noncompetitive conversion.
+    (1) An Intern may be converted to a position within the employing 
+agency or
+
+[[Page 59095]]
+
+any other agency within the Federal Government.
+    (2) A Recent Graduate may be converted to a position within the 
+employing agency or any other agency within the Federal Government. 
+Conversion to a position at a different agency is subject to Sec.  
+362.305(c).
+    (d) Reemployment-priority and career-transition programs. The 
+provisions of subparts B, F, and G of part 330 of this chapter do not 
+apply to conversions made under this part.
+    (e) Career tenure. Time spent serving as a Pathways Participant 
+counts toward career tenure when the individual is noncompetitively 
+converted to a permanent position in the competitive service upon 
+completion of the Pathways Program, with or without an intervening term 
+appointment, and without a break in service of 1 day, as provided in 
+Sec.  315.201 of this chapter.
+    (f) Competitive status, probationary periods, and trial periods.
+    (1) A Pathways Participant converted to a career or career-
+conditional appointment in the competitive service under Sec.  315.713 
+of this chapter acquires competitive status upon completion of the 
+probationary period requirements in part 11 of this chapter.
+    (2) A Pathways Participant converted to a Schedule Policy/Career 
+position under paragraph (a)(2) of this section is not required to 
+serve a trial period under part 11 of this chapter and obtains 
+competitive status after 2 years of continuing service in the Schedule 
+Policy/Career position.
+    (g) No entitlement. Service in a Pathways Program confers no right 
+to further employment in either the competitive or excepted service. An 
+agency wishing to convert a Pathways Participant must execute the 
+required actions to do so. Nothing in this section confers a right to 
+conversion to Schedule Policy/Career, conversion to the competitive 
+service, competitive status, career tenure, a career or career-
+conditional appointment, or future appointment to the competitive 
+service.
+0
+46. Amend Sec.  362.109 by revising paragraph (c)(4) and adding 
+paragraph (c)(5) to read as follows:
+
+
+Sec.  362.109  Reporting requirements.
+
+* * * * *
+    (c) * * *
+    (4) The number of Pathways Participants, per Program, converted to 
+Schedule Policy/Career in the excepted service; and
+    (5) The number of Pathways Participants, per Program, who were 
+separated.
+0
+47. Add Sec.  362.110 to read as follows:
+
+
+Sec.  362.110  Governmentwide Pathways Leadership Development Program.
+
+    OPM may develop and administer a governmentwide Pathways Leadership 
+Development Program under the Recent Graduates Program authority. The 
+program may include formal training, career development, and rotational 
+assignments across participating agencies. The program must be 
+administered consistent with this part, including the eligibility, 
+appointment, participant agreement, performance, completion, and 
+conversion requirements applicable to Recent Graduates. 
+Responsibilities assigned to participants shall be consistent with the 
+participant's qualifications, skills, competencies, career interests, 
+agency needs, and the broader leadership development purpose of the 
+program. OPM may issue implementing instructions governing the number 
+of participants, participant selection, agency participation, training, 
+rotations, certification of completion, and conversion review. Program 
+Participants may be hired by agencies using the excepted service 
+appointing authority provided by Sec.  213.3402(b) of this chapter.
+
+Subpart B--Internship Program
+
+0
+48. Amend Sec.  362.203 by revising paragraph (g)(4) to read as 
+follows:
+
+
+Sec.  362.203  Filling positions.
+
+* * * * *
+    (g) * * *
+    (4) Requirements for noncompetitive conversion to a term or 
+permanent position in the competitive service, or to a permanent 
+Schedule Policy/Career position when authorized under Sec.  362.107, 
+are understood by all parties.
+* * * * *
+0
+49. Amend Sec.  362.204 by revising the section heading and paragraphs 
+(a), (b)(4), and (b)(5) to read as follows:
+
+
+Sec.  362.204  Conversion to the competitive service or Schedule 
+Policy/Career.
+
+    (a) An agency may noncompetitively convert an Intern who is a U.S. 
+citizen to a term or permanent appointment in the competitive service 
+or to a permanent appointment in Schedule Policy/Career under Sec.  
+362.107.
+    (b) * * *
+    (4) Met the qualification standards for the position to which the 
+Intern will be converted; and
+    (5) Met agency-specific requirements as specified in the agency's 
+Participant Agreement with the Intern.
+* * * * *
+
+Subpart C--Recent Graduates Program
+
+0
+50. Amend Sec.  362.303 by revising paragraphs (b)(3)(i) through (iii) 
+to read as follows:
+
+
+Sec.  362.303  Filling positions.
+
+* * * * *
+    (b) * * *
+    (3) * * *
+    (i) An agency may make an initial appointment of a Recent Graduate 
+to any position filled under the authority in this section for which 
+the Recent Graduate qualifies, up to the GS-11 level (or equivalent 
+under another pay and classification system, such as the Federal Wage 
+System), except as provided in paragraph (b)(3)(ii) of this section.
+    (ii) Initial appointments may be made to scientific and 
+professional research positions at the GS-12 level for which the 
+classification and qualification criteria for research positions apply, 
+if the candidate possesses a Ph.D. or equivalent degree directly 
+related to the position the agency is seeking to fill.
+    (iii) Positions must have progressively more responsible duties 
+that provide career advancement opportunities (i.e., positions must 
+provide for career ladder advancement).
+* * * * *
+0
+51. Amend Sec.  362.304 by revising paragraphs (d) and (e) to read as 
+follows:
+
+
+Sec.  362.304  Movement between agencies.
+
+* * * * *
+    (d) Time served under the previous agency's Recent Graduates 
+Program is credited toward the Program requirements for noncompetitive 
+conversion eligibility to the competitive service or, when authorized 
+under Sec.  362.107, to Schedule Policy/Career. Because there is no 
+break in service, the Recent Graduate does not begin a new period in 
+the Program upon moving to the new agency.
+    (e) The new employing agency's plan must identify requirements for 
+Program completion and eligibility for noncompetitive conversion to the 
+competitive service or, when authorized under Sec.  362.107, to 
+Schedule Policy/Career.
+0
+52. Revise Sec.  362.305 to read as follows:
+
+
+Sec.  362.305  Conversion to the competitive service or Schedule 
+Policy/Career.
+
+    (a) An agency may noncompetitively convert a Recent Graduate who is 
+a U.S. citizen to a competitive service term or permanent position or 
+to a permanent Schedule Policy/Career position under Sec.  362.107 when 
+the Recent Graduate has:
+
+[[Page 59096]]
+
+    (1) Successfully completed at least 1 year of continuous service in 
+addition to all the requirements of the Recent Graduates Program;
+    (2) Demonstrated successful job performance consistent with the 
+applicable performance appraisal program established under the agency's 
+approved performance appraisal system that results in a rating of 
+record (or summary rating) of at least fully successful or equivalent 
+and a recommendation for conversion by the first-level supervisor (or 
+in the case of a participant in an OPM-administered governmentwide 
+Pathways Leadership Development Program under Sec.  362.110, has been 
+certified as successfully completing the Program by both OPM and the 
+employing agency's Executive Resources Board); and
+    (3) Met the OPM Qualification Standard for the position to which 
+the Recent Graduate will be converted.
+    (b) An agency must make the noncompetitive conversion effective on 
+the date the service requirement is met, or at the end of an agency-
+approved extension, if applicable.
+    (c) A Recent Graduate may be converted to a permanent or term 
+position in the competitive service, or to a permanent Schedule Policy/
+Career position when authorized under Sec.  362.107, at a different 
+agency when the following conditions are met:
+    (1) The employing (or losing) agency is unable to convert the 
+Recent Graduate to a term or permanent position in the competitive 
+service or a permanent position in the excepted service under Schedule 
+Policy/Career in the current organizational unit of the employing 
+agency or another component within the same Department or agency. The 
+reasons for conversion at another agency may include unforeseen 
+budgetary constraints; reorganizations; abolishment of positions; 
+completion of cohort-based Pathways programs; or other appropriate 
+reasons. Such a conversion to another agency may not be due to issues 
+related to misconduct, poor performance, or suitability;
+    (2) Conversion must occur on or before the end of the prescribed 
+Program period, plus any agency-approved extension; and
+    (3) The position at the new agency must have a full performance 
+level that is equivalent to or lower than the position to which the 
+Recent Graduate would have been converted at the prior agency.
+
+PART 432--PERFORMANCE BASED REDUCTION IN GRADE AND REMOVAL ACTIONS
+
+0
+53. The authority citation for part 432 is revised to read as follows:
+
+    Authority:  5 U.S.C. 4303, 4305; E.O. 14284, 90 FR 17729; E.O. 
+14317, 90 FR 34753.
+
+0
+54. Amend Sec.  432.102 by revising paragraph (f)(11) to read as 
+follows:
+
+
+Sec.  432.102  Coverage.
+
+* * * * *
+    (f) * * *
+    (11) An employee occupying a position in Schedule C, Schedule G, or 
+Schedule Policy/Career as authorized under part 213 of this chapter;
+* * * * *
+
+PART 550--PAY ADMINISTRATION (GENERAL)
+
+Subpart G--Severance Pay
+
+0
+55. The authority citation for subpart G of part 550 is revised to read 
+as follows:
+
+    Authority:  5 U.S.C. 5595; E.O. 11257, 30 FR 14353, 3 CFR, 1964-
+1965 Comp., p. 357; E.O. 14317, 90 FR 34753; E.O. 14410, 91 FR 
+34893.
+
+0
+56. Amend the definition of ``Nonqualifying appointment'' in Sec.  
+550.703 by revising paragraph (e) to read as follows:
+
+
+Sec.  550.703  Definitions.
+
+* * * * *
+    Nonqualifying appointment * * *
+    (e) An excepted appointment under Schedule C or Schedule G; a 
+noncareer appointment in the Senior Executive Service, as defined in 5 
+U.S.C. 3132(a); or an equivalent appointment made for similar purposes; 
+and
+* * * * *
+
+PART 731--SUITABILITY AND FITNESS
+
+0
+57. The authority citation for part 731 is revised to read as follows:
+
+    Authority:  5 U.S.C. 1103, 1302, 2301, 2302, 3301, 7301. E.O. 
+10577, 19 FR 7521, 3 CFR, 1954-1958 Comp., p. 218, as amended. E.O. 
+13467, 73 FR 38103, 3 CFR, 2009 Comp., p. 198, as amended. E.O. 
+13488, 74 FR 4111, 3 CFR, 2010 Comp., p. 189, as amended. E.O. 
+13764, 82 FR 8115, 3 CFR, 2017 Comp., p. 243. E.O. 14210, 90 FR 
+9669. Presidential Memorandum of January 31, 2014, 3 CFR, 2014 
+Comp., p. 340. Presidential Memorandum of March 20, 2025, 90 FR 
+13683. E.O. 14317, 90 FR 34753. 5 CFR parts 1, 2, 5, and 6.
+
+0
+58. Amend Sec.  731.101 by revising the definition of ``Political 
+appointment'' in paragraph (a) to read as follows:
+
+
+Sec.  731.101  Purpose.
+
+    (a) * * *
+    Political appointment means an appointment by Presidential 
+nomination for confirmation by the Senate, an appointment by the 
+President without Senate confirmation (except those appointed under 5 
+CFR 213.3102(c)); an appointment to a position compensated under the 
+Executive Schedule (5 U.S.C. 5312 through 5316); an appointment of a 
+White House Fellow to be assigned as an assistant to a top-level 
+Federal officer (5 CFR 213.3102(z)); a Schedule C appointment (5 CFR 
+213.3301 and 213.3302); a Schedule G appointment (5 CFR 213.3701); a 
+noncareer, limited term, or limited emergency Senior Executive Service 
+appointment (5 CFR part 317, subpart F); an appointee to serve in a 
+political capacity under agency-specific authority; and a provisional 
+political appointment.
+* * * * *
+
+PART 920--TIMING OF CRIMINAL HISTORY INQUIRIES
+
+0
+59. The authority citation for part 920 is revised to read as follows:
+
+    Authority:  5 U.S.C. 1103(a)(5)(A), 9201-9206; Pub. L. 116-92, 
+sec. 1122(b)(1) (5 U.S.C. 9201 note); E.O. 14317, 90 FR 34753.
+0
+60. Amend Sec.  920.101 by revising the definition of ``Political 
+appointment'' to read as follows:
+
+
+Sec.  920.101  Definitions.
+
+* * * * *
+    Political appointment means an appointment by the President without 
+Senate confirmation (except those appointed under 5 CFR 213.3102(c)); 
+an appointment to a position compensated under the Executive Schedule 
+(5 U.S.C. 5312 through 5316); an appointment of a White House Fellow to 
+be assigned as an assistant to a top-level Federal officer (5 CFR 
+213.3102(z)); a Schedule C appointment (5 CFR 213.3301, 213.3302); a 
+Schedule G appointment (5 CFR 213.3701); a noncareer, limited term, or 
+limited emergency Senior Executive Service appointment (5 CFR part 317, 
+subpart F); an appointee to serve in a political capacity under agency-
+specific authority; and a provisional political appointment.
+* * * * *
+
+PART 930--PROGRAMS FOR SPECIFIC POSITIONS AND EXAMINATIONS 
+(MISCELLANEOUS)
+
+Subpart B--Administrative Law Judge Program
+
+0
+61. The authority citation for subpart B is revised to read as follows:
+
+
+[[Page 59097]]
+
+
+    Authority:  5 U.S.C. 1104(a), 1302(a), 1305, 3105, 3301, 3304, 
+3323(b), 3344, 4301(2)(D), 5372, and 7521; E.O. 10577, 19 FR 7521, 3 
+CFR, 1954-1958 Comp., p. 218; E.O. 13843, 83 FR 32755, 3 CFR, 2018 
+Comp., p. 844; E.O. 14410, 91 FR 34893.
+
+0
+62. Amend Sec.  930.201 by revising paragraphs (b), (d), and (e)(1), 
+removing paragraph (e)(9), and redesignating paragraphs (e)(10) and 
+(e)(11) as paragraphs (e)(9) and (e)(10), respectively. The revisions 
+read as follows:
+
+
+Sec.  930.201  Coverage.
+
+* * * * *
+    (b) Administrative law judge positions appointed under 5 U.S.C. 
+3105 are in Schedule E of the excepted service, except that an 
+administrative law judge whose competitive-service status is preserved 
+under Sec.  6.8(d) of this chapter remains in the competitive service 
+for as long as that status is preserved under that section. Except as 
+otherwise stated in this subpart or other applicable law or regulation, 
+the rules and regulations applicable to administrative law judge 
+positions apply without regard to whether the position is in Schedule E 
+or whether the incumbent retains preserved competitive-service status.
+* * * * *
+    (d) OPM may prescribe qualification, assessment, documentation, or 
+other requirements for appointment to administrative law judge 
+positions as necessary to administer this subpart, Sec.  213.3501 of 
+this chapter, and applicable statutes and Executive orders. OPM is not 
+required to administer a competitive examination or to prescribe a 
+competitive examination methodology for appointments to administrative 
+law judge positions made under Schedule E.
+    (e) * * *
+    (1) Establish qualification standards, assessment requirements, 
+documentation requirements, and other appointment-related requirements 
+for administrative law judge positions under 5 U.S.C. 3105, Sec.  
+213.3501 of this chapter, and this subpart B, including any 
+requirements necessary to determine whether an individual meets the 
+minimum appointment requirements for an administrative law judge 
+position;
+* * * * *
+0
+63. Remove and reserve Sec.  930.203.
+
+
+Sec.  930.203  [Reserved]
+
+0
+64. Amend Sec.  930.204 by revising paragraphs (a), (c), (e), and (g) 
+to read as follows:
+
+
+Sec.  930.204  Appointments and conditions of employment.
+
+    (a) Appointment. An agency may appoint an individual to an 
+administrative law judge position only under Schedule E in accordance 
+with Sec.  213.3501 of this chapter, this subpart, and any applicable 
+OPM policy or guidance. An appointment under this paragraph is subject 
+to investigation, and an administrative law judge is subject to the 
+suitability requirements in part 731 of this chapter, as applicable. An 
+individual appointed to an administrative law judge position under 
+Schedule E is not subject to a trial period under part 11 of this 
+chapter.
+* * * * *
+    (c) Appointment of incumbents of newly classified administrative 
+law judge positions. An agency may appoint an incumbent employee to an 
+administrative law judge position under Schedule E if the employee is 
+serving in the position when it is classified as an administrative law 
+judge position on the basis of legislation, Executive order, or a 
+decision of a court and if--
+    (1) The employee is serving under a permanent appointment in the 
+competitive service or excepted service;
+    (2) The employee is serving in the position on the day the 
+legislation, Executive order, or decision of the court on which the 
+classification of the position is based becomes effective;
+    (3) OPM receives a recommendation for the employee's appointment 
+from the agency concerned; and
+    (4) OPM determines the employee meets the qualification 
+requirements and minimum appointment requirements for an administrative 
+law judge position, including the professional license requirement in 
+paragraph (b) of this section and Sec.  6.3(b) of this chapter.
+* * * * *
+    (e) Promotion.
+    (1) Part 335 of this chapter does not apply to the promotion of 
+administrative law judges appointed under Schedule E. Promotion of an 
+administrative law judge appointed under Schedule E is governed by this 
+subpart, Sec.  213.3501 of this chapter, and applicable OPM policy or 
+guidance.
+    (2) To reclassify an administrative law judge position at a higher 
+level, the agency must submit a request to OPM. When OPM approves the 
+higher-level classification, OPM will direct the promotion of the 
+administrative law judge occupying the position prior to the 
+reclassification.
+    (3) For an administrative law judge whose competitive-service 
+status is preserved under Sec.  6.8(d) of this chapter, promotion 
+remains subject to this subpart and applicable OPM direction. Part 335 
+of this chapter applies only to the extent OPM determines it remains 
+applicable to the preserved competitive-service status and is not 
+inconsistent with this subpart, Sec.  213.3501 of this chapter, or 
+applicable Executive orders.
+* * * * *
+    (g) Reinstatement or reappointment. Subject to OPM approval, an 
+agency may reinstate or reappoint a former administrative law judge who 
+served under 5 U.S.C. 3105 if the individual meets the qualification 
+requirements and minimum appointment requirements for an administrative 
+law judge position, including the professional license requirement in 
+paragraph (b) of this section and Sec.  6.3(b) of this chapter. A 
+reinstatement or reappointment under this paragraph must be made under 
+Schedule E unless the individual is otherwise entitled by law or 
+regulation to preserved competitive-service status.
+* * * * *
+0
+65. Amend Sec.  930.205 by revising paragraph (b) to read as follows:
+
+
+Sec.  930.205  Administrative law judge pay system.
+
+* * * * *
+    (b) Pay level AL-3 is the basic pay level for administrative law 
+judge positions, except for positions placed at pay levels AL-2 or AL-1 
+with OPM approval under paragraph (c) of this section.
+* * * * *
+0
+66. Revise Sec.  930.210 to read as follows:
+
+
+Sec.  930.210  Reduction in force.
+
+    (a) Application of reduction in force regulations.
+    (1) Except as modified by this section, the reduction in force 
+regulations in part 351 of this chapter apply to administrative law 
+judges.
+    (2) An administrative law judge appointed under Schedule E on or 
+after July 10, 2018, is in the excepted service and, if otherwise 
+covered by part 351 of this chapter, is a competing employee in the 
+excepted service tenure group.
+    (3) An administrative law judge whose competitive-service status is 
+preserved under Sec.  6.8(d) of this chapter remains in the competitive 
+service for reduction in force purposes for as long as that status is 
+preserved under Sec.  6.8(d).
+    (b) Determination of retention standing.
+    (1) An agency must determine the retention standing of 
+administrative law judges in accordance with part 351 of this chapter, 
+as modified by this section.
+
+[[Page 59098]]
+
+    (2) Administrative law judges in the competitive service under 
+Sec.  6.8(d) of this chapter must be listed on a competitive-service 
+retention register. Administrative law judges in Schedule E must be 
+listed on an excepted-service retention register.
+    (3) Because an agency may not rate the job performance of an 
+administrative law judge under Sec.  930.206, an agency may not assign, 
+prepare, or use an administrative law judge performance rating for 
+reduction in force purposes. The agency must determine the 
+administrative law judge's performance credit in accordance with the 
+rules in part 351 of this chapter governing employees who do not have 
+ratings of record.
+    (c) Assignment rights.
+    (1) An agency may, in its discretion, provide assignment rights to 
+administrative law judges in Schedule E in accordance with Sec.  
+351.705 of this chapter, under written agency procedures that are 
+uniformly and consistently applied in the reduction in force.
+    (2) If an agency adopts assignment rights for Schedule E 
+administrative law judges under Sec.  351.705 of this chapter, any 
+assignment right must be limited to positions under the same appointing 
+authority and must otherwise comply with part 351 of this chapter and 
+this subpart.
+    (3) If an agency does not adopt assignment rights for Schedule E 
+administrative law judges under Sec.  351.705 of this chapter, the 
+agency may release a Schedule E administrative law judge from the 
+competitive level in accordance with the order of release under part 
+351 of this chapter without offering assignment to another position.
+    (4) An administrative law judge whose competitive-service status is 
+preserved under Sec.  6.8(d) of this chapter is subject to the 
+competitive-service assignment right provisions in Sec.  351.701 of 
+this chapter while that competitive-service status remains preserved. 
+Nothing in this section requires an agency to assign a competitive-
+service administrative law judge to a Schedule E position or to 
+preserve competitive-service status in a position where such status is 
+not preserved under Sec.  6.8(d) of this chapter.
+    (d) Placement assistance.
+    (1) An administrative law judge in the competitive service who is 
+reached in an agency's reduction in force and receives a notification 
+of separation is eligible for placement assistance under the agency's 
+reemployment priority list established and maintained in accordance 
+with subpart B of part 330 of this chapter.
+    (2) A Schedule E administrative law judge who is separated, 
+furloughed, or demoted by reduction in force does not, solely by virtue 
+of service in a Schedule E administrative law judge position or 
+appointment under 5 U.S.C. 3105, have a statutory entitlement to 
+priority consideration, priority referral, or reemployment as an 
+administrative law judge.
+    (3) Nothing in this section limits any restoration, reemployment, 
+placement, or priority-consideration right that an individual may have 
+under 5 U.S.C. 8151, part 353 of this chapter, 5 U.S.C. 3315, 5 U.S.C. 
+3320, the Uniformed Services Employment and Reemployment Rights Act, a 
+final order, or another applicable statute, regulation, or binding 
+legal authority.
+    (4) OPM or an agency may establish discretionary placement-
+assistance procedures for administrative law judges separated, 
+furloughed, or demoted by reduction in force. Any discretionary 
+placement-assistance procedure must be in writing and must state its 
+coverage, duration, order of consideration, geographic scope, 
+qualification requirements, and any conditions for termination of 
+eligibility. A discretionary placement-assistance procedure does not 
+create a statutory entitlement to priority consideration, priority 
+referral, or reemployment.
+0
+67. Amend Sec.  930.211 by revising paragraph (c) introductory text and 
+paragraph (c)(3) to read as follows:
+
+
+Sec.  930.211  Actions against administrative law judges.
+
+* * * * *
+    (c) Exceptions from procedures. This section does not apply--
+* * * * *
+    (3) To reduction in force actions taken under 5 U.S.C. 3502, part 
+351 of this chapter, and Sec.  930.210; or
+* * * * *
+[FR Doc. 2026-19222 Filed 9-17-26; 8:45 am]
+BILLING CODE 6325-39-P

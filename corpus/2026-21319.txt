@@ -1,0 +1,2178 @@
+Federal Register, Volume 91 Issue 200 (Monday, October 19, 2026)
+
+
+[Federal Register Volume 91, Number 200 (Monday, October 19, 2026)]
+[Rules and Regulations]
+[Pages 65887-65904]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-21319]
+
+
+
+ ========================================================================
+ Rules and Regulations
+                                                 Federal Register
+ ________________________________________________________________________
+ 
+ This section of the FEDERAL REGISTER contains regulatory documents 
+ having general applicability and legal effect, most of which are keyed 
+ to and codified in the Code of Federal Regulations, which is published 
+ under 50 titles pursuant to 44 U.S.C. 1510.
+ 
+ The Code of Federal Regulations is sold by the Superintendent of Documents. 
+ 
+ ========================================================================
+ 
+
+  Federal Register / Vol. 91, No. 200 / Monday, October 19, 2026 / 
+Rules and Regulations  
+
+[[Page 65887]]
+
+
+
+OFFICE OF PERSONNEL MANAGEMENT
+
+5 CFR Parts 300, 315, 316, 352, and 410
+
+[Docket ID: OPM-2026-0067]
+RIN 3206-AP05
+
+
+Elimination of Time-in-Grade
+
+AGENCY: Office of Personnel Management.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Office of Personnel Management (OPM) is adopting, 
+substantially as proposed, its proposed rule eliminating the Time-in-
+Grade (TIG) restriction on advancement to competitive service positions 
+in the General Schedule (GS). Under the prior regulations, a candidate 
+generally could not be advanced to a covered position at GS-6 or above 
+without completing 52 weeks in a position no more than one grade 
+lower--or two grades lower for certain positions in two-grade-interval 
+lines of work. This final rule removes that requirement. Employees 
+remain subject to all applicable occupational qualification standards 
+and any additional job-related qualification requirements established 
+by their employing agency.
+
+DATES: This rule is effective January 19, 2027.
+
+FOR FURTHER INFORMATION CONTACT: Ms. Melissa Cuffari (202) 936-2638 or 
+by email at [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+I. Executive Summary
+
+    OPM is finalizing its proposal (91 FR 31669; May 28, 2026) to 
+eliminate the Time-in-Grade (TIG) restriction in 5 CFR part 300, 
+subpart F, and to make conforming amendments to 5 CFR parts 315, 316, 
+352, and 410. This rule removes the requirement that a candidate for 
+advancement to a covered General Schedule position in the competitive 
+service at GS-6 or above have completed 52 weeks in a position no more 
+than one grade lower--or, for positions at GS-6 through GS-11 in lines 
+of work properly classified at two-grade intervals, no more than two 
+grades lower--than the position to be filled.
+    Employees must continue to meet all applicable OPM qualification 
+standards, agency-established job-related requirements, classification 
+requirements, and merit promotion procedures. This rule does not create 
+an entitlement to promotion, does not waive specialized-experience or 
+education requirements, and does not alter statutory qualification, 
+classification, or competition requirements under 5 U.S.C. chapter 33, 
+5 CFR part 335, or OPM's qualification standards. By its own terms, the 
+restriction OPM removes in this rule operated ``in addition to the 
+eligibility requirements for promotion in part 335 of this chapter.'' 5 
+CFR 300.601. Those part 335 requirements--which govern how agencies 
+evaluate, rank, and select candidates for promotion--are unaffected by 
+this rule and remain fully in force.
+    During the 60-day comment period, OPM received 75 comments. Of 
+those, 41 comments supported eliminating TIG, 22 comments proposed 
+conditions, safeguards, or targeted alternatives rather than opposing 
+elimination outright, and 11 comments opposed elimination. OPM is 
+finalizing the rule substantially as proposed. In response to public 
+comments, OPM confirms the following clarifications, discussed further 
+in the section-by-section analysis.
+    First, eliminating TIG creates eligibility for consideration; it 
+does not create an entitlement to promotion, does not require agencies 
+to accept or act on promotion requests on demand, and does not alter 
+agency discretion regarding classification, funding, or the existence 
+of higher-level work.
+    Second, agencies may continue to establish and apply job-related 
+promotion prerequisites--including a specified period of service in 
+grade, demonstrated competencies, required training or certifications, 
+and documentation requirements--provided those prerequisites are job-
+related, consistently applied, and administered through the agency's 
+written merit promotion plan under 5 CFR 335.103.
+    Third, this rule does not alter within-grade increase requirements 
+under 5 U.S.C. 5335 and 5 CFR part 531, subpart D; Quality Step 
+Increase authority under 5 CFR part 531, subpart E; veterans' 
+preference under 5 U.S.C. 2108 and the Veterans Employment 
+Opportunities Act (VEOA) under 5 U.S.C. 3304(f); collective bargaining 
+obligations under 5 U.S.C. chapter 71; or the merit system principles 
+and prohibited personnel practices in 5 U.S.C. 2301 and 2302.
+    Fourth, a number of comments recommended that OPM adopt 
+governmentwide standards, documentation requirements, review boards, or 
+reporting mandates governing accelerated promotions. OPM is not 
+adopting those recommendations in this rule. The requirements that 
+govern how agencies evaluate, rank, and select candidates for promotion 
+are established in 5 CFR part 335, not in the TIG restriction OPM is 
+removing, which by its terms operated ``in addition to the eligibility 
+requirements for promotion in part 335 of this chapter.'' 5 CFR 
+300.601. A governmentwide change to the promotion process of the kind 
+these comments describe would properly be made through a rulemaking 
+amending part 335, on notice directed to that part, rather than through 
+this rule removing a separate, calendar-based eligibility restriction 
+in part 300.
+    Fifth, OPM is correcting several technical cross-reference and 
+drafting inconsistencies identified between the proposed rule's 
+preamble narrative and its amendatory instructions, discussed in the 
+section-by-section analysis.
+
+II. Digest of Public Comments
+
+    During the 60-day comment period between May 28, 2026, and July 27, 
+2026, OPM received 75 comments in response to the proposed rule. 
+Comments are individually identified by their docket comment number 
+(e.g., ``Comment 0002'' refers to OPM-2026-0067-0002). OPM has grouped 
+the comments into six general categories based on their predominant 
+content. Considered in the aggregate rather than by category, 41 of the 
+75 comments supported eliminating TIG on one or more grounds (Parts 
+II.A through II.C); 12 comments opposed elimination (Parts II.D and 
+II.E); and 23 comments neither supported nor opposed elimination 
+outright, instead proposing conditions, safeguards, or targeted 
+alternatives directed principally at how
+
+[[Page 65888]]
+
+elimination should be implemented (Part II.F).
+    Comments touching on more than one theme are grouped according to 
+their primary focus and are cross-referenced in the section-by-section 
+analysis in Part III where relevant. Such comments are discussed in 
+each category to which they pertain, with a bracketed cross-reference, 
+but are counted only once--in the category reflecting the comment's 
+primary focus. The category counts accordingly sum to the 75 comments 
+received.
+
+A. Comments Supporting Elimination Based on Merit and Performance 
+1
+---------------------------------------------------------------------------
+
+    \1\ This group comprised 17 comments: 0005, 0010, 0011, 0015, 
+0017, 0018, 0019, 0027, 0035, 0037 (also within Workforce Agility), 
+0044, 0047, 0049 (also within Workforce Agility), 0053, 0060, 0065, 
+and 0066.
+---------------------------------------------------------------------------
+
+    Comments in this group supported eliminating TIG because they 
+believe promotion should reflect demonstrated performance, capability, 
+and readiness rather than elapsed time. Comment 0011 described being 
+selected as the best-qualified candidate for a position through a 
+structured panel interview, only to have the promotion blocked because 
+52 weeks had not elapsed in the current grade.
+    Comment 0027 and Comment 0060 similarly described performing at a 
+higher grade level for extended periods, including receiving a Quality 
+Step Increase and special contribution awards, while remaining 
+ineligible for promotion solely because of the calendar requirement. 
+Comment 0015, submitted by an employee at a Federal correctional 
+complex, and Comment 0053 likewise described high performers being held 
+back by TIG independent of their actual readiness. Additional comments 
+(0005, 0010, 0017, 0018, 0019, 0035, 0037, 0044, 0047, 0049, 0065, and 
+0066) similarly urged that promotion rest on demonstrated 
+qualifications, skills, and performance rather than on time served. 
+Taken together, these comments describe a consistent pattern in which 
+TIG deferred the advancement of employees whose readiness their 
+agencies had already evaluated--through structured selection, 
+performance appraisal, or the assignment of higher-graded duties. OPM 
+agrees with these comments, and this final rule is intended to permit 
+precisely the kind of merit-based consideration they described.
+
+B. Comments Supporting Elimination Based on Prior Experience and Career 
+Mobility 2
+---------------------------------------------------------------------------
+
+    \2\ This group comprised 15 comments: 0003, 0006, 0016, 0021, 
+0022, 0026, 0029, 0038, 0039, 0041, 0043, 0052, 0055, 0056, and 
+0058.
+---------------------------------------------------------------------------
+
+    Comments in this group supported elimination because their prior 
+military service, private-sector employment, education, or experience 
+in a different occupational series exceeded what their current Federal 
+grade would suggest.
+    Comment 0003 described being capped at a GS-9 despite performing 
+GS-13-equivalent work. Comment 0016 described performing GS-12-level 
+work while remaining a GS-6 because advancement required moving grade-
+by-grade. Comment 0056 identified specific structural barriers, 
+including employees who have served in a higher-graded position through 
+details or temporary promotions being unable to compete for the next 
+grade because that time was not in a permanent appointment, and 
+employees being unable to move between one-grade-interval and two-
+grade-interval occupational series despite meeting specialized-
+experience requirements.
+    Comment 0058 and Comment 0041 described relevant military and 
+certification-based experience that TIG does not credit. Ten comments 
+(0006, 0021, 0022, 0026, 0029, 0038, 0039, 0043, 0052, and 0055) 
+similarly described prior experience, education, or performance that 
+exceeded the requirements associated with their current grade. OPM 
+agrees. As these comments illustrate, TIG operates to prevent qualified 
+employees from being considered for advancement based solely on the 
+passage of time rather than the nature and level of their experience, 
+and it does so without regard to whether experience acquired in 
+military service, the private sector, another occupational series, or a 
+higher-graded detail has already prepared the employee for the higher-
+level work.
+
+C. Comments Supporting Elimination Based on Workforce Agility and 
+Retention 3
+---------------------------------------------------------------------------
+
+    \3\ This group comprised 9 comments: 0009, 0020, 0028, 0032, 
+0037 (also within Merit/Performance), 0040, 0045, 0049 (also within 
+Merit/Performance), 0051, 0057, 0076 (also addressed at length in 
+Part III).
+---------------------------------------------------------------------------
+
+    Comments in this group, including one from a hiring manager (0009) 
+and others from Federal agency employees, emphasized that TIG creates 
+promotion bottlenecks, particularly where higher-grade vacancies are 
+limited (Comment 0028), and can cause agencies to lose qualified 
+candidates or delay filling mission-critical positions. Comment 0040 
+explained that the nominal 52-week period, once SF-50 processing and 
+hiring-pipeline timelines are included, regularly extends to 15-18 
+months or more in practice. Comment 0051 described lower-graded 
+employees who began performing higher-grade duties after more senior 
+colleagues departed under deferred resignation programs and who would 
+otherwise be excluded from future vacancies despite the experience 
+gained.
+    Comment 0057, a Pathways career-ladder employee, expressed concern 
+about retention absent faster advancement. Comment 0076 expressed 
+definitive support for elimination while raising extensive 
+implementation considerations addressed in Parts III.E through III.G, 
+III.I, and III.K. Three additional comments (0020, 0032, and 0045) 
+expressed general support on workforce-agility and retention grounds.
+    OPM agrees. Removing TIG will allow agencies to fill higher-graded 
+positions more quickly where a qualified employee is available, the 
+higher-level work exists, and funding permits--and, as Comment 0040 
+explained, will eliminate a delay that in practice runs well beyond the 
+nominal 52 weeks.
+
+D. Comments Opposing Elimination Based on Fairness, Favoritism, and 
+Merit Safeguards 4
+---------------------------------------------------------------------------
+
+    \4\ This group comprised 7 comments: 0004, 0007, 0008 (primarily 
+conditional, cross-referenced in Part III.B), 0012, 0031, 0059, 
+0070, and 0075.
+---------------------------------------------------------------------------
+
+    Comment 0059 suggested that TIG is the strongest guardrail against 
+managers fast-tracking favored employees and that the qualification 
+standards OPM cites would provide no comparable check because the same 
+managers control both selection and grooming of candidates for 
+accelerated advancement. Comment 0012 argued that TIG is a preventive 
+structural safeguard, whereas prohibited personnel practice (PPP) 
+enforcement is reactive, slow, and places the burden on the employee 
+after harm occurs, citing a 2009 comment on a prior TIG rulemaking. 
+Comment 0007 argued that TIG provides predictable career expectations 
+and that removing it would place excessive discretionary authority in 
+supervisors' hands.
+    Comment 0031 and Comment 0070 argued more generally that removing 
+the 52-week requirement would accelerate unqualified or favored 
+employees. Comment 0024 argued that TIG promotes fairness, consistency, 
+clear expectations, and merit-based progression, and that, because 
+promotion decisions can be subjective, removing TIG could increase the 
+potential for favoritism and arbitrary
+
+[[Page 65889]]
+
+promotions. Comment 0024 recommended, as an alternative to elimination, 
+adding flexibility for high-performing employees to accelerate 
+advancement while maintaining objective standards, addressed in Part 
+III.B. Comment 0075 opposed the rule in its entirety on the ground that 
+it would replace merit-based competitive examining with a spoils system 
+in violation of the Pendleton Act and multiple constitutional 
+provisions, addressed separately in Part III.J. Comment 0004 objected 
+on the separate ground that the rule overlooks Quality Step Increases 
+as an existing tool for rewarding performance, addressed in Part III.H. 
+OPM addresses the favoritism- and safeguard-related arguments in detail 
+in Part III.A.
+
+E. Comments Opposing Elimination Based on Experience, Readiness, and 
+Institutional Knowledge 5
+---------------------------------------------------------------------------
+
+    \5\ This group comprised 4 comments: 0025, 0033, 0034, and 0048.
+---------------------------------------------------------------------------
+
+    Comment 0025 identified potential disadvantages of elimination, 
+including increased perceived favoritism, reduced development time, 
+budget pressure, loss of intermediate-grade experience, and increased 
+competition for advancement. Comments 0033 and 0034 (near-identical 
+submissions) argued that removing TIG before overhauling agency 
+promotion and competency-evaluation processes risks systemic 
+underperformance and loss of accountability. Comment 0048 opposed any 
+change to TIG on the grounds that experience and knowledge would be 
+degraded and favoritism would increase. OPM addresses these comments in 
+Part III.A.
+
+F. Comments Supporting or Not Opposing Elimination Subject to 
+Conditions, Safeguards, or Targeted Alternatives 6
+---------------------------------------------------------------------------
+
+    \6\ This group comprised 23 comments: 0002, 0008, 0013, 0014, 
+0023, 0024 [counted in Part II.F, reflecting its primary focus], 
+0030, 0036, 0042, 0046, 0050, 0054, 0061, 0062, 0063, 0064, 0067, 
+0068, 0069, 0071, 0072, 0073, 0074, and 0076 (cross-referenced from 
+Part II.C).
+---------------------------------------------------------------------------
+
+    This category is the largest of the six categories described in 
+this Part, although the 41 comments supporting elimination, considered 
+together across Parts II.A through II.C, substantially exceed it. 
+Comments in this category did not uniformly oppose elimination; several 
+expressly supported repeal or stated that they did not oppose it and 
+directed their recommendations to how elimination should be implemented 
+rather than whether it should occur. Comment 0002 recommended targeted 
+flexibility limited to technical, medical, and scientific occupations 
+rather than governmentwide elimination. Comment 0008 proposed a grade-
+banded TIG framework scaling from 6 months (GS-1 to GS-5) to 24 months 
+(GS-13 and above), aligned with performance evaluation cycles, together 
+with a narrow waiver process and mandatory pilot testing. Comment 0050 
+proposed allowing employees to compete for positions up to two grades 
+above their current grade after two or three years in grade.
+    Comment 0072 proposed a ``Competency-Based Accelerated Promotion 
+Waiver'' retaining the 52-week baseline with a 26-week waiver available 
+only with the highest performance rating, an OPM-certified assessment, 
+and independent review board approval, together with a 24-month phased 
+implementation. Comment 0042 did not oppose revisiting TIG but 
+requested baseline data on the scope of the problem, replacement 
+safeguards, and comparison of graduated alternatives before 
+governmentwide repeal. Comment 0030 did not oppose modernization but 
+expressed concern about the loss of an objective, easily understood 
+standard and recommended written promotion criteria, advance 
+communication, and documentation. Comment 0068 generally supported 
+elimination but recommended governmentwide best practices, promotion 
+review boards, independent audits, and manager training.
+    Comment 0069 urged withdrawal or substantial revision, framing TIG 
+as an objective, front-end constraint on rapid promotion that the 
+proposed rule would remove without replacement, and recommended written 
+accelerated-promotion standards, contemporaneous justification, 
+objective evidence, HR or panel review, audits, and public reporting. 
+Comment 0074 supported repeal while recommending that agency-specific 
+criteria be objective, published, and consistently applied, with 
+concise documentation and periodic aggregate review rather than a 
+burdensome waiver process. Twelve additional comments (0013, 0014, 
+0023, 0046, 0054, 0061, 0062, 0063, 0064, 0067, 0071, and 0073) offered 
+varying combinations of these recommendations, including written 
+criteria, HR or classification review, budget review, pilot programs, 
+phased effective dates, and monitoring for disparate impact. Comment 
+0036 opposed the change absent significant revisions to oversight and 
+qualification-measurement mechanisms, citing HR capacity and structural 
+conflicts of interest. Comment 0076 is discussed primarily in Part II.C 
+and in Parts III.E through III.G, III.I, and III.K. OPM addresses these 
+recommendations in detail in Part III.B through III.D; addresses the 
+effective-date and adjudicatory-capacity recommendations in Part III.A; 
+and addresses the cost recommendations in Part III.I and Part V.D.
+
+III. Section-by-Section Analysis and Response to Comments
+
+A. General Comments on the Decision To Eliminate TIG
+
+    Comments supporting elimination as consistent with merit 
+principles. As described in Parts II.A through II.C, 41 comments 
+supported eliminating TIG. OPM does not treat these comments as 
+expressions of preference only. Read together, they describe a 
+consistent set of operational effects bearing directly on whether a 
+uniform 52-week eligibility restriction remains necessary or 
+appropriate: employees identified through competitive or structured 
+selection processes as best qualified for higher-graded work whose 
+promotions were nonetheless deferred solely because 52 weeks had not 
+elapsed (Comment 0011); employees performed the duties of substantially 
+higher-graded positions for extended periods, in some cases while 
+receiving Quality Step Increases and special contribution awards, 
+without becoming eligible for promotion to the grade of the work 
+performed (Comments 0003, 0016, 0027, and 0060); a nominal 52-week 
+period that, once position-processing and hiring-pipeline timelines are 
+accounted for, regularly operates as 15 to 18 months or longer in 
+practice (Comment 0040); and experience acquired through details, 
+temporary promotions, military service, and professional certification 
+that TIG does not credit was not considered because it was not accrued 
+in a permanent appointment at the preceding grade (Comments 0041, 0056, 
+and 0058). See, e.g., 5 CFR 300.605(a) (service while on detail is 
+credited at the grade of the employee's position of record, not the 
+grade of the position to which detailed).
+    OPM finds these accounts probative. They are consistent with one 
+another, they come from a range of agencies and occupational series, 
+and they describe a mechanism inherent in TIG rather than incidental to 
+how any particular agency administers it: because TIG measures elapsed 
+time in grade and nothing else, it defers consideration of employees 
+whom an agency has already determined, through job-related evaluation, 
+to be prepared for higher-level work. OPM concludes that the
+
+[[Page 65890]]
+
+record in this rulemaking supports its determination that TIG imposes 
+costs on agencies and employees that are not offset by a corresponding 
+merit-protective benefit, for the reasons discussed in the responses 
+that follow.
+    Comments arguing TIG remains necessary to prevent favoritism and 
+protect merit-system integrity. Comment 0059 argued that the 
+governmentwide qualification standards cited by OPM would provide no 
+impediment to disparately fast-tracking favored employees, particularly 
+where the same managers who make selection decisions also control how 
+employees are groomed for advancement. Comment 0012 defends time-in-
+grade as a preventive structural safeguard--one that blocks improper 
+promotions before they occur, rather than remedying them afterward. The 
+comment contrasts that with prohibited personnel practice enforcement, 
+which it characterizes as hard to prove, slow to adjudicate, and 
+burdening the employee only after harm is done. It supports the point 
+with a 2009 comment cautioning that promotion schemes built without 
+objective criteria and adequate oversight have in fact produced 
+favoritism, nepotism, and illegal discrimination. Comment 0007 
+similarly argued that TIG provides predictable, transparent career 
+expectations and that removing it would place excessive discretionary 
+authority in the hands of individual supervisors. Four additional 
+comments (0024, 0031, 0048, and 0070) argued in briefer terms that 
+eliminating the 52-week requirement would allow acceleration of 
+unqualified, favored, or politically connected employees, or that the 
+subjectivity of promotion decisions makes a uniform waiting period 
+necessary.
+    OPM disagrees that TIG is the primary or most effective safeguard 
+against favoritism in the promotion process. TIG determines only when 
+an employee becomes eligible to be considered for promotion; it does 
+not evaluate whether a candidate is qualified for a higher-graded 
+position, does not identify the best-qualified candidate, does not rank 
+candidates, and does not prevent a supervisor from favoring a 
+particular employee once that employee has completed 52 weeks in grade. 
+An agency's promotion decision remains governed by 5 CFR part 335. 
+Section 335.103(b)(1) (Requirement 1) requires each agency to establish 
+procedures for promoting employees that are based on merit and are 
+available in writing to candidates, requires that those procedures be 
+administered without regard to political affiliation or any other non-
+merit-based factor, and requires that promotion actions be ``based 
+solely on job-related criteria.'' Section 335.103(b)(3) (Requirement 3) 
+requires that candidates meet the minimum qualification standards 
+prescribed by OPM, that methods of evaluation for promotion be 
+consistent with 5 CFR part 300, subpart A--which in turn requires that 
+employment practices bear a rational relationship to performance in the 
+position and be supported by a job analysis, see 5 CFR 300.103--and 
+that due weight be given to performance appraisals and incentive 
+awards. Section 335.103(b)(5) (Requirement 5) requires each agency to 
+maintain a record of each promotion sufficient to allow reconstruction 
+of the promotion action, including documentation of how candidates were 
+rated and ranked. These requirements, together with OPM qualification 
+standards, position classification requirements, and the merit system 
+principles and prohibited personnel practices in 5 U.S.C. 2301 and 
+2302, provide substantive protection against improper promotion 
+decisions in a way that a calendar requirement does not.
+    OPM also notes, as Comment 0037 and others acknowledged, that TIG 
+does not apply uniformly across the Federal workforce: it does not 
+apply to Federal Wage System employees, to pay-banded positions, to 
+excepted service employees generally, to competitive service employees 
+seeking positions through open, competitive examination, or--even 
+within its own coverage--to advancement to positions up to GS-5 where 
+the position to be filled is no more than two grades above the lowest 
+grade the employee held within the preceding 52 weeks under the 
+employee's latest nontemporary competitive appointment, see 5 CFR 
+300.604(c). OPM has considered promotion practices in those portions of 
+the workforce that already operate without any time-in-grade 
+restriction and is not aware of evidence, in the comments received or 
+otherwise available to OPM, that promotion decisions in those settings 
+are subject to materially greater rates of favoritism than promotion 
+decisions covered by TIG. No comment identified such evidence.
+    OPM addresses separately the more specific contention that 
+qualification standards cannot constrain favoritism because the same 
+managers who select candidates also control the details, developmental 
+assignments, and training through which candidates become qualified. 
+OPM does not dispute that a supervisor may influence both. That 
+influence, however, exists today and is unaffected by TIG: a supervisor 
+who directs developmental opportunities to a favored employee can do so 
+during the 52-week period as readily as after it, and at the end of 
+that period the favored employee is better qualified and the disfavored 
+employee is not. TIG delays the promotion; it does not redistribute the 
+opportunities that produced the disparity. The requirements that do 
+reach that conduct are the requirement that promotion criteria be job-
+related and supported by job analysis, the requirement that agencies 
+apply their merit promotion plans consistently, the prohibition on 
+granting an unauthorized preference or advantage under 5 U.S.C. 
+2302(b)(6), and the classification requirements that permit promotion 
+only where higher-graded work actually exists. For the same reason, OPM 
+does not accept the characterization of TIG as preventive and of 
+enforcement as merely reactive. TIG prevents nothing that a supervisor 
+intent on favoritism cannot accomplish by waiting 52 weeks; what it 
+reliably prevents is the timely promotion of employees who are ready.
+    OPM acknowledges that these requirements operate on the promotion 
+decision rather than on the antecedent assignment of developmental 
+work, and that a uniform 52-week waiting period imposes a delay that 
+those requirements do not. OPM has weighed that consideration. OPM 
+concludes that a delay applied to every employee in the competitive 
+service, including the substantial majority as to whom no favoritism 
+concern arises, is a poorly targeted means of addressing conduct that 
+is already prohibited, that TIG does not prevent, and that the record 
+does not show to be more prevalent in the portions of the workforce 
+already operating without TIG.
+    The qualification requirements applicable to promotion likewise 
+operate independently of TIG and are unaffected by this rule. Section 
+335.103(b)(3) (Requirement 3) provides that, to be eligible for 
+promotion or placement, candidates must meet the minimum qualification 
+standards prescribed by OPM, that methods of evaluation for promotion 
+and placement must be consistent with 5 CFR part 300, subpart A, and 
+that due weight must be given to performance appraisals and incentive 
+awards. TIG, by contrast, measured only elapsed time: it provided that 
+a candidate could not be advanced to a covered position unless the 
+candidate had completed 52 weeks in a position no more than one grade 
+lower--or, in two-grade-interval lines of work at GS-6 through GS-11, 
+no more than two grades lower--than the position to be filled. See 5 
+CFR 300.604.
+
+[[Page 65891]]
+
+The governmentwide qualification standards have historically included a 
+comparable one-year service period before an employee could be 
+considered for promotion, so TIG largely duplicated a requirement 
+imposed elsewhere. OPM is separately reviewing that requirement, and 
+OPM's determination in this rule does not depend on its continuation. 
+What the qualification standards require, and will continue to require, 
+is that an employee actually be qualified for the position to which the 
+employee is promoted and demonstrate that qualification through job-
+related evidence. Eliminating a tenure-based measure of qualification 
+does not eliminate the requirement of qualification; it requires that 
+qualification be shown directly rather than inferred from the passage 
+of time.
+    Comment 0059 further argued that Federal positions were subject to 
+qualification standards before enactment of the Whitten Amendment, that 
+abuses nonetheless occurred, that those abuses are what prompted the 
+Whitten Amendment, and that human nature has not changed in the 
+interim. OPM does not agree that the comparison holds. The framework on 
+which OPM relies in this rule did not exist in 1950. The governmentwide 
+qualification standards now published in the OPM Operating Manual, 
+Qualification Standards for General Schedule Positions--including the 
+specialized-experience requirements that govern advancement between 
+grades--postdate the Whitten Amendment, as do the merit promotion 
+requirements in 5 CFR part 335, the merit system principles and 
+prohibited personnel practices codified at 5 U.S.C. 2301 and 2302, the 
+Office of Special Counsel, the Merit Systems Protection Board, and the 
+Federal-sector equal employment opportunity complaint process. OPM made 
+the same observation when it eliminated TIG in 2008. See 73 FR 66157, 
+66158 (Nov. 7, 2008) (``When the time-in-grade restriction was first 
+implemented, procedures for redressing prohibited personnel practices 
+had not yet been enacted, and OPM's qualification standards did not 
+exist.''). The relevant question is not whether favoritism existed 
+before 1950, but whether a uniform waiting period adds protection to 
+the framework that exists now. For all of these reasons, OPM concludes 
+that it does not.
+    Comment 0059 also argued that the value of TIG lies not in any 
+single promotion decision but in the aggregate: a bright-line rule is 
+perceived as fair by the Federal workforce, and eliminating it would 
+signal that seeking personal favor from managers can be rewarded, with 
+corrosive effects on morale and stability. Two additional comments 
+(0007 and 0025) raised related concerns about predictability and 
+perceived fairness. OPM takes the perception concern seriously. A 
+promotion system that employees do not believe is fair will not retain 
+them, whatever its formal properties. OPM does not agree, however, that 
+a waiting period is what sustains that perception, and the record in 
+this proceeding cuts the other way: 41 comments supported eliminating 
+TIG, and a substantial number of them described TIG itself as a source 
+of perceived unfairness, because it deferred the advancement of 
+employees whose agencies had already evaluated them as ready and, in 
+several instances, had already assigned them the higher-graded work. 
+OPM concludes that perceived fairness is better served by requiring 
+agencies to establish, publish, and consistently apply job-related 
+promotion criteria under 5 CFR 335.103(b)(1) than by a rule that treats 
+every employee identically without regard to qualifications.
+    Comments arguing that eliminating TIG will increase litigation and 
+complaint activity. Comment 0059 argued that the principal practical 
+advantage of TIG is its simplicity: because a bright-line rule is easy 
+for selecting officials, human resources (HR) staff, and non-selected 
+candidates alike to apply, a non-selected candidate who can verify that 
+the selectee met TIG is less likely to challenge the selection. 
+Removing that reference point, the comment argued, will generate 
+additional equal employment opportunity and prohibited personnel 
+practice litigation, particularly to the extent accelerated promotions 
+correlate with protected characteristics. Comment 0076 raised a related 
+concern that elimination could produce an increase in matters before 
+the Office of Special Counsel and the Equal Employment Opportunity 
+Commission that would be difficult to defend because each case would be 
+highly fact-dependent, and that supervisors may face an increased 
+documentation burden. Comment 0069 made a related argument concerning 
+human capital workload, addressed in Part III.I.
+    OPM has considered these concerns and does not find them a 
+sufficient basis to retain TIG. As an initial matter, TIG's simplicity 
+is a function of the fact that it measures nothing about the candidate. 
+Verifying that a selectee completed 52 weeks in grade tells a non-
+selected candidate nothing about whether the selection was job-related, 
+whether the selectee was better qualified, or whether the agency 
+applied its merit promotion plan consistently. OPM is not persuaded 
+that the availability of that verification materially affects the 
+volume of either meritorious or non-meritorious challenges.
+    More fundamentally, the standards against which promotion decisions 
+are actually adjudicated are unchanged by this rule. A non-selected 
+candidate's claim under the equal employment opportunity statutes or 5 
+U.S.C. 2302 turns on whether the agency's stated, job-related reasons 
+for the selection are legitimate and consistently applied, not on 
+whether the selectee had been in grade for 52 weeks. Because TIG 
+operated only as an eligibility threshold, satisfying it was never 
+itself a defense to a discrimination or prohibited personnel practice 
+claim, and its removal therefore does not deprive agencies of a defense 
+they previously had. Agencies that comply with 5 CFR 335.103--by 
+establishing written, job-related promotion criteria, making them 
+available to candidates in advance, applying them consistently to 
+similarly situated employees, and maintaining records sufficient to 
+reconstruct the action under Sec.  335.103(b)(5)--will be better 
+positioned to explain and defend a promotion decision than they would 
+be by pointing to the passage of 52 weeks. OPM encourages agencies to 
+use the existing part 335 framework for that purpose, as discussed in 
+Part III.C, and notes that doing so also responds to the documentation 
+concerns raised by three comments (0030, 0074, and 0076).
+    OPM also notes that this rule creates no entitlement to accelerated 
+promotion and does not require any agency to promote any employee 
+earlier than it otherwise would. Where an agency concludes that a job-
+related minimum period in grade is appropriate for particular positions 
+or career ladders, it may adopt one under its merit promotion plan, as 
+discussed in Part III.G.
+    Comments arguing that enforcement mechanisms for merit violations 
+are presently inadequate. Comment 0013 argued that recent disruptions 
+to the leadership and quorum of the Office of Special Counsel (OSC) and 
+the Merit Systems Protection Board (MSPB) undermine OPM's reliance on 
+the merit system principles and prohibited personnel practices. The 
+comment characterized TIG as the last uniform checkpoint remaining on 
+promotion decisions. It recommended that OPM defer the effective date 
+of this rule until it can certify that those bodies have sufficient 
+capacity to adjudicate cases within statutory timeframes.
+    OPM does not agree that TIG is the only, or even the primary, 
+safeguard
+
+[[Page 65892]]
+
+against improper personnel actions or that adjudicatory capacity at OSC 
+or MSPB is a precondition to eliminating a non-merit, calendar-based 
+eligibility restriction. As explained earlier in this Part III.A., the 
+principal protections against improper promotions operate at the point 
+of decision--through qualification standards, classification 
+requirements, and merit promotion procedures--rather than through 
+after-the-fact adjudication. OPM also notes that this comment's 
+premise, which characterizes TIG as a uniform checkpoint, does not 
+account for the fact that TIG does not apply to a substantial portion 
+of the Federal workforce, as discussed previously in this section. OPM 
+is not adopting a delayed or conditional effective date tied to the 
+staffing or caseload of other Federal agencies or components, which OPM 
+does not control and cannot reliably certify.
+    Comments requesting that OPM withdraw the rule and complete a 
+broader review of pay, performance, and staffing before proceeding. 
+Comment 0012 noted that OPM's 2008 final rule eliminating TIG, 
+published at 73 FR 66157 (Nov. 7, 2008), was withdrawn at 74 FR 40057 
+(Aug. 11, 2009) pending a more comprehensive review of pay, 
+performance, and staffing issues that was never completed. The comment 
+argued that OPM should not proceed without either completing that 
+review or explaining why it is no longer necessary.
+    Comment 0072 separately argued that OPM's reliance on the China 
+Lake demonstration project is an invalid premise because demonstration 
+projects operate under customized, locally supervised performance-
+appraisal matrices that cannot be extrapolated to the full 1.5-million-
+employee workforce, and that OPM has provided no new empirical data 
+collected since the 2009 withdrawal to justify reversing its prior 
+position, citing FCC v. Fox Television Stations, Inc., 556 U.S. 502, 
+515 (2009).
+    OPM has explained in the proposed rule and in this final rule the 
+basis for its current determination: governmentwide qualification 
+standards and agency merit promotion procedures under 5 CFR part 335 
+provide the substantive framework for evaluating promotion decisions 
+independent of TIG. OPM acknowledges Comment 0072's point that pay-
+banded demonstration projects operate under locally designed 
+performance-appraisal and pay systems, and that outcomes observed in 
+those projects cannot simply be extrapolated to the General Schedule 
+workforce as a whole. OPM does not rely on demonstration-project 
+results as a predictive model of what will occur governmentwide. OPM 
+relies on them, together with the Federal Wage System, pay-banded 
+systems, the excepted service, and competitive examining, for the 
+narrower proposition that substantial portions of the Federal workforce 
+have long operated without any time-in-grade restriction and that 
+neither the comment record nor OPM's oversight experience discloses 
+documented, widespread promotion abuse in those settings. The absence 
+of such evidence does not establish that abuse cannot occur; it does 
+bear on whether a uniform, governmentwide waiting period is necessary 
+to prevent it. No comment identified evidence to the contrary.
+    OPM notes that it is separately reviewing the service-period 
+requirements contained in the governmentwide qualification standards. 
+That review does not disturb the framework on which OPM relies here. 
+The qualification standards will remain in effect and require that an 
+employee be qualified for the position to which the employee is 
+promoted. Part of this review will assess whether qualification is 
+soundly measured by elapsed time or tenure rather than by demonstrated, 
+job-related capability. The question whether tenure or qualifications 
+should determine an employee's eligibility for promotion is the same 
+question presented by this rule, and OPM's answer is the same: 
+qualifications should be the determining factor.
+    Finally, OPM does not accept the premise that no evidence 
+postdating the 2009 withdrawal informs this rulemaking. The comments 
+received in this docket are themselves evidence developed since 2009, 
+and they are substantial: 41 comments supported eliminating TIG, and a 
+substantial number of them, submitted from a range of agencies and 
+occupational series, described specific instances in which TIG deferred 
+the promotion of employees whom their agencies had evaluated as 
+qualified and prepared for higher-graded work, as summarized in Parts 
+II.A through II.C. OPM's determination accordingly does not depend on 
+extrapolating demonstration-project results to the Federal workforce as 
+a whole; it rests on the continued operation of qualification 
+standards, classification requirements, and merit promotion procedures, 
+informed by the record developed in this proceeding and by the absence 
+of documented, widespread promotion abuse in the substantial portions 
+of the workforce that already operate without TIG. OPM does not agree 
+that completion of a separate, broader review of pay and staffing 
+policy is a legal or practical precondition to finalizing this narrower 
+rule addressing the TIG eligibility restriction.
+    OPM further acknowledges expressly that this rule adopts a position 
+contrary to the one OPM took in 2009 and sets out its reasons for doing 
+so. See FCC v. Fox Television Stations, Inc., 556 U.S. 502, 515 (2009) 
+(an agency changing course must display awareness that it is changing 
+position and provide a reasoned explanation for the new policy but need 
+not demonstrate that the new policy is better than the old one). Three 
+features of the 2009 action bear on what that explanation requires 
+here.
+    First, the 2009 withdrawal did not rest on a substantive 
+determination that TIG is necessary to protect the merit system. OPM 
+stated that it ``would be more productive to consider the merits of the 
+time-in-grade issue as part of a more comprehensive review of pay, 
+performance, and staffing issues than to regulate this particular issue 
+in piecemeal fashion.'' 74 FR 40057 (Aug. 11, 2009). That was a 
+judgment about sequencing, not a factual finding contrary to the 
+findings OPM makes here, and it followed the governmentwide regulatory 
+review directed by the memorandum of January 20, 2009, which caused OPM 
+to delay the 2008 rule's effective date and reopen the record. See 74 
+FR 9951 (Mar. 9, 2009); 74 FR 21771 (May 11, 2009); 74 FR 23109 (May 
+18, 2009). Where an agency's prior position rested on a sequencing 
+judgment rather than on contrary factual findings, the explanation 
+required to depart from it is correspondingly less demanding.
+    Second, OPM's substantive position in 2008 was the position OPM 
+adopts today. In the 2008 final rule, OPM concluded after notice and 
+comment that qualification standards, merit promotion procedures, and 
+the prohibited personnel practices provide the appropriate framework 
+for evaluating promotion decisions, and that TIG is an eligibility 
+factor measuring the passage of time rather than the ability to perform 
+higher-graded work. 73 FR 66157, 66158 (Nov. 7, 2008). OPM had proposed 
+the same result on three prior occasions. See 59 FR 30717 (June 15, 
+1994); 60 FR 2546 (Jan. 10, 1995); 73 FR 6857 (Feb. 6, 2008). This rule 
+is therefore not a novel departure but a return, on a fuller record, to 
+a conclusion OPM has reached repeatedly.
+    Third, OPM is not aware of, and no comment has identified, reliance 
+interests that this rule would disrupt. TIG confers no entitlement and 
+no
+
+[[Page 65893]]
+
+vested expectation; it confers eligibility. An employee who has 
+completed 52 weeks in grade retains everything that period produced--
+the experience gained, the performance record established, and 
+eligibility for consideration--and this rule takes nothing away from 
+that employee. Cf. Encino Motorcars, LLC v. Navarro, 579 U.S. 211, 221-
+22 (2016) (an agency must provide a more detailed justification where 
+its new policy rests upon factual findings contradicting those 
+underlying its prior policy or where serious reliance interests are at 
+stake).
+    OPM notes as well that several implementation questions OPM treated 
+as outside the scope of the 2009 proceeding--including whether agencies 
+retain the option to establish their own service requirements, and how 
+elimination applies to career-ladder positions--are answered in Part 
+III.C, Part III.G, and Part IV of this rule.
+    Comments arguing that eliminating TIG removes an objective, front-
+end constraint that after-the-fact enforcement cannot replace. Comment 
+0069 stated that it does not categorically oppose eliminating TIG and 
+acknowledged that a 52-week period may prevent an agency from promoting 
+an employee who has already demonstrated the knowledge, skills, 
+judgment, and readiness required for higher-graded work. The comment 
+argued, however, that OPM proposes to remove a longstanding objective 
+eligibility constraint without replacing it with prospective, job-
+related standards governing when accelerated advancement is 
+appropriate, and without explaining how agencies and OPM will monitor 
+promotions across occupations, grades, and organizational units to 
+verify that qualification and merit standards are being applied. The 
+comment further argued that the merit system principles and prohibited 
+personnel practices establish broad standards of conduct and after-the-
+fact remedies rather than ex ante criteria; that a prohibited personnel 
+practice claim requires evidence that is typically in the agency's 
+possession; and that subjective promotion criteria can reproduce hidden 
+bias, citing Equal Employment Opportunity Commission guidance 
+recommending that employers establish neutral and objective criteria.
+    The comment recommended that OPM either withdraw the rule or pair 
+elimination with written accelerated-promotion standards, 
+contemporaneous written justification, objective competency evidence 
+beyond a supervisor's conclusory judgment, consistency requirements for 
+similarly situated employees, panel or human resources review, records 
+identifying accelerated promotions, audits and public reporting, an 
+express clarification regarding within-grade increases, and 
+implementation guidance issued before the effective date. Comment 0069 
+also argued that OPM's account of the historical record is inaccurate 
+because merit principles in Federal employment did not originate with 
+the Civil Service Reform Act of 1978 but with the Pendleton Act of 1883 
+and subsequent civil service legislation.
+    OPM agrees with two of the premises underlying this comment. First, 
+criteria applied at the point of decision are more effective than 
+remedies available only after harm has occurred. Second, promotion 
+criteria should be objective, job-related, established in advance, 
+published, and consistently applied to similarly situated employees. 
+OPM's disagreement is with where those criteria belong and with the 
+characterization of what removing TIG actually changes.
+    The criteria this comment describes already exist, and they exist 
+in 5 CFR part 335 rather than in the restriction OPM is removing. 
+Section 335.103(b)(1) requires each agency to establish written 
+promotion procedures based on merit, available in writing to 
+candidates, administered without regard to political affiliation or any 
+other non-merit-based factor, and based solely on job-related criteria. 
+Section 335.103(b)(3) requires that candidates meet OPM's minimum 
+qualification standards and that evaluation methods conform to 5 CFR 
+part 300, subpart A, which requires that employment practices bear a 
+rational relationship to performance in the position and be supported 
+by a job analysis. See 5 CFR 300.103. Section 335.103(b)(5) requires 
+records sufficient to allow reconstruction of each promotion action, 
+including documentation of how candidates were rated and ranked. 
+Section 335.103(d) preserves the right to file a complaint relating to 
+a promotion action and confirms OPM's authority to investigate 
+substantial violations of OPM requirements. Each of these requirements 
+is prospective, job-related, and enforceable, and none is affected by 
+this rule. By its own terms, the restriction OPM removes operated ``in 
+addition to the eligibility requirements for promotion in part 335 of 
+this chapter.'' 5 CFR 300.601. This rule therefore does not leave the 
+promotion process without objective standards; it removes a calendar-
+based eligibility condition that sat on top of those standards without 
+measuring anything about the candidate.
+    That allocation also answers the comment's principal 
+recommendation. The safeguards Comment 0069 proposes--written 
+accelerated-promotion standards, contemporaneous written justification, 
+objective competency evidence, consistency requirements, review panels 
+or human resources review, records identifying accelerated actions, and 
+audit and reporting obligations--are all requirements about how 
+agencies evaluate, document, and select candidates for promotion. If 
+OPM were to impose them governmentwide, the appropriate vehicle would 
+be an amendment to 5 CFR part 335, proposed and noticed as such, so 
+that agencies and the public could comment on the specific 
+requirements, their scope, and their cost. It would not be appropriate 
+to adopt them in this final rule, which proposed only the removal of a 
+separate calendar-based eligibility restriction in part 300 and did not 
+give notice that governmentwide promotion procedures were at issue.
+    OPM accepts the comment's historical correction in part. OPM did 
+not intend to suggest that merit principles in Federal employment 
+originated in 1978. Congress rejected the spoils system in the 
+Pendleton Act of 1883, and the Civil Service Commission administered 
+merit-based examination, promotion, and classification requirements 
+long before 1950. OPM's point is narrower, and OPM has revised the 
+discussion in Part V.A to state it precisely: the specific framework on 
+which this rule relies--the governmentwide qualification standards 
+published in the OPM Operating Manual, the merit promotion requirements 
+in 5 CFR part 335, the codified merit system principles and prohibited 
+personnel practices at 5 U.S.C. 2301 and 2302, and the institutions 
+that enforce them--postdate enactment of the Whitten Amendment.
+    OPM agrees with the comment's recommendation that a rating of 
+record should not by itself be treated as sufficient evidence of 
+readiness for advancement, and Part III.C describes evaluation methods 
+that go beyond the rating of record. OPM also confirms, as the comment 
+requested, that this rule does not alter the statutory and regulatory 
+requirements governing within-grade increases, including waiting 
+periods and acceptable-level-of-competence determinations under 5 
+U.S.C. 5335 and 5 CFR part 531, subpart D. See Part III.H. OPM 
+addresses the comment's monitoring and reporting recommendations in 
+Part III.D, its administrative-burden argument in Part III.I, and its 
+request for implementation guidance in Part IV.
+
+[[Page 65894]]
+
+    Finally, OPM does not agree that this rule should be evaluated on 
+the basis of separate personnel-policy actions that are the subject of 
+their own rulemakings and their own administrative records. This rule 
+addresses whether a 52-week, calendar-based eligibility restriction 
+remains necessary or appropriate. The 5 U.S.C. 2301 and 2302 
+prohibitions on making promotion decisions based on political 
+affiliation or other non-merit factors continue to apply. This rule 
+does not alter 5 CFR 335.103, which requires that promotion actions be 
+based solely on job-related criteria and administered without regard to 
+political affiliation; and it does not alter the classification 
+requirements that permit promotion only where higher-graded work 
+actually exists. OPM is not aware of a basis in this record to conclude 
+that a 52-week waiting period, as opposed to those requirements, is 
+what stands between the promotion process and the concerns the comment 
+identifies. Comments directed to separate regulatory actions are 
+addressed in Part III.L. OPM is not adopting the recommendation to 
+withdraw this rule.
+    Comments identifying additional disadvantages of elimination. 
+Comment 0025 identified several potential disadvantages of elimination, 
+including increased perceived favoritism, reduced career-development 
+time, budget pressure from faster promotions, loss of institutional 
+knowledge at intermediate grades, and increased competition for 
+advancement opportunities.
+    Two additional comments (0033 and 0034) submitted in substantially 
+identical language, argued that removing TIG before agencies overhaul 
+their promotion and competency-evaluation processes risks systemic 
+underperformance.
+    OPM acknowledges these concerns but does not agree that they 
+require retention of TIG. This rule does not compel rapid promotions; 
+agencies may require additional development time, sustained 
+performance, training, or a service period, and may promote only when 
+higher-level duties and funding are available, as discussed further in 
+Part III.B and III.G. Institutional knowledge and relevant experience 
+may be considered through qualification standards and other job-related 
+criteria. Existing merit promotion procedures, merit system principles, 
+and prohibited personnel practices continue to protect fair and 
+consistent treatment. OPM is not changing the proposed rule in response 
+to these comments.
+
+B. Comments Requesting Retention of TIG in a Modified Form (Grade-
+Banded, Graduated, or Waiver-Based Alternatives)
+
+    Comment 0008 proposed a phased, grade-banded TIG framework with 
+minimums scaling from 6 months (GS-1 to GS-5) to 24 months (GS-13 and 
+above), alignment of TIG with agency performance-evaluation cycles, a 
+narrow waiver process for mission-critical exceptions, and mandatory 
+pilot testing with outcome-data collection before any nationwide 
+change. Comment 0050 proposed allowing employees to become eligible, 
+after two or three years in grade, to compete for positions up to two 
+grades above their current grade, arguing this would reduce promotion 
+bottlenecks while still requiring a period of demonstrated experience 
+before a significant grade jump. Comment 0072 proposed a competency-
+based accelerated promotion waiver retaining the 52-week baseline 
+governmentwide but authorizing a waiver to 26 weeks only for employees 
+who achieve the highest performance rating, pass an OPM-certified 
+objective assessment, and obtain approval from an independent agency 
+career ladder review board, together with a mandatory 24-month phased 
+implementation. Comment 0002 recommended that OPM limit any elimination 
+to specific technical, medical, and scientific occupations--citing 
+cybersecurity, IT, software development, data science, VA clinical 
+staff, and scientific research roles as examples where outside 
+experience is most likely to exceed grade-level expectations--while 
+retaining TIG for most other Federal positions, particularly those in 
+HR, supervisory, budget, and policy functions. Comment 0042 also 
+referenced a graduated TIG relief approach as a possible middle path, 
+under which an employee could bypass one TIG interval with agency 
+documentation of full qualification, while the following interval would 
+remain fully applicable or only partially reduced.
+    OPM appreciates these detailed alternatives but is not adopting a 
+grade-banded, graduated, occupation-limited, or waiver-based TIG 
+framework in place of elimination. Each of these alternatives would 
+retain time served as a governmentwide eligibility condition for at 
+least some employees, some occupations, or some portion of the 
+promotion process, which preserves the central defect OPM has 
+identified: an administrative, calendar-based proxy that is not skills-
+based, does not itself measure competence, and that can exclude an 
+otherwise qualified employee for a reason unrelated to the employee's 
+ability to perform higher-graded work.
+    The waiver-based framework proposed by Comment 0072, in particular, 
+would recreate an approval process--with a fixed baseline, a review 
+board, and a certified assessment tool--that would likely impose 
+administrative burdens similar to, or greater than, the TIG-related 
+exception and training-agreement approval processes OPM is eliminating 
+in this rule. See 5 CFR 300.603(b)(6) through (b)(8). With respect to 
+Comment 0002's occupation-limited approach, OPM does not agree that the 
+problem identified in this rulemaking is confined to technical, 
+medical, and scientific occupations; the comment record, including 
+comments 0016, 0026, 0040, 0051, and 0056, documents comparable 
+barriers in administrative, correctional, contract-negotiation, and 
+other occupational contexts. OPM also does not agree that a fixed 24-
+month implementation delay, as proposed by two comments (0008 and 
+0072), is necessary; as explained in Part V.D, OPM's cost estimate 
+accounts for the time agencies will need to update merit promotion 
+plans and does not indicate that a multi-year transition is required.
+    OPM notes as well that one of these proposals would provide less 
+flexibility than the restriction it would replace. Comment 0050 
+proposed permitting employees to compete, after two or three years in 
+grade, for positions up to two grades above their current grade. Two-
+grade advancement is already available under the existing restriction 
+after 52 weeks rather than two or three years: Sec.  300.604(b)(1) 
+already permits advancement to a position at GS-6 through GS-11 for a 
+candidate who has completed 52 weeks in a position no more than two 
+grades lower, where the position to be filled is in a line of work 
+properly classified at two-grade intervals; Sec.  300.604(b)(3) permits 
+agencies to apply a one- or two-grade measure for mixed-interval 
+promotion patterns; and Sec.  300.604(c) imposes no time restriction on 
+advancement to positions up to GS-5 where the position to be filled is 
+no more than two grades above the lowest grade the employee held within 
+the preceding 52 weeks under the employee's latest nontemporary 
+competitive appointment. The existing restriction is therefore already 
+graduated by grade and by classification pattern, as Comment 0076 
+observed in noting that the 52-week requirement limits advancement to a 
+single grade except where the occupational series is structured to
+
+[[Page 65895]]
+
+support a two-grade progression. That structure has not prevented the 
+barriers described in Parts II.A through II.C, which is a further 
+reason OPM is not persuaded that a differently calibrated schedule of 
+waiting periods would address them.
+    Comment 0024 recommended, as an alternative to elimination, that 
+OPM add flexibility for high-performing employees to accelerate 
+advancement while maintaining objective standards. OPM agrees with that 
+objective and believes this rule serves it more directly than a high-
+performer carve-out would. The objective standards the comment seeks to 
+preserve are the governmentwide qualification standards and the job-
+related promotion criteria required by 5 CFR 335.103(b)(1) and (b)(3), 
+and this rule leaves both fully in force; what it removes is the 
+calendar bar that prevented a demonstrably ready employee from being 
+considered at all. A carve-out limited to high performers would, by 
+contrast, require OPM to define a governmentwide performance threshold 
+for promotion eligibility and would make the rating of record the 
+gateway to advancement--an approach Comment 0069 specifically cautioned 
+against. It would also leave in place, for every employee not meeting 
+that threshold, the same non-merit waiting period OPM has determined is 
+not justified. Agencies that wish to adopt an accelerated-advancement 
+track for high performers may do so under their merit promotion plans, 
+as discussed in Part III.G.
+    Agencies retain the discretion to adopt internal, job-related 
+service periods, occupation-specific criteria, or progression criteria 
+for their own career ladders (discussed further in Part III.G), which 
+allow agencies that wish to retain a more gradual, banded, or phased 
+internal approach to do so without a governmentwide mandate.
+
+C. Comments Requesting Written, Objective, Job-Related Agency Promotion 
+Criteria and Documentation
+
+    Comment 0030 did not oppose modernization or agency flexibility but 
+expressed concern that removing ``one of the few objective standards 
+employees can easily understand'' would shift the balance toward 
+management discretion and recommended that agencies be required to 
+establish clear written promotion criteria, communicate those standards 
+to employees in advance, and document the reasons for promotion 
+decisions. Comment 0063 recommended that any promotion made under this 
+authority be supported by a written certification from the selecting 
+official confirming that the employee meets all qualifications, that 
+the promotion is based solely on merit, and that the action complies 
+with merit system principles, together with review and approval by a 
+higher-level management official and a career human resources official.
+    Comment 0067 recommended that OPM provide implementation guidance 
+and a template to help agencies establish minimum, job-related 
+promotion criteria and document promotion decisions. Comment 0068 
+recommended that OPM identify best practices, consider career-level 
+promotion review boards (citing a program-level model used in another 
+part of the Federal Government), and require independent audit or 
+higher-level review to ensure promotions are merit-based. Comment 0074 
+recommended that agency-specific prerequisites be objective, job-
+related, established in advance, published in merit promotion plans, 
+and consistently applied to similarly situated employees, supported by 
+concise, standardized documentation for any promotion completed before 
+52 weeks. Comment 0076 similarly recommended that OPM provide, in the 
+final rule or in implementation guidance, a model merit promotion 
+provision, minimum documentation expectations, and best-practice 
+documentation guidance.
+    OPM agrees that promotion criteria should be job-related, 
+consistently applied, and based on established agency procedures, and 
+OPM does not disagree with the substance of these recommendations as a 
+matter of sound personnel administration. OPM notes at the outset that 
+much of what these comments recommend is already required. Section 
+335.103(b)(1) requires each agency to establish procedures for 
+promoting employees that are based on merit, that are available in 
+writing to candidates, and that are based solely on job-related 
+criteria; the requirement that promotion criteria be written, job-
+related, and communicated to candidates in advance is therefore already 
+governmentwide law. Section 335.103(b)(5) separately requires each 
+agency to maintain a record of each promotion sufficient to allow 
+reconstruction of the promotion action, including documentation of how 
+candidates were rated and ranked. What these comments principally seek 
+is not a new obligation but more specific governmentwide direction 
+about how agencies satisfy obligations they already have. Agencies may, 
+and OPM encourages agencies to, use this existing framework to specify 
+objective, job-related criteria for promotions that would previously 
+have been governed by TIG, including required competencies, performance 
+levels, training, or certifications, and to document how those criteria 
+were applied.
+    OPM does not believe a new governmentwide template, mandatory 
+certification, or review-board requirement is necessary or appropriate 
+given the wide variation in occupations, missions, and workforce 
+structures across the Federal Government, and is concerned that a one-
+size-fits-all documentation or review mandate could itself recreate 
+significant elements of the administrative burden this rule is intended 
+to reduce.
+    There is a further reason OPM does not adopt these recommendations 
+in this rule. Requirements of the kind these comments propose--
+certifications, higher-level or panel review, standardized 
+documentation, and prescribed evaluation criteria--would govern how 
+agencies conduct promotion actions, and the regulations that govern how 
+agencies conduct promotion actions are in 5 CFR part 335. Thus, if OPM 
+determines that broader governmentwide changes to the promotion process 
+are warranted, the appropriate vehicle is a rulemaking amending part 
+335. OPM will address implementation questions, including model 
+criteria and documentation practices, through the implementation 
+guidance described in Part IV, consistent with the recommendations in 
+three comments (0067, 0074, and 0076).
+    Comment 0068 and Comment 0036 emphasized that the added discretion 
+this rule confers will fall on human resources offices that may lack 
+the capacity to absorb it and recommended that OPM pair the rule with 
+investment in training, guidance, and oversight. Comment 0068 also 
+observed that regulatory change without operational change produces 
+uneven implementation. OPM agrees that implementation support matters 
+and addresses it in Part IV. OPM does not agree, however, that agency 
+human capital capacity is a reason to retain a restriction that applies 
+to every covered employee, including the substantial majority as to 
+whom no capacity concern arises. This rule removes an eligibility 
+determination that agencies must currently make and document for every 
+covered internal promotion action, together with the exception-approval 
+processes associated with it; it does not add a determination. To the 
+extent agencies choose to adopt more structured promotion criteria 
+under their part 335 authority, OPM encourages them to scale those 
+criteria
+
+[[Page 65896]]
+
+to the capacity of the offices that will administer them.
+    Consistent with 5 CFR 335.103(b)(3) and 5 CFR part 300, subpart A, 
+an agency may consider the following methods for evaluating an 
+employee's qualifications for promotion under part 335. These include 
+an evaluation of the employee's demonstrated results, and training 
+(with a specific focus on the outcomes of the performance and training 
+and the extent to which they prepare the employee for the higher-level 
+work); technical assessments; a structured interview; and appraisal of 
+the employee's performance and/or assessment of the employee's 
+potential. This last method goes beyond the employee's rating of record 
+and includes judgments and observations of other supervisors, managers, 
+and employees of the candidate's behavior. An assessment of the 
+employee's potential relies on a determination or demonstration (based 
+on observations or evaluation of work products) that the employee has 
+demonstrated higher-level performance required for the higher-level 
+work.
+
+D. Comments Requesting Monitoring, Data Collection, and Public 
+Reporting
+
+    Comment 0063 requested that agencies publish annual aggregate 
+reports identifying the number and grade increases of promotions 
+granted under this authority, occupational series, organizational 
+component, and aggregate demographic, veteran, disability, and 
+bargaining-unit data. Comment 0064 recommended that OPM establish a 
+process to monitor promotion rates, demographic trends, retention, 
+workforce mobility, grievances, and appeals during the initial years of 
+implementation, and publish aggregate findings.
+    Comment 0069 recommended annual agency data collection and OPM 
+review of promotions by agency, grade, series, career ladder, and 
+organizational unit to identify patterns suggesting favoritism, 
+politicization, discrimination, or grade inflation. Comment 0073 
+requested clear appeal and grievance mechanisms specific to employees 
+passed over in favor of an early-promoted peer, together with agency 
+audits. Comment 0074 recommended that OPM establish baseline promotion-
+timing data before implementation and conduct a formal three-year 
+retrospective review examining promotion timing, retention, agency-
+specific waiting periods, administrative costs, and complaints or 
+grievances.
+    OPM appreciates these recommendations and agrees that monitoring 
+promotion outcomes can be a useful management practice. OPM does not 
+agree, however, that a mandatory governmentwide data collection, 
+aggregate public reporting, or fixed retrospective-review requirement 
+should be included in the regulatory text implementing this rule. As 
+explained in Part III.C, requirements governing how agencies conduct 
+and document promotion actions are beyond the scope of this rulemaking. 
+Agencies already maintain personnel records, including SF-50 actions 
+and the promotion records required by 5 CFR 335.103(b)(5), sufficient 
+to allow OPM and other oversight bodies to analyze promotion patterns 
+as needed, and OPM retains its ongoing authority to review agency 
+personnel practices for consistency with the merit system principles 
+and to investigate substantial violations of OPM requirements under 5 
+CFR 335.103(d). A new, standing governmentwide reporting requirement 
+tied specifically to promotions completed before 52 weeks would itself 
+function as an administrative burden similar in kind to the TIG-related 
+tracking and approval processes this rule removes.
+    With respect to Comment 0073's request for new appeal or grievance 
+mechanisms, OPM notes that existing complaint, grievance, and appeal 
+rights under applicable law, including equal employment opportunity and 
+prohibited-personnel-practice procedures and the complaint right 
+preserved by 5 CFR 335.103(d), are unaffected by this rule and remain 
+available where an employee believes a promotion decision was unlawful. 
+OPM will address monitoring practices in the implementation guidance 
+described in Part IV and may review implementation data in the course 
+of its ordinary oversight of agency personnel management programs but 
+declines to codify a specific data collection, reporting, or three-year 
+review mandate in this rule.
+
+E. Comments Regarding Veterans' Preference and the VEOA
+
+    Comment 0076 raised a concern that because current Federal 
+``status'' employees applying under VEOA are subject to TIG while non-
+status preference-eligible veterans separated from the armed forces 
+after three or more years of continuous active service may compete for 
+merit promotion positions without a TIG restriction, eliminating TIG 
+could allow agencies to rapidly promote favored internal ``status'' 
+employees in a way that disadvantages qualified external veterans 
+competing for the same positions.
+    OPM has considered this comment carefully. This rule does not alter 
+the statutory framework governing VEOA eligibility under 5 U.S.C. 
+3304(f), veterans' preference under 5 U.S.C. 2108, or the requirement 
+that agencies conduct fair and open competition consistent with 5 CFR 
+part 335 when filling positions subject to competitive procedures. 
+Eliminating TIG affects only whether an internal candidate must wait 52 
+weeks in grade before being eligible for consideration for promotion; 
+it does not change the substantive qualification standards, competitive 
+procedures, or veterans' preference requirements applicable to any 
+candidate, internal or external. OPM does not agree that removing an 
+internal eligibility restriction on status employees creates unfairness 
+to preference-eligible veterans competing under VEOA, because both 
+status employees and VEOA-eligible veterans remain subject to the same 
+qualification standards and the same merit promotion or competitive 
+examining procedures for the vacancy in question. OPM will address the 
+interaction between this rule and VEOA-based competition in the 
+implementation guidance described in Part IV but is not making a 
+substantive change to the final rule in response to this comment.
+
+F. Comments Regarding Collective Bargaining Obligations
+
+    Comment 0030 and Comment 0076 noted that promotion procedures and 
+eligibility criteria are frequently addressed in collective bargaining 
+agreements and are subject to bargaining obligations under 5 U.S.C. 
+chapter 71. They also requested that OPM address the interaction 
+between this rule and agencies' bargaining obligations, including 
+through a defined transition period of 90 to 180 days.
+    OPM acknowledges that agencies changing their internal promotion 
+procedures in response to this rule may have bargaining obligations 
+under 5 U.S.C. chapter 71 with respect to procedures and appropriate 
+arrangements for bargaining unit employees affected by the change, to 
+the extent those obligations apply under otherwise applicable law. This 
+rule does not itself alter, expand, or diminish any agency's bargaining 
+obligations, and OPM expects agencies to comply with applicable labor-
+relations requirements as they revise merit promotion plans and 
+procedures following this rule's effective date. OPM does not agree 
+that a fixed, governmentwide transition period must be prescribed in 
+the regulatory text itself.
+
+[[Page 65897]]
+
+    OPM has, however, adopted an effective date 90 days after 
+publication, which falls within the 90- to 180-day range these comments 
+recommended and which OPM expects will afford agencies sufficient time 
+to revise merit promotion plans, satisfy any applicable bargaining 
+obligations, and train supervisors and human resources staff. Agencies 
+retain the ability to sequence implementation of internal policy 
+changes, including through bargaining where required, and nothing in 
+this rule requires an agency to make any accelerated promotion on or 
+after the effective date. The 250-hour first-year estimate in Part V.D 
+is an accounting convention for allocating one-time implementation cost 
+to the first year following publication; it does not imply that an 
+agency must complete its revisions before the effective date. Until an 
+agency revises its merit promotion plan, the existing plan continues to 
+govern, less the TIG eligibility restriction removed by this rule.
+
+G. Comments Concerning Career Ladder Positions, Career Ladder 
+Progression, Agency-Retained Time Requirements, and Training Agreements
+
+    Comment 0076 sought clarification that eliminating TIG permits, but 
+does not require, accelerated promotion within career ladder (target-
+grade) positions, and that agencies retain authority to establish their 
+own internal time-based or performance-based progression criteria for 
+career ladders, noting that an agency relies heavily on GS-7/9/11/12 
+career ladders and that ambiguity on this point could be misread as 
+prohibiting agency-set progression intervals.
+    OPM confirms that eliminating TIG removes the governmentwide 52-
+week restriction but does not require agencies to promote career-ladder 
+employees on any particular schedule. Career-ladder promotions remain 
+contingent on the employee meeting the qualification requirements for 
+the target grade, sustained acceptable performance, the existence of 
+higher-level work, supervisory determination of readiness, and the 
+availability of funding, consistent with the position's classification 
+and the agency's career-ladder structure as documented in the 
+position's promotion potential.
+    Agencies may continue to establish and apply internal career-ladder 
+progression intervals, including a specified minimum period in the 
+lower grade, provided that any such requirement is job-related and 
+consistently applied. This rule addresses the governmentwide TIG 
+eligibility restriction in 5 CFR part 300, subpart F; it does not 
+compel agencies to alter properly established career-ladder promotion 
+potential documented at the time of a position's announcement.
+    OPM addresses one consequence of the amendatory action that bears 
+directly on this question. The express statement that ``[a]n agency may 
+expand on these restrictions consistent with the intent of this subpart 
+or may adopt similar policies to control promotion rates of employees 
+not covered by this subpart'' appears at 5 CFR 300.606 and is removed 
+along with the remainder of subpart F. Its removal does not withdraw 
+the authority it described. An agency's authority to establish job-
+related conditions on promotion--including a minimum period of service 
+in grade or in a career-ladder step--derives from 5 CFR 335.103(b)(1), 
+which requires each agency to establish written, merit-based promotion 
+procedures and leaves to the agency the definition of the job-related 
+criteria those procedures apply.
+    What changes is the character of such a requirement: it now would 
+be an agency requirement adopted through the agency's merit promotion 
+plan and subject to the same conditions as any other promotion 
+criterion--it must be job-related, established in advance, available in 
+writing to candidates, and applied consistently to similarly situated 
+employees--rather than an authorized expansion of a governmentwide 
+floor. Agencies that presently rely on Sec.  300.606 to support agency-
+specific service requirements should confirm that those requirements 
+are documented in their merit promotion plans under Sec.  335.103(b)(1) 
+before the effective date of this rule.
+    Comments requesting transition guidance for existing training 
+agreements. Comment 0076 supported removing the requirement for OPM 
+approval of training agreements that provide for consecutive 
+accelerated promotions but observed that the proposed rule does not 
+address the disposition of agreements OPM has already approved. The 
+comment recommended grandfathering or providing conversion guidance to 
+avoid an administrative gap.
+    OPM agrees that this point warrants clarification. The provisions 
+this rule removes are 5 CFR 300.603(b)(6)--which excepted advancement 
+under a training agreement from the TIG restrictions, limited an 
+employee to no more than two promotions in any 52-week period on the 
+basis of one or more training agreements, and required OPM approval of 
+any agreement providing for consecutive promotions at rates exceeding 
+those permitted by Sec.  300.604--and the cross-reference to that 
+provision at 5 CFR 410.307(a)(3). Both provisions exist only to 
+interact with the TIG restrictions and have no independent operation 
+once subpart F is removed.
+    Accordingly, on and after the effective date of this rule: no OPM 
+approval of a training agreement is required; no OPM approval 
+previously granted needs to be renewed, converted, or rescinded, and 
+none will lapse by operation of this rule; and the limitation of two 
+promotions in a 52-week period on the basis of one or more training 
+agreements no longer applies. Existing agency training agreements 
+remain valid agency documents, which agencies may continue, modify, or 
+discontinue under their own authority.
+    The substantive authorities governing training that leads to 
+promotion are unaffected: 5 CFR 410.307(a)(2) continues to authorize 
+agencies to establish training programs that substitute intensive, 
+directly job-related training for all or part of the experience 
+required by OPM qualification standards, but not for education, 
+licensing, certification, or other specific credentials; and 5 CFR 
+410.307(b) continues to require that an agency follow its competitive 
+procedures under 5 CFR part 335 when selecting a non-temporary employee 
+for training that permits noncompetitive promotion upon successful 
+completion. Agencies should review existing training agreements against 
+those requirements and against their merit promotion plans and should 
+update any agreement provisions that recite the TIG restrictions, the 
+two-promotion limitation, or the OPM-approval requirement. OPM will 
+address this transition in the implementation guidance described in 
+Part IV.
+
+H. Comments Regarding Interaction With Within-Grade Increases, Quality 
+Step Increases, and Other Pay-Setting Authorities
+
+    Comment 0004 argued that the proposed rule ignores Quality Step 
+Increases (QSIs) as an existing, widely used mechanism for accelerating 
+the career progression of top performers, and characterized the 
+proposed rule as adding bureaucracy while suppressing earned salary 
+progression. Comment 0054 discussed within-grade step increases and QSI 
+authority under 5 U.S.C. 5336 and 5 CFR part 531, subpart E. The 
+comment also expressed concern about an agency-specific authority for 
+advancement and performance and about how changes to performance-rating 
+distribution might interact with
+
+[[Page 65898]]
+
+the automatic pay progression in that authority if TIG is eliminated. 
+Comment 0068 raised a related question, asking how OPM's separate 
+proposal (now finalized) concerning the distribution of performance 
+ratings would allow supervisors to use performance to determine when an 
+employee is ready for promotion.
+    OPM clarifies that this rule addresses eligibility for promotion to 
+a higher grade; it does not amend within-grade increase requirements 
+under 5 U.S.C. 5335 and 5 CFR part 531, subpart D; Quality Step 
+Increase authority under 5 U.S.C. 5336 and 5 CFR part 531, subpart E; 
+or other agency-specific pay-recognition authorities. Those authorities 
+operate independently of TIG and are unaffected by this rulemaking. OPM 
+confirms, as Comment 0069 requested, that this rule does not alter the 
+waiting periods or acceptable-level-of-competence determinations that 
+govern within-grade increases. OPM appreciates the two comments (0004 
+and 0054) highlighting these provisions, but recommendations concerning 
+QSI policy, within-grade increase administration, or performance-rating 
+distribution are outside the scope of this rulemaking, which is limited 
+to the TIG eligibility restriction in 5 CFR part 300, subpart F, and 
+conforming amendments.
+    OPM addresses one point raised by two comments (0054 and 0068) that 
+bears on how this rule will operate in practice. Those comments ask how 
+supervisors are to use performance to determine readiness for promotion 
+if OPM implements a standard distribution of ratings. Three points 
+relevant to this rule should be noted. First, nothing in this rule 
+makes a rating of record either necessary or sufficient for promotion. 
+Section 335.103(b)(3) requires that due weight be given to performance 
+appraisals and incentive awards, but qualification for a higher-graded 
+position is established by the candidate's demonstrated experience, 
+education, and job-related competencies measured against the applicable 
+qualification standard--not by the rating alone.
+    Second, agencies may use evidence beyond the rating of record when 
+assessing readiness, including the evaluation methods described in Part 
+III.C. Nothing in this rule or in any separate OPM action requires an 
+agency to treat a rating of record as the sole or controlling measure 
+of an employee's readiness for higher-graded work.
+    Third, OPM expects that imposing a standardized distribution of the 
+highest performance ratings will ensure that agency performance 
+appraisal systems will more reliably distinguish and identify high 
+performers and help eliminate widespread ratings inflation across the 
+Federal Government. That expectation rests on the reasoning OPM set out 
+in the recently finalized appraisal rule. See Performance Appraisal for 
+General Schedule, Prevailing Rate, and Certain Other Employees, 91 FR 
+41521 (July 7, 2026) (RIN 3206-AP06) (effective August 6, 2026). That 
+rule removed the categorical prohibition, formerly codified at 5 CFR 
+430.208(c), on any method that would ``limit or require the use of 
+particular summary levels (i.e., establish a forced distribution of 
+summary levels),'' and replaces it with authority for OPM to 
+``establish, and refine as needed, a standardized distribution of some 
+or all rating levels which agencies must apply when rating employees.'' 
+5 CFR 430.208(c). The companion provision confirms that the method for 
+deriving and assigning a summary level ``may involve comparing, 
+categorizing, and ranking employees or groups on the basis of their 
+performance,'' and that ``[s]uch procedures may also be used, where 
+otherwise authorized by law and regulation, to inform award 
+determinations and promotion decisions.'' 5 CFR 430.208(d).
+    OPM explained in that rulemaking why a standardized distribution is 
+expected to yield more rigorous and more accurate ratings. Ratings 
+under the prior framework were not meaningfully differentiated: the 
+Government Accountability Office found that 99 percent of permanent, 
+non-SES (Senior Executive Service) employees received ratings at or 
+above ``Fully Successful,'' and agency-submitted data for fiscal years 
+2022 through 2024 show that only approximately 0.3 percent of non-SES 
+employees under five-level programs received a Level 2 rating and 
+approximately 0.1 percent received an ``Unacceptable'' rating. 91 FR at 
+41521-22, 41528, 41530. Only 42 to 51 percent of Federal employees 
+report that their supervisors distinguish and recognize performance in 
+a meaningful way. Id. at 41522. OPM concluded that this pattern 
+reflects ``leniency bias whereby supervisors arbitrarily issue inflated 
+performance ratings to avoid confrontation,'' id. at 41524, and that 
+``the current degree of rating inflation has so egregiously undermined 
+the credibility and accountability of performance appraisal systems 
+that implementing a standardized distribution is the best 
+alternative,'' id. at 41525-26. OPM further explained that because 
+``any human judgment is by nature comparative,'' an appraisal method 
+that makes the comparison explicit ``will more accurately and 
+objectively measure individual performance than one that prohibits any 
+comparative judgments between employees and requires that any 
+measurement of employee performance be framed in absolute terms.'' Id. 
+at 41523. The distribution operates only after each employee has been 
+appraised against established, job-related performance standards; it 
+does not displace those standards; it is to be applied at the agency or 
+department level rather than at the work unit level; and OPM has stated 
+that it intends any standardized distribution to limit only the highest 
+rating levels rather than to prescribe limits at or below Level 3. Id. 
+at 41523-24, 41528, 41533; see 5 CFR 430.208(a)(1) (a rating of record 
+``must be based only on the evaluation of actual job performance for 
+the designated appraisal period'').
+    The consequence for promotion readiness, which is what the two 
+comments (0054 and 0068) ask about, is direct. By ``establishing a 
+limit on the number of non-SES employees who can receive a rating above 
+the fully successful level,'' the appraisal rule is expected to produce 
+``a clear distinction of the highest performers across an agency and 
+the Federal Government.'' 91 FR at 41536. That rule also confines the 
+term ``Outstanding'' to a Level 5 rating. 5 CFR 430.208(e)(2)(iv), 
+(e)(3). A rating of record will accordingly carry information about 
+relative performance that it did not carry when nearly all employees 
+were rated at or above ``Fully Successful,'' and a supervisor 
+recommending an employee for higher-graded work will be able to point 
+to a rating that reflects a considered judgment about how that 
+employee's performance compares to the performance of others.
+    The requirement in 5 CFR 335.103(b)(3) that due weight be given to 
+performance appraisals and incentive awards can do meaningful work only 
+where ratings in fact distinguish among levels of performance. The two 
+rules are therefore complementary rather than in tension: this rule 
+removes a calendar-based barrier that delayed consideration of 
+employees who are ready for higher-graded work, while the appraisal 
+rule improves the quality of the performance information that agencies 
+use, together with the qualification requirements and the evaluation 
+methods described in Part III.C, to identify which employees those are. 
+Neither rule, however, makes any particular rating of record a 
+prerequisite to promotion or entitles an employee who receives a high 
+rating to be promoted; promotion remains contingent on the existence of 
+higher-
+
+[[Page 65899]]
+
+graded work, proper classification, and selection under the agency's 
+merit promotion plan.
+
+I. Comments Regarding Cost Estimates and Regulatory Analysis
+
+    Comment 0076 argued that OPM's proposed cost estimate--
+approximately 250 hours and $39,075 per agency in the first year, or 
+approximately $3,126,000 governmentwide, to update merit promotion 
+plans--understates the cost to large, decentralized departments with 
+multiple components and bargaining units, citing its own decentralized 
+merit promotion programs administered across multiple subordinate 
+components with separate bargaining units as an example. Comment 0014 
+separately argued that OPM's cost analysis does not adequately address 
+possible long-term compensation costs from faster promotions, grade 
+compression, accelerated career-ladder movement, classification 
+disputes, or grievances, and recommended fuller fiscal analysis before 
+finalization.
+    OPM acknowledges that implementation costs will vary across 
+agencies, and that large, multi-component departments with numerous 
+subordinate organizations and bargaining units may experience higher 
+first-year implementation costs than OPM's governmentwide average 
+estimate reflects. OPM's cost estimate, consistent with the approach 
+used in the proposed rule, is intended to represent an average per-
+agency cost across the Federal Government for the purpose of 
+governmentwide regulatory analysis; it is not intended to represent the 
+specific cost that any individual department will incur. OPM does not 
+believe this variation warrants revising the governmentwide estimate 
+methodology in this final rule. With respect to Comment 0014's concern 
+regarding long-term compensation costs, OPM notes that promotion under 
+this rule remains discretionary and contingent on the existence of 
+higher-level work, proper classification, and available agency funding; 
+this rule does not require agencies to promote any employee or to 
+accelerate compensation growth, and OPM does not expect the rule, by 
+itself, to produce a predictable or quantifiable increase in aggregate 
+Federal payroll costs. Agencies remain responsible for managing 
+promotion actions within their existing budgetary authority.
+    Comment 0069 raised a distinct objection to OPM's regulatory 
+analysis: that OPM's assumption that removing a bright-line eligibility 
+requirement will reduce administrative constraints is likely to prove 
+wrong in practice. Because TIG establishes an objective threshold below 
+which a promotion request need not be entertained, the comment argued, 
+its removal leaves no comparable limiting principle; human capital 
+offices would face substantially more promotion requests to evaluate, 
+more supporting documentation to review, and more requests for 
+reconsideration, grievances, equal employment opportunity complaints, 
+and prohibited personnel practice complaints when requests are denied. 
+The comment further argued that agencies faced with that volume may 
+adopt internal waiting periods that replicate TIG's function while 
+producing inconsistent practice across Government and recommended that 
+OPM evaluate the anticipated increase in promotion requests, human 
+resources workload, review requirements, training needs, and litigation 
+risk before finalizing. Comment 0076 raised a related concern about 
+increased supervisor documentation burden, and Comment 0036 raised a 
+related concern about human resources capacity.
+    OPM has considered these arguments but does not agree that they 
+warrant withdrawing or delaying the rule for three reasons.
+    First, the premise that TIG limits the volume of promotion requests 
+is only partly correct. TIG does not restrict what an employee may 
+request or what a supervisor may recommend; it restricts what an agency 
+may lawfully do. An agency that receives a request from an employee who 
+has not completed 52 weeks may decline it quickly today, and after this 
+rule takes effect an agency may decline it just as quickly on any other 
+applicable ground--that no higher-graded position exists, that the 
+position is not funded, that the employee does not meet the 
+qualification standard, or that the agency's merit promotion plan 
+requires competition for the vacancy. What changes is that the reason 
+given will be a job-related reason rather than a calendar computation.
+    Second, this rule removes recurring administrative work as well as 
+creating one-time implementation work. Under the prior regulations, 
+agencies were required to determine and document TIG eligibility for 
+covered internal promotion actions; to compute creditable service under 
+Sec.  300.605, including converting non-General Schedule service to an 
+equivalent General Schedule grade by comparing the candidate's rate of 
+basic pay to representative rates; and, where an exception was needed, 
+to obtain agency-head approval under Sec.  300.603(b)(7), OPM 
+authorization under Sec.  300.603(b)(8), or OPM approval of a training 
+agreement under Sec.  300.603(b)(6). Those determinations, and the 
+recordkeeping and internal appeals associated with them, are 
+eliminated. OPM's cost estimate in Part V.D captures the first-year 
+cost of revising merit promotion plans; it does not attempt to monetize 
+this offsetting reduction in recurring administrative work, which OPM 
+expects to be positive but cannot reliably quantify. The estimate is 
+therefore conservative in that respect.
+    Third, OPM does not regard the possibility that some agencies will 
+adopt their own job-related service requirements as an unintended 
+consequence to be avoided. As explained in Part III.G, that outcome is 
+permitted, and in some occupations it may be sound personnel 
+administration. The difference between an agency-established 
+requirement and the governmentwide restriction OPM is removing is 
+consequential: the agency requirement must be justified as job-related 
+for the positions to which it applies, must be published in the 
+agency's merit promotion plan and available in writing to candidates 
+under 5 CFR 335.103(b)(1), and may be revised by the agency when it no 
+longer serves the agency's needs. Variation across agencies that 
+reflects genuine differences in occupations and missions is a feature 
+of a merit promotion system administered by agencies subject to 
+governmentwide standards, not a defect in it.
+    OPM further observes that the substantial portions of the Federal 
+workforce that already operate without a time-in-grade restriction have 
+not produced the pattern of workload or litigation the comment 
+anticipates, and no comment identified data showing otherwise. OPM will 
+consider promotion-related workload and complaint activity in the 
+course of its ordinary oversight of agency personnel management 
+programs.
+
+J. Comments Concerning Constitutional and Statutory Objections
+
+    Comment 0075 argued broadly that this rule violates the Pendleton 
+Act of 1883 and multiple provisions of the U.S. Constitution, including 
+the First, Fourth, Fifth, Seventh, Eighth, Ninth, and Fourteenth 
+Amendments, by replacing the merit-based competitive examining system 
+with a spoils system.
+    OPM disagrees. This rule is limited to removing 5 CFR part 300, 
+subpart F, and making conforming amendments to cross-references to TIG 
+in 5 CFR parts 315, 316, 352, and 410. It does not repeal or amend 
+competitive examining (which is governed by 5 U.S.C. chapter
+
+[[Page 65900]]
+
+33), does not eliminate OPM qualification standards, does not remove 
+agency merit promotion procedures under 5 CFR part 335, and does not 
+affect classification requirements, probationary period requirements, 
+personnel recordkeeping requirements, due process protections 
+applicable to adverse actions, equal employment opportunity 
+protections, the merit system principles in 5 U.S.C. 2301, or the 
+prohibited personnel practices in 5 U.S.C. 2302. Comment 0075 has not 
+identified a specific provision of this rule that would remove any of 
+the statutory or constitutional protections referenced, and OPM is not 
+aware of a basis for such a conclusion. OPM is not withdrawing the rule 
+on this basis.
+    OPM addresses the Pendleton Act argument more fully in Part III.A, 
+in response to Comment 0069, and accepts there that merit principles in 
+Federal employment long predate the Civil Service Reform Act of 1978. 
+OPM notes here the point specific to this rule: neither the Pendleton 
+Act nor 5 U.S.C. chapter 33 prescribes a minimum period of service in 
+grade as a condition of promotion. The TIG restriction is a regulatory 
+requirement that the Civil Service Commission elected to retain after 
+the underlying statutory restriction ceased to operate; removing it 
+does not repeal a statutory merit protection because no statute imposes 
+it.
+
+K. Technical and Drafting Corrections
+
+    Comment 0076 identified technical inconsistencies between the 
+proposed rule's preamble narrative and its amendatory regulatory text. 
+OPM has reviewed these items, has separately reviewed the proposed rule 
+for related drafting issues, and is making the corrections in this 
+final rule, which include:
+    1. The proposed rule's preamble stated that the rulemaking would 
+amend Sec.  315.714(b)(4); however, the amendatory text proposed to 
+revise paragraphs (b)(2) and (b)(3) of Sec.  315.714 and remove 
+paragraph (b)(4). This final rule removes paragraph (b)(4) and revises 
+paragraphs (b)(2) and (b)(3). The preamble narrative in this final rule 
+correctly reflects these changes.
+    2. The proposed rule's preamble referenced amending Sec.  
+316.909(a) and (c)(iii); the amendatory text proposed to revise 
+paragraphs (a) and (c) of Sec.  316.909 in their entirety, and the 
+proposed paragraph (c) did not contain a subparagraph (iii). The 
+preamble in this final rule reflects that paragraphs (a) and (c) are 
+revised in full.
+    3. The proposed rule's preamble referenced amending Sec.  
+316.910(d)(iv), while the proposed amendatory text revised paragraphs 
+(b) and (c) of Sec.  316.910 and removed paragraph (d) in its entirety. 
+The preamble in this final rule correctly describes the revisions.
+    4. The proposed rule's preamble described the TIG restriction as 
+requiring employees ``in grades 5 and above'' to serve 52 weeks in 
+grade before becoming eligible for promotion ``to the next grade 
+level.'' That description, which OPM has used in prior rulemakings, is 
+imprecise in two respects: the restriction operates by reference to the 
+grade of the position to be filled rather than the employee's current 
+grade, and it does not uniformly limit advancement to a single grade. 
+See 5 CFR 300.604(b)(1) (permitting advancement to GS-6 through GS-11 
+after 52 weeks in a position no more than two grades lower, where the 
+position to be filled is in a line of work properly classified at two-
+grade intervals); Sec.  300.604(c) (no time restriction on advancement 
+to positions up to GS-5 where the position to be filled is no more than 
+two grades above the lowest grade held in the preceding 52 weeks under 
+the latest nontemporary competitive appointment). The narrative in this 
+final rule more accurately describes these provisions. This correction 
+is descriptive only; the effect of the rule is unchanged.
+    5. The authority citations in this final rule reflect updates from 
+other rules and other corrections, as well as amendments to conform to 
+the requirements of 1 CFR part 21, subpart B.
+    OPM appreciates the specificity of Comment 0076's feedback and 
+confirms that these are non-substantive corrections that do not change 
+the scope or effect of the rule as proposed.
+
+L. Comments Outside the Scope of This Rulemaking
+
+    Comment 0004 raised concerns regarding Quality Step Increases, 
+addressed in Part III.H. Comment 0054 raised concerns regarding a 
+separate OPM rulemaking on performance-rating distribution and agency-
+specific pay authorities, also addressed in Part III.H. Comment 0069 
+referenced Schedule Policy/Career, the Merit Hiring Plan, a separate 
+proposed rule on performance appraisal, a proposed rule on Reduction in 
+Force (RIF), and proposed rules on probationary and trial period 
+appeals and RIF appeals.
+    OPM appreciates these comments but notes that they concern separate 
+regulatory actions or authorities not addressed by this rulemaking, 
+which is limited to the TIG eligibility restriction in 5 CFR part 300, 
+subpart F, and conforming amendments. OPM is not making changes in this 
+final rule in response to those comments, but may consider those 
+comments, as applicable, in connection with the separate rulemakings or 
+policies to which they pertain.
+
+IV. Implementation Considerations
+
+    This rule is effective 90 days after the date of publication in the 
+Federal Register. OPM recognizes that agencies will need to revise 
+merit promotion plans under 5 CFR 335.103, update internal policy 
+guidance, satisfy any applicable collective bargaining obligations 
+under 5 U.S.C. chapter 71 (see Part III.F), and train human resources 
+staff and supervisors. Consistent with the comments addressed in Part 
+III.B through III.D, OPM confirms that agencies may continue to apply 
+TIG-like or other job-related time-based progression criteria within 
+their own merit promotion plans and career-ladder structures during and 
+after this transition, provided such criteria are job-related, 
+established in advance, available in writing to candidates under 5 CFR 
+335.103(b)(1), and consistently applied.
+    OPM will issue implementation guidance to support agency 
+implementation of this rule. OPM anticipates that the guidance will 
+address, at a minimum: (1) the disposition of existing training 
+agreements and the removal of the OPM-approval requirement, as 
+described in Part III.G; (2) the documentation of agency-established, 
+job-related service or progression requirements in merit promotion 
+plans following the removal of Sec.  300.606, as described in Part 
+III.G; (3) model job-related promotion criteria and documentation 
+practices, consistent with the recommendations in four comments (0030, 
+0067, 0074, and 0076) and as described in Part III.C; and (4) the 
+application of this rule to career-ladder positions, as described in 
+Part III.G. This responds to the recommendations in four comments 
+(0067, 0069, 0074, and 0076) that OPM issue implementation guidance in 
+connection with this rule.
+
+V. Regulatory Analysis
+
+A. Statement of Need
+
+    The current TIG requirement originated in the Whitten Amendment, 
+section 1302 of the Supplemental Appropriation Act, 1951, Public Law 
+81-843, 64 Stat. 1044, 1066 (Sept. 27, 1950), enacted during the Korean 
+conflict to prevent a permanent, uncontrolled buildup of higher-graded 
+civil service positions. That statute expired on September 14, 1978. 
+The
+
+[[Page 65901]]
+
+Civil Service Commission, OPM's predecessor, elected to preserve the 
+TIG restriction in regulation notwithstanding the statute's expiration, 
+and the restriction has been carried forward in successive 
+recodifications, most recently at 56 FR 23002 (May 20, 1991). Nearly 
+five decades later, OPM has concluded, consistent with Executive Order 
+(E.O.) 14170 and OPM's Merit Hiring Plan, that governmentwide 
+qualification standards, agency merit promotion procedures under 5 CFR 
+part 335, classification requirements, and the merit system principles 
+and prohibited personnel practices codified in the Civil Service Reform 
+Act of 1978 provide a more direct and effective means of ensuring 
+merit-based promotion than a uniform, calendar-based waiting period.
+    The comment record, summarized in Part II, confirms that TIG 
+frequently operates to exclude employees who are otherwise qualified--
+based on demonstrated performance (Comments 0011, 0015, 0027, 0053, 
+0060), prior military or private-sector experience (Comments 0003, 
+0006, 0016, 0026, 0041, 0043, 0052, 0058), or specialized experience 
+gained in a different occupational series (Comment 0056)--from 
+consideration for promotion for reasons unrelated to their readiness to 
+perform higher-graded work.
+    As Comment 0069 correctly observed, merit principles in Federal 
+employment did not originate with the Civil Service Reform Act of 1978. 
+Congress rejected the spoils system in the Pendleton Act of 1883, and 
+the Civil Service Commission administered merit-based examination, 
+promotion, and classification requirements well before 1950. OPM's 
+point is narrower. The specific framework on which this rule relies--
+the governmentwide qualification standards published in the OPM 
+Operating Manual, Qualification Standards for General Schedule 
+Positions; the merit promotion requirements in 5 CFR part 335; the 
+merit system principles and prohibited personnel practices codified at 
+5 U.S.C. 2301 and 2302; and the institutions that administer them, 
+including the Office of Special Counsel, the Merit Systems Protection 
+Board, and the Federal-sector equal employment opportunity complaint 
+process--postdates enactment of the Whitten Amendment. It is the 
+availability of that framework, rather than the absence of any merit 
+principle in 1950, that supports OPM's conclusion that a uniform 
+calendar-based waiting period is no longer necessary or appropriate.
+
+B. Impact
+
+    OPM expects this rule to result in a more efficient, skills-based 
+promotion process for General Schedule competitive service employees. 
+Employees whose demonstrated qualifications, performance, and 
+experience meet the requirements for a higher-graded position will be 
+eligible for consideration without an additional, non-merit waiting 
+period. Agencies will retain full authority to establish job-related 
+promotion criteria, career-ladder progression standards, and 
+documentation practices suited to their occupations and missions, as 
+discussed in Part III.C and III.G. This rule is also expected to reduce 
+administrative burden by eliminating the recurring determinations that 
+TIG required: computation of creditable service under former Sec.  
+300.605, including the conversion of non-General Schedule service to an 
+equivalent General Schedule grade by comparison of representative 
+rates; agency-head approval of exceptions to avoid hardship to an 
+agency or inequity to an employee under former Sec.  300.603(b)(7); OPM 
+authorization of additional exceptions under former Sec.  
+300.603(b)(8); and OPM approval of training agreements providing for 
+consecutive accelerated promotions under former Sec.  300.603(b)(6).
+
+C. Regulatory Alternatives
+
+    OPM considered and rejected the following alternatives, each 
+addressed in greater detail in Part III:
+    No-action alternative. OPM considered retaining the current TIG 
+requirement without change. OPM rejected this alternative for the 
+reasons explained throughout Part III and Part V.A.
+    Grade-banded or graduated TIG schedules (Comments 0008, 0042). OPM 
+considered replacing the uniform 52-week requirement with a schedule of 
+waiting periods that varies by grade level, or with a framework 
+allowing a single accelerated promotion followed by a reduced but 
+still-applicable waiting period. OPM rejected these alternatives for 
+the reasons discussed in Part III.B.
+    Competency-based and high-performer waiver frameworks (Comments 
+0024, 0072). OPM considered retaining the 52-week requirement as a 
+governmentwide baseline while creating a formal waiver process 
+requiring the highest performance rating, an OPM-certified assessment 
+tool, and independent review board approval for early promotion, and 
+considered more generally adding a high-performer flexibility to an 
+otherwise retained TIG requirement. OPM rejected these alternatives for 
+the reasons discussed in Part III.B.
+    Two- or three-year eligibility for multi-grade advancement (Comment 
+0050). OPM considered a proposal to make employees eligible to compete 
+for positions up to two grades above their current grade after two or 
+three years of service in grade. OPM rejected this alternative for the 
+reasons discussed in Part III.B.
+    Occupation-limited elimination (Comment 0002). OPM considered 
+limiting elimination to technical, medical, and scientific occupations 
+while retaining TIG elsewhere. OPM rejected this alternative for the 
+reasons discussed in Part III.B.
+    Mandatory governmentwide documentation, certification, review-
+board, and reporting requirements (Comments 0030, 0063, 0064, 0067, 
+0068, 0069, 0073, 0074, 0076). OPM considered requiring, as a condition 
+of eliminating TIG, that agencies adopt standardized written promotion 
+criteria, obtain higher-level or independent review of every promotion 
+occurring before 52 weeks would otherwise have elapsed, certify 
+compliance with merit system principles for each such promotion, and 
+publicly report aggregate data on the use of this flexibility. OPM 
+rejected mandating these requirements in the regulatory text for the 
+reasons discussed in Part III.C and III.D, including that requirements 
+governing how agencies conduct promotion actions belong in 5 CFR part 
+335 and were not proposed for amendment in this rulemaking.
+    Retaining TIG for VEOA-based competition only (Comment 0076). OPM 
+considered retaining the TIG restriction solely as applied to current 
+status employees competing for merit promotion positions for which 
+preference-eligible veterans are also eligible to compete under 5 
+U.S.C. 3304(f). OPM rejected this alternative because it would 
+reintroduce, for a subset of vacancies, the same calendar-based 
+eligibility restriction OPM has determined is not merit-based, and 
+because, as explained in Part III.E, status employees and VEOA-eligible 
+veterans competing for the same vacancy remain subject to the same 
+qualification standards and the same competitive procedures, so 
+removing an internal eligibility restriction does not disadvantage the 
+external candidate.
+    Delayed, phased, or conditional effective date (Comments 0008, 
+0013, 0030, 0072, 0076). OPM considered a longer or phased 
+implementation period, a fixed governmentwide
+
+[[Page 65902]]
+
+transition window of 90 to 180 days or more prescribed in the 
+regulatory text, a mandatory 24-month phased implementation, and an 
+effective date conditioned on OPM certification regarding the 
+adjudicatory capacity of other Federal agencies. OPM adopted an 
+effective date 90 days after publication and rejected the remaining 
+variants for the reasons discussed in Parts III.A, III.B, and III.F.
+
+D. Costs
+
+    Consistent with the proposed rule, OPM estimates that agencies will 
+need an average of 250 hours in the first year following publication of 
+this final rule to review the rule and revise merit promotion plans, 
+policies, and training materials, at an assumed fully loaded labor cost 
+of $156.30 per hour (based on the 2026 GS-14, step 5, Washington-DC 
+locality rate, with total labor costs assumed at 200 percent of the 
+base wage rate). This results in an estimated first-year implementation 
+cost of approximately $39,075 per agency and approximately $3,126,000 
+governmentwide. OPM acknowledges, in response to Comment 0076, that 
+large multi-component departments with numerous bargaining units may 
+experience implementation costs above this governmentwide average but 
+does not believe this warrants revising the estimate used for 
+governmentwide regulatory analysis purposes. In response to Comment 
+0014, OPM notes that promotion actions taken under this rule remain 
+subject to existing agency budgetary authority and funding 
+availability, and this rule does not require agencies to promote any 
+employee or to accelerate compensation growth.
+    OPM's estimate reflects one-time implementation cost and does not 
+monetize the recurring administrative work this rule eliminates. As 
+described in Part III.I and Part V.B, agencies will no longer determine 
+and document TIG eligibility for covered internal promotion actions, 
+compute creditable service under former Sec.  300.605, or process 
+exception approvals under former Sec.  300.603(b)(6) through (b)(8). 
+OPM expects the net effect on recurring administrative burden to be a 
+reduction but does not have data permitting a reliable quantification 
+and therefore does not claim a monetized cost saving. The estimate is 
+conservative in that respect.
+    In response to Comment 0069, OPM acknowledges that it has not 
+quantified any change in promotion-request volume, human resources 
+workload, grievance activity, or litigation risk associated with this 
+rule. OPM does not possess data that would support a reliable estimate 
+of those quantities, and the portions of the Federal workforce already 
+operating without a time-in-grade restriction do not exhibit the 
+pattern the comment anticipates. OPM will consider promotion-related 
+workload and complaint activity in the course of its ordinary oversight 
+of agency personnel management programs.
+
+E. Benefits
+
+    This rule benefits agencies by allowing them to consider and 
+promote qualified employees more quickly when higher-graded work, 
+funding, and a properly classified position are available, improving 
+agencies' ability to retain employees who might otherwise leave Federal 
+service for faster-advancing opportunities elsewhere, consistent with 
+the experience described in four comments (0009, 0040, 0045, and 0076). 
+It benefits employees by ensuring that demonstrated performance, 
+relevant experience, and qualifications--rather than the passage of a 
+fixed calendar period--determine eligibility for consideration. It 
+benefits the public by supporting a more efficient and merit-based 
+Federal workforce.
+
+VI. Regulatory Compliance
+
+1. Regulatory Review
+    OPM has examined the impact of this rule as required by E.O.s 12866 
+and 13563, which direct agencies to assess all costs and benefits of 
+available regulatory alternatives and, if a regulation is necessary, to 
+select regulatory approaches that maximize net benefits (including 
+potential economic, environmental, public, health, and safety effects, 
+distributive impacts, and equity). A regulatory impact analysis must be 
+prepared for rules that have an annual effect on the economy of $100 
+million or more or adversely affect in a material way the economy, a 
+sector of the economy, productivity, competition, jobs, the 
+environment, public health or safety, or State, local, or tribal 
+governments or communities. This rulemaking does not reach that 
+threshold. It has nonetheless been designated a ``significant 
+regulatory action'' under section 3(f) of E.O. 12866, as supplemented 
+by E.O. 13563, and has been reviewed by the Office of Management and 
+Budget (OMB). This rule is considered an Executive Order 14192 
+deregulatory action.
+2. Regulatory Flexibility Act
+    The Director of the Office of Personnel Management certifies that 
+this regulation will not have a significant impact on a substantial 
+number of small entities because it applies only to Federal agencies 
+and employees.
+3. Federalism
+    This rule will not have substantial direct effects on the States, 
+on the relationship between the National Government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government. Therefore, no Federalism Assessment is required.
+4. Civil Justice Reform
+    This rule meets the applicable standards set forth in sections 3(a) 
+and 3(b)(2) of E.O. 12988.
+5. Unfunded Mandates Reform Act of 1995
+    Section 202 of the Unfunded Mandates Reform Act of 1995 requires 
+that agencies assess anticipated costs and benefits before issuing any 
+rule that would impose spending costs on State, local, or tribal 
+governments in the aggregate, or on the private sector, in any 1 year 
+of $100 million in 1995 dollars, updated annually for inflation. That 
+threshold is currently approximately $206 million. This rulemaking will 
+not result in the expenditure by State, local, or tribal governments, 
+in the aggregate, or by the private sector, in excess of the threshold. 
+Thus, no written assessment of unfunded mandates is required.
+6. Congressional Review Act
+    OMB's Office of Information and Regulatory Affairs has determined 
+this rule does not meet the criteria for a ``major rule'' as defined in 
+5 U.S.C. 804(2). In addition, this is a rule relating to agency 
+management or personnel and does not come within the meaning of the 
+term ``rule'' as used in 5 U.S.C. 804(3)(C). Therefore, the reporting 
+requirement of 5 U.S.C. 801 does not apply.
+7. Paperwork Reduction Act
+    Notwithstanding any other provision of law, no person is required 
+to respond to, nor shall any person be subject to a penalty for failure 
+to comply with, a collection of information subject to the requirements 
+of the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.), unless 
+that collection of information displays a currently valid OMB Control 
+Number. This final rule does not create a new collection of
+
+[[Page 65903]]
+
+information and does not revise an existing one. The existing OMB-
+approved collection identified in the proposed rule, USAJOBS 3.0 (OMB 
+Control Number 3206-0219), is unaffected, and OPM does not anticipate 
+that implementation of this rule will increase the burden associated 
+with that control number. This rule removes the OPM approval process 
+for training agreements providing for consecutive accelerated 
+promotions under former 5 CFR 300.603(b)(6).
+
+List of Subjects
+
+5 CFR Part 300
+
+    Freedom of information, Government employees, Reporting and 
+recordkeeping requirements, Selective Service System.
+
+5 CFR Part 315
+
+    Government employees.
+
+5 CFR Part 316
+
+    Employment, Government employees.
+
+5 CFR Part 352
+
+    Administrative practice and procedure, Government employees.
+
+5 CFR Part 410
+
+    Education, Government employees.
+
+Signing Statement
+
+    The Director of OPM, Scott Kupor, reviewed and approved this 
+document and has authorized the undersigned to electronically sign and 
+submit this document to the Office of the Federal Register for 
+publication.
+
+U.S. Office of Personnel Management.
+Jerson Matias,
+Federal Register Liaison.
+
+    For the reasons set forth in the preamble, the Office of Personnel 
+Management amends 5 CFR parts 300, 315, 316, 352, and 410 as follows:
+
+PART 300--EMPLOYMENT (GENERAL)
+
+0
+1. The authority citation for part 300 is revised to read as follows:
+
+    Authority:  5 U.S.C. 552, 2301, 2302, 3301, and 3302; E.O. 
+10577, 19 FR 7521, 3 CFR 1954-1958 Comp., p. 218, unless otherwise 
+noted.
+    Subpart A also issued under 5 U.S.C. 7201, 7204, and 7701; E.O. 
+11478, 34 FR 12985, 3 CFR 1966-1970 Comp., p. 803; E.O. 13087, 63 FR 
+30097, 3 CFR 1998 Comp., p. 191; and E.O. 13152, 65 FR 26115, 3 CFR 
+2000 Comp., p. 264.
+    Subpart C also issued under 5 U.S.C. 3341 and E.O. 13562, 75 FR 
+82585, 3 CFR 2010 Comp., p. 291.
+    Subpart D also issued under 5 U.S.C. 1302(c).
+    Subpart E also issued under 5 U.S.C. 1103(a)(5).
+
+Subpart F--[Removed and Reserved]
+
+0
+2. Remove and reserve subpart F, consisting of Sec. Sec.  300.601 
+through 300.606.
+
+PART 315--CAREER AND CAREER-CONDITIONAL EMPLOYMENT
+
+0
+3. The authority citation for part 315 is revised to read as follows:
+
+    Authority:  5 U.S.C. 1302, 3301, and 3302; E.O. 10577, 19 FR 
+7521, 3 CFR, 1954-1958 Comp., p. 218; E.O. 14284, 90 FR 17729.
+    Secs. 315.601 and 315.609 also issued under 22 U.S.C. 3651 and 
+3652.
+    Secs. 315.602 and 315.604 also issued under 5 U.S.C. 1104.
+    Sec. 315.603 also issued under 5 U.S.C. 8151.
+    Sec. 315.605 also issued under 22 U.S.C. 2051, 42 U.S.C. 2991; 
+E.O. 12034, 43 FR 1917, 3 CFR, 1978 Comp., p. 111.
+    Sec. 315.606 also issued under E.O. 11219, 30 FR 6381, 3 CFR, 
+1964-1965 Comp., p. 303.
+    Sec. 315.607 also issued under 22 U.S.C. 2506.
+    Sec. 315.608 also issued under E.O. 12721, 55 FR 31349, 3 CFR, 
+1990 Comp., p. 293.
+    Sec. 315.610 also issued under 5 U.S.C. 3304(c).
+    Sec. 315.611 also issued under 5 U.S.C. 3304(f).
+    Sec. 315.612 also issued under 5 U.S.C. 3330d and E.O. 13473, 73 
+FR 56703, 3 CFR, 2009 Comp., p. 241.
+    Sec. 315.613 also issued under 5 U.S.C. 9602.
+    Sec. 315.614 also issued under 5 U.S.C. 3115.
+    Sec. 315.710 also issued under E.O. 12596, 52 FR 17537, 3 CFR, 
+1987 Comp., p. 264.
+    Subpart I also issued under 5 U.S.C. 3321; E.O. 12107, 44 FR 
+1055, 3 CFR, 1978 Comp., p. 264.
+    Sec. 315.714 also issued under 5 U.S.C. 3116.
+
+Subpart G--Conversion to Career or Career-Conditional Employment 
+From Other Types of Employment
+
+0
+4. Amend Sec.  315.714 by revising paragraphs (b)(2) and (3) and 
+removing paragraph (b)(4). The revisions read as follows:
+
+
+Sec.  315.714  Conversion based on service in a post-secondary student 
+appointment under part 316, subpart I, of this chapter.
+
+* * * * *
+    (b) * * *
+    (2) Have completed not less than 640 hours of current continuous 
+employment in an appointment under Sec.  316.902 of this chapter; and
+    (3) Meet the OPM qualification standards for the position to which 
+the student will be converted.
+* * * * *
+
+PART 316--TEMPORARY AND TERM EMPLOYMENT
+
+0
+5. The authority citation for part 316 continues to read as follows:
+
+    Authority: 5 U.S.C. 3301, 3302, 3316. E.O. 10577, 19 FR 7521, 3 
+CFR, 1954-1958 Comp., p. 218; E.O. 14284, 90 FR 17729. 5 CFR 2.2(c).
+
+Subpart I--Hiring Authority for Post-Secondary Students
+
+0
+6. Amend Sec.  316.909 by revising paragraphs (a) and (c) to read as 
+follows:
+
+
+Sec.  316.909  Promotion.
+
+    (a) Students on term appointments. An agency may promote a student 
+who was appointed for an initial period expected to last more than 1 
+year but less than 4 years provided the student meets the qualification 
+requirements for the higher graded position, and the public 
+notification for the position filled by the student stated the 
+potential for promotion and specified a career ladder.
+* * * * *
+    (c) Promotions at the time of conversion. Students (on temporary or 
+term appointments) may be eligible for non-competitive promotions upon 
+conversion if:
+    (1) The agency has established a career ladder or promotion 
+potential for the position; and
+    (2) The public notification for the position filled by the student 
+stated the potential for promotion and specified a career ladder.
+
+0
+7. Amend Sec.  316.910 by revising paragraphs (b) and (c) and removing 
+paragraph (d). The revisions read as follows:
+
+
+Sec.  316.910  Conversion.
+
+* * * * *
+    (b) Has completed not less than 640 hours of current continuous 
+employment in an appointment under Sec.  316.902; and
+    (c) Meets the OPM qualification standards for the position to which 
+the student will be converted.
+
+PART 352--REEMPLOYMENT RIGHTS
+
+Subpart C--Detail and Transfer of Federal Employees to 
+International Organizations
+
+0
+8. The authority citation for part 352, subpart C, is revised to read 
+as follows:
+
+    Authority:  5 U.S.C. 3584, E.O. 11552, 35 FR 13569, 3 CFR 1966-
+1970 Comp., p. 954.
+    Section 352.313 also issued under 5 U.S.C. 7701, et seq.
+
+0
+9. Amend Sec.  352.311 by revising paragraph (d) to read as follows:
+
+[[Page 65904]]
+
+Sec.  352.311  Reemployment.
+
+* * * * *
+    (d) The period of separation caused by the employment of the 
+employee with the international organization and the period necessary 
+to effect reemployment are creditable service for all appropriate civil 
+service employment purposes (e.g., tenure, service computation date, 
+retirement). Employees, upon return, are also entitled to restoration 
+of any sick leave.
+* * * * *
+
+PART 410--TRAINING
+
+0
+10. The authority citation for part 410 is revised to read as follows:
+
+    Authority: 5 U.S.C. 1103(c), 2301, 2302, and 4101, et seq.; E.O. 
+11348, 32 FR 6335, 3 CFR, 1967 Comp., p. 275; E.O. 11478, 34 FR 
+12985, 3 CFR 1966-1970 Comp., p. 803, unless otherwise noted; E.O. 
+13087, 63 FR 30097, 3 CFR 1998 Comp., p. 191; and E.O. 13152, 65 FR 
+26115, 3 CFR 2000 Comp., p. 264.
+
+Subpart C--Establishing and Implementing Training Programs
+
+0
+11. Amend Sec.  410.307 by revising paragraphs (a)(1) and (2) and 
+removing paragraph (a)(3). The revisions read as follows:
+
+
+Sec.  410.307  Training for promotion or placement in other positions.
+
+    (a) * * *
+    (1) Agency authority to modify qualification requirements in 
+certain situations as provided in the OPM Operating Manual for 
+Qualification Standards for General Schedule Positions; and
+    (2) Agency authority to establish training programs that provide 
+intensive and directly job-related training to substitute for all or 
+part of the experience (but not education, licensing, certification, or 
+other specific credentials) required by OPM qualification standards. 
+Such training programs may be established to provide employees with the 
+opportunity to acquire the experience and knowledge, skills, and 
+abilities necessary to qualify for another position (including at a 
+higher grade) at an accelerated rate.
+* * * * *
+[FR Doc. 2026-21319 Filed 10-16-26; 8:45 am]
+BILLING CODE 6325-39-P

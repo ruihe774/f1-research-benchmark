@@ -1,0 +1,2227 @@
+Federal Register, Volume 91 Issue 27 (Tuesday, February 10, 2026)
+
+
+[Federal Register Volume 91, Number 27 (Tuesday, February 10, 2026)]
+[Proposed Rules]
+[Pages 5861-5877]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-02576]
+
+
+ ========================================================================
+ Proposed Rules
+                                                 Federal Register
+ ________________________________________________________________________
+ 
+ This section of the FEDERAL REGISTER contains notices to the public of 
+ the proposed issuance of rules and regulations. The purpose of these 
+ notices is to give interested persons an opportunity to participate in 
+ the rule making prior to the adoption of the final rules.
+ 
+ ========================================================================
+ 
+
+  Federal Register / Vol. 91, No. 27 / Tuesday, February 10, 2026 / 
+Proposed Rules  
+
+[[Page 5861]]
+
+
+
+OFFICE OF PERSONNEL MANAGEMENT
+
+5 CFR Part 351
+
+RIN 3206-AO99
+
+
+Reduction in Force Appeals
+
+AGENCY: Office of Personnel Management.
+
+ACTION: Proposed rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Office of Personnel Management (OPM) is issuing a proposed 
+rule to revise its regulations governing appeals of reduction-in-force 
+(RIF) actions. OPM proposes to transfer appeal rights for employees who 
+have been furloughed more than 30 days, separated, or demoted by a RIF 
+action from the Merit Systems Protection Board (MSPB) to OPM. OPM 
+expects this change will promote greater efficiency and reduce costs to 
+agencies in effectuating RIF actions, which may be necessary in a 
+variety of circumstances, such as to eliminate duplicative or 
+unnecessary functions or align agency workforces with new technology, 
+changing mission needs, or budgetary constraints.
+
+DATES: Comments must be received on or before March 12, 2026.
+
+ADDRESSES: You may submit comments by using the Federal eRulemaking 
+Portal: https://www.regulations.gov. Follow the instructions for 
+submitting comments.
+    All submissions must include the agency name and docket number or 
+RIN for this Federal Register document. Please arrange and identify 
+your comments about the regulatory text by subpart and section number. 
+If your comments relate to the supplementary information, please 
+reference the heading and page number in the supplementary section. All 
+comments must be received by the end of the comment period for them to 
+be considered. All comments and other submissions received generally 
+will be posted on the internet at https://regulations.gov as they are 
+received, without change, including any personal information provided. 
+However, OPM retains discretion to redact personal or sensitive 
+information, including but not limited to, personal or sensitive 
+information pertaining to third parties.
+    As required by 5 U.S.C. 553(b)(4), a summary of this rule may be 
+found in the docket for this rulemaking at www.regulations.gov.
+
+FOR FURTHER INFORMATION CONTACT: Carol Matheis by email at 
+[email protected] or by phone at (202) 606-2930.
+
+SUPPLEMENTARY INFORMATION:
+
+I. Background
+
+    The federal government's civil service system is rooted in 
+principles of merit, fairness, and efficiency. When agencies face 
+workforce restructuring, RIF procedures provide a mechanism for 
+realigning staff through objective criteria. These procedures are 
+governed by 5 U.S.C. 3501-3504 and are implemented through OPM 
+regulations at 5 CFR 351. These regulations provide employees subject 
+to a RIF action an avenue to appeal to the MSPB. Under 5 CFR 351.901, 
+employees furloughed for more than 30 days, separated, or demoted by a 
+RIF action may appeal to the MSPB.
+    OPM is proposing to revise its regulations governing RIFs and 
+related technical changes under statutory authority vested in it by 
+Congress in 5 U.S.C. 1103 and 3502. OPM is proposing these changes to 
+more accurately reflect the governing federal statute while improving 
+the efficiency of the RIF appeal process, which will effect more timely 
+outcomes with less burden on agencies utilizing RIFs. This rule 
+proposes to return the venue to hear RIF appeals from MSPB to OPM, 
+thereby honoring congressional intent and historical practice, 
+improving the consistency of regulatory interpretation, and 
+streamlining the RIF process by housing it from beginning to end at 
+OPM.
+    The current regulations are antiquated and no longer reflect the 
+needs of agencies operating in the twenty-first century. The current 
+regulatory framework has been in place for decades. During this time, 
+the scope of RIF appeal action proceedings has expanded beyond 
+administrative review of a written record. As written, the regulations 
+provided that ``hearings were to be held only when the MSPB 
+administrative judge decided there were material issues of fact in 
+dispute.'' \1\ This requirement was struck down on a collateral issue. 
+American Federation of Government Employees v. Office of Personnel 
+Management, 821 F.2d 761, 768 (D.C. Cir. 1987) (AFGE v. OPM). In 
+effect, however, AFGE v. OPM allowed MSPB to dictate its own procedures 
+for adjudicating RIF appeals, without any ability for OPM to modify 
+those procedures, with the end result being MSPB permitting sweeping 
+hearings related to RIF appeals. See id., at 768-769. This dynamic has 
+led to an unnecessarily lengthy and expensive appeals process, at 
+considerable expense to the government and to the detriment of the 
+appellant. OPM notes that no statutory right to an administrative or 
+judicial review pertaining to RIF actions exists in 5 U.S.C. 3502 
+(though certain veterans have been granted administrative and judicial 
+appeals rights under 5 U.S.C. 3330a, 3330b, and 38 U.S.C. chapter 43). 
+Nor is a RIF an adverse action under 5 U.S.C. 7512. See Schall v. 
+Postal Service, 73 F.3d 341, 344 (Fed. Cir. 1996). Further, there are 
+significant qualitative differences between an adverse action 
+separation and a RIF separation, such that they are not comparable. 
+Employees who are subject to a RIF are given priority status for 
+reemployment in the federal government (if separated),\2\ the right to 
+bump or retreat to an available position in the competitive area (if 
+one is available and the employee is eligible by virtue of retention 
+standing),\3\ and eligibility for career transition assistance and 
+retraining,\4\ among other differences. Employees separated for 
+misconduct under Chapter 75 or poor performance under Chapter 43 are 
+given no similar benefits.
+---------------------------------------------------------------------------
+
+    \1\ Reduction in Force, 51 FR 318-01 (Jan. 3, 1986).
+    \2\ See 5 CFR 351.803(a), 5 CFR part 330, subpart B.
+    \3\ See 5 CFR part 351, subpart G.
+    \4\ See 5 CFR 351.803(a), 5 CFR part 330, subpart B.
+---------------------------------------------------------------------------
+
+    In passing the Civil Service Reform Act, Congress carefully created 
+the MSPB review scheme and determined that there should be no RIF 
+appeal right to MSPB.\5\ In the nearly 50 years since its original 
+enactment, Congress has not amended the statute to provide for such
+
+[[Page 5862]]
+
+a right, nor has it provided for an appeal process for RIFs that 
+includes judicial review. Congress's choice not to create statutory 
+appeal rights in 5 U.S.C. Part III, Subpart B for employees or other 
+parties to challenge RIF actions demonstrates Congress's intention to 
+allow the contours of any RIF appeal rights to be determined by OPM 
+regulation.\6\ Thus, MSPB's authority to hear RIF appeals is provided 
+for in OPM regulation (5 CFR 351.901), not statute. The MSPB 
+acknowledged that it derived its authority to review agency RIF actions 
+through OPM regulations. See Kohfield v. Dept. of the Navy, 75 M.S.P.R. 
+1, 4 (1997) (citing Grubb v. Department of the Interior, 73 M.S.P.R. 
+296, 299 (1997)); Gaxiola v. U.S. Department of the Air Force, 6 
+M.S.P.R. 515, 519 (1981). Under this flexibility, OPM may regulate 
+matters such as whether to establish RIF appeal rights, the entity 
+responsible for accepting RIF appeals, and the procedures under which 
+an employee may appeal a RIF action.
+---------------------------------------------------------------------------
+
+    \5\ See 5 U.S.C. 7512.
+    \6\ See generally 5 U.S.C. 3501-3504.
+---------------------------------------------------------------------------
+
+    OPM believes in the importance of RIF appeal rights for employees 
+who have been furloughed more than 30 days, separated, or demoted by a 
+RIF action. Such procedures have existed in OPM's regulations (and 
+those of its predecessor agency, the Civil Service Commission [the 
+Commission]) since the mid-twentieth century, albeit in various 
+formulations. OPM's proposal also intends to return the focus of RIF 
+appeals to the administrative record, with discretion provided to the 
+presiding official to investigate or audit the RIF action. OPM believes 
+this is a more efficient and streamlined process than is provided for 
+under the current regulations. The current rules were initially 
+intended ``to give RIF a stronger merit basis'' by, for example, 
+linking individual performance with an employee's retention factor.\7\ 
+While OPM agrees that individual performance should be a factor in an 
+employee's retention standing in a RIF action, OPM does not believe 
+that this consideration justifies housing RIF appeals at the MSPB. 
+Indeed, individual employee performance, as reflected in an employee's 
+rating of record, would continue to be a retention factor if RIF 
+appeals were to be transferred to OPM, and OPM would continue to ensure 
+that these performance-based retention factors are appropriately 
+applied and respected in RIF actions. Further, OPM has taken numerous 
+steps in the past several months to ensure that employee performance is 
+measured rigorously and fairly across the federal government, and to 
+ensure that agencies are empowered to address poor performance.\8\ 
+However, the procedural burdens and inefficiencies associated with MSPB 
+appeals outweigh any symbolic tie to performance or merit basis created 
+by requiring that such appeals be adjudicated by the MSPB.\9\
+---------------------------------------------------------------------------
+
+    \7\ Id. at p. 3.
+    \8\ OPM Memorandum, ``Performance Management for Federal 
+Employees,'' June 17, 2025, available at: https://www.opm.gov/policy-data-oversight/latest-memos/performance-management-for-federal-employees/. This Memorandum, for example, outlines the 
+Administration's policies of ending inflation of employee 
+performance ratings, directing agencies to maximize the use of 
+probationary and trial periods, and encouraging the use of both 
+performance-based and adverse action procedures under Chapters 43 
+and 75.
+    \9\ Congress has tasked OPM with ensuring merit system 
+principles are respected and adhered to in matters of federal 
+employment. 5 U.S.C. 1104(b)(2).
+---------------------------------------------------------------------------
+
+    From the inception of the current regulations, ``the burden and 
+cost of defending appeals'' before the MSPB have been subject to agency 
+criticism.\10\ The criticisms continued throughout the 1990s. The 
+Government Accountability Office (GAO) critiqued the process for MSPB 
+appeals as ``inefficient, expensive, and time consuming'' while OPM 
+suggested ``improving the [f]ederal [g]overnment's appeals process can 
+substantially contribute to a more effective and efficient [f]ederal 
+[g]overnment.'' \11\ OPM endorses these criticisms, particularly 
+regarding an employee's regulatory right to a hearing in any case in 
+which the appellant requests one, as well as the potential benefits to 
+the Federal government. Due in part to the perceived burdens of RIF 
+appeals, including the requirement of a hearing in any case where the 
+appellant requests one, agencies historically have not used the 
+authority Congress provided to agencies to execute RIFs as widely as 
+would be expected given the size of the federal government and fast-
+evolving agency missions and priorities, especially when compared to 
+the private sector.\12\
+---------------------------------------------------------------------------
+
+    \10\ U.S. Merit Sys. Prot. Bd., ``Reduction in Force: The 
+Evolving Ground Rules'' (Sept. 28, 1987), pp. 5, 7, https://www.mspb.gov/studies/studies/Reduction_in_Force_The_Evolving_Ground_Rules_253680.pdf.
+    \11\ Streamlining Federal Appeals Procedures: Hearings Before 
+the Subcomm. on Civil Service of the House Comm. on Government 
+Reform and Oversight, 104th Cong., 1st Sess. (Nov. 29, 1995).
+    \12\ Just 2,029 employees have been subject to a RIF from 2014 
+to 2024, constituting an exceedingly small fraction of the federal 
+workforce. (Source: OPM FedScope Data, Aug. 5, 2025). Meanwhile, the 
+Bureau of Labor Statistics reports roughly that an average of over 
+1.7 million private sector employees have been subject to a ``layoff 
+or discharge'' each month over the same 10-year span. (Source: BLS 
+Job Openings and Layoff Turnover Survey, Aug. 28, 2025).
+---------------------------------------------------------------------------
+
+a. History of RIF Appeals and the CSRA Statutory Scheme
+
+    Congress has long recognized the President is inherently empowered, 
+as part of effective management of the Executive Branch, to quickly 
+grow and shrink the federal workforce in response to the needs of the 
+moment. This power became more relevant when the federal government 
+dramatically increased its employee headcount over the first half of 
+the 20th century as Congress enacted new programs and created new 
+agencies, coupled with the significant 1940s wartime increase at the 
+Department of Veterans Affairs.\13\
+---------------------------------------------------------------------------
+
+    \13\ Rockoff, Hugh, ``By Way of Analogy: The Expansion of the 
+Federal Government in the 1930s,'' (Jan. 1998), https://www.nber.org/system/files/chapters/c6891/c6891.pdf.
+---------------------------------------------------------------------------
+
+    As this rapid expansion was ongoing, presidents also recognized 
+their inherent authority to regulate the manner by which RIFs may take 
+place, including but not limited to by executive order, absent explicit 
+reference to RIFs in the Pendleton Civil Service Act of 1883.\14\ For 
+example, ``the first uniform RIF regulations were issued in 1925 by the 
+Personnel Classification Board,'' which was subsumed by the 
+Commission.\15\ Those regulations were bolstered again in 1929, when 
+President Calvin Coolidge issued Executive Order 5068, prescribing how 
+veterans were to be treated ``when reductions are being made in the 
+force.'' \16\ President Coolidge's presupposition of his authority was 
+affirmed by President Roosevelt, who similarly invoked presidential 
+authority to institute the regulatory procedures by which RIFs may be 
+executed, notwithstanding the lack of an explicit statutory grant.\17\
+---------------------------------------------------------------------------
+
+    \14\ Exec. Order No. 7915, ``Amendment of Civil Service Rules,'' 
+(June 24, 1938), https://www.presidency.ucsb.edu/documents/executive-order-7915-amendment-civil-service-rules.
+    \15\ U.S. Merit Sys. Prot. Bd., ``Reduction-in-Force in the 
+Federal Government, 1981: What Happened and Opportunities for 
+Improvement,'' (June 1983), https://babel.hathitrust.org/cgi/pt?id=uc1.31210024942615&seq=31.
+    \16\ Exec. Order No. 5068, ``Amendment of Civil Service Rule 
+VI,'' (Mar. 2, 1929), https://www.presidency.ucsb.edu/documents/executive-order-5068-amendment-civil-service-rule-vi.
+    \17\ Exec. Order No. 6175, ``Separation Ratings of Departmental 
+Employees,'' (June 16, 1933), https://www.presidency.ucsb.edu/documents/executive-order-6175-separation-ratings-departmental-employees.
+---------------------------------------------------------------------------
+
+    Recognizing such a dramatic and temporary increase in the workforce 
+would necessitate empowering the President with plenary, clear, and 
+broad authority to swiftly and agilely conduct RIFs, Congress first 
+contemplated the modern configuration of a RIF in legislation as part 
+of the Veterans
+
+[[Page 5863]]
+
+Preference Act of 1944.\18\ In that Act, Congress directed employees to 
+be ``released in accordance with Civil Service Commission 
+regulations.'' \19\ Specifically, these regulations were to be 
+promulgated with a small number of infringements on the President's 
+plenary authority to effectuate a RIF. Namely Congress directed the 
+President, when conducting a RIF, to give ``due effect to tenure of 
+employment, military preference, length of service, and efficacy 
+ratings,'' which was in turn subject to several provisos, among which 
+was a directive that ``employees whose efficiency ratings are `good' or 
+better shall be retained in preference to all other competing employees 
+and that preference employees whose efficiency ratings are below `good' 
+shall be retained in preference to competing nonpreference [sic.] 
+employees who have equal or lower efficiency ratings.'' \20\ Congress, 
+therefore, in codifying the President's authority to execute a RIF, 
+granted him a wide berth to manage his workforce, articulating no 
+limiting principles in statute regarding how, and whether, RIFs were 
+appropriate, including procedures by which an employee may appeal those 
+decisions. Rather, Congress merely noted in its legislative history 
+that its ``purpose'' in imposing those limiting principles ``was to 
+grant honorably discharged veterans `preference in employment where 
+Federal funds are disbursed' and to codify a governmental policy of 
+extending `certain benefits to those who have risked their lives in the 
+armed services during wartime.' '' H. Rept. 1289 on H.R. 4115, 78th 
+Cong. 2d sess. (1944).\21\ This configuration--establishing limiting 
+principles for RIF processes rather than directives--has always been 
+Congress's approach to the RIF system, dating to Congress establishing 
+the first retention system in 1876, which prioritized veterans of the 
+Civil War above others when RIFs occur.\22\
+---------------------------------------------------------------------------
+
+    \18\ U.S. Merit Sys. Prot. Bd., supra note 15.
+    \19\ 5 U.S.C. 861 (Jun. 27, 1944), ch. 287, sec. 12, 58 Stat. 
+390.
+    \20\ 5 U.S.C. 861 (Jun. 27, 1944), ch. 287, sec. 12, 58 Stat. 
+390.
+    \21\ U.S. Senate Committee on Post Office and Civil Service, 
+``Reduction-in-Force System in the Federal Government,'' (July 4, 
+1952), p. 61, https://babel.hathitrust.org/cgi/pt?id=uc1.aa0005567177&seq=67&q1=rule.
+    \22\ U.S. Merit Sys. Prot. Bd., supra note 15, at p.17.
+---------------------------------------------------------------------------
+
+    The Commission issued implementing regulations for the Veterans' 
+Preference Act that became effective on September 1, 1949.\23\ The 
+regulations provided that: ``(a) Any employee notified of proposed 
+action by reduction in force who believes that the regulations in this 
+part have not been correctly applied may appeal to the appropriate 
+office of the Civil Service Commission, stating reasons for believing 
+the proposed action to be improper, within ten days from the date he 
+received notice of the proposed action, or within ten days after a 
+decision by the agency on his answer to any notice giving him an 
+opportunity to answer.'' \24\ Notably, the Commission itself directed 
+impacted employees to file their appeal to an office under the purview 
+of the Commissioners, not the Commission itself. Only after an office 
+of the Commission rendered a decision was an employee permitted to 
+appeal directly to the Commissioners.
+---------------------------------------------------------------------------
+
+    \23\ U.S. Senate Committee on Post Office and Civil Service, 
+supra note 21, at p. 68.
+    \24\ Id. at 89.
+---------------------------------------------------------------------------
+
+    This regulatory framework remained largely in effect until 1963, 
+when the Commission reorganized and revised the regulations governing 
+appeals of RIF determinations. 28 FR 10021 (Sept. 14, 1963). At this 
+juncture, the Commission once again did not opt to delegate its 
+authority to review RIF appeals to any other entity. Rather, the 
+Commission's revised regulations provided ``[a]n employee who has 
+received a notice of specific action and who believes this part has not 
+been correctly applied may appeal to the Commission.'' Id. at 10065.
+    Central to this regulatory framework was the understanding that 
+there was no right of judicial review of Commission decisions. 
+``Employees sought to appeal the decisions of [the Commission] through 
+the various forms of action traditionally used for so-called 
+nonstatutory review of agency action, including suits for mandamus . . 
+. injunction . . . and declaratory judgment.'' United States v. Fausto, 
+484 U.S. 439, 444 (1988). But ``so long as there was substantial 
+compliance with applicable procedures and statutes, the administrative 
+determination was not reviewable.'' Hargett v. Summerfield, 243 F.2d 
+29, 32 (D.C. Cir. 1957). It was long understood that RIFs ``are matters 
+peculiarly within the province of those who are in charge of and 
+superintending the departments, and, until Congress by some special and 
+direct legislation makes provision to the contrary, we are clear that 
+they must be settled by those administrative officers.'' Keim v. United 
+States, 177 U.S. 290, 296 (1900).
+    In 1978, Congress enacted the Civil Service Reform Act of 1978 
+(CSRA). ``This legislation comprehensively overhauled the civil service 
+system.'' Lindahl v. Office of Personnel Management, 470 U.S. 768, 773 
+(1985). The CSRA remains in sum and substance the governing legislative 
+framework today. In passing the CSRA, Congress created ``an integrated 
+scheme of administrative and judicial review, designed to balance the 
+legitimate interests of the various categories of federal employees 
+with the needs of sound and efficient administration.'' Grosdidier v. 
+Broad. Bd. of Govs., 560 F.3d 495, 497 (D.C. Cir. 2009) (Grosdidier). 
+It is both ``comprehensive and exclusive.'' Id. It is ``comprehensive'' 
+in that ``[i]t ``regulates virtually every aspect of federal employment 
+and prescribes in great detail the protections and remedies applicable 
+to adverse personnel actions, including the availability of 
+administrative and judicial review.'' Nyunt v. Broad. Bd. of Gov., 589 
+F.3d 445, 448 (D.C. Cir. 2009) (internal quotations omitted). It is 
+``exclusive,'' meanwhile, in that ``[i]t constitutes the remedial 
+regime for federal employment and personnel complaints.'' Id. Simply 
+put, ``what you get under the CSRA is what you get.'' Fornaro v. James, 
+416 F.3d 63, 67 (D.C. Cir. 2005).
+    Indeed, the CSRA's review scheme is exclusive even when ``the CSRA 
+provides no relief,'' and in fact, ``precludes other avenues of 
+relief.'' Graham v. Ashcroft, 358 F.3d 931, 935 (D.C. Cir. 2004). In 
+other words, ``the CSRA is the exclusive avenue for suit even if the 
+plaintiff cannot prevail in a claim under the CSRA.'' Grosdidier, 560 
+F.3d at 497. ``Congress designed the CSRA's remedial scheme with care, 
+`intentionally providing--and intentionally not providing--particular 
+forums and procedures for particular kinds of claims.' '' Id. (quoting 
+Filebark v. Dep't of Transp., 555 F.3d 1009, 1010 (D.C. Cir. 2009)). 
+The comprehensive statutory review scheme created by the CSRA means 
+that ``federal employees may not use the Administrative Procedure Act 
+[APA] to challenge agency employment actions.'' Filebark, 555 F.3d at 
+1010.
+    The CSRA prescribes in precise detail the types of actions 
+regarding which there is eventual judicial review--and it does not 
+provide for such review of RIFs.\25\ Under the CSRA, ``[t]he reviewable 
+agency actions are removal, suspension for more than 14 days, reduction 
+in grade or pay, or furlough for 30 days or less,'' including when 
+there may be constitutional claims at issue and, even then, only 
+through the proper channels. Elgin v. Dep't of Treasury, 5 U.S. 1, 5-6 
+(2012). Courts
+
+[[Page 5864]]
+
+have repeatedly dismissed a litany of other actions brought outside the 
+proper CSRA channels (such as under the APA) by individuals regarding 
+their employment under the comprehensive statutory scheme provided for 
+in the CSRA. See, e.g., United States v. Fausto, 484 U.S. 439 (1988) 
+(``the absence of provision for . . . employees to obtain judicial 
+review is not an uninformative consequence of the limited scope of the 
+statute, but rather manifestation of a considered congressional 
+judgment. . . This conclusion emerges not only from the statutory 
+language, but also from what we have elsewhere found to be an indicator 
+of nonreviewability, the structure of the statutory scheme''); Bush v. 
+Lucas, 462 U.S. 367, 368 (1983) (holding ``that it would be 
+inappropriate . . . to supplement [the CSRA] regulatory scheme with a 
+new judicial remedy''); Zummer v. Sallet, 37 F.4th 996 (5th Cir. 2022) 
+(holding the CSRA prohibits district courts from hearing claims seeking 
+to reverse suspensions and terminations); Krafsur v. Davenport, 736 
+F.3d 1032, 1034 (6th Cir. 2013) (``The [CSRA] spells out in painstaking 
+detail the path an employee must follow if he wants to challenge a 
+prohibited personnel practice''); Dotson v. Griesa, 398 F.3d 156, 163 
+(2nd Cir. 2005) (``the CSRA creates an integrated scheme of 
+administrative and judicial review for adverse employment actions . . . 
+That scheme . . . affords no administrative or judicial review to 
+judicial branch employees'') (internal quotation marks omitted); Pathak 
+v. Dep't of Veterans Aff., 274 F.3d 28 (1st Cir. 2001) (holding the 
+CSRA stripped the district court of subject matter jurisdiction to 
+consider a suspension of less than 14 days); Ryon v. O'Neill, 894 F.2d 
+199, 204 (6th Cir. 1990) (``In short, the text of the CSRA, the 
+structure of the review it establishes, and the legislative history of 
+the Act, all lead ineludibly to the conclusion that Congress intended 
+review of agency reassignment decisions to be confined to the specific 
+procedures set out in the text of the CSRA''); Yokum v. U.S. Postal 
+Serv., 877 F.2d 276 (4th Cir. 1989) (holding the CSRA ``precludes 
+judicial review of administrative personnel decisions adverse to the 
+interests of nonpreference eligible postal workers'') (internal 
+quotations omitted). This is because ``CSRA nowhere grants any 
+employee, whether in the excepted or competitive service, the right to 
+bring an action in federal district court.'' Galvin v. F.D.I.C., 48 
+F.3d 531 (5th Cir. 1995) (holding plaintiff's claim was properly 
+dismissed by the federal district court because his ``claims arise out 
+of his employment relationship with the United States, and CSRA 
+provides the exclusive mode of redress.'').
+---------------------------------------------------------------------------
+
+    \25\ Congress did subsequently provide for career members of the 
+Senior Executive Service (SES) to file RIF appeals to the MSPB but 
+chose not to provide similar appeal rights from RIFs for other 
+members of the civil service. 5 U.S.C. 3595(c).
+---------------------------------------------------------------------------
+
+    What is given by the comprehensive statutory scheme in the way of 
+RIF procedures are codified at 5 U.S.C. 3501-3504, which Congress 
+directs OPM to implement by regulation. While those statutes 
+technically predate the CSRA's enactment in 1978, it has long been 
+recognized that the statutes and regulations regarding reductions-in-
+force in the federal government are part of the ``comprehensive 
+employment scheme'' created by the CSRA, Filebark v. U.S. Dep't of 
+Transp., 555 F.3d 1009, 1010 (D.C. Cir. 2009), which ``regulates 
+virtually every aspect of federal employment.'' Nyunt v. Chairman, 
+Broad. Bd. of Governors, 589 F.3d 445, 448 (D.C. Cir. 2009); see also 
+Nat'l Treasury Emps. Union v. Vought, 149 F.4th 762, 774-75 (D.C. Cir. 
+2025) (applying CSRA claims-channeling in lawsuit challenging, inter 
+alia, reductions-in-force); Nat'l Treasury Emps. Union v. Trump, 770 F. 
+Supp. 3d 1, 11 (D.D.C. 2025) (same); Gober v. Collins, No. CV 25-714 
+(RC), 2025 WL 1360434, at *6 (D.D.C. May 8, 2025) (same). The CSRA 
+applies to preclude judicial review even where it provides no specific 
+avenue for relief. See Filebark v. U.S. Dep't of Transp, 542 F. Supp. 
+2d 1, 8 (D.D.C. 2008) (``Where Congress wanted to guarantee certain 
+remedies, it explicitly did so.''); aff'd sub nom. Filebark v. U.S. 
+Dep't of Transp., 555 F.3d 1009 (D.C. Cir. 2009). While RIF separations 
+can result in job loss or reassignment, they are specifically excluded 
+as adverse actions under chapter 75 of Title 5, U.S.C., which governs 
+removals and discipline for misconduct and, in some cases, performance 
+deficiencies. As a result, an employee impacted by a RIF may be so 
+affected through no fault of his or her own because ``when reductions 
+of force are justified, they must be made.'' \26\
+---------------------------------------------------------------------------
+
+    \26\ President Calvin Coolidge, ``Address at the Twelfth Regular 
+Business Meeting of the Business Organization of the Government, 
+Washington, DC,'' (Jan. 29, 1927), https://www.presidency.ucsb.edu/documents/address-the-twelfth-regular-meeting-the-business-organization-the-government-washington-dc.
+---------------------------------------------------------------------------
+
+    As outlined above, employees whose positions are subject to a RIF, 
+however, have been afforded the right to appeal under 5 U.S.C. Chapter 
+77 only since 1983. Pursuant to Section 205 of CSRA, which amended 5 
+U.S.C. 7701(a), MSPB is granted jurisdiction over certain personnel 
+actions ``appealable to the Board under any law, rule, or regulation.'' 
+This jurisdictional grant permits, but does not require, MSPB to review 
+appeals of actions conducted pursuant to 5 U.S.C. 3501-3504, which as 
+explained below was granted to MSPB by regulatory action of OPM. While 
+5 U.S.C. 7512(b) excludes RIF actions from MSPB review under 5 U.S.C. 
+Chapter 75 and its implementing regulations, it does not preclude MSPB 
+review of RIF actions entirely. Authority under Chapter 75 applies 
+exclusively to adverse actions. 5 U.S.C. 7512. ``A RIF is an 
+administrative procedure by which agencies eliminate jobs and account 
+for employees who occupied abolished positions. It is not an adverse 
+action against a particular employee, but it is directed solely at a 
+position within an agency.'' Huber v. Merit Systems Protection Bd., 793 
+F.2d 284, 286 (Fed. Cir. 1986). ``Unlike adverse actions, RIFs are not 
+aimed at removing particular individuals; rather they are directed 
+solely at positions.'' Grier v. Dep't of Health and Human Services, 750 
+F.2d 944, 945 (Fed. Cir. 1984). MSPB concurs, noting the Board's 
+authority ``is not plenary,'' but rather ``the scope of the Board's 
+jurisdiction to review an agency's RIF actions [are] under OPM's 
+regulations at 5 CFR part 351,'' which do not implement Chapter 75. 
+Adams v. Dep't of Defense, 96 M.S.P.R. 325, 329 (2004). Further, OPM 
+specifically delegated the authority--explicitly pursuant to 5 U.S.C. 
+1302 and 3502--to review a RIF appeal to MSPB in 1983. 48 FR 49462 
+(Oct. 25, 1983). Therefore, MSPB's jurisdiction over RIF appeals is 
+regulatory in nature, not statutory. It is subordinated to and 
+contingent upon OPM's decision, or not, to delegate its authority to 
+hear RIF appeals. MSPB's jurisdiction over RIF appeals thus developed 
+by custom, rather than statutory command, which MSPB itself 
+acknowledges. See Kohfield v. Dept. Of the Navy, 75 M.S.P.R. 1, 4 
+(1997) (``Neither [the CSRA] nor any other statutory provision provides 
+for a right of [MSPB] appeal for a RIF action.'').
+    Absent explicit statutory directive, it cannot be presupposed 
+Congress's intention was for MSPB to be the proper venue to hear RIF 
+appeals for non-SES employees.\27\ Moreover, when interpreting statutes 
+such as CSRA which comprehensively overhaul a regulatory framework, 
+special consideration must be given to the explicit wording of the 
+statute--above and beyond typical adherence to the letter of the law--
+because ``Congress . . . does not alter the fundamental details of a 
+regulatory scheme in vague terms or ancillary provisions--it does
+
+[[Page 5865]]
+
+not, one might say, hide elephants in mouseholes.'' Whitman v. American 
+Trucking Associations, Inc., 531 U.S. 457, 468 (2001). Were Congress 
+interested in reversing the long-established precedent of near-plenary 
+executive authority to execute a RIF action, it could have legislated 
+matters in the CSRA such as RIF appeal rights, the entity responsible 
+for accepting those appeals, the procedures by which an employee or 
+employees may appeal a RIF action, as well as whether those appeal 
+determinations were subject to judicial review. This is especially true 
+given ``[c]riticism of this `system' of administrative and judicial 
+review [of agencies' personnel actions prior to CSRA] was widespread.'' 
+United States v. Fausto, 484 U.S. 439, 445 (1988). However, Congress in 
+legislating CSRA remained both implicitly and explicitly silent on RIF 
+appeals in the face of widespread criticism. See 5 U.S.C. 3501-3504. 
+Interpreting Congress's desire to house RIF appeals at OPM instead of 
+MSPB is best understood by reading the text of the CSRA itself. When 
+interpreting legislative direction, in all contexts, including but not 
+limited to the CSRA, the statute itself is the first and best source to 
+which to refer when determining the best reading of a statute. As a 
+general matter, ``Congress wrote the statute it wrote,'' and ``[t]hat 
+congressional election settles'' questions of interpretation. See CSX 
+Transp., Inc. v. Alabama Dept. of Revenue, 562 U.S. 277, 296 (2011). In 
+this light, the best reading of the statute's absence of an explicit 
+directive is that Congress intended for the President, through OPM, to 
+retain maximum flexibility to determine the procedures under which a 
+RIF is to be carried out, including which entity is best positioned to 
+serve as the venue for RIF appeals.
+---------------------------------------------------------------------------
+
+    \27\ The fact that Congress did subsequently provide for RIF 
+appeals to the MSPB for members of the SES (whose RIF procedures are 
+different from those of other title 5 employees, see 5 CFR part 359) 
+underscores that Congress made no similar determination regarding 
+non-SES employees.
+---------------------------------------------------------------------------
+
+b. The Current, Cumbersome RIF Appeal Procedures Hurt the Federal 
+Government
+
+    Since before the promulgation of the modern RIF procedures in the 
+1980s, agencies have expressed concerns the procedures would render 
+agencies unable to utilize RIFs effectively. In evaluating agency 
+response to designating MSPB as the venue for RIF appeals, the MSPB 
+found agencies were concerned with the increased administrative burden 
+imposed upon them, as well as the significant weight the process placed 
+on individual employees' performance plans and appraisals.\28\
+---------------------------------------------------------------------------
+
+    \28\ U.S. Merit Sys. Prot. Bd., supra note 10.
+---------------------------------------------------------------------------
+
+    These concerns ultimately became more than theoretical. In 1995, 
+OPM, the Government Accountability Office (GAO), the National Academy 
+of Public Administration (NAPA), MSPB personnel, as well as the former 
+MSPB Chairman, were called to testify in front of the Subcommittee on 
+the Civil Service of the Committee on Government Reform and Oversight 
+of the House of Representatives regarding federal employee appellate 
+procedures, including to MSPB. At the time, MSPB was experiencing a 
+dramatic increase in RIF appeals, seeing a 252% increase from Fiscal 
+Year (FY) 1994 to FY 1995.\29\ All witnesses criticized MSPB policies 
+to varying degrees--even the then-current and former MSPB personnel--
+for unnecessarily increasing inefficiencies and undermining 
+effectiveness. OPM noted that many MSPB appeals ``concern 
+straightforward provisions of law with which an appellant disagrees,'' 
+but that ``under current rules a person also has a right to a hearing 
+at MSPB, and we believe there may be room for streamlining in this 
+particular area.'' \30\ OPM also noted its ``central role in 
+intervening in appeals to ensure that its regulations are properly 
+interpreted and that the meaning and intent of the civil service laws 
+enacted by Congress are adhered to,'' a ``special role'' reserved for 
+OPM.\31\ GAO raised more pointed concerns, suggesting a number of 
+considerations ``detract[ing] from the fair and efficient operation of 
+the federal government,'' including that ``because of the complexity of 
+the system [of appeals] and the variety of redress mechanisms it 
+affords federal employees, it is inefficient, expensive, and time 
+consuming.'' \32\ GAO also noted the system ``is vulnerable to 
+employees who would take undue advantage of these protections [by 
+drawing out] protracted processes and requirements.'' \33\ GAO's chosen 
+remedy was for the federal government to mirror remedies available ``in 
+the private sector and elsewhere,'' suggesting they ``may be worth 
+further study.'' \34\ NAPA provided testimony detailing work it had 
+previously conducted on employee appeals the conclusions of which 
+included the following issues in need of resolution: ``jurisdictional 
+overlap,'' ``timely, fair, and final decisions,'' inconsistent 
+remedies, and a ``focus on non-substantive issues.'' \35\ The Chairman 
+of the MSPB testified that upon review, MSPB was undermining its own 
+effectiveness as a venue for appeals because ``we have found that the 
+existing policies are sound but are being poorly implemented or are not 
+being implemented at all.'' \36\ He continued by noting MSPB is ``like 
+a court. We receive whatever complaints are going to be generated and 
+come to us. But we, I believe, as a government, can be most efficient 
+and a better utilizer of resources . . . Hopefully, [complaints] never 
+come to us.'' \37\ The former Chairman of the MSPB expressed confusion 
+as to the excessive complication in the process, stating ``I think it 
+would be one thing to require a public law scheme as complicated as 
+this if you are dealing with areas that really require this kind of 
+complication. In fact, the only field of law that comes to mind . . . 
+in terms of parallel [levels of complication] would be the Tax Code and 
+tax law.'' \38\ Ultimately, as the former MSPB Chairman noted, ``it is 
+clear, and I believe it is clear both to those who work within the 
+system and would be patently clear to those who just view it from the 
+outside, [MSPB procedures are] far too complicated and real obtuse for 
+real people in real workplaces to have to deal with.'' \39\
+---------------------------------------------------------------------------
+
+    \29\ Subcomm. on Civil Service of the House Comm. on Government 
+Reform and Oversight, supra note 11.
+    \30\ Id.
+    \31\ Id.
+    \32\ Id.
+    \33\ Id.
+    \34\ Id.
+    \35\ Id.
+    \36\ Id.
+    \37\ Id.
+    \38\ Id.
+    \39\ Id.
+---------------------------------------------------------------------------
+
+    No authority has substantively addressed these concerns, predicted 
+in 1987 and affirmed in 1995, resulting in limitations on agencies' 
+practical ability to exercise RIF authority. Across the vast majority 
+of government from FY 2005 through FY 2024, only 10,614 employees have 
+been subject to a RIF.\40\ More recently, under President Trump, 
+agencies prepared RIF and reorganization plans pursuant to Executive 
+Order 14210, Implementing the President's ``Department of Government 
+Efficiency'' Workforce Optimization Initiative (Feb. 11, 2025) 
+(directing agencies, inter alia, to ``promptly undertake preparations 
+to initiate large-scale reductions in force (RIFs), consistent with 
+applicable law''). In addition, RIFs were undertaken pursuant to 
+Executive Order 14242, Improving Education Outcomes by Empowering 
+Parents, States, and Communities (March 25, 2025) (directing the 
+Secretary of Education to ``to the maximum extent appropriate and 
+permitted by law, take all necessary steps to facilitate the closure of 
+the Department of Education''); Executive Order 14217, Commencing the
+
+[[Page 5866]]
+
+Reduction of the Federal Bureaucracy (February 25, 2025) (directing 
+that several government entities ``be eliminated to the maximum extent 
+consistent with applicable law''); and Executive Order 14238, 
+Continuing the Reduction of the Federal Bureaucracy (March 14, 2025) 
+(same, except as to a different set of government entities). Although 
+in 2025 the Trump Administration oversaw the largest peacetime 
+reduction in the size of the Federal workforce ever, some 317,000 
+employees, the overwhelming majority of these departures (over 92.5%) 
+were due to voluntary programs like the Deferred Resignation Program, 
+Voluntary Early Retirement Authority, Voluntary Separation Incentive 
+Payments, and other voluntary resignations. Only a very small 
+percentage of departures resulted from RIFs.
+---------------------------------------------------------------------------
+
+    \40\ OPM FedScope data, Aug. 5, 2025.
+---------------------------------------------------------------------------
+
+    While at least some of the historical causes of these relatively 
+low numbers of employees subject to a RIF have been lack of political 
+will and the success of RIF avoidance measures, the relatively low 
+numbers across time support a widespread perception that, due to the 
+time-consuming RIF appeal process, RIF procedures are too burdensome 
+and arduous to be effective. For example, one author (an experienced 
+former Federal employee and consultant for Federal agencies) called the 
+current OPM RIF regulations ``the ultimate bureaucratic poison pill: 
+take it, and you die. Meaning, the RIF rules and regulations are so 
+complex and cumbersome, the process so time-consuming and demoralizing, 
+and the outcome so haphazard and invariably negative, that it's the 
+absolute last option any sane organization would want to consider.'' 
+\41\
+---------------------------------------------------------------------------
+
+    \41\ Fred Mills, Civil Disservice: Federal Employment Culture 
+and the Challenge of Genuine Reform, at p.42 (iUniverse 2010).
+---------------------------------------------------------------------------
+
+    The current dual-track structure, whereby OPM promulgates and 
+interprets RIF regulations while MSPB adjudicates appeals, creates 
+considerable detrimental impact for both employees and agencies and 
+renders the RIF procedures inefficient. In addition, the MSPB lacks 
+institutional expertise regarding RIFs compared to OPM. For example, 
+MSPB requires an inflexible, formal, quasi-judicial process that 
+requires a hearing at the appellant's request, adding minimal benefits 
+while exacerbating the already-extensive adjudicative timeline, despite 
+authority to streamline the process to the benefit of appellant and 
+agency. See 5 U.S.C. 7701(b). Specifically, RIF appeals filed before 
+MSPB typically require a hearing and searching discovery. See 5 U.S.C. 
+7701(a); 5 CFR 1201.71-1201.75. The decision to provide for such 
+process, and in so doing depriving employees and agencies of the 
+ability to adjudicate RIF appeals efficiently, is increasingly 
+untenable in light of MSPB's extensive delays. MSPB has recognized the 
+problem its recurring backlog of cases presents, as well as the cause: 
+lack of quorum because the Senate has not confirmed a sufficient number 
+of Board members. In recent years, MSPB has at various times lacked 
+quorum for extended periods, including for five years between 2017 and 
+2022.\42\ The risk of an additional backlog is also significant in 
+light of the significantly increased number of cases received in 
+calendar year 2025.\43\
+---------------------------------------------------------------------------
+
+    \42\ U.S. Merit Sys. Prot. Bd., ``Frequently Asked Questions 
+about the Lack of Quorum Period and Restoration of the Full Board'' 
+(Apr. 9, 2025), https://www.mspb.gov/FAQs_Absence_of_Board_Quorum_4-9-25.pdf.
+    \43\ U.S. Merit Sys. Prot. Bd., ``Weekly Number of Cases 
+Received in the Regional and Field Offices Fiscal Year 2025'' (Sept. 
+29, 2025), https://www.mspb.gov/Recent%20ROFO%20Case%20Receipts.pdf.
+---------------------------------------------------------------------------
+
+    Agencies similarly stand to benefit from a less burdensome process 
+that addresses the historical concerns OPM now embraces. Further, the 
+current rules are undermining Congress's broad authorization for RIFs 
+by limiting agencies' ability to fully exercise the authority it 
+provided. As stated above, Congress did not design the CSRA to require, 
+nor did it intend for it to require, agencies to litigate matters 
+touching on their decisions to conduct RIFs before the MSPB in a quasi-
+judicial hearing format. Ultimately, the status quo appeal process is 
+no longer conducive to serve the needs of twenty-first century 
+governance. Both agencies and employees would be far better served by a 
+single, streamlined process spanning the full lifecycle of the RIF 
+process and leveraging OPM's expertise throughout, rather than the 
+fragmented process this rule proposes to replace. This will promote 
+consistency, efficiency, and regularity of decision-making regarding 
+RIF appeals.
+    As such, OPM believes it would be prudent and provide much needed 
+clarity for employees and agencies alike to be able to leverage OPM's 
+expertise with RIF actions, as well as its ability to efficiently 
+adjudicate them, especially when contrasted with MSPB's lack thereof on 
+both counts. ``The administrative process will be best vindicated by 
+clarity in its exercise.'' Phelps Dodge Corp. v. Nat'l Labor Relations 
+Board, 313 U.S. 177, 197 (1941). As noted elsewhere in this proposal, 
+OPM has considerable historical expertise with the RIF process. The 
+CSRA tasked OPM with managing the RIF process. See 5 U.S.C. 3501-3504. 
+OPM also promulgated the regulations governing the RIF process. See 5 
+CFR part 351.\44\ It also issues handbooks with guidance to provide 
+assistance to agencies ``that are considering and/or undergoing some 
+type of reshaping (e.g., . . . reduction in force).'' \45\ According to 
+the Administrative Conference of the United States (ACUS), ``a 
+situation in which agencies share closely related responsibilities for 
+different aspects of a larger regulatory, programmatic, or management 
+enterprise .-.-. produce[s] redundancy, inefficiency, and gaps, but 
+they also create underappreciated challenges.'' \46\ GAO concurs with 
+ACUS in the obvious: eliminating fragmentation ``improv[es] the 
+efficiency and effectiveness'' of operations.\47\ Streamlining 
+responsibilities will ``improv[e] the efficiency, effectiveness, and 
+accountability'' regarding ``potential dysfunctions created by the 
+shared regulatory space.'' \48\ Improving processes in this way can 
+also ``reduce costs for both the government and regulated entities,'' 
+including employees filing RIF appeals.\49\
+---------------------------------------------------------------------------
+
+    \44\ OPM plans to propose changes to the regulations governing 
+the administration of a reduction in force in a separate rulemaking. 
+See RIN 3206-AO86. That rulemaking will affect different subparts of 
+part 351.
+    \45\ Workforce Reshaping Operations Handbook: A Guide for Agency 
+Management and Human Resources Offices, OPM, March 2017, https://www.opm.gov/policy-data-oversight/workforce-restructuring/reductions-in-force-rif/workforce_reshaping.pdf.
+    \46\ Administrative Conference of the United States, ``Improving 
+Coordination of Related Agency Responsibilities,'' (June 15, 2012), 
+https://www.acus.gov/document/improving-coordination-related-agency-responsibilities.
+    \47\ Government Accountability Office, ``Opportunities to Reduce 
+Fragmentation, Overlap, and Duplication and Achieve an Additional 
+One Hundred Billion Dollars or More in Future Financial Benefits,'' 
+GAO-25-107604, (May 13, 2025). https://www.gao.gov/assets/gao-25-107604.pdf.
+    \48\ Administrative Conference of the United States, supra note 
+46.
+    \49\ Id.
+---------------------------------------------------------------------------
+
+    As a practical matter, OPM believes reducing that fragmentation by 
+tasking MSAC with adjudication of RIF appeals will provide much needed 
+clarity and efficiency. MSAC is not only equipped, but best positioned, 
+to handle this task. MSAC is an external-facing organization within OPM 
+with longstanding oversight and adjudicative functions. As a general 
+matter, ``MSAC is responsible for ensuring that [f]ederal agency human 
+resources programs are effective and
+
+[[Page 5867]]
+
+efficient and comply with merit system principles and related civil 
+service regulations,'' \50\ which includes oversight of agency RIF 
+actions. Specifically, MSAC also has ``a long history of adjudicating 
+federal employee classification appeals, as well as Fair Labor 
+Standards Act (FLSA), compensation and leave, and declination of 
+reasonable offer claims'' \51\ MSAC ``offer[s] federal employees an 
+independent review of agency personnel decisions. OPM's decision in 
+these cases is the final administrative decision.'' \52\ As part of 
+those functions, MSAC provides employees with administrative procedural 
+rights to challenge agency determinations without having to seek 
+redress in federal court. Further, the appeals process set forth in 
+this proposed rule is exceedingly similar to OPM's classification 
+appeals and FLSA claims process at 5 CFR part 511 subpart F, and 5 CFR 
+part 551 subpart G, respectively. Thus, OPM will adjudicate RIF appeals 
+in much the same manner as it does these claims, allowing it to 
+leverage its procedural institutional knowledge. Additionally, distinct 
+from MSPB, it has the infrastructure in place to adjudicate RIF appeals 
+effectively without being subject to restrictions arising from the lack 
+of a quorum.
+---------------------------------------------------------------------------
+
+    \50\ U.S. Off. of Personnel Management Off. of the Inspector 
+General, ``Final Evaluation Report: Evaluation of the Merit System 
+Accountability and Compliance Office,'' Rept. No. 2021-OEI-011 (Dec. 
+12, 2022), available at https://www.oversight.gov/sites/default/files/documents/reports/2022-12/Final-Report-2021-OEI-001.pdf.
+    \51\ See U.S. Off. of Personnel Management, Adjudications, 
+https://www.opm.gov/compliance/adjudications/.
+    \52\ Id.
+---------------------------------------------------------------------------
+
+    Housing RIF appeals within MSAC (OPM's oversight and adjudicative 
+body) would additionally separate the RIF adjudicative function within 
+OPM from OPM's RIF policymaking function, which is housed in its 
+Workforce Policy & Innovation (WPI) office.\53\ OPM would continue to 
+maintain appropriate administrative separation between its policy arm 
+(WPI) and adjudication arm (MSAC).
+---------------------------------------------------------------------------
+
+    \53\ See U.S. Off. of Personnel Management, FY 2026 
+Congressional Budget Justification and Annual Performance Plan at p. 
+26, available at https://www.opm.gov/about-us/fy-2026-congressional-budget-justification/fy-2026-congressional-budget-justification.pdf.
+---------------------------------------------------------------------------
+
+    Meanwhile, MSPB has been considerably backlogged due to a 
+protracted period without a quorum that leaves employees and agencies 
+in limbo. Between January 7, 2017, and March 3, 2022, and between April 
+10 and October 27, 2025, MSPB lacked a quorum, which prevented it from 
+reviewing cases and resulted in a considerable backlog.\54\ In light of 
+the Senate's failure to confirm nominees to the MSPB in a timely way, a 
+process over which the executive branch lacks any meaningful control, 
+prudent governance requires the executive to minimize disruption in 
+personnel operations caused by loss of a quorum at MSPB. MSPB too has 
+mitigated, as far as practicable, the effects of a future lack of 
+quorum on delays. 89 FR 72957 (Sept. 9, 2024). However, this lack of 
+faith in its own ability to timely adjudicate appeals provides 
+additional evidence of the prudence of relocating RIF appeals to MSAC. 
+While employees may lack some procedural mechanisms if appeals are 
+transferred to MSAC as contemplated by this rule, OPM believes 
+streamlining the process will not have a consequential impact upon the 
+substantive outcomes of the appeals, while improving the efficiency and 
+consistency of the process.
+---------------------------------------------------------------------------
+
+    \54\ U.S. Merit Sys. Prot. Bd., Frequently Asked Questions About 
+the Lack of Quorum Period and Restoration of the Full Board (Nov. 
+14, 2025), available at https://www.mspb.gov/FAQs%20Absence%20of%20Board%20Quorum%2011-14-25.pdf.
+---------------------------------------------------------------------------
+
+    As noted above, under the CSRA, Congress intended the President, by 
+and through agencies, to be able to invoke RIF action authorities 
+absent additional congressional action. It also directed OPM to 
+continue to regulate and manage the RIF action lifecycle, as the 
+Commission and the Personnel Classification Board before it had done; 
+Congress entrusted OPM to continue doing so as part of the CSRA. See 5 
+U.S.C. 1302 and 3502. Outsourcing the appeal process to MSPB subjects 
+the viability of the process (from notice through to appeal) to the 
+machinations of MSPB, which cannot be relied upon to have a functioning 
+quorum at all times. Nowhere has Congress directed OPM to involve MSPB 
+in the RIF process, much less subordinate an agency's ability to engage 
+in and conclude a RIF action to MSPB involvement. See Public Law 95-
+454, 92 Stat. 1111, as amended.
+    In furtherance of addressing these concerns, OPM proposes to 
+establish limited grounds for employees subject to a RIF action to 
+appeal their designation. Under these proposed regulations, such 
+employees will be able to challenge their designation based on an 
+agency's improper execution of a RIF action resulting in their being 
+subject to a RIF. Employees wishing to pursue collateral claims under 
+statutes administered by other entities, like bringing a claim of 
+discrimination to the EEOC, would continue to have those avenues of 
+appeal, but would not be allowed to raise those claims with OPM. These 
+limited grounds of appeal reflect the historical principles and 
+precedents that the President has plenary power to determine if a RIF 
+is necessary and proper, subject to the provisos informing retention 
+preferences directed by Congress. These limited grounds of appeal will 
+ensure agencies adhere to the Merit System Principles and allow OPM to 
+correct agency actions taken contrary to these principles, consistent 
+with OPM's direct statutory and presidentially delegated authority. See 
+5 U.S.C. 1103(a)(7) and (c)(2)(f), 1104(b)(2); see also 5 CFR 5.3, 
+10.2-10.3.
+
+II. Proposed Amendments
+
+    OPM is proposing to amend its regulations at subpart I of part 351, 
+governing appeals of and corrective action with respect to RIFs.
+    Section 351.901 currently provides: ``An employee who has been 
+furloughed for more than 30 days, separated, or demoted by a reduction 
+in force action may appeal to the Merit Systems Protection Board.'' OPM 
+is proposing to revise Sec.  351.901 to specify that an employee who 
+has been furloughed for more than 30 days, separated, or demoted as a 
+result of a RIF may appeal exclusively to OPM. The proposed revision 
+also places the burden of proving, by a preponderance of the evidence, 
+the timeliness and proper venue for the appeal on the employee. The 
+rule would provide that the employee, also by preponderance of the 
+evidence, has the burden of proving that the RIF action subject to 
+appeal was conducted inconsistent with either statute or OPM 
+regulations such that the employee would not have suffered the same or 
+another RIF action if properly conducted. Further, to avoid duplication 
+and ensure that RIF appeals may be decided expeditiously, and 
+consistent with Congress's intent that the administrative remedies 
+under the CSRA be exclusive, OPM clarifies that the OPM appeal process 
+would be the sole and exclusive means, including through filing of a 
+grievance, to challenge a RIF action, though matters otherwise within 
+the jurisdiction of the EEOC, Federal Labor Relations Authority (FLRA), 
+an Inspector General, the MSPB, the Department of Labor Veterans' 
+Employment and Training Service, or the Office of Special Counsel (OSC) 
+may proceed through those administrative channels. Finally, OPM is 
+foreclosing judicial review of decisions it issues stemming from an 
+appeal under this part.
+
+[[Page 5868]]
+
+    OPM understands the phrase ``sole and exclusive means of 
+appealing'' in proposed Sec.  351.901 to create an outer bound outside 
+which an agency will be precluded from providing for or otherwise 
+authorizing any process not contemplated, in whole or in part, by this 
+rule. Thus, as provided in the rule, these procedures ``supersede any 
+conflicting appeal procedures found in agency policies or collective 
+bargaining agreements.'' This language is intended to preclude appeals 
+filed pursuant to internal agency policies or collective bargaining 
+agreements, whether filed by individual employees or by unions on 
+behalf of their members. The Federal-Service Labor Management Relations 
+Statute (the FSLMRS, enacted as part of the CSRA) provides that ``the 
+duty to bargain in good faith shall, to the extent not inconsistent 
+with any Federal law or any Government-wide rule or regulation, extend 
+to matters which are the subject of any rule or regulation only if the 
+rule or regulation is not a Government-wide rule or regulation.'' 5 
+U.S.C. 7117(a)(1). This would be such a government-wide rule. It is 
+proposed to apply to any agency executing a RIF action. To that end, it 
+would firmly and completely limit the flexibility of agencies to 
+provide processes not contemplated by this rule, including grievance 
+arbitration. See U.S. Dep't of Treasury, I.R.S. v. FLRA, 996 F.2d 1246, 
+1250 (D.C. Cir. 1993) (5 U.S.C. 7117(a)(1) ``permits the government to 
+pull a subject out of the bargaining process by issuing a government-
+wide rule that creates a regime inconsistent with bargaining,'' 
+including where a regulation ``sets out an exclusive method of 
+resolving any claims'').
+    In this rulemaking, OPM is foreclosing grievance arbitration 
+regarding RIFs because it is to the benefit of agencies and employees 
+alike. Agencies benefit from avoiding a protracted process that adds 
+time and expense to conducting a RIF action and undercuts the agency 
+head's ability to manage his or her workforce. In addition, in 
+precluding grievance over RIF appeals, OPM is allowing each employee 
+affected by a RIF to appeal to OPM as part of a streamlined and fair 
+process. Further, both agencies and employees benefit both from 
+finality of process and from availing themselves of competent 
+adjudicators of the dispute in question.
+    While, for the reasons discussed above, agencies stand to benefit 
+from the procedure OPM is proposing in this rule relative to the status 
+quo, agencies also will directly benefit from precluding grievance 
+arbitration. First, grievance arbitration under the FSLMRS is an 
+unnecessarily protracted process, leaving uncertainty lingering over 
+agencies for significant periods of time. Even after a hearing is held, 
+the losing party can appeal to the FLRA, which reports the average age 
+of its arbitration cases in FY2024 to be 307 days.\55\ This is an 
+untenable length of time to require an agency head to wait to finalize 
+a RIF--and for an employee to wait to obtain a resolution to a RIF-
+related grievance. Indeed, commentators have observed that ``the FLRA 
+process seems all too frequently to have become the Russian Roulette of 
+federal sector arbitration. At the time a case is heard, when an award 
+is rendered, or even years later, one or both of the parties often has 
+its finger on the trigger ready to discharge every chamber in order to 
+delay and frustrate the dispute resolution process or to strike down an 
+award.'' \56\
+---------------------------------------------------------------------------
+
+    \55\ U.S. Fed. Lab. Rels. Auth., ``Performance & Accountability 
+Report Fiscal Year 2024,'' (2024) available at https://www.flra.gov/system/files/webfm/FLRA%20Agency-wide/Public%20Affairs/PAR/FLRA%20FY2024%20PAR.pdf.
+    \56\ Dr. Mollie H. Bowers, ``Challenges to Arbitrability in 
+Federal Sector Grievance Cases,'' 5 Hofstra U. Lab. & Emp. L.J. 169, 
+175 (1988).
+---------------------------------------------------------------------------
+
+    Second, concerns exist that grievance arbitrators lack subject 
+matter expertise necessary to properly adjudicate federal sector labor-
+management arbitration. ``Federal sector labor management practitioners 
+have long expressed concerns about arbitrator quality and competence.'' 
+\57\ Neither agencies nor employees should be left with any doubt 
+whatsoever that the grievance arbitrator understands the law he or she 
+is applying. However, too often, that doubt not only persists, but is 
+warranted. Between February 2019 and July 2023, nearly half (40.2 
+percent) of appeals of arbitrator decisions--which may only be appealed 
+on exceedingly narrow grounds, like incorrect facts or an arbitrator 
+exceeding his or her authority--were either overturned or remanded to 
+the arbitrator for further consideration.\58\ ``By far the most common 
+basis for overturning arbitral awards over this period was that the 
+arbitrator's ruling was, in whole or in part, contrary to law, rule or 
+regulation. Almost two-thirds of the overturned awards were voided on 
+that basis. The next most common ground--accounting for almost one-
+quarter of overturned awards--was that the award did not draw its 
+essence from the parties' CBA.'' \59\ In 2018, the Federal Mediation 
+and Conciliation Service's Director of Arbitration identified a 
+``serious concern'' noted by ``parties on both sides at federal 
+agencies,'' namely ``that they are receiving panels where one or more 
+arbitrator appears to lack any meaningful experience in federal sector 
+labor-management issues.'' \60\ It should not be too much to ask (and 
+OPM's proposal ensures) that no party to a RIF appeal would have to 
+``deal with Arbors [arbitrators] who are assigned ad hoc and may be 
+relatively clueless re the fed sector.'' \61\
+---------------------------------------------------------------------------
+
+    \57\ James Sherk & Jacob Sagert, ``Grievance Arbitrators Lack 
+Federal Sector Experience,'' (June 24, 2024), https://www.americafirstpolicy.com/issues/grievance-arbitrators-lack-federal-sector-experience.
+    \58\ James Sherk, ``Federal Union Arbitrators Frequently 
+Misapply the Law,'' (Aug. 2, 2023), https://www.americafirstpolicy.com/issues/expert-insight-federal-union-arbitrators-frequently-misapply-the-law.
+    \59\ Id.
+    \60\ Sherk & Sagert, supra note 57.
+    \61\ Id.
+---------------------------------------------------------------------------
+
+    Third, there are serious concerns that grievance arbitration in the 
+federal sector is itself unconstitutional. Federal-sector arbitrators 
+exercise substantial power, and their decisions are only subject to 
+review by the FLRA under an extraordinarily deferential standard.\62\ 
+At the same time, these arbitrators are private citizens who are not 
+accountable to or appointed by the President or any principal officer. 
+Although no court has directly weighed in on these issues, this 
+framework is in considerable tension with private nondelegation 
+doctrine caselaw on the scope of constitutionally permissible 
+delegations of authority to private parties.\63\ It is not clear that 
+private citizens can issue orders binding the executive branch with 
+minimal review by Federal officers. Transferring adjudication of RIFs 
+from grievance arbitrators to OPM would vitiate these constitutional 
+concerns.
+---------------------------------------------------------------------------
+
+    \62\ See Nat'l Weather Serv. Emps. Org. v. FLRA, 966 F.3d 875, 
+881 (D.C. Cir. 2020) (as ``long as the arbitrator is even arguably 
+construing or applying the contract and acting within the scope of 
+his authority, the Authority may not reverse the arbitrator's award 
+even if it is convinced he committed serious error'').
+    \63\ See, e.g., Alpine Securities Corp. v. Financial Industry 
+Regulatory Authority, 121 F.4th 1314, 1325 (D.C. Cir. 2024) (``For a 
+delegation of governmental authority to a private entity to be 
+constitutional, the private entity must act only as an aid to an 
+accountable government agency that retains the ultimate authority to 
+approve, disapprove, or modify the private entity's actions and 
+decisions'') (cleaned up). See also Federal Communications 
+Commission v. Consumers' Research, 145 S. Ct. 2428, 2508 (2025) 
+(delegations of authority to private parties are permissible only 
+``[a]s long as an agency [ ] retains decision-making power'').
+---------------------------------------------------------------------------
+
+    In place of the protracted, fragmented process of grievance 
+arbitration regarding RIFs, including unaccountable grievance 
+arbitrators who often lack appropriate federal-sector experience, OPM 
+proposes a streamlined, one-stop process, overseen by a principal 
+officer (the OPM Director) directly accountable to the President. OPM 
+expects that
+
+[[Page 5869]]
+
+similar efficiencies can be gained by allowing for the RIF appeal 
+process in this part to supersede any overlapping agency appeal 
+processes, whether or not they were negotiated as part of the 
+collective bargaining process.
+    This proposed section leaves the full array of CSRA statutory 
+remedies for ancillary issues available to an employee subject to a 
+RIF. For example, this proposal allows for an employee who believes he 
+or she has been unfairly targeted for political purposes to file a 
+complaint to that effect with the OSC. As noted above, the CSRA 
+provides for these pathways in statute, and this proposal does nothing 
+to restrict or redirect these claims.
+    Proposed Sec.  351.902 describes the procedures and timeline an 
+employee must adhere to when submitting an appeal.\64\ It provides that 
+all appeals must be filed using an e-filing system and that, unless the 
+party demonstrates good cause and seeks approval from OPM, OPM will not 
+accept documents via postal mail or electronic mail. Either the 
+employee or the employee's authorized representative may file the 
+appeal. OPM anticipates that it would have an e-filing system in place 
+prior to the effective date of a final rule. It also implements a 
+timetable an employee must abide by to ensure the appeal will not be 
+deemed untimely and dismissed (subject to the employee demonstrating 
+good cause for an untimely appeal, as determined by OPM, in which case 
+the timetable may be waived). The timetable requires the employee to 
+submit a RIF appeal to OPM prior to 11:59 p.m. Eastern Time on the 30th 
+calendar day after the effective date of the action. However, if the 
+30th day falls on a Saturday, Sunday, or Federal holiday, the filing 
+period would be extended to include the first weekday after that date. 
+It also proposes to provide e-filing procedures necessary to file 
+appeals.
+---------------------------------------------------------------------------
+
+    \64\ This proposed rule contemplates retaining the rights 
+currently codified at 5 CFR 351.902 elsewhere in the subpart.
+---------------------------------------------------------------------------
+
+    Proposed Sec.  351.903 describes the content of a RIF appeal, the 
+employing agency's response to that appeal, and an employee's reply if 
+warranted, grants the employee or the employee's representative, by 
+request, the ability to inspect OPM's appellate records, and requires 
+the appellant and agency to serve all information submitted to OPM on 
+one another, at the same time as such documents are submitted to OPM.
+    Proposed Sec.  351.904 describes who an employee may select to be 
+his or her representative and the circumstances under which the agency 
+may disallow the representative to represent the employee. This section 
+proposes to permit the employee to select any person with whom the 
+employee has a written agreement for the representative to act as such 
+related to the specific appeal being filed. If the employee is 
+incapacitated, this section proposes to permit the designated 
+individual exercising the durable power of attorney on the employee's 
+behalf or, in the alternative, the employee's surrogate decisionmaker, 
+to act as a stand-in for the employee. However, this section proposes 
+an agency be authorized to, at the agency's discretion, reject any 
+representative who is an employee of the agency when his or her actions 
+as such would present a conflict of interest, the representative cannot 
+be released from official duties because he or she is serving a 
+priority need of the Government, or the representative is an employee 
+whose release would result in unreasonable costs to the Government. 
+This section also proposes that, if the representative is an agency 
+employee, he or she may not perform representational functions while in 
+a duty status and is not able to claim agency reimbursement for any 
+expenses incurred while performing representational functions.
+    Proposed Sec.  351.905 describes the procedures by which 
+adjudication of appeals is to take place, including how to address 
+conflicts of interest, appeals by OPM employees, investigative 
+authorities, a requirement for OPM to notify interested parties of the 
+decision, and relevant remedies, if any. The section proposes for OPM 
+personnel to adjudicate appeals by employees of other agencies, 
+provided such personnel have not served in a position impacted by a RIF 
+action or served as a representative for an employee subject to a RIF 
+action in the two years prior to the date on which the appeal was 
+filed. The section further proposes to permit OPM to appoint an 
+administrative law judge (ALJ) to preside over the appeal. It does not 
+require OPM to appoint an ALJ for non-OPM employees. In contrast, to 
+insulate OPM employees' appeals from agency involvement, this section 
+proposes to assign an ALJ to adjudicate such appeals and restricts OPM 
+from disturbing the ALJ's initial decision except if there has been a 
+harmful procedural irregularity in the proceedings before the ALJ or if 
+the ALJ makes a clear error of law. Under this construction the OPM 
+Director would be proactively exercising restraint in permitting 
+decisions pertaining to OPM employees to lie undisturbed, not 
+delegating his authority to the ALJ. In essence, the OPM Director is 
+regulatorily tying his own hands but can nevertheless choose to 
+regulatorily untie them. This leaves the ALJ as a properly supervised 
+inferior officer, not a principal officer. See United States v. 
+Arthrex, Inc., 594 U.S. 1, 6 (2021) (holding that the Appointments 
+Clause provides that inferior officers may exercise executive power 
+provided they are directed and supervised by a principal officer.).
+    For ``harmful procedural irregularity,'' the appealing party must 
+prove the irregularity in the application of procedures was likely to 
+have caused the ALJ to reach a conclusion different from the one it 
+would have reached in the absence or cure of the irregularity. The 
+section also proposes to empower OPM to investigate or audit the RIF 
+action to ascertain facts, which will be based on the developed written 
+record or, in the sole discretion of OPM, a hearing if it deems such a 
+hearing necessary and efficient. OPM defines ``necessary and 
+efficient'' to mean circumstances in which the written record is 
+insufficiently developed to make a determination regarding one or more 
+facts material to the outcome of the appeal, or where there is a 
+disputed issue of witness credibility that is material to the outcome 
+of the appeal. In cases in which an audit or investigation is 
+conducted, the section proposes to require OPM to inform the parties 
+and provide each with a reasonable opportunity to supplement their 
+positions with additional arguments or information. This section would 
+further require OPM to notify the parties in writing of its decision on 
+the appeal. This section proposes to provide remedies to the employee 
+in an instance in which he or she is the prevailing party. In such 
+cases, the section proposes that OPM will issue an order directing 
+correction of the personnel action and providing the employee with any 
+back pay, as well as reasonable attorney's fees and interest consistent 
+with subpart H of part 550 of title 5 of the Code of Federal 
+Regulations. Employees are further proposed to be precluded from 
+compensatory damages or other relief not authorized under 5 U.S.C. 
+5596(b). Finally, the section proposes that, if the agency requests a 
+reconsideration of an initial decision, or OPM reopens the case, the 
+ordered relief must be adhered to until OPM issues a second order, in 
+which case the parties must adhere to the second order.
+    Proposed Sec.  351.906 describes the authority of OPM to prevent 
+harassing communications by the parties via a cease-and-desist 
+directive, and the penalties for failing to follow a directive from 
+OPM. Specifically, the proposed
+
+[[Page 5870]]
+
+language would authorize OPM to direct any party to cease-and-desist 
+communications, or communications which could reasonably be foreseen to 
+lead to harassment, with or about any individual. This authority is 
+proposed to be exercised sua sponte or at the request of a party. The 
+section further proposes to impose several penalties upon a party 
+failing to comply with such a directive, including drawing all 
+inferences against the noncompliant party, prohibiting the noncompliant 
+party from introducing evidence, or eliminating consideration of any 
+filings or submissions of the noncompliant party.
+    MSPB procedures, while providing for protective orders, are 
+inadequate to protect federal employees from threats and harassment. 
+While MSPB permits a party to petition the board for a protective 
+order, it cannot, sua sponte, bind a party to a protective order 
+without a motion. Instead, MSPB relies primarily on mutual consent of 
+the parties, which allows for significant abuse by bad actors. The 
+failure to preemptively issue an order provides ample opportunity to 
+those who would channel unwarranted attention, harassing messages, and 
+threats to federal employees, who neither sought nor deserve public 
+attention, merely for fulfilling their responsibilities. This failure 
+should be corrected to protect rank and file federal employees seeking 
+to serve the public interest. However, unfortunately, to date, MSPB has 
+proven itself unwilling to take necessary steps to protect federal 
+employees, who deserve to be fully protected from undue scrutiny. As 
+such, OPM believes it would be prudent and provide much needed 
+protection for federal employees to adjudicate these appeals by issuing 
+cease-and-desist directives, with strict consequences for failure to 
+comply.
+    Proposed Sec.  351.907 describes the authority and basis for OPM to 
+reconsider its decision. The section proposes to authorize OPM in its 
+sole discretion for only delineated grounds, and only upon request of a 
+party to the dispute to reopen and reconsider an initial decision 
+issued under proposed Sec.  351.905. This authority is proposed to be 
+time-limited to within 30 calendar days from issuance of the initial 
+decision. This section proposes to require any request for 
+reconsideration of an initial decision to be filed using the same e-
+filing system employees or their representatives are to use to file 
+their initial appeals. The section proposes to delineate the grounds 
+for reconsideration to be: (1) an erroneous finding of fact material to 
+the outcome of the decision; (2) an erroneous interpretation of statute 
+or regulation, or application of the facts of the case to such law; (3) 
+new and material evidence (which is proposed to constitute new 
+information contained in documents, not just new documents, which was 
+unavailable despite due diligence) or legal argument has become 
+available that, despite the petitioner's due diligence, was not 
+available when the record closed; or (4) OPM finds good cause to 
+reconsider an appeal. The section further proposes that, in an instance 
+in which there is an allegation of erroneous interpretation of statute 
+or regulation, or application of case facts to the law, the petitioner 
+must further explain how the error affected the case outcome. The 
+section further proposes that, in any case that OPM reopens for review, 
+OPM is authorized to issue a decision, require the parties to submit 
+argument and evidence, or take any other action necessary for final 
+disposition. The section proposes to empower OPM to affirm, reverse, 
+modify, or vacate the initial decision in whole or in part, as well as 
+issue a reconsidered decision, and where appropriate, order a date for 
+compliance. It also precludes any further right of administrative 
+appeal.
+    In proposed Sec.  351.908, OPM reserves the Director's right, at 
+his or her discretion and sua sponte, to reopen and reconsider any 
+decision OPM has issued provided the decision has not yet become final. 
+OPM views this process as necessary to ensure that the Director is able 
+to sufficiently supervise adjudicators and avoid any serious 
+constitutional concerns from having subordinate officials wield 
+executive authority. Under Article II, the Constitution vests the 
+executive power in the President who must rely upon subordinates to 
+exercise his authority. Adjudicators assigned to adjudicate appeals 
+under this proposed rule exert significant authority that must be 
+properly supervised to avoid a constitutional problem. Seila Law v. 
+Consumer Finance Protection Bureau, 140 S. Ct. 2183 (2020). OPM 
+believes the Director should have the final decision-making authority 
+for OPM to avoid legal challenges to the constitutionality of this 
+regulation.\65\
+---------------------------------------------------------------------------
+
+    \65\ See Lucia v. Sec. & Exch. Comm'n, 585 U.S. 237 (2018) 
+(holding administrative law judges to whom the SEC could delegate 
+responsibility to preside over enforcement proceedings are Officers 
+of the United States) and Freytag v. Comm'r, 501 U.S. 868 (1991).
+---------------------------------------------------------------------------
+
+    Proposed Sec.  351.909 describes the process by which OPM's initial 
+decision becomes its final decision. The section proposes that initial 
+decisions become final when neither party requests reconsideration 
+within 30 calendar days and the Director does not reopen a matter. It 
+further proposes to convert a reconsidered decision into a final 
+decision 30 calendar days following its issuance if the Director does 
+not intercede but, in such cases, backdates the date on which the final 
+decision becomes effective to the date on which the reconsidered 
+decision is issued. In instances in which the Director does intercede, 
+this section proposes to define a final decision as effective as of the 
+date on which the Director issues his or her decision.\66\ Further, the 
+section proposes to limit further rights to appeal following a final 
+OPM decision, including judicial review. Finally, the section mandates 
+OPM maintain a public website containing some final decisions 
+adjudicated on the merits, and that any concerned party be permitted to 
+access, upon request, any decision, whether on the public website or 
+not.
+---------------------------------------------------------------------------
+
+    \66\ This regulation is modeled after those of the Commission, 
+published in 1949. U.S. Senate Committee on Post Office and Civil 
+Service, supra note 23, at p. 68.
+---------------------------------------------------------------------------
+
+    As stated above, OPM is proposing to limit judicial review of 
+decisions issued under this subpart to adhere to the CSRA's specific 
+and well-defined statutory scheme for judicial review and prevent 
+unnecessarily protracted litigation regarding RIFs. OPM recognizes the 
+status quo that RIF appeals are appealable to the MSPB and then, in 
+turn, to the Federal Circuit. 5 U.S.C. 7701, 7703(b). However, this 
+pathway currently exists because of an OPM regulation, not because the 
+CSRA itself specifically requires it. The detailed discussion above 
+regarding the structure of the CSRA supports both the legal and 
+prudential bases for limiting judicial review in accordance with the 
+comprehensive statutory scheme. OPM believes that there is little added 
+value from the review that an Article III court could provide relative 
+to OPM's adjudicatory venue.
+    OPM's appeal process provides robust assurance for an employee that 
+all laws and rules applicable to RIFs are followed and that employees 
+will not be adversely impacted by errors. OPM will have all tools 
+necessary to make an employee whole who is subject to an unlawful or 
+improperly executed RIF. OPM is proposing conforming changes to Sec.  
+351.802(a)(6) pertaining to the content of RIF notices to employees. 
+The current subsection describes a right to appeal to MSPB. Proposed 
+Sec.  351.802(a)(6) will replace references to the MSPB with OPM, 
+except for employees with a statutory right of
+
+[[Page 5871]]
+
+appeal to MSPB under 38 U.S.C. chapter 43. OPM is making this change to 
+conform with changes to appeal rights as proposed in Sec.  351.901.
+    Proposed Sec.  351.807(e) removes the reference to the MSPB to 
+conform with changes to appeal rights as proposed in Sec.  351.901.
+
+III. Regulatory Analysis
+
+A. Statement of Need
+
+    The proposed rule seeks to modernize the current RIF appeals 
+process. The current process has become cumbersome and less efficient 
+than it needs to be. The proposed changes are needed to streamline this 
+process to improve both the efficiency and consistency of this process. 
+OPM believes this change can be achieved by leveraging its accumulated 
+knowledge and expertise through its unique role as developer, 
+administrator, and end-user of RIF provisions.\67\ This perspective and 
+insight are essential to streamlining the appeals process and the 
+Government's ability to achieve consistent outcomes in the RIF appeals 
+process.
+---------------------------------------------------------------------------
+
+    \67\ OPM emphasizes the independence of its adjudicative 
+function from its policymaking function. It further notes that both 
+the independent policymaking function and adjudicative function are 
+under the supervision of the Director of OPM. As head of the agency, 
+he is uniquely positioned to understand the intent and substance of 
+the RIF process rules, which he can leverage to ensure they are 
+properly effectuated. MSPB personnel lack such a perspective.
+---------------------------------------------------------------------------
+
+B. Regulatory Alternatives
+
+    An alternative to this rulemaking is to revoke the ability for a 
+federal employee to appeal a RIF action entirely. Congress provided 
+discretion to OPM pursuant to 5 U.S.C. 3502(d)(2)(E) when directing it 
+to provide a notice which includes ``a description of any appeal or 
+other rights which may [emphasis added] be available.'' However, were 
+OPM to choose this alternative, employees subject to RIFs would not be 
+able to seek relief for a RIF conducted not in accordance with 
+applicable statutes and regulations. Employees have enjoyed the ability 
+to appeal a RIF action to the Executive Branch for nearly a century, 
+and OPM believes it is unwise to reverse this long-standing precedent.
+    Another alternative is to delegate the authority to review RIF 
+appeals to each agency itself. This solution is similarly imprudent 
+given the conflicts of interest that may arise, which are addressed 
+elsewhere in this rule. Further, the same shortcomings that exist by 
+placing the RIF appeal process at MSPB, including contravening the best 
+reading of the authorizing statute, efficiency losses from lack of 
+expertise, among others, would not just remain, but would be 
+exacerbated.
+    A third alternative is to propose a rule that would re-house the 
+RIF appeal rights at OPM while mirroring the appeal rights and 
+procedures currently in place at MSPB. However, MSPB procedures add 
+needless, quasi-judicial complexity to a process fundamentally designed 
+to ensure federal agencies are properly evaluating whether an agency's 
+reorganization adhered to congressional directive and agency internal 
+policy. Appellants to MSPB receive a full hearing when the matter is 
+within MSPB's jurisdiction. See 5 U.S.C. 7701(a). This includes a full 
+discovery process causing needless delay and transactional cost 
+increases resulting from protracted adjudication and potential 
+litigation. The MSPB procedures, even housed at OPM, are also 
+unnecessary given the limited grounds for appeal. As the central 
+personnel agency for the federal government tasked with regularly 
+monitoring and enforcing the civil service rules and regulations, OPM 
+can leverage its considerable expertise to adjudicate RIF appeals 
+efficiently in accordance with Merit System Principles without having 
+to rely on the costly, burdensome, and time-consuming processes MSPB 
+employs for its adjudications.
+    A further alternative would be to seek to change the procedures 
+applicable to MSPB RIF appeals to more closely align with the proposed 
+process in this rule. However, that avenue is closed to OPM. Under AFGE 
+v. OPM., OPM cannot issue any ``regulation that purports to instruct 
+the MSPB how to conduct personnel appeals.'' 821 F.2d 761, 768 (D.C. 
+Cir. 1987). Instead, ``if OPM chooses to use the MSPB for dispute 
+resolutions, it must take that statutory device as it finds it.'' Id. 
+at 769.
+
+C. Impact
+
+    OPM expects the impact of these rules will be a more streamlined 
+and consistent RIF appeals process. The proposed RIF appeals process is 
+similar to the classification appeals process currently administered by 
+OPM whereby determinations are made on information provided by an 
+agency and appellant in writing, except in circumstances in which OPM 
+determines it necessary to conduct an investigation or audit. OPM can 
+leverage its experience with classification appeals, and its expertise 
+in developing and administering RIF rules over the decades, into an 
+economy of scale with respect to RIF appeals. OPM has a unique 
+perspective with respect to RIF actions; OPM has a decades-long history 
+of developing and administering RIF rules which includes providing 
+hands-on technical policy advice and assistance to agencies as well as 
+operational RIF support on a reimbursable basis. And, as an employing 
+agency, OPM has applied these rules to its own workforce in several 
+RIFs over the years. OPM has the advantage of being both the 
+practitioner and the policy expert and believes it is in the best 
+position to adjudicate appeals for federal agencies. OPM believes 
+transferring the appeals function from MSPB to OPM and confining OPM 
+reviews of agency actions to the written record promotes 
+standardization and consistency in outcomes--both of which promote the 
+efficiency of government operations, including by leading to fewer 
+challenges and reconsiderations.
+
+D. Costs
+
+    This proposed rule, once finalized and in effect, would affect how 
+a federal employee may pursue an appeal asserting an improperly 
+executed RIF resulting in his or her termination. This proposal grants 
+authority of these appeals to OPM. The proposed rule also removes 
+authority from MSPB to adjudicate complaints asserting erroneous 
+findings of fact, erroneous interpretation of statute or regulation to 
+the facts of the case, the existence of new material or legal arguments 
+not available when the record closed, or other good cause to consider 
+an appeal.
+    The return of adjudicative responsibility to OPM will likely result 
+in net cost savings to the government. The proposed rule streamlines 
+the adjudicative process by replacing discovery with an as-needed 
+investigation or audit conducted by OPM. The parties will no longer 
+have the right or ability to conduct discovery, an often contextually 
+needless process given the formulaic nature of a RIF that can result in 
+protracted costs (including time spent on document production, 
+depositions, and written discovery, each of which involve extensive 
+costs in time and resources for the government) creating extensive and 
+costly delays in the adjudicative process.\68\ It also eliminates an 
+employee's right to a hearing in favor of decisions based on the 
+written record unless OPM determines that a hearing is both necessary 
+and will result in an efficient
+
+[[Page 5872]]
+
+adjudication. The rule also locates the adjudicative function at OPM, 
+resulting in a significant cost savings based on a reduction in 
+personnel salaries as detailed below.\69\
+---------------------------------------------------------------------------
+
+    \68\ OPM recognizes MSPB regulations provide for time 
+constraints on discovery. 5 CFR 1201.73. However, these regulations 
+also provide for an unlimited extension at the direction of the 
+judge, which can extend the discovery timeline far beyond the 
+regulatory timeline.
+    \69\ OPM used the most recently available data in the FedScope 
+employment database, updated May 2024, to estimate grade levels of 
+MSPB personnel assigned to adjudicate appeals covered by this 
+proposed rule. The data is available at https://fedscope.opm.gov/.
+---------------------------------------------------------------------------
+
+    OPM estimates that this rulemaking will require individuals 
+employed by more than 80 federal agencies, including MSPB and EEOC, to 
+modify their regulations, policies, and procedures to implement this 
+rulemaking and train human resources (HR) practitioners, hiring 
+managers, attorneys, and administrative judges. For the purposes of 
+this proposal, OPM assumes the average salary rate of federal employees 
+performing this work will be the rate in 2025 for GS-14, step 5, from 
+the Washington, DC, locality pay table ($161,486 annual locality rate 
+and $77.38 hourly locality rate). We assume that the total dollar value 
+of labor, which includes wages, benefits, and overhead, is equal to 200 
+percent of the wage rate, resulting in an assumed labor cost of $154.76 
+per hour.
+    To comply with the regulatory changes, affected agencies would need 
+to review the final rule and update their regulations, policies, and 
+procedures. OPM estimates that, in the first year following publication 
+of the final rule, doing so will require an average of 100 hours of 
+work by employees with an average hourly cost of $154.76. This work 
+would result in estimated costs in that first year of implementation of 
+about $15,476 per agency, and about $1.2 million governmentwide.
+Recurring Costs and Savings
+    OPM estimates that, in general and on an annual basis, 
+approximately 292 employees will file appeals pursuant to a RIF. This 
+figure is derived from averaging all RIF appeals (8,770) from 1995 to 
+the present.\70\ While OPM acknowledges the significant number of RIF 
+appeals filed in recent months,\71\ OPM views this as anomalous and not 
+indicative of a broader trend.
+---------------------------------------------------------------------------
+
+    \70\ OPM has opted to include all RIF appeals from 1995 to the 
+present, inclusive of the comparatively increased number occurring 
+during the Clinton Administration relative to the George W. Bush, 
+Obama, and first Trump administrations. OPM has chosen to include 
+this information in its analysis in the interest of transparency in 
+light of this being the oldest data available in its FedScope 
+database. OPM is, however, excluding the anomalously large number of 
+RIFs from 2025. OPM believes including the Clinton RIFs while 
+excluding the 2025 RIFs is the best path forward because while OPM 
+is not aware of any decision to initiate future large-scale RIFs, 
+excluding the potentiality that such an occurrence may happen would 
+potentially render this estimate inaccurately low. By including the 
+Clinton Administration data, however, OPM seeks to protect against a 
+potential under-estimate of the necessary overall cost to the 
+government of RIF appeals on an annualized basis. Similarly, 
+excluding the 2025 RIFs protects against an over-estimate of the 
+overall cost.
+    \71\ U.S. Merit Sys. Prot. Bd., ``Annual Performance Plan for FY 
+2025-2026'' (May 30, 2025), https://www.mspb.gov/about/annual_reports/MSPB_APP_for_FY_2025_2026.pdf.
+---------------------------------------------------------------------------
+
+    This analysis compares the cost of an adjudication at MPSB relative 
+to OPM. OPM believes MSPB employs administrative judges at the GS-14 
+and GS-15 grade levels to adjudicate appeals. OPM further assumes that 
+each RIF appeal requires one administrative judge paid at the rate in 
+2025 for GS-14, step 5, from the Washington, DC, locality pay table 
+($161,486 annual locality rate and $77.38 hourly locality rate) and one 
+paralegal at the GS-11, step 5, from the Washington, DC locality pay 
+table ($95,878 annual locality rate and $45.94 hourly locality rate). 
+OPM assumes that the total dollar value of labor, including wages, 
+benefits, and overhead, is equal to 200 percent of the wage rate, 
+resulting in an assumed labor cost of $154.76, $91.88, and $216.30 per 
+hour for these respective positions. OPM estimates each initial appeal 
+currently takes MSPB personnel 40 and four hours for an administrative 
+judge and paralegal to adjudicate an initial appeal, respectively. 
+Based on these assumptions, OPM estimates the cost to MSPB of 
+adjudicating an initial appeal to be $6,557.92 per case, or $1.9 
+million per year for 292 appeals.
+    OPM anticipates handling initial procedural RIF appeals will 
+require one paralegal at the rate in 2025 of GS-11, step 5, from the 
+Washington, DC locality pay table ($95,878 annual locality rate and 
+$45.94 hourly locality rate) and one staff assistant at the rate in 
+2025 of GS-7, Step 5, from the Washington, DC locality pay table 
+($64,788 annual rate and $31.04 hourly locality rate) and one staff 
+assistant at the rate in 2025 of GS-7, step 5, from the Washington, DC 
+locality pay table ($64,788 annual locality rate and $31.04 hourly 
+locality rate) to handle procedural dismissals, including but not 
+limited to failure to file timely or for lack of jurisdiction. Assuming 
+a 200% value of labor, including wages, benefits, and overhead, the 
+assumed hourly labor cost for these positions are $91.88 and $62.30 
+respectively. OPM further anticipates that, predicated on historical 
+precedents for volume of RIF appeals and the necessary resources used 
+for similarly situated appellate procedures, both the paralegal and the 
+staff assistant will have additional responsibilities as part of their 
+duties. OPM estimates each initial appeal will require 20 hours for the 
+paralegal and 4 hours from the staff assistant to adjudicate initial 
+appeals. This results in a per-appeal cost of about $2,085, and an 
+annual cost of approximately $135,025 for 219 appeals.
+    OPM anticipates that adjudicators will handle 73 initial appeals 
+that are timely and germane. OPM further anticipates handling initial 
+non-procedural RIF appeals will require an adjudicator at the rate in 
+2025 of GS-13, step 5, from the Washington, DC locality pay table 
+($136,486 annual locality rate and $65.48 hourly locality rate) and one 
+paralegal at the rate in 2025 of GS-11, Step 5, from the Washington, DC 
+locality pay table ($64,788 annual rate and $31.15 hourly locality 
+rate). Assuming a 200% value of labor, including wages, benefits, and 
+overhead, the assumed hourly labor cost for these positions are $130.96 
+and $91.88 respectively. OPM estimates that each appeal will require 20 
+hours from the adjudicator and one hour from the paralegal, resulting 
+in a roughly $2,700 per case cost, or nearly $200,000 for 73 appeals.
+    With respect to petitions for reconsideration, OPM estimates that 
+MSPB would hear 155 requests (53 percent) for reconsideration of an 
+initial appeal. This is based on data from the MSPB's three most recent 
+annual reports for which there is data, which indicate that employees 
+petitioned for review of initial MSPB decisions in 53 percent of RIF 
+decisions.\72\ With respect to the cost to adjudicate petitions for 
+review from initial appeals, we estimate that each petition requires 4 
+hours each for the Chairman and two Members of the MSPB respectively, 
+paid at a rate of Executive Schedule Level IV of $195,200 ($93.53 
+hourly rate); and 16 hours for one attorney paid at the GS-15, step 5, 
+from the Washington, DC, locality pay table ($189,950 annual locality 
+rate and $91.02 hourly locality rate). We assume that the total dollar 
+value of labor, which includes wages, benefits, and overhead, is equal 
+to 200 percent of the wage rate, resulting in an assumed labor cost of 
+$187.06, $187.06, and $182.04 for these respective positions, or about 
+$683,413 per year for 155 petitions for review.
+---------------------------------------------------------------------------
+
+    \72\ MSPB's Annual Reports for FY 2020 through FY 2024 can be 
+found on MSPB's website at https://www.mspb.gov/about/annualreport_archive.htm.
+---------------------------------------------------------------------------
+
+    Given the expertise present in MSAC and the limited grounds under 
+which OPM proposes to be able to grant a request to reopen and 
+reconsider an initial appeal, OPM anticipates 5 percent of the 292 
+employees who make an initial appeal, or 15 employees, will
+
+[[Page 5873]]
+
+request to reopen and reconsider an initial appeal. OPM anticipates 
+that each reconsideration will require one adjudicator at the rate in 
+2025 of GS-14, step 5, from the Washington, DC locality pay table 
+($161,486 annual locality rate and $77.38 hourly locality rate) and one 
+paralegal at the rate in 2025 for GS-11, step 5, from the Washington, 
+DC locality pay table ($95,878 annual locality rate and $45.94 hourly 
+locality rate) to manage these appeals. Assuming a 200% value of labor, 
+including wages, benefits, and overhead, the assumed labor cost for 
+these positions are $154.76 and $91.88 per hour, respectively. OPM 
+estimates that each adjudication of a request to reopen and reconsider 
+an initial appeal requires 16 hours and one hour of the adjudicator's 
+and paralegal's time, respectively. This results in a per-case cost of 
+roughly $2,568 or about $38,520.60 per year for 15 requests to reopen 
+and reconsider initial appeals.
+    There is also a cost-benefit to agencies of litigating appeals and 
+reconsiderations at OPM rather than MSPB. Under the status quo, OPM 
+estimates that agencies' litigation is handled by an agency attorney at 
+the rate in 2025 of GS-14, step 5, from the Washington, DC locality pay 
+table ($161,486 annual locality rate and $77.38 hourly locality rate), 
+one paralegal at the rate in 2025 of GS-11, step 5, from the 
+Washington, DC locality pay table ($95,878 annual locality rate and 
+$45.94 hourly locality rate), one supervisory attorney at the rate in 
+2025 of GS-15, step 5, from the Washington, DC locality pay table 
+($189,950 annual locality rate and $91.02 hourly locality rate). 
+Assuming a 200% value of labor, including wages, benefits, and 
+overhead, the assumed hourly rate for these positions are $154.76, 
+$91.88, and $182.04 respectively. OPM estimates that each appeal will 
+require 80 hours from the agency attorney, four hours from the 
+paralegal, and 8 hours from the supervisory attorney, resulting in a 
+per-case cost of $14,204.64, or $4,147,754.88 cost to agencies to 
+litigate initial appeals. OPM further estimates that an agency attorney 
+compensated at the same GS-14, step 5, Washington, DC locality pay 
+table will handle petitions for reconsideration, with each petition 
+requiring 24 hours of the attorney's time, or $3,714.24 per case. In 
+total, OPM estimates the cost of the petition for reconsideration to be 
+$575,707.20, for a total cost to agencies of litigating at MSPB to be 
+$4,723,462.08.
+    OPM estimates the cost to agencies of litigation at OPM relative to 
+MSPB would dramatically decrease. OPM estimates that agencies' 
+litigation would be handled by an agency attorney at the rate in 2025 
+of GS-14, step 5, from the Washington, DC locality pay table ($161,486 
+annual locality rate and $77.38 hourly locality rate), one paralegal at 
+the rate in 2025 of GS-11, step 5, from the Washington, DC locality pay 
+table ($95,878 annual locality rate and $45.94 hourly locality rate), 
+one supervisory attorney at the rate in 2025 of GS-15, step 5, from the 
+Washington, DC locality pay table ($189,950 annual locality rate and 
+$91.02 hourly locality rate). Assuming a 200% value of labor, including 
+wages, benefits, and overhead, the assumed hourly rate for these 
+positions are $154.76, $91.88, and $182.04 respectively. As noted 
+above, OPM estimates that the efficiencies gained by this rule will 
+result in 128 appeals reaching the litigation stage in which agencies 
+would have to devote more than a negligible amount of resources. As a 
+result, OPM estimates that the cost to litigate initial appeals at OPM 
+to be $1,025,822.72. OPM further estimates that an agency attorney 
+compensated at the same GS-14, step 5, Washington, DC locality pay 
+table will handle petitions for reconsideration, with each petition 
+requiring 24 hours of the attorney's time, or $3,714.24 per case. For 
+the reasons stated above, OPM estimates only 15 complaints will need to 
+be reopened and reconsidered. Therefore, in total, OPM estimates the 
+cost of the petition for reconsideration to be $575,707.20, for a total 
+cost to agencies of litigating at OPM to be $1,081,536.32, or 
+$3,641,925.76 less costly per year.
+    OPM notes that federal employees subject to a RIF action may file 
+an Equal Employment Opportunity (EEO) complaint. OPM believes that 
+terminations on EEO grounds are, as a general matter, rare, and that 
+employees would have substantial added difficulty claiming a RIF action 
+to be pretextual due to the purpose of, and nature by which, a RIF is 
+conducted. Further, OPM notes that in Fiscal Year 2021 (FY21), the most 
+recent year for which there is publicly available data, more than half 
+of federal employees who engaged in counseling sessions related to 
+potential EEO violations ultimately resolved their concerns by 
+withdrawing from the complaint process.\73\ This leads OPM to the 
+conclusion that exceedingly few employees will file an EEO complaint 
+related to a RIF action. Therefore, OPM estimates 1 percent of 
+employees who would otherwise file a RIF appeal would instead file an 
+EEO complaint, resulting in 3 complaints annually. OPM estimates that 
+each EEO complaint will require 125 hours by attorney at the rate in 
+2025 of GS-14, step 5, from the Washington, DC locality pay table 
+($161,486 annual locality rate and $77.38 hourly locality rate) to 
+manage each complaint. Assuming a 200% value of labor, including wages, 
+benefits, and overhead, the labor cost for this position is $154.76 per 
+hour. Factoring in $5,000 worth of miscellaneous litigation costs 
+associated with each appeal, OPM estimates it will cost roughly $88,000 
+for EEOC to manage RIF complaints resulting from this rulemaking.
+---------------------------------------------------------------------------
+
+    \73\ U.S. Equal Employment Opportunity Comm. ``Annual Report on 
+the Federal Workforce Part I: EEO Complaint Processing Activity 
+Fiscal Year 2021'' (Dec. 2024), https://www.eeoc.gov/sites/default/files/2024-11/FY%202021%20Annual%20Report%20Workforce%20Part%20I_final_508.pdf.
+---------------------------------------------------------------------------
+
+    In sum, OPM predicts considerable savings to the American taxpayer 
+resulting from returning the venue to hear appeals of RIF actions from 
+MSPB to OPM. OPM estimates that it will cost the taxpayer more than 
+$7.3 million, inclusive of agency litigation costs, to adjudicate 
+initial appeals and petitions for review on an annual basis absent this 
+rulemaking. Conversely, OPM estimates it would cost just more than $1.1 
+million to taxpayers for OPM to adjudicate initial appeals and requests 
+to reopen and reconsider an initial decision. This proposal would 
+result in over $6.1 million in annual savings to the government.
+
+E. Benefits
+
+    In addition to the direct cost savings this proposed rule would 
+generate, OPM expects that the faster adjudication of appeals will 
+result in additional benefits. First, receiving a timely decision on an 
+appeal will provide the individual with a clear determination and 
+provide much-needed certainty, quickly. Agencies will similarly benefit 
+as the streamlined appeal procedures proposed in this rule remove the 
+default requirement for a hearing before a MSPB AJ. This will reduce 
+the costly and protracted legal discovery process between an appellant 
+and agency. Moreover, a timely decision on an appeal will help the 
+Government to limit backpay and attorney's fees should an individual be 
+improperly terminated as part of a RIF.
+    OPM also expects these rules will result in a more efficient RIF 
+appeals process. The proposed RIF appeals process is similar to the 
+classification appeals process currently used by OPM. OPM believes 
+transferring the appeals function from MSPB to OPM and confining OPM 
+reviews of agency actions to the written record, except in rare 
+circumstances where OPM determines additional information is
+
+[[Page 5874]]
+
+needed, promotes standardization and consistency in outcomes--both of 
+which promote the efficiency of government operations because this 
+proposed process should lead to fewer challenges and reconsiderations.
+    In addition, OPM expects greater consistency with respect to the 
+outcomes of employees' appeals. This expectation is due to OPM's unique 
+position as the agency authorized by Congress to promulgate these 
+rules, OPM's decades-long administration of RIF rules on a 
+governmentwide basis, and OPM's own experiences as an employing agency 
+that has applied RIF rules numerous times over the decades in its own 
+downsizing actions. OPM believes this inherent familiarity and history 
+with the RIF rules and RIF process will lead to more efficiency and 
+consistency in adjudicating appeals across the government for agencies 
+and federal employees.
+
+F. Reliance Interests
+
+    OPM understands that the current regulations governing 
+administrative appeals of RIFs have been in place for many decades. It 
+plans to accommodate any reliance interests by providing, in the 
+``Effective Date'' section of the Final Rule, that the new procedures 
+will not be applied retroactively to appeals that were filed with the 
+MSPB before the effective date of the new regulation. While OPM does 
+not believe that any reliance interests are implicated by the new 
+appeals system beyond the fact that some unresolved appeals remain 
+pending with the MSPB, it invites comments regarding any reliance 
+interests that may have been engendered by the current RIF appeal 
+regulations.
+
+IV. Procedural Issues and Regulatory Review
+
+A. Regulatory Review
+
+    The Office of Information and Regulatory Affairs in the Office of 
+Management and Budget has designated this as a significant regulatory 
+action under E.O. 12866 section 3(f). Accordingly, OPM has examined the 
+impact of this rule as required by Executive Orders 12866 and 13563, 
+which direct agencies to assess all costs and benefits of available 
+regulatory alternatives and, if regulation is necessary, to select 
+regulatory approaches that maximize net benefits (including potential 
+economic, environmental, public, health, and safety effects, 
+distributive impacts, and equity). A regulatory impact analysis must be 
+prepared for rules that have an annual effect on the economy of $100 
+million or more or adversely affect in a material way the economy, a 
+sector of the economy, productivity, competition, jobs, the 
+environment, public health or safety, or State, local, or Tribal 
+governments or communities. This rulemaking does not reach that 
+threshold. This proposed rule is expected to be an Executive Order 
+14192 deregulatory action.
+
+B. Regulatory Flexibility Act
+
+    The Director of OPM certifies that this rulemaking will not have a 
+significant economic impact on a substantial number of small entities 
+because this rule will apply only to Federal agencies and employees.
+
+C. Federalism
+
+    This regulation will not have substantial direct effects on the 
+States, on the relationship between the national government and the 
+States, or on distribution of power and responsibilities among the 
+various levels of government. Therefore, in accordance with Executive 
+Order 13132 (Aug. 10, 1999), the Director of OPM certifies that this 
+rulemaking does not have sufficient federalism implications to warrant 
+preparation of a Federalism Assessment.
+
+D. Civil Justice Reform
+
+    This regulation meets the applicable standard set forth in 
+subsection 3(a) and paragraph 3(b)(2) of Executive Order 12988 (Feb. 7, 
+1966).
+
+E. Unfunded Mandates Reform Act of 1995
+
+    Section 202 of the Unfunded Mandates Reform Act of 1995 (UMRA) 
+requires that agencies assess anticipated costs and benefits before 
+issuing any rule that would impose spending costs on State, local, or 
+Tribal governments in the aggregate, or on the private sector, in any 1 
+year of $100 million in 1995 dollars, updated annually for inflation. 
+That threshold is currently approximately $206 million. This rulemaking 
+will not result in the expenditure by State, local, or Tribal 
+governments, in the aggregate, or by the private sector, in excess of 
+the threshold. Thus, no written assessment of unfunded mandates is 
+required.
+
+F. Paperwork Reduction Act of 1995
+
+    This regulatory action will impose additional reporting or 
+recordkeeping requirements under the Paperwork Reduction Act of 1995 
+(44 U.S.C. Chapter 35). OPM is creating an e-filing system for use in 
+collecting and maintaining adjudication records for a variety of 
+different existing regulatory provisions. That system would also be 
+used to support this proposal. OPM is publishing a separate notice in 
+the Federal Register requesting OMB approval of a new information 
+collection associated with the e-filing system. OPM is also reviewing 
+its SORNs to determine whether to revise an existing SORN or to create 
+a new SORN for the e-filing system. OPM will publish any proposed 
+changes to its SORNs in the Federal Register.
+
+List of Subjects in 5 CFR Part 351
+
+    Administrative practice and procedure, Government employees.
+
+    The Director of OPM, Scott Kupor, reviewed and approved this 
+document and has authorized the undersigned to electronically sign and 
+submit this document to the Office of the Federal Register for 
+publication.
+
+Office of Personnel Management.
+Jerson Matias,
+Federal Register Liaison.
+
+    Accordingly, for the reasons stated in the preamble, OPM proposes 
+to amend 5 CFR part 351 as follows:
+
+PART 351--REDUCTION IN FORCE
+
+0
+1. The authority citation for part 351 is revised to read as follows:
+
+    Authority: 5 U.S.C. 1302, 3502, 3503; E.O. 14284, 90 FR 17729; 5 
+CFR 2.2(c). Sec. 351.801 also issued under E.O. 12828, 58 FR 2965, 3 
+CFR, 1993 Comp., p. 569.
+
+Subpart H--Notice to Employee
+
+0
+2. Amend Sec.  351.802 by revising paragraph (a)(6) to read as follows:
+
+
+Sec.  351.802  Content of notice.
+
+    (a) * * *
+    (6) The employee's right, as applicable, to appeal to OPM. The 
+agency must also comply with Sec.  1201.21 of this title.
+* * * * *
+0
+3. Amend Sec.  351.807 by revising paragraph (e) to read as follows:
+
+
+Sec.  351.807  Certification of expected separation.
+
+* * * * *
+    (e) An agency determination of eligibility for certification may 
+not be appealed.
+* * * * *
+0
+4. Revise subpart I to read as follows:
+
+Subpart I--Appeals
+
+Sec.
+Sec.  351.901 Right to appeal.
+Sec.  351.902 Procedures for submitting appeals.
+Sec.  351.903 Form and content of RIF appeal and agency response.
+Sec.  351.904 Employee representatives.
+
+[[Page 5875]]
+
+Sec.  351.905 Adjudication of appeals.
+Sec.  351.906 Sanctions and protective orders.
+Sec.  351.907 Reconsideration of an initial decision.
+Sec.  351.908 Review by the OPM Director.
+Sec.  351.909 Final decision.
+
+
+Sec.  351.901  Right to appeal.
+
+    (a) Right of appeal. An employee who has been the subject of a 
+reduction-in-force action may appeal an action taken under this part to 
+the Office of Personnel Management (OPM).
+    (b) Burden of Proof. The employee (i.e., appellant) bears the 
+burden of proof to demonstrate, by a preponderance of the evidence:
+    (1) The timeliness of the appeal,
+    (2) OPM possesses jurisdiction over the appeal, and
+    (3) The reduction-in-force action (i.e., more than 30-day furlough, 
+separation, or demotion due to a reduction in force) was conducted 
+inconsistent with either statute or OPM regulations such that the 
+employee would not have suffered the same or another reduction-in-force 
+action.
+    (c) Exclusive appeal procedure. The procedures in this part are the 
+sole and exclusive means of appealing any reduction-in-force action, 
+and shall supersede any appeal procedures found in agency policies or 
+collective bargaining agreements, but they do not otherwise preclude an 
+employee from filing a complaint, appeal, or other matter within the 
+jurisdiction of the Equal Employment Opportunity Commission, Federal 
+Labor Relations Authority, an Inspector General, Merit Systems 
+Protection Board, the Department of Labor Veterans' Employment and 
+Training Service, or the Office of Special Counsel. A party cannot 
+obtain judicial review of a decision under this part.
+
+
+Sec.  351.902  Procedures for submitting appeals.
+
+    (a) Filing an appeal. A party, or his or her authorized 
+representative, seeking to file an initial appeal or reconsideration of 
+an initial appeal under this part must utilize the electronic filing 
+(e-filing) system available at [URL TBD]. Unless a party demonstrates 
+good cause and seeks approval from OPM, OPM will not accept any 
+statements, evidence, or documents via electronic mail or postal mail.
+    (b) Time limits. An employee may submit an appeal of a reduction in 
+force action within 30 calendar days from the effective date of the 
+action. An appeal is deemed timely when it is electronically filed by 
+11:59 p.m. Eastern Standard Time on the 30th calendar day after the 
+effective date of the action.
+    (1) In computing the number of days allowed for filing an appeal, 
+the first day counted is the day after the effective date of an Agency 
+action. If the date that ordinarily would be the last day for filing 
+falls on a Saturday, Sunday, or Federal holiday, the filing period will 
+include the first workday after that date.
+    (2) If an employee does not submit an appeal within the time set by 
+this section, the appeal will be dismissed as untimely filed unless the 
+employee demonstrates good cause for an untimely appeal.
+    (3) The determination of good cause will be in the sole and 
+exclusive discretion of OPM.
+    (c) E-filing procedures.
+    (1) All parties and their representatives to an appeal or 
+reconsideration must register as instructed by OPM on its e-filing 
+system using a unique email address.
+    (2) Registration as an e-filer constitutes consent to accept 
+electronic service of pleadings, evidence, notices, orders, and other 
+documents filed by other e-filers or issued by OPM. No party may 
+electronically file any document with OPM or access an appeal or 
+reconsideration of an appeal unless registered as an e-filer.
+    (3) All notices, orders, decisions, and other documents issued by 
+OPM, as well as all documents filed by parties, will be made available 
+for viewing and downloading at OPM's electronic filing system. Access 
+to documents is limited to the parties and their representatives who 
+are registered e-filers in the cases in which they were filed.
+    (4) All parties and their representatives must follow the 
+instructions on OPM's website for properly filing all pleadings, 
+evidence, and other documents. OPM may issue orders regulating the 
+method and form of submissions and sanctions for noncompliance, 
+including ordering any party or authorized individual to cease 
+participation as an e-filer in circumstances that constitute a misuse 
+of the system or a failure to comply with law, rule, regulations, or 
+policy governing the use of a U.S. government information system.
+    (5) Each e-filer must promptly update their profile in OPM's 
+electronic filing system and notify OPM and other parties of any change 
+in their best address, telephone number, or email address by filing a 
+pleading in each pending case with which they are associated. E-filers 
+are responsible for monitoring case activity regularly in OPM's 
+electronic filing system to ensure that they have received all case-
+related documents.
+    (6) A party or representative may withdraw their registration as an 
+e-filer pursuant to the requirements posted on OPM's website. 
+Withdrawing registration in OPM's e-filing system means that, effective 
+upon OPM's processing of a proper withdrawal, pleadings, evidence, 
+orders, and other documents filed by a party or party's representative 
+and OPM will no longer be served on that person electronically and that 
+person will no longer have electronic access to their case records 
+through OPM's e-filing system. OPM may still process an appeal or 
+request for reconsideration after a party withdraws as an e-filer. 
+Withdrawal as a party or party's representative will not be considered 
+good cause for staying a case. As the e-file system is the only 
+accepted method for filing an appeal, a withdrawal of registration as 
+an e-filer may preclude future re-registering as an e-filer.
+    (7) OPM, in its sole and exclusive discretion, may exempt a party 
+or representative from registering as an e-filer for good cause. A 
+party or representative must promptly contact OPM as instructed on 
+OPM's website to request an exemption from the e-filing requirements in 
+this part. OPM will not find good cause for failing to timely file an 
+appeal or seek reconsideration if the party or representative fails to 
+contact OPM to request an exemption before any deadline to appeal or 
+seek reconsideration.
+    (8) Documents filed in OPM's e-filing system are deemed received on 
+the date of the electronic submission.
+
+
+Sec.  351.903  Form and content of RIF appeal and agency response.
+
+    (a) Initial appeal. An employee's appeal shall be in writing and 
+must state the basis of the employee's appeal; and the legal name, best 
+address, and email address or phone number of the appellant and 
+appellant's representative, if any; and must include any documentation 
+supporting the appellant's appeal.
+    (b) Agency response. The agency response to an appeal must be filed 
+within 30 calendar days of the initial appeal; contain the name of the 
+appellant and of the agency whose action the appellant is appealing; a 
+statement identifying the agency action taken against the appellant and 
+stating the reasons for taking the action; all documents contained in 
+the agency record of the action; designation of and signature by the 
+authorized agency representative; and any other documents or responses 
+requested by OPM. The agency's 30 days to respond begins upon service 
+of the appeal.
+
+[[Page 5876]]
+
+    (c) Reply. The employee may file a reply to the agency response to 
+an initial appeal within 15 calendar days of the agency response. The 
+reply may only address the factual and legal issues raised by the 
+agency in response to the initial appeal. The reply may not raise new 
+allegations of error.
+    (d) Inspection of OPM's appellate record. The employee, an 
+employee's representative, and the agency will be permitted to inspect 
+OPM's appellate record on request.
+    (e) Service of Documents. The employee, employee's representative, 
+and agency will serve on each other copies of any and all information 
+submitted to OPM with respect to an appeal. Such information must be 
+served on all other parties at the same time the information is 
+submitted to OPM and must be accompanied by a certificate of service 
+stating how and when service was made.
+    (f) Untimely Filings. Untimely filings may be accepted upon a 
+party's showing of good cause at the sole and exclusive discretion of 
+OPM.
+
+
+Sec.  351.904  Employee representatives.
+
+    An employee may select a representative of his or her choice to 
+assist in the preparation and presentation of an appeal, provided that 
+the employee submits his or her designation of representative in 
+writing related to the specific appeal. If the selected representative 
+is a Federal employee, the representative may not perform such 
+representational functions while in a duty status (including while on 
+official time under 5 U.S.C. 7131), nor may the representative claim 
+agency reimbursement for any expenses incurred while performing such 
+representational function. OPM or the responsible agency may, in its 
+sole and exclusive discretion, disallow an employee's choice of 
+representative when the representative is an employee of the 
+responsible agency or OPM and his or her activities as a representative 
+would cause a conflict of interest or position; that employee cannot be 
+released from his or her official duties because of the priority needs 
+of the Government; or that employee's release would give rise to 
+unreasonable costs to the Government.
+
+
+Sec.  351.905  Adjudication of appeals.
+
+    (a) Appeals by non-OPM employees. OPM will assign personnel to 
+adjudicate an appeal under this subpart by an employee of an agency 
+other than OPM. However, no OPM employee may be assigned to adjudicate 
+an appeal if the employee has a relationship with the appellant 
+employee or, during the preceding two years, that person was an 
+employee of the agency that is a party to the action to be assigned, or 
+the employee was subject to, an action covered under this part. When 
+necessary, OPM may appoint an administrative law judge to preside over 
+the adjudication of an appeal.
+    (b) Appeals by OPM employees. OPM will assign an administrative law 
+judge to adjudicate an appeal under this subpart by an OPM employee. To 
+insulate the adjudication of its own employees' appeals from agency 
+involvement, OPM will not disturb initial decisions in those cases 
+unless a party shows that there has been harmful procedural 
+irregularity in the proceedings before the administrative law judge or 
+a clear error of law. For these purposes, the term harmful procedural 
+irregularity means an irregularity in the application of procedures was 
+likely to have caused the administrative law judge to reach a 
+conclusion different from the one he or she would have reached in the 
+absence or cure of the irregularity.
+    (c) Ascertainment of facts. OPM may audit or investigate an 
+agency's reduction in force action in the course of adjudicating an 
+appeal if it determines, in its sole and exclusive discretion, the 
+interest of justice is served by such an audit or investigation. The 
+review of an agency action will be based solely on the developed 
+written record unless OPM determines that a hearing or any other 
+appropriate action is necessary and efficient to resolve an appeal and 
+directs the parties to participate in such hearing or comply with such 
+action. For purposes of this section, the term necessary and efficient 
+means circumstances in which the written record is insufficiently 
+developed to make a determination regarding one or more facts material 
+to the outcome of the appeal, or where there is a disputed issue of 
+witness credibility that is material to the outcome of the appeal. 
+Where an investigation or audit is conducted, OPM will:
+    (1) Inform the employee, the employee's representative, and the 
+agency of an investigation or audit; and
+    (2) Provide the employee, the employee's representative, and the 
+agency with the results of an investigation or audit, and a reasonable 
+opportunity to submit arguments or additional information to support 
+their positions.
+    (d) Failure to participate in ascertainment of facts. If a party 
+fails to participate in an audit or investigation pursuant to 
+351.905(c), OPM may, except when prohibited by law, impose any sanction 
+listed at 351.906(b)(1)-(3).
+    (e) Initial decision. OPM will notify the employee, employee's 
+representative, and agency in writing of its decision.
+    (f) Remedies. (1) If the employee is the prevailing party, OPM will 
+order relief including correction of the personnel action and any back 
+pay, interest, and reasonable attorney fees consistent with subpart H 
+of part 550 of this chapter. The employee as a prevailing party is not 
+entitled to compensatory damages or other relief not authorized under 5 
+U.S.C. 5596(b).
+    (2) If the agency timely requests reconsideration of an initial 
+decision or OPM reopens and reconsiders an initial decision, the agency 
+must continue to provide the relief ordered unless OPM issues an order 
+staying any such relief. No such stay may be ordered that would deprive 
+pay and benefits to the employee while the initial decision is pending 
+reconsideration.
+
+
+Sec.  351.906  Sanctions and protective orders.
+
+    (a) Cease-and-desist directive. OPM may issue a directive to a 
+party to prevent or to cease-and-desist harassing communications (or 
+communications which could reasonably be foreseen to lead to 
+harassment) with or about any individual, or to prohibit a party from 
+using any information related to the appeal for any purpose whatsoever 
+unrelated to the adjudication of the appeal. OPM may do this sua 
+sponte, or at the request of a party, preemptively or at any juncture 
+in the appeal process. A party requesting OPM to issue a protective 
+order or cease-and-desist should file such request using the e-filing 
+procedures proscribed at Sec.  351.902(c), and must include statement 
+of reasons justifying the request, together with any relevant 
+documentary evidence.
+    (b) Failure to comply with an OPM directive. When a party to an 
+appeal fails to comply with a directive issued under paragraph (a), OPM 
+shall, except when prohibited by law:
+    (1) Draw all inferences in opposition to the noncompliant party 
+with regard to the appeal in question;
+    (2) Prohibit the noncompliant party from introducing evidence, or 
+additional evidence, concerning the appeal, or otherwise relying on the 
+record; or
+    (3) Eliminate from consideration any appropriate part of the 
+filings or other submissions of the noncompliant party.
+
+
+Sec.  351.907  Reconsideration of an initial decision.
+
+    (a) Upon a request from either party to the dispute, OPM may, in 
+its sole and
+
+[[Page 5877]]
+
+exclusive discretion, reopen and reconsider an initial decision issued 
+under this subpart. An employee, the employee's representative, or the 
+agency may request reopening and reconsideration of an initial decision 
+within 30 calendar days from issuance of the initial decision. The 
+request to reopen and reconsider must be filed in the same manner as an 
+initial appeal.
+    (b) Grounds for which OPM may grant a request for reconsideration 
+are:
+    (1) The initial decision contains erroneous findings of material 
+fact sufficient to warrant an outcome different from that of the 
+initial decision;
+    (2) The initial decision is based on an erroneous interpretation of 
+statute or regulation or the erroneous application of the law to the 
+facts of the case. The party must explain how the error affected the 
+outcome of the case;
+    (3) New and material evidence or legal argument is available that, 
+despite the party's due diligence, was not available when the record 
+closed. To constitute new evidence, the information contained in the 
+documents, not just the documents themselves, must have been 
+unavailable despite due diligence when the record closed; or
+    (4) OPM finds good cause to reconsider an appeal.
+    (c) In any case that is reopened or reviewed, OPM may:
+    (1) Issue a reopened and reconsidered decision (``R&R decision'') 
+that affirms, reverses, modifies, vacates, or otherwise decides the 
+case, in whole or in part;
+    (2) Require the parties to submit argument and evidence;
+    (3) Take any other action necessary for final disposition of the 
+case; and
+    (4) Issue an order with a date for compliance with the R&R 
+decision.
+    (d) There is no further right of administrative appeal from the R&R 
+decision.
+
+
+Sec.  351.908   Review by the OPM Director.
+
+    The Director may, at his or her discretion, sua sponte, reopen and 
+reconsider any appeal in which OPM has issued a decision that has not 
+yet become final.
+
+
+Sec.  351.909  Final decision.
+
+    (a) The initial decision becomes the final decision of OPM if a 
+party does not request OPM to reopen or reconsider the initial decision 
+within 30 calendar days from the date of the initial decision.
+    (b) A R&R decision pursuant to Sec.  351.907 becomes OPM's final 
+decision if the OPM Director does not reopen the decision pursuant to 
+Sec.  351.908 within 30 calendar days from the date on which the R&R 
+decision was issued.
+    (c) A decision by the Director pursuant to Sec.  351.908 is the 
+final decision of OPM and effective upon issuance.
+    (d) There is no further right of appeal of a final decision of OPM.
+    (e) OPM shall maintain a publicly accessible website containing 
+final decisions issued on this part that address a party's claim on the 
+merits. Any final decision not made publicly available shall be made 
+available upon request by a concerned party. For purposes of this 
+subsection, a concerned party means the Federal employee or former 
+Federal employee involved in a proceeding under this subpart, his or 
+her representative selected pursuant to Sec.  351.904, or a 
+representative of a Federal agency or office.
+
+[FR Doc. 2026-02576 Filed 2-9-26; 8:45 am]
+BILLING CODE 6325-39-P

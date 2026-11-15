@@ -4,6 +4,16 @@ A benchmark for LLM agents doing policy research on the U.S. Federal Register. T
 
 The task states the world as of **November 14, 2026**. The 16 questions are worth 100 points in total.
 
+Two more tasks use the same harness, tools, corpus and reference date. Each is worth 100 points:
+
+| Task | Folder | Role and subject | Questions |
+|---|---|---|---|
+| F-1 | `tasks/f1/` (default) | International student office; the DHS rule ending duration of status | 16 |
+| Tariffs | `tasks/tariffs/` | Customs broker's researcher; the 2026 section 338 duties and import exclusions on Canadian products, the July 2026 section 301 forced-labor tariffs, and how both interact with section 232 and earlier duties | 15 |
+| RIF | `tasks/rif/` | Federal HR office researcher; OPM's 2026 rewrite of the reduction in force rules (5 CFR part 351), its corrections, the RIF appeals rule and related rules | 14 |
+
+The two newer tasks rest on policy changes made in 2026, so they cannot be answered from memory. They lean on what separated models on the F-1 task: computations that chain several provisions across documents, places where a preamble or recital says something different from the operative text, reviews of a worked file with planted errors and sound steps, exhaustive comparisons with a count ladder, and passages with no keyword handle.
+
 ## What it tests
 
 - Finding the governing documents in a large corpus, and reading long regulatory text closely.
@@ -98,7 +108,7 @@ uv run analysis/theoretical_cost.py      # writes analysis/runs_theoretical_cost
 uv run analysis/plot_cost_vs_score.py    # writes analysis/cost_vs_score.png and model_summary.csv
 ```
 
-Both scripts read the F-1 runs in `tasks/f1/runs/`. Theoretical cost assumes every cacheable token is a cache hit and every new token (user prompt, tool results) is a miss. Prices come from `pricing.csv`, with context-size tiers where a provider has them.
+Both scripts read the F-1 runs in `tasks/f1/runs/` only. Theoretical cost assumes every cacheable token is a cache hit and every new token (user prompt, tool results) is a miss. Prices come from `pricing.csv`, with context-size tiers where a provider has them.
 
 ## The Federal Register tools
 
@@ -149,6 +159,49 @@ Where `rubric.toml` and the point split in `ANSWER_KEY.md` differ, `rubric.toml`
 | Q15 | Checking seven draft statements against the rule text and preamble | 9 |
 | Q16 | A six-year program: four-year cap, extension, re-entry, F-2 spouse | 9 |
 | | **Total** | **100** |
+
+Tariffs task (`tasks/tariffs/`):
+
+| Question | Topic | Points |
+|---|---|---|
+| Q1 | Inventory of the section 338 proclamations against Canada | 2 |
+| Q2 | The three-day delay of the duties' start date | 3 |
+| Q3 | Import exclusion versus duty: arrival, warehouse and zone cases | 3 |
+| Q4 | Section 338 duties on goods that also bear section 232 duties | 4 |
+| Q5 | Scope changes: the Part A and Part B lists | 3 |
+| Q6 | Section 301 rates by economy, flat and net of the MFN rate | 3 |
+| Q7 | Specific and compound MFN rates | 1 |
+| Q8 | Section 301 start date and goods in transit | 2 |
+| Q9 | Chapter 98, USMCA and section 232 goods under the section 301 action | 3 |
+| Q10 | Canadian goods under both actions | 3 |
+| Q11 | Where the documents of each action disagree (count ladder) | 20 |
+| Q12 | Exemptions for particular articles, economy by economy | 4 |
+| Q13 | Section 232 duty on a USMCA machine: non-U.S. content, the minimum, the Commerce guidance | 16 |
+| Q14 | Ten statements checked against the memorandum, the notice and the proposal | 8 |
+| Q15 | Duties owed on Canadian aluminum extrusions at twelve dates in 2025 and 2026 | 25 |
+| | **Total** | **100** |
+
+RIF task (`tasks/rif/`):
+
+| Question | Topic | Points |
+|---|---|---|
+| Q1 | The final rule, its corrections and other rules amending part 351 | 3 |
+| Q2 | A six-employee retention register | 3 |
+| Q3 | Retired members of the uniformed services | 2 |
+| Q4 | The four-year period, cutoff dates and missing ratings | 3 |
+| Q5 | Which rules apply, and when standing is fixed | 3 |
+| Q6 | Assignment rights | 1 |
+| Q7 | RIF appeals: forum, deadline, burden | 4 |
+| Q8 | Administrative leave during the notice period | 3 |
+| Q9 | Review of a twelve-step RIF file with planted errors | 7 |
+| Q10 | The career transition definition of "displaced" and its correction | 1 |
+| Q11 | Proposed versus final regulatory text of part 351 (count ladder) | 10 |
+| Q12 | A RIF with a restoration-protected employee and assignment rights | 7 |
+| Q13 | Where the main rule's preamble and its regulatory text part ways (count ladder) | 28 |
+| Q14 | The appeals rule against its text, its proposal and the MSPB's rule (count ladder) | 25 |
+| | **Total** | **100** |
+
+In both newer tasks the early questions come from drafts that two inexpensive models answered almost perfectly. They keep their criteria at a reduced weight through `criteria_points`; most of the points sit in questions with no fixed number of answers, where the agent must find discrepancies on its own and is scored on a count ladder against a verified list.
 
 Q13–Q16 were added after the first round of runs showed Q1–Q12 close to saturated for the strongest models. Q1–Q12 keep their original criteria and internal point split. Each carries `criteria_points` in `rubric.toml`, and `grader.py` scales its credits, caps and penalties to the weight above.
 

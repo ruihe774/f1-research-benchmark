@@ -1,0 +1,2462 @@
+Federal Register, Volume 91 Issue 128 (Tuesday, July 7, 2026)
+
+
+[Federal Register Volume 91, Number 128 (Tuesday, July 7, 2026)]
+[Rules and Regulations]
+[Pages 41521-41539]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-13715]
+
+
+
+ ========================================================================
+ Rules and Regulations
+                                                 Federal Register
+ ________________________________________________________________________
+ 
+ This section of the FEDERAL REGISTER contains regulatory documents 
+ having general applicability and legal effect, most of which are keyed 
+ to and codified in the Code of Federal Regulations, which is published 
+ under 50 titles pursuant to 44 U.S.C. 1510.
+ 
+ The Code of Federal Regulations is sold by the Superintendent of Documents. 
+ 
+ ========================================================================
+ 
+
+  Federal Register / Vol. 91, No. 128 / Tuesday, July 7, 2026 / Rules 
+and Regulations  
+
+[[Page 41521]]
+
+
+
+OFFICE OF PERSONNEL MANAGEMENT
+
+5 CFR Parts 351, 430, and 537
+
+[Docket ID: OPM-2025-0273]
+RIN 3206-AP06
+
+
+Performance Appraisal for General Schedule, Prevailing Rate, and 
+Certain Other Employees
+
+AGENCY: Office of Personnel Management.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Office of Personnel Management (OPM) is issuing a final 
+rule to increase the efficiency and effectiveness of performance 
+management for non-Senior Executive Service (SES) employees, including 
+General Schedule (GS) and prevailing rate employees. This final rule 
+eliminates unnecessary summary level patterns; removes the prohibition 
+of a forced, or standardized, distribution of performance rating 
+levels; eliminates mandatory review of Level 1 ratings; removes the 
+option to grieve a rating of record; requires a supervisory critical 
+element for all supervisors covered under this subpart; and requires 
+OPM to conduct biennial certifications of agency appraisal systems.
+
+DATES: 
+    Effective date: August 6, 2026.
+    Compliance date: Compliance with Sec.  430.208(e)(1) and (2) is 
+required beginning January 1, 2027.
+
+FOR FURTHER INFORMATION CONTACT: Noah Peters, Senior Advisor to the 
+Director, 202-606-8046 or by email at [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The Civil Service Reform Act (CSRA) of 1978 established a new 
+framework for merit-based personnel management in the Federal 
+Government, including reforms to the performance appraisal system for 
+Federal employees. When Congress debated and passed this legislation, a 
+major concern was that the existing appraisal system did not 
+meaningfully measure employee performance.\1\ The Senate Committee on 
+Governmental Affairs observed that performance ratings were frequently 
+inflated, failed to meaningfully distinguish among levels of 
+performance, and were often assigned without sufficient rigor or 
+accountability. Supervisors were often reluctant to assign low ratings, 
+so ratings were not regarded as reliable indicators of performance. 
+Performance ratings therefore lost much of their management value. As a 
+result, the appraisal system provided little practical support for 
+personnel decisions and did not function as an effective tool for 
+managing employee performance.
+---------------------------------------------------------------------------
+
+    \1\ S. Rep. No. 95-969, at 44-45 (1978), reprinted in 
+Legislative History of the Civil Service Reform Act of 1978, Vol. 2 
+(1979).
+---------------------------------------------------------------------------
+
+    Pursuant to CSRA, OPM is responsible for promulgating 
+governmentwide regulations governing Federal performance management 
+systems under chapter 43 of title 5, United States Code. Under this 
+authority, OPM issues regulations applicable to non-SES employees, 
+including GS and prevailing rate employees, as well as senior-level and 
+scientific or professional employees referred to as ``senior 
+professionals'' (SP). Among its statutory responsibilities, OPM is 
+required to review the appraisal systems covering these employees to 
+ensure they comply with statutory requirements \2\ and design personnel 
+systems that provide governmentwide standards that sustain a culture 
+that cultivates and develops a high-performing workforce.\3\ Where OPM 
+finds that an agency's system fails to meet statutory and regulatory 
+requirements, OPM is authorized to direct agencies to implement an 
+appropriate system or correct its operations to meet those 
+requirements.\4\
+---------------------------------------------------------------------------
+
+    \2\ 5 U.S.C. 4304(b)(1).
+    \3\ 5 U.S.C. 1103(c)(2)(D).
+    \4\ 5 U.S.C. 4304(b)(3).
+---------------------------------------------------------------------------
+
+    Throughout the 1980s and early 1990s, Federal performance 
+management operated under a centralized regulatory framework 
+established by OPM in 1983.\5\ The system standardized appraisal 
+processes through establishment of a five-level rating structure and by 
+formally tying performance ratings to pay, awards, and promotion 
+decisions. While intended to strengthen accountability and create a 
+performance-based civil service, the framework often produced limited 
+differentiation among employees, administrative complexity, and 
+inconsistent enforcement of performance standards. By the early 1990s, 
+policymakers increasingly viewed the system as overly rigid and 
+insufficiently responsive to agency management needs, prompting calls 
+for greater flexibility and decentralization. When developing the non-
+SES performance appraisal regulations at part 430, subpart B, in 1995, 
+OPM adopted recommendations by the National Performance Review for 
+flexible, decentralized performance management.\6\ This move towards 
+agency flexibility and decentralization was a stark contrast to the 
+highly detailed regulatory requirements of the mid-1980s--a time when 
+there was a strong policy interest in achieving governmentwide 
+uniformity. Aside from a few minor changes in the late 1990s, the 
+appraisal regulations at part 430, subpart B, have remained in place 
+and unchanged, failing to adapt to the evolving mission needs of the 
+Federal workforce.
+---------------------------------------------------------------------------
+
+    \5\ 48 FR 49472 (Oct. 25, 1983).
+    \6\ 60 FR 43936 (Aug. 23, 1995).
+---------------------------------------------------------------------------
+
+    For decades, oversight agencies have specifically identified 
+performance management as an area that requires improvement and reform. 
+As early as the 1980s, the Merit Systems Protection Board (MSPB) 
+reported that Federal performance appraisal systems often failed to 
+meaningfully distinguish between levels of performance and that ratings 
+were frequently concentrated at higher levels.\7\ More recently, the 
+Government Accountability Office (GAO) has noted the challenges and 
+failures of the current performance management appraisal system.\8\ 
+Notably, a 2016 GAO report found that 99% of
+
+[[Page 41522]]
+
+permanent, non-SES employees received performance ratings at or above 
+Fully Successful.\9\ This inflation in performance ratings continued 
+into the 2020s as detailed in the proposed rule.\10\ OPM has attempted 
+to curb ratings inflation and increase accountability through non-
+regulatory efforts, including issuing a 2019 memorandum encouraging 
+agencies to increase rigor in performance management through well-
+developed performance standards that make clear distinctions among what 
+is required to achieve performance at the various performance 
+levels.\11\ Despite these recent attempts, data from the Federal 
+Employee Viewpoint Survey (FEVS) and GAO show that only 42-51% of 
+Federal employees believe that their supervisors distinguish and 
+recognize performance in a meaningful way.\12\ It is clear that doing 
+more of the same is not going to improve performance management in the 
+Federal Government.
+---------------------------------------------------------------------------
+
+    \7\ U.S. Merit Systems Protection Board, Toward Effective 
+Performance Management in the Federal Government: A Report to the 
+President and the Congress of the United States, at V (July 1988), 
+https://www.mspb.gov/studies/studies/Toward_Effective_Performance_Management_in_the_Federal_Government_317713.pdf.
+    \8\ GAO, Federal Workforce, Opportunities Exist for OPM to 
+Further Innovation in Performance Management, at 2 (Nov. 2018), 
+https://www.gao.gov/assets/700/695639.pdf.
+    \9\ GAO, Federal Workforce: Distribution of Performance Ratings 
+Across the Federal Government, 2013, at 5 (May 9, 2016), https://www.gao.gov/assets/680/677016.pdf.
+    \10\ 91 FR 8780, 8782 (Feb. 24, 2026).
+    \11\ OPM, Applying Rigor in the Performance Management Process 
+and Leveraging Awards Programs for a High-Performing Workforce, at 
+1-2 (July 12, 2019), https://www.opm.gov/chcoc/transmittals/2019/applying-rigor-performance-management-process-and-leveraging-awards-programs-high-performing_508_0.pdf.
+    \12\ OPM, OPM FEVS Dashboard (last accessed June 1, 2026), 
+https://www.opm.gov/fevs/reports/opm-fevs-dashboard/; note 8 at 19.
+---------------------------------------------------------------------------
+
+    Recognizing that reforms to Federal performance management are long 
+overdue, President Trump issued Presidential Memoranda and Executive 
+Orders that establish a high-performing Federal workplace culture where 
+excellent performance is celebrated and rewarded, and low performance 
+is swiftly addressed by appropriate actions.\13\ Accordingly, OPM 
+issued a memorandum titled ``Performance Management for Federal 
+Employees.'' \14\ In that guidance, OPM noted that it is ``reforming 
+employee performance management across the Federal Government to ensure 
+that it shall reward individual initiative, skills, performance and 
+hard work.'' \15\ OPM further stated that ``performance management 
+across the Federal workforce has fallen short'' and ``has resulted in a 
+lack of accountability and inflated performance ratings.'' \16\ OPM 
+also designed an extensive performance management toolkit and playbook 
+providing all employees with critical performance management best 
+practices.\17\
+---------------------------------------------------------------------------
+
+    \13\ See, e.g., E.O. 14284, Strengthening Probationary Periods 
+in the Federal Service, 90 FR 17729 (April 24, 2025); E.O. 14171, 
+Restoring Accountability to Policy-Influencing Positions Within the 
+Federal Workforce, 90 FR 8625 (Jan. 20, 2025); Restoring 
+Accountability for Career Senior Executives, 90 FR 8481 (Jan. 30, 
+2025); Return to In-Person Work, 90 FR 8251 (Jan. 28, 2025).
+    \14\ OPM, Performance Management for Federal Employees (June 17, 
+2025), https://www.opm.gov/chcoc/latest-memos/performance-management-for-federal-employees.pdf.
+    \15\ Id. (internal quotation marks omitted).
+    \16\ Id. at 2.
+    \17\ www.opm.gov/policy-data-oversight/performance-management/.
+---------------------------------------------------------------------------
+
+    In response to these historical and enduring challenges, OPM 
+determined that updates to its performance appraisal regulations for 
+non-SES employees are necessary. On February 24, 2026, OPM issued a 
+proposed rule at 91 FR 8780 pursuant to its regulatory authority at 5 
+U.S.C. 4305. As described in the proposed rule, these updates will 
+strengthen agencies' ability to evaluate performance accurately and 
+fairly, ensure that high performance is recognized and rewarded, and 
+align workforce management with mission accomplishment. These changes 
+are necessary to promote a culture of accountability and excellence 
+across the Federal workforce--one that reflects both the Government's 
+evolving operational demands and its longstanding commitment to a 
+merit-based civil service.
+
+Digest of Public Comments
+
+    In response to the proposed rule, OPM received 626 comments during 
+the 30-day public comment period. These responses came from a range of 
+sources: 602 individuals--including current and former civil servants, 
+scientists, attorneys, and researchers--plus 4 Federal agencies, 11 
+organizations such as employee advocacy groups and professional 
+associations, 8 unions, and a member of Congress.
+    Of the 626 comments received, all were posted and made available to 
+the public in the docket at https://www.regulations.gov/docket/OPM-2025-0273. At the conclusion of the public comment period, OPM reviewed 
+and analyzed the comments. Comments on the rule ranged from supportive 
+to categorical rejection.
+    The comments are summarized below, together with suggestions for 
+revisions that were considered and either fully or partially adopted, 
+or declined, along with OPM's reasoning. The first section addresses 
+general or overarching comments, while subsequent sections discuss 
+feedback related to specific parts of the regulation that OPM proposed 
+to revise.
+
+General Comments
+
+    Some commenters were supportive of the rule, such as Commenter 0332 
+\18\ who stated, ``These are great changes proposed. Please move 
+forward.'' Commenter 0008 expressed support for OPM updating the 
+``antiquated evaluation system'' currently in place. Several 
+commenters, such as 0072, 0044, 0161, 0101, and 0225, acknowledged that 
+performance appraisal reform is warranted and that improvements to the 
+current system may be needed; however, these commenters also generally 
+opposed the approaches taken in the proposed rule, particularly the use 
+of standardized distribution and modifications to the procedures for 
+assigning employee ratings. Most commenters either opposed the rule as 
+a whole or objected to one or more of the major provisions of the rule, 
+such as standardized distribution, elimination of negotiated grievance 
+procedures under 5 U.S.C. 7121, and elimination of the requirement for 
+mandatory review of a Level 1 (``Unacceptable'') rating of record.
+---------------------------------------------------------------------------
+
+    \18\ References to comments provide the location of the item in 
+the public record (that is, the four-digit number associated with 
+the location in the docket). Comments filed in response to the 
+proposed rule are available at https://www.regulations.gov/comment/OPM-2025-0273-nnnn, where nnnn is the comment number.
+---------------------------------------------------------------------------
+
+    Commenters 0517, 0549, 0554, and others argued that OPM failed to 
+provide sufficient time to address the proposed rule given its 
+``foundational change in the appraisal of federal employees.'' The 
+commenters suggested that at least another 60 days should be provided 
+to allow those impacted and other interested parties to provide 
+substantive comments. Respectfully, OPM provided sufficient time for 
+the public to review the proposed rule and submit comments. As multiple 
+appellate courts have held, a 30-day comment period is generally the 
+minimum needed to comply with the Administrative Procedure Act 
+(APA).\19\ Moreover, the more than 600 comments received during the 
+public notice period raised a variety of issues and arguments, as 
+further explored below, which indicates that the comment period 
+provided adequate opportunity for the
+
+[[Page 41523]]
+
+public to provide meaningful input into the rule.
+---------------------------------------------------------------------------
+
+    \19\ See Chamber of Com. of the U.S. v. U.S. Sec. & Exch. 
+Comm'n, 85 F.4th 760, 779 (5th Cir. 2023) (``. . . the APA generally 
+requires only a minimum thirty-day comment period.''); see also 
+Riverbend Farms, Inc. v. Madigan, 958 F.2d 1479, 1484 (9th Cir. 
+1992) (``Although the APA mandates no minimum comment period, some 
+window of time, usually thirty days or more, is . . . allowed for 
+interested parties to comment.'').
+---------------------------------------------------------------------------
+
+    In the subsequent sections, we discuss and address comments related 
+to the specific portion of the regulation to which each comment 
+applied.
+
+Standardized Distribution
+
+    In the proposed rule, OPM proposed removing the existing 
+prohibition on a forced, or standardized, distribution of performance 
+ratings, and instead proposed to authorize OPM to establish and 
+maintain a standardized distribution of some or all rating levels that 
+agencies must apply.
+
+Consistency With 5 U.S.C. 4302
+
+    A number of commenters, including 0004, 0011, 0101, 0115, 0161, 
+0377, 0468, and others, asserted that the use of a standardized 
+distribution of performance ratings conflicts with 5 U.S.C. 4302(c), 
+which requires that performance appraisal systems permit the accurate 
+evaluation of job performance on the basis of objective criteria 
+related to the job in question. Commenters argued that standardized 
+distribution requires supervisors to rate employees relative to one 
+another rather than against established performance standards, thereby 
+introducing non-performance-based factors into rating determinations. 
+These commenters further stated a standardized distribution approach 
+may result in employees receiving inaccurate ratings that do not 
+reflect their actual job performance.
+    OPM respectfully disagrees that the final rule is inconsistent with 
+5 U.S.C. 4302. The statute requires that appraisal systems ``to the 
+maximum extent feasible, permit the accurate evaluation of job 
+performance on the basis of objective criteria . . . related to the job 
+in question for each employee or position under the system;'' \20\ it 
+does not prescribe or prohibit a specific rating methodology or 
+preclude the use of a standardized distribution to differentiate among 
+levels of performance. Under this final rule, agencies remain 
+responsible for establishing performance plans with clear, job-related 
+expectations and for evaluating employees against those expectations. 
+The phrase ``to the maximum extent feasible'' allows for the 
+performance standards to include a standardized distribution framework. 
+This framework provides a structured mechanism to support consistent 
+application of performance distinctions; it does not authorize ratings 
+based on non-performance factors or require agencies to disregard 
+evidence of individual performance against established performance 
+standards.
+---------------------------------------------------------------------------
+
+    \20\ 5 U.S.C. 4302(c)(1) (emphasis added).
+---------------------------------------------------------------------------
+
+    OPM rejects commenters' arguments that comparative judgments 
+through the implementation of standardized distribution will lead to 
+inaccurate ratings. As explained in the proposed rule, any human 
+judgment is by nature comparative.\21\ Thus, the quality of an 
+evaluation is improved by ensuring that it is comparative in nature 
+(that is, involving relative judgments of a target in comparison to 
+other individuals and groups), instead of absolute (that is, involving 
+judgments on scales that do not reference others).\22\ One study, for 
+example, concluded that ``[t]he relatively few studies that have 
+investigated the validity of comparative performance appraisal methods 
+have tended to support their validity.'' \23\ It found significant 
+evidence from ``at least three important and quite different domains 
+that comparative evaluative judgments of the self or others may be more 
+advantageous than absolute evaluative judgments.'' \24\ This suggests 
+that comparative judgments among employees, by utilizing a standardized 
+distribution of ratings, will more accurately and objectively measure 
+individual performance than one that prohibits any comparative 
+judgments between employees and requires that any measurement of 
+employee performance be framed in absolute terms.
+---------------------------------------------------------------------------
+
+    \21\ Kedia G, Mussweiler T, Linden DE. Brain mechanisms of 
+social comparison and their influence on the reward system. 
+Neuroreport. 2014 Nov 12;25.
+    \22\ Goffin RD, Olson JM. Is It All Relative? Comparative 
+Judgments and the Possible Improvement of Self-Ratings and Ratings 
+of Others. Perspect. Psychol. Sci. 2011 Jan; 6(1):48-60.
+    \23\ Id. at p. 50.
+    \24\ Id. at 53.
+---------------------------------------------------------------------------
+
+    Further, OPM intends to require agencies to apply a standardized 
+distribution at the appropriate aggregate level as opposed to 
+supervisors applying the rating limits within their own work unit or 
+office. Therefore, the requirement to differentiate between relative 
+levels of performance through the use of a standardized distribution 
+operates only after employees are assessed against established 
+performance standards, as required by 5 U.S.C. 4302(c)(3), and, 
+consequently, does not replace or supplant those standards. The concern 
+put forth by commenters claiming that distributional requirements 
+create tension with statute because they involve relative comparison is 
+baseless. The final rule does not require the mechanical application of 
+quotas without regard to objective, job-related performance evidence. 
+Rather, it requires agencies to exercise informed judgment in the 
+evaluation of rigorous performance objectives aligned to the duties of 
+the position within a structured framework designed to support accurate 
+differentiation.
+    Finally, OPM also notes that the current system suffers from the 
+same flaws that the commenters warn about in adopting the proposed 
+rule-inaccurate performance ratings. The evidence clearly shows that 
+the Federal Government's approach to performance management has long 
+struggled to accurately measure employee performance.\25\ During the 
+public comment period, the Departments of Labor and Treasury 
+(Commenters 0226 and 0375, respectively) describe how they have 
+suffered from a leniency bias that inflates performance ratings and 
+ties their supervisors' hands when attempting to hold their employees 
+accountable for poor performance. The Department of Labor identified 
+how it issued 70-80% of its employees' performance ratings at the 
+highest two levels and rarely used the lowest two rating levels. The 
+Department of the Treasury, likewise, identified suffering from the 
+same problem and concluded that a standardized distribution of 
+performance ratings may be the only path forward to disrupting the 
+persistent pattern of ratings inflation. OPM credits these agencies' 
+experiences and agrees that this final rule is the best way to address 
+these long-standing challenges.
+---------------------------------------------------------------------------
+
+    \25\ See notes 7 and 9.
+---------------------------------------------------------------------------
+
+Merit System Principles
+
+    Several commenters asserted that the use of standardized 
+distribution of performance ratings conflicts with merit system 
+principles under 5 U.S.C. 2301. They argued that the requirement to 
+distribute ratings using a standardized distribution framework 
+undermines the principle that employees should be treated fairly and 
+equitably under section 2301(b)(2) because similarly performing 
+employees may receive different ratings based on distribution targets 
+rather than individual performance (e.g., commenters 0064, 0242, 0377, 
+and 0520). Other commenters, including 0477 and 0554, asserted that 
+standardized distribution may increase the risk of arbitrary action 
+contrary to section 2301(b)(8)(A) by requiring supervisors to 
+differentiate among employees even where performance differences are 
+minimal or not clearly defined. Similarly, other commenters expressed 
+concern that standardized distribution of
+
+[[Page 41524]]
+
+performance ratings could increase the risk of bias, favoritism, 
+retaliation, or politicization of performance evaluations (e.g., 
+commenters 0003, 0031, 0173, 0288, 0498, and 0557).
+    OPM does not agree that use of a standardized rating system would 
+deny employees fair or equitable treatment or subject them to arbitrary 
+action. The merit system principles do not prohibit agencies from 
+rating employees based upon a comparison of individual employee 
+performance. They instead guard against personnel decisions based on 
+factors other than merit. Under the final rule, supervisors will 
+continue to evaluate employee performance based on their assessments of 
+their employees' individual performance against established performance 
+standards. Afterwards, agencies at the appropriate aggregate level will 
+apply the standardized distribution of performance ratings consistent 
+with OPM guidance. Agencies will apply OPM guidance at a higher level, 
+which will mitigate commenters' concerns that individual supervisors 
+will make subjective, non-merit-based judgments about employee 
+performance when deriving comparative judgments. Moreover, by requiring 
+agencies to limit the highest ratings to the most accomplished, 
+agencies will be required to truly focus on mission-driven performance 
+that contributes to organizational performance, thereby promoting the 
+effective and efficient use of the Federal workforce and enhancing 
+alignment with the merit system principles.\26\ To further alleviate 
+commenters' concerns, OPM will amend Sec.  430.209 in the final rule to 
+make clear that agency performance appraisal systems and programs must 
+be administered consistent with the merit system principles, and OPM 
+will amend Sec.  430.210 to make clear that OPM will enforce such 
+compliance.
+---------------------------------------------------------------------------
+
+    \26\ 5 U.S.C. 2301(b)(5).
+---------------------------------------------------------------------------
+
+    Additionally, this rule promotes fair and equitable treatment by 
+incentivizing agencies to focus on individual performance that drives 
+mission accomplishment and, therefore, rewards the highest performance. 
+The current system suffers from leniency bias whereby supervisors 
+arbitrarily issue inflated performance ratings to avoid confrontation, 
+lack of support from management, or other factors that undermine the 
+performance management evaluation process.\27\ The current system also 
+suffers from a sustained lack of trust that employee performance is 
+fairly evaluated and rewarded.\28\ This rule realigns incentives away 
+from `defensive medicine' towards an approach where agencies are 
+incentivized to clearly define performance standards, prioritize 
+mission objectives, and accurately evaluate and reward employees' 
+performance. See 5 U.S.C. 4302(c)(4) and (6). Employee performance 
+ratings will still be based on individual merit and individual 
+performance--not on irrelevant factors like race, political 
+affiliation, or religion. Supervisors who assign ratings based on 
+personal favoritism would continue to violate merit system principles 
+regardless of the rating structure in place, while a standardized 
+distribution would reinforce objective, performance-based 
+differentiation. Thus, distinguishing employees based on relative 
+performance does not conflict with the principle of fair and equitable 
+treatment without regard to prohibited factors such as race, color, 
+religion, sex, national origin, age, or political affiliation (5 U.S.C. 
+2301(b)(2)); rather, it reflects fair and equitable treatment by basing 
+outcomes on job-related performance. Similarly, the prohibition on 
+arbitrary action, personal favoritism, or coercion for partisan 
+political purposes (5 U.S.C. 2301(b)(8)) is directed at improper 
+motives and conduct, not at performance-based distinctions.
+---------------------------------------------------------------------------
+
+    \27\ GAO, Issues Related to Poor Performers in the Federal 
+Workplace, GAO-05-812R (Jun. 29, 2005), 19-21, https://www.gao.gov/assets/gao-05-812r.pdf. See also note 6 at v-vi.
+    \28\ See note 12.
+---------------------------------------------------------------------------
+
+    Commenter 0161 claimed that a standardized distribution 
+specifically conflicts with the merit system principle at 5 U.S.C. 
+2301(b)(6), which requires that employees be retained on the basis of 
+the adequacy of their performance. Similarly, commenters 0004 and 0248 
+voiced concern that adequate performers who happen to be part of high-
+performing teams would be particularly negatively affected by 
+standardized distribution, presuming that supervisors may be required 
+to rate a portion of their subordinates at Level 1 (``Unacceptable'').
+    Any argument that this final rule negatively affects an employee's 
+ability to be retained on the basis of the adequacy of their 
+performance is unfounded. As previously mentioned, OPM intends that the 
+standardized distribution will apply only to the assignment of the 
+highest performance rating levels (Levels 4 and 5) and will not impose 
+limitations on any of the levels at or below Level 3 (``Fully 
+Successful''), such as a ``quota'' requiring the issuance of a certain 
+amount of Level 1 (``Unacceptable'') ratings. Because Level 3 
+represents fully adequate performance and remains unrestricted, the 
+application of a standardized distribution will not require an employee 
+to receive lower than a Level 3 rating, invalidating concerns over 
+associated performance-based demotion or removal. As such, OPM 
+concludes that a standardized distribution does not interfere with an 
+employee's ability to be retained on the basis of the adequacy of their 
+performance and, therefore, does not conflict with 5 U.S.C. 2301(b)(6).
+    Several commenters, including 0159, 0206, 0553, and 0558, objected 
+to the proposed rule's provision that excepted service employees 
+appointed under Schedules C and G may be excluded from the standardized 
+distribution requirements. Commenters assumed that the exclusion was 
+designed to provide an unfair advantage to political appointees. For 
+example, one commenter stated, ``These employees, who are in the 
+excepted service and often political or policy-making positions (90 FR 
+34753), would not be subject to rating caps that career non-SES 
+employees must follow. This exemption creates two separate systems and 
+gives these groups a built-in advantage in obtaining higher ratings and 
+access to awards.'' Comment 0206.
+    OPM notes that, since the publication of the proposed rule, it 
+exempted employees appointed under Schedules C and G from the 
+provisions of subchapter I of chapter 43 of title 5, U.S.C.\29\ Thus, 
+such employees will no longer be required under OPM regulations to 
+receive performance ratings. Despite this exclusion from chapter 43, 
+Schedule C and G employees are still subject to the administrative 
+freeze on discretionary awards, bonuses, and similar payments, such as 
+performance awards and General Schedule quality step increases.\30\ 
+Thus, employees appointed under Schedules C and G will not be rewarded 
+with higher performance ratings and receive greater awards.
+---------------------------------------------------------------------------
+
+    \29\ Scott Kupor, Memorandum, ``Exclusion of Schedule C and G 
+General Schedule positions from Subchapter I of Chapter 43 of Title 
+5, United States Code: Performance Appraisal,'' April 28, 2026, 
+https://www.opm.gov/chcoc/latest-memos/exclusion-of-schedule-c-and-g-general-schedule-positions-from-subchapter-i-of-chapter-43-of-title-5-united-states-code-performance-appraisal.pdf.
+    \30\ Id.
+---------------------------------------------------------------------------
+
+Justification of Policy Change
+
+    Commenters 0225 and 0468 asserted that OPM's proposal to permit 
+standardized distribution is inconsistent with OPM's prior regulatory 
+determinations, including its 1979 and
+
+[[Page 41525]]
+
+1995 final rules in which OPM barred ``preestablished distributions of 
+expected levels of performance (such as a requirement to rate on a bell 
+curve)'' because such practices could ``interfere with appraisal of 
+actual performance,'' \31\ and later concluded that forced distribution 
+systems were ``incompatible with effective performance management.'' 
+\32\ Commenter 0615 argues that OPM did not consider OPM's prior 
+reasons for authorizing union grievances for performance ratings. These 
+commenters argued that OPM has not adequately explained its departure 
+from these prior positions or provided sufficient support to justify 
+reversing them. They further contended that the proposal reflects a 
+change in policy that is not accompanied by a reasoned explanation 
+addressing OPM's earlier findings and conclusions.
+---------------------------------------------------------------------------
+
+    \31\ 44 FR 45587, 45590 (Aug. 3, 1979).
+    \32\ 60 FR 43936, 43936 (Aug. 23, 1995).
+---------------------------------------------------------------------------
+
+    OPM respectfully disagrees that it has not articulated a sufficient 
+reason for departing from its prior statements. As the Supreme Court 
+held in F.C.C. v. Fox Television Stations, the APA requires, as 
+relevant here, that OPM provide a reasoned explanation and show 
+awareness that there is, in fact, a change in policy.\33\ The Court 
+also held that an agency's reasoning need not prove to be a better 
+solution than the status quo but rather that there are good reasons the 
+agency believes support the change in policy.\34\
+---------------------------------------------------------------------------
+
+    \33\ F.C.C. v. Fox Television Stations, 556 U.S. 502, 515-16 
+(2009) (explaining the requirements under the APA that an agency 
+provide a reasoned explanation when changing its position).
+    \34\ Id.
+---------------------------------------------------------------------------
+
+    The 1979 and 1995 rulemakings cited by commenters reflected OPM's 
+judgments at that time based on the record and policy considerations 
+then before the agency. As noted above, one of the central objectives 
+of the CSRA was to reform how Federal agencies accurately assess 
+employee performance. Thus, it was entirely reasonable for OPM to pin 
+its hopes on the CSRA delivering on its promise when issuing its 
+performance appraisal regulations in 1979. And while OPM may have been 
+persuaded in 1995 that forced distributions were incompatible with 
+effective performance management, it is now clear to OPM that changes 
+are necessary to address Congress' concerns of effective performance 
+management. OPM's reevaluation of its performance appraisal system and 
+program regulations is entirely reasonable in light of current 
+conditions: longstanding concerns regarding the lack of meaningful 
+differentiation in performance ratings across the Federal workforce. 
+OPM does not agree that the final rule is unsupported by evidence or 
+rests solely on policy preference. As discussed in the proposed rule, 
+OPM considered multiple sources of information in crafting its 
+determination, including governmentwide data on rating distributions 
+and employee perceptions of performance differentiation. During the 
+comment period agencies informed OPM they supported the proposed 
+changes and believed they would be beneficial. (See comments 0226, 
+0374, and 0375). OPM credits this agency feedback. OPM has also 
+considered commenters' arguments regarding prior policy, the available 
+research, and potential alternatives.
+    Other commenters including 0101, 0157, 0161, 0521, 0553, and 0558, 
+asserted that OPM failed to consider the potential for disparate impact 
+on certain groups of employees. Commenters asserted that research on 
+standardized distribution has demonstrated the potential for 
+discriminatory effects and that OPM should have conducted a disparate 
+impact analysis prior to proposing the rule. Commenter 0553 
+specifically cited Griggs v. Duke Power Co., 401 U.S. 424 (1971), 
+highlighting that ``[f]ederal law prohibits employment practices with 
+an unjustified disparate impact on protected classes.''
+    OPM considered commenters' concerns regarding potential workforce 
+impacts, including claims that standardized distribution could have 
+differential effects across employee populations. However, the final 
+rule establishes a facially neutral performance management framework 
+that requires agencies to evaluate employees based on objective, job-
+related performance standards and does not direct or permit 
+consideration of protected characteristics. Nothing in this final rule 
+authorizes agencies to administer performance appraisal systems in a 
+manner that violates Title VII, the Rehabilitation Act, the Age 
+Discrimination in Employment Act, or any other applicable 
+nondiscrimination requirement. The rule requires ratings to be based on 
+job-related performance standards and objective performance evidence. 
+OPM will consider compliance with legal requirements as part of its 
+certification and oversight process, and may require corrective action 
+where agency implementation is inconsistent with law, regulation, or 
+OPM policy.
+
+Consideration of Empirical Evidence
+
+    Although OPM has provided data demonstrating inflated performance 
+ratings and cited empirical evidence in the proposed rule recognizing 
+the potential benefits (and areas for caution) regarding standardized 
+distribution, several commenters (e.g., Commenters 0005, 0082, 0101, 
+0225, 0468, and 0534) disagree with OPM's interpretations or 
+conclusions and also cite research that counterargues the benefits of 
+forced distribution systems. For example, Commenter 0082 cited studies 
+that found standardized distribution in a team setting significantly 
+reduces knowledge sharing (e.g., Loberg, N[uuml]esch & Foege \35\) and 
+that found standardized distribution may reduce citizenship behaviors 
+and increase counterproductive performance over time (e.g., Moon, 
+Scullen & Latham \36\).
+---------------------------------------------------------------------------
+
+    \35\ Loberg, F., N[uuml]esch, S., & Foege, J.N., The Impact of 
+Forced Distribution Rating Systems on Knowledge Sharing and Team 
+Performance, Journal of Management Control, Vol. 32, 395-423 (2021), 
+available at https://www.sciencedirect.com/science/article/pii/S0167268121001827.
+    \36\ Moon, H., Scullen, S.E., & Latham, G.P., Precarious Curve 
+Ahead: The Effects of Forced Distribution Rating Systems on 
+Organizational Citizenship Behavior and Counterproductive Work 
+Behavior, Human Resource Management Review, Vol. 26, No. 2, 166-179 
+(2016), available at https://www.sciencedirect.com/science/article/abs/pii/S1053482215300024.
+---------------------------------------------------------------------------
+
+    OPM reviewed the empirical studies and findings highlighted by the 
+commenters. In the proposed rule, OPM noted that the literature on 
+standardized distribution reflects a broad range of findings with 
+respect to its efficacy and potential impacts on collaboration, morale, 
+and perceptions of fairness. However, OPM does not agree that the 
+existence of contrary or mixed research findings precludes adopting the 
+changes in the final rule. The APA does not require agencies to resolve 
+all disagreements in the academic literature or to demonstrate that a 
+policy is supported by uniform empirical consensus. OPM has considered 
+the evidence cited in the proposed rule and in comments and has 
+determined that the amendments made in the final rule are necessary to 
+address longstanding concerns regarding the lack of meaningful 
+differentiation in performance ratings across the Federal workforce.
+    Assuming arguendo that the potential concerns identified in the 
+research literature may arise to some extent or in some context(s), OPM 
+has determined that the current degree of rating inflation has so 
+egregiously undermined the credibility and accountability of 
+performance appraisal systems that implementing a standardized
+
+[[Page 41526]]
+
+distribution is the best alternative. Accordingly, OPM concludes that 
+this final rule reflects a reasonable policy judgment, based on the 
+administrative record as a whole, to improve the effectiveness and 
+credibility of performance appraisal systems, notwithstanding some 
+differing views expressed in the research literature.
+
+Impact on Individual Employee Morale and Productivity
+
+    Several commenters asserted that implementing a standardized 
+distribution would have demoralizing and demotivating effects on 
+individual employees leading to reduced performance over time (e.g., 
+Commenters 0002, 0003, 0004, 0013, 0037, 0105, 0159, 0294, and 0522). 
+For instance, Commenter 0013 highlighted that the study by Berger, 
+Harbring, and Sliwka cited in the proposed rule \37\ found that 
+introducing a standardized or quota-based rating system into a 
+previously lenient rating culture can lead to an initial increase in 
+productivity but then a drop-off. Other commenters argued that there 
+are ``more than 40 research studies'' criticizing the use of ``Forced 
+Distribution Rating Systems (FDRS)'' for their negative impacts on 
+teamwork, trust, and long-term engagement. Other commenters (e.g., 0508 
+and 0549) asserted that the proposed rule will trigger a brain drain of 
+technical talent.
+---------------------------------------------------------------------------
+
+    \37\ Berger, J., Harbring, C., & Sliwka, D., Performance 
+Appraisals and the Impact of Forced Distribution: An Experimental 
+Investigation, IZA Discussion Paper No. 5020 (2010), available at 
+https://www.econstor.eu/bitstream/10419/36830/1/63078180X.pdf.
+---------------------------------------------------------------------------
+
+    OPM does not agree that the findings of Berger et al. (2010) \38\ 
+demonstrate that standardized distribution reduces employee motivation 
+in the context of this final rule. To the extent the study identifies a 
+decline in performance following the introduction of a standardized 
+distribution, the authors attribute that effect to changes in employee 
+expectations and reference points--specifically, where employees 
+previously experienced more lenient ratings and higher bonus outcomes. 
+Thus, the observed decline reflects a transitional adjustment in 
+expectations rather than an inherent flaw in the structure of a 
+differentiated rating system.
+---------------------------------------------------------------------------
+
+    \38\ Some commenters cited to a 2013 study by the same authors. 
+Berger, J, Harbring, C., & Sliwka, D., ``Performance appraisals and 
+the impact of forced distribution-an experimental investigation,'' 
+Management Science, 2013, v. 59(1).
+---------------------------------------------------------------------------
+
+    OPM acknowledges that some studies identify risks associated with 
+rigid forced-ranking systems, including reduced collaboration, 
+knowledge sharing, and morale in certain settings. OPM gives those 
+studies limited weight here because the final rule does not require a 
+fixed percentage of employees to receive low ratings, does not require 
+work-unit-level stack ranking, and preserves the requirement that 
+ratings be based on job-related performance standards and actual 
+performance evidence. In addition, each agency will have the latitude 
+to determine how it may apply the distribution among components, grade 
+levels, or supervisory status. This flexibility allows a governmentwide 
+distribution to be equitable as well as tailored to ensure optimal 
+performance within each agency. OPM also recognizes that even upper 
+rating caps may affect employee expectations and workplace culture. For 
+that reason, OPM will monitor implementation through the biennial 
+certification process and may refine distribution criteria based on 
+agency data, including evidence bearing on collaboration, mission 
+performance, rating accuracy, and merit system compliance.
+    Even if OPM credited commenters' citation to these various studies 
+to support their criticisms of the rule, OPM concludes that the 
+potential benefits of authorizing a standardized distribution of 
+ratings outweigh the purported costs of overhauling a performance 
+appraisal system that has failed over the last 40-plus years to enable 
+Federal agencies to accurately assess the job performance of their 
+employees, promote a culture of high performance, and hold employees 
+accountable for poor performance. As Commenter 0450 points out, the 
+private sector has not found a generally accepted or industry-specific 
+solution to performance management and often uses different approaches 
+in search of the same outcome. OPM believes that continuing down the 
+same path as it has since the passage of the CSRA will only produce the 
+same distrust and performance outcomes plaguing Federal agencies. OPM 
+will closely evaluate implementation of this final rule through 
+biennial certification and refine criteria as warranted by data and 
+agency experience.
+
+Impact on Teamwork and Cooperation
+
+    A number of commenters argued that standardized distribution will 
+negatively affect teamwork, knowledge sharing, and cooperation (e.g., 
+0015, 0025, 0037, 0319, 0468, and 0524). Commenters 0015 and 0319 cited 
+various studies on relative performance evaluation systems that report 
+potential adverse effects on cooperation, including reduced knowledge 
+sharing and increased competition among employees rather than 
+contribution to collective outcomes. These commenters contend that such 
+systems are poorly suited to Federal work, which often depends on 
+collaboration and shared mission performance.
+    OPM has considered the studies cited by commenters regarding the 
+potential effects of forced distribution systems on teamwork, 
+collaboration, and knowledge sharing. The cited research, including 
+experimental research on relative performance evaluation systems, 
+generally examines models that rely on strict rank ordering or zero-sum 
+competition among employees. OPM does not agree that these findings are 
+directly applicable to the approach adopted in the final rule.
+    The final rule does not establish a forced ranking model that must 
+be inflexibly applied for all performance ratings and across every 
+individual team. OPM intends only to require a limit on the upper 
+rating levels, measured at the appropriate aggregate agency level, 
+while continuing to require that all performance ratings be based on 
+objective, job-related performance standards. The final rule does not 
+require agencies to assign a fixed percentage of employees to the 
+lowest rating level or to evaluate employees solely on a comparative 
+basis. At this time, ``OPM is not requiring or suggesting any forced 
+ratings distributions at these levels.'' \39\ Accordingly, OPM 
+concludes that the potential adverse effects identified in the cited 
+research--such as reduced knowledge sharing, diminished collaboration, 
+and increased competition--are not relevant to OPM's approach as 
+adopted in this final rule. Because agencies must continue to rate 
+employees against established performance standards rather than against 
+one another and are not required to place a fixed proportion of 
+employees in the lowest rating category, the concerns associated with 
+strict, zero-sum ranking systems do not apply.
+---------------------------------------------------------------------------
+
+    \39\ OPM, ``Bad Management?!,'' available at: https://www.opm.gov/news/secrets-of-opm/bad-management/.
+---------------------------------------------------------------------------
+
+    In accordance with longstanding OPM and GAO guidance, individual 
+performance appraisals should align with achievement of organizational 
+and team goals.\40\ OPM believes that by making competencies like 
+teamwork, problem-solving, collaboration, and mentoring critical 
+elements in individual performance plans, agencies
+
+[[Page 41527]]
+
+will be able to maintain important collaborative and team-focused 
+efforts and reward and incentivize employees to work together in 
+support of team goals.
+---------------------------------------------------------------------------
+
+    \40\ GAO, Creating a Clear Linkage between Individual 
+Performance and Organizational Success, GAO-03-488 (March 2003) 
+(noting, as a key practice, ``[a]lign[ing] individual performance 
+expectations with organizational goals'').
+---------------------------------------------------------------------------
+
+    Concerns over teamwork and collaboration may also be ameliorated by 
+agencies granting awards for team achievements and by applying the 
+standardized distribution the appropriate aggregate agency level. OPM 
+will not require agencies to apply standardized distribution at a level 
+that is too small to support meaningful differentiation. OPM expects 
+distribution requirements to be applied at an appropriate aggregate 
+level and with exceptions or adjustments where warranted by mission, 
+occupational structure, small population size, unusual rating-cycle 
+circumstances, or other factors identified in OPM criteria. Agencies 
+remain responsible for ensuring that ratings are based on job-related 
+performance standards, actual performance evidence, and merit system 
+principles, and for using awards and other forms of recognition in a 
+way that supports collaboration and high performance.
+
+Use in Private Industry
+
+    Commenters such as 0032, 0104, 0169, 0225, 0517, 0629 and others 
+argued standardized distribution has been tested and abandoned by major 
+private-sector organizations due to its negative effects, and that OPM 
+has not explained why it would succeed in the Federal Government where 
+it failed elsewhere. Commenter 0450 asserts that the proposed rule 
+rests on an implied assumption that the private sector's preferred 
+solution is forced rankings despite evidence that private sector 
+organizations have long experimented with a variety of performance 
+management approaches without converging on a universal or industry 
+standard approach.
+    OPM notes that commenters' assertions that private sector 
+organizations have largely abandoned standardized distribution of 
+performance ratings are inaccurate. One recent report estimates that 30 
+percent of Fortune 500 companies use some form of standardized or 
+forced distribution in their performance evaluations.\41\ OPM 
+acknowledges that certain private-sector organizations have moved away 
+from rigid ``stack ranking'' systems and that systematic review of 
+studies on standardized distributions (e.g., Wijayanti, Sholihin, 
+Nahartyo (2024)) \42\ report mixed findings regarding their effects. 
+However, the evolution of private-sector performance management 
+practices reflects not an abandonment of performance differentiation, 
+but a shift away from inflexible quota systems--particularly those 
+requiring assigning a fixed percentage of employees to the lowest 
+rating categories. Many organizations continue to employ structured 
+mechanisms to differentiate performance, such as placing constraints on 
+the number of the highest ratings to ensure that ratings distributions 
+reflect differences in contribution. Accordingly, the private-sector 
+experience cited by commenters does not demonstrate that limiting the 
+concentration of top performance ratings is inherently ineffective or 
+inappropriate. Rather, it supports the conclusion that organizations 
+continue to rely on structured differentiation to ensure that 
+performance ratings meaningfully reflect differences in employee 
+contributions and can be used to allocate rewards in a credible manner.
+---------------------------------------------------------------------------
+
+    \41\ ``Stack Ranking--All You Need to Know,'' Medium (April 3, 
+2020) https://medium.com/@corvisio/stack-ranking-all-you-need-to-know-a5339c27ad83.
+    \42\ Wijayanti, A., Sholihin, M., Nahartyo, E., & Supriyadi, S., 
+What do we know about the forced distribution system: A systematic 
+literature review and opportunities for future research, Management 
+Review Quarterly (2024).
+---------------------------------------------------------------------------
+
+    Further, even if private sector companies have abandoned 
+standardized distributions of performance ratings, there are meaningful 
+reasons to use standardized distributions in the specific context of 
+the civil service. As OPM noted in its proposed rule, private sector 
+companies do not operate under a statutory mandate requiring that they 
+have performance appraisal systems that permit the accurate evaluation 
+of performance. But, under 5 U.S.C. 4302(c)(1), non-SES employees 
+operate under just such a statutory mandate. In addition, the Federal 
+Government is entrusted with many critical responsibilities from 
+veterans' health care to law enforcement to disaster relief to fighting 
+pandemics. When employees in the Federal Government fail to perform at 
+a high level, these crucial, life-or-death missions are compromised. 
+Further, unlike the private sector, the Federal Government lacks a 
+profit motive to ensure meaningful evaluations of its employees.
+    Commenter 0450 also raises concerns with OPM's focus on 
+standardizing the distribution of performance ratings without 
+addressing other challenges, such as supervisor quality, leniency bias, 
+and the administrative burden of performance management. OPM agrees 
+with the commenter that these challenges must also be addressed to 
+reform how the Federal Government approaches performance management. 
+OPM recently published a notice of proposed rulemaking proposing to 
+amend parts 432 and 752 to streamline the process for holding employees 
+accountable for poor performance and misconduct.\43\ In that 
+rulemaking, OPM also proposes to amend part 412 to improve training on 
+performance management and employee accountability. OPM believes these 
+two rulemakings address some of the challenges raised by the commenter. 
+This final rule also addresses, head-on, leniency bias in agencies 
+where supervisors issue inflated performance ratings. The final rule 
+authorizes a standardized distribution of ratings, which OPM intends to 
+apply only to the highest rating levels, so as to require agencies to 
+make meaningful distinctions in employee performance ratings. Between 
+this final rule and the proposed rulemaking, OPM is taking much needed 
+action to address the challenges of an antiquated, failing performance 
+management system.
+---------------------------------------------------------------------------
+
+    \43\ 91 FR 40444 (July 2, 2026).
+---------------------------------------------------------------------------
+
+Interaction With Other Rulemakings
+
+    Commenters 0104, 0157, 0468, 0520, 0616 and others claim that OPM 
+has not adequately addressed how this rule will interact with other 
+pending rules. For instance, OPM is simultaneously pursuing a reduction 
+in force rule that prioritizes ratings over tenure or length of service 
+for determining retention standing. The commenters argue this makes 
+ratings more consequential in the event of a reduction in force. The 
+asserted interactions with other proposed rules are less clear, but the 
+premise appears to be that the proposed rules collectively discourage 
+submitting public comments by demoralizing potential commenters.
+    OPM is committed to significant Federal workforce reforms to 
+promote a workplace culture of high performance and employee 
+accountability. The fact that OPM has taken action to address long-
+standing issues is not based on a desire to impede the public from 
+submitting comments but rather a desire to address longstanding 
+performance management problems plaguing Federal agencies and 
+employees.
+    OPM notes that commenters had an opportunity to submit comments 
+during the public comment period for each of its rulemakings including 
+the proposed rule on reductions in force, and OPM continues to receive 
+higher comment response rates than it has historically
+
+[[Page 41528]]
+
+received. OPM will respond to relevant concerns if or when it issues a 
+final rule in each rulemaking.
+    OPM observes, however, that performance ratings have long affected 
+retention standing in a reduction in force. Such usage is consistent 
+with 5 U.S.C. 3502(a), which requires that OPM issue regulations that 
+``give due effect'' to, inter alia, ``performance ratings'' in 
+determining retention standing among competing employees in a reduction 
+in force. See Am. Fed'n of Gov't Emps., AFL-CIO v. Off. of Pers. Mgmt., 
+821 F.2d 761, 765 (D.C. Cir. 1987). Further, 5 U.S.C. 4302(a)(3) 
+contemplates using appraisal results as a basis for training, 
+rewarding, reassigning, promoting, reducing in grade, retaining, and 
+removing employees. Thus, the interaction between this rulemaking and 
+OPM's reduction in force (RIF) rulemaking does not represent an 
+unexplained gap in OPM's reasoning, but a longstanding feature of the 
+Title 5 statutory scheme.
+    Further, this rule is complementary to OPM's reduction in force 
+proposal, as it seeks to ensure that performance appraisal systems 
+accurately evaluate employee performance while better distinguishing 
+levels of performance. A rule that makes performance matter more in RIF 
+retention and a rule that seeks to improve the accuracy and 
+differentiation of performance ratings address complementary parts of 
+the same merit-based personnel system.
+    OPM appreciates all commenters submitting feedback to the proposed 
+changes to authorize a standardized distribution of performance rating 
+levels. While OPM acknowledges the significance of the change and for 
+the reasons above, this final rule authorizes the use of a standardized 
+distribution of performance rating levels. These amendments retain the 
+longstanding requirement that a rating of record be based on the 
+evaluation of job performance, while removing the categorical 
+prohibition on methods that limit or require particular summary levels. 
+Under the final rule, agencies are required to follow OPM guidance in 
+implementing a standardized distribution of rating levels when issuing 
+employee performance ratings. This change permits OPM to require and 
+enforce an agency-wide and government-wide distribution of performance 
+ratings among all covered non-SES employees.\44\ The final rule 
+clarifies that OPM retains discretion to determine the scope and 
+structure of any standardized distribution, including which rating 
+levels are subject to distribution requirements. OPM intends that any 
+standardized distribution will limit only the highest rating levels 
+(e.g., Levels 4 and 5), rather than prescribing limits for all rating 
+levels.
+---------------------------------------------------------------------------
+
+    \44\ OPM notes that standardized distribution for senior 
+professionals will be addressed under separate final rule. See 
+Office of Personnel Management and Office of Management and Budget, 
+Managing Senior Professional Performance, 91 FR 8763 (Feb. 24, 2026) 
+(proposed rule).
+---------------------------------------------------------------------------
+
+    Finally, the rule text at 5 CFR 430.208(d) expressly provides that 
+comparing, categorizing, and ranking employees on the basis of their 
+performance are practices that may be used for the purpose of assigning 
+a summary level. This change is necessary to support implementation of 
+a standardized distribution of performance ratings while preserving the 
+principle that ratings must reflect employees' demonstrated performance 
+against established standards.
+    Together, these changes align the regulatory text with OPM's 
+determination that comparative evaluation mechanisms are necessary to 
+improve differentiation in performance ratings and to address 
+documented rating inflation across agencies.
+
+Summary Levels and Patterns
+
+    As discussed in the proposed rule, OPM proposed to amend 5 CFR 
+430.208(e) to eliminate summary level patterns with a Level 2 summary 
+level between Level 1 (``Unacceptable'') and Level 3 (``Fully 
+Successful''), and summary level patterns in which Level 4 was the 
+highest summary level. In effect, this change eliminates Level 2 as an 
+available summary level and retains only those summary level patterns 
+that meaningfully promote differentiation in performance. Agencies 
+retain flexibility to select among the remaining available patterns 
+consistent with the requirements of 5 CFR part 430, subpart B.
+    Several commenters (e.g., Commenters 0002, 0004, 0027, 0031, 0036, 
+and 0068) expressed concern that eliminating the Level 2 summary rating 
+level would reduce the ability to distinguish among varying levels of 
+performance and creates an ``all-or-nothing'' rating structure. 
+Commenters argue that Level 2 provides an intermediate rating that 
+allows supervisors to recognize gradations in performance between Level 
+1 and Level 3 and that removing this level could reduce the accuracy of 
+performance evaluations.
+    OPM does not agree that eliminating the Level 2 summary rating 
+level results in a meaningful loss of nuance in performance 
+evaluations. The purpose of summary ratings is to provide a clear, 
+meaningful assessment of whether an employee meets established 
+performance expectations. Arguments that eliminating the Level 2 
+summary rating will remove important granularity in rating employee 
+performance are not supported given the extremely infrequent use of 
+that rating level. OPM's oversight of agency non-SES performance 
+appraisal systems revealed that, for agencies using a five-level 
+summary rating system, only 0.3 percent of non-SES employees were rated 
+at Level 2 for the fiscal years 2022 to 2024.\45\ The minimal use of a 
+Level 2 rating indicates that agencies rarely rely on this summary 
+level to distinguish performance. Supervisors remain responsible for 
+identifying and addressing performance deficiencies at the element 
+level, including providing feedback, documenting deficiencies, and 
+taking appropriate corrective action where needed. Accordingly, OPM 
+does not believe that eliminating the Level 2 rating will prevent 
+agencies from identifying or addressing performance issues or providing 
+employees with required opportunities to improve.
+---------------------------------------------------------------------------
+
+    \45\ Non-SES/SP ratings data submitted by individual agencies.
+---------------------------------------------------------------------------
+
+    Commenters 0098 and 0206 asserted that a Level 2 rating serves as a 
+mechanism for identifying employees whose performance requires 
+improvement but is not ``Unacceptable,'' thereby allowing agencies to 
+address marginal performance without resorting to adverse action. This 
+commenter further stated that ``Under 5 U.S.C. chapter 43 and 
+established merit system principles, agencies must be able to identify 
+and develop employees whose performance is inadequate but 
+recoverable,'' implying that there is a statutory basis for continued 
+use of the Level 2 summary level.
+    OPM respectfully disagrees. Neither chapter 43 nor the merit system 
+principles require use of a Level 2 summary level or any particular 
+number or naming of summary levels. The statutory obligation to 
+identify, assist, and, where necessary, take action with respect to 
+employees whose performance does not meet required standards does not 
+depend on the availability of a separate Level 2 summary rating. This 
+is reflected in the fact that the currently existing rating patterns of 
+A, B, C, and E do not provide for a Level 2 summary rating.\46\ This 
+rule does not create new ratings patterns but merely limits agency 
+selections from among the existing ratings patterns.
+---------------------------------------------------------------------------
+
+    \46\ 5 CFR 430.208(d)(1).
+---------------------------------------------------------------------------
+
+    The final rule eliminates Level 2 as a summary rating level. It 
+does not prevent agencies from providing
+
+[[Page 41529]]
+
+feedback, coaching, or assistance before performance becomes 
+unacceptable. When an employee's performance fails to meet established 
+standards in one or more critical elements, agencies remain required to 
+provide assistance consistent with 5 U.S.C. 4302(c)(5) and Sec.  
+430.207(c), as redesignated.
+    Also, merit system principle #6 (5 U.S.C. 2301(b)(6)) states that 
+``employees should be retained on the basis of the adequacy of their 
+performance, inadequate performance should be corrected, and employees 
+should be separated who cannot or will not improve their performance to 
+meet required standards.'' \47\ This principle conveys that an 
+employee's retention should be based on the adequacy of performance and 
+does not require the use of a Level 2 summary rating level between 
+``Unacceptable'' and ``Fully Successful.'' Under the final rule, 
+``adequate performance'' is considered performance that meets the 
+``Fully Successful'' performance standards. As OPM explained in the 
+proposed rule, any pattern of summary levels that has two levels below 
+``Fully Successful'' creates unnecessary complexity without meaningful 
+distinction. The Merit Systems Protection Board (MSPB) also noted the 
+failings of a Level 2 rating, noting it ``is a difficult level of 
+performance to define'' because ``it makes possible a situation that 
+managers, employees, and members of the public may find intolerable: an 
+employee who is not performing the job satisfactorily, yet cannot be 
+removed for performance and who remains in the position at a full 
+salary.'' \48\
+---------------------------------------------------------------------------
+
+    \47\ 5 U.S.C. 2301(b)(6).
+    \48\ MSPB, Determining an Acceptable Level of Competence for 
+Step Increases (Apr. 2021), https://www.mspb.gov/studies/researchbriefs/Determining_an_Acceptable_Level_of_Competence_for_Step_Increases_1823371.pdf.
+---------------------------------------------------------------------------
+
+    A few commenters (e.g., Commenters 0055, 0226, 0374, 0375, and 
+0621) expressed support for the proposed change, stating that reducing 
+the number of summary rating levels would simplify performance 
+appraisal systems, improve clarity, and help address rating inflation. 
+Commenter 0621 further recommended that, if the Level 2 summary rating 
+is eliminated, OPM should also eliminate the use of ``non-critical 
+elements'' because current regulations preclude assigning a Level 1 
+(``Unacceptable'') summary rating based on consideration of non-
+critical elements.\49\
+---------------------------------------------------------------------------
+
+    \49\ 5 CFR 430.208(b)(2).
+---------------------------------------------------------------------------
+
+    OPM agrees that eliminating redundant patterns of summary levels 
+will improve clarity and promote more meaningful distinctions in 
+performance outcomes. A more streamlined rating framework reduces 
+ambiguity and supports more consistent application of performance 
+standards across organizations. However, OPM does not agree that 
+elimination of the Level 2 summary rating level warrants the removal of 
+non-critical elements. Non-critical elements serve an important and 
+distinct function within performance appraisal systems for employees 
+covered by this subpart. Specifically, they allow agencies to assess 
+and communicate expectations related to important aspects of 
+performance that, while not rising to the level of a critical element, 
+contribute to overall effectiveness, teamwork, and mission 
+accomplishment.
+    Lastly, a few commenters (e.g., 0022 and 0587) expressed concerns 
+about the readiness of agencies to implement the reforms under the 
+proposed rule. OPM considered these concerns and determined it 
+appropriate to delay compliance with 5 CFR 430.208(e)(1) and (2) until 
+January 1, 2027, as described in the effective date of the rule. This 
+delay will allow agencies to complete Fiscal Year 2026 performance 
+appraisals using all five summary level ratings, including Level 2, as 
+appropriate. Under the final rule, agencies will move to new 
+performance appraisal systems without a Level 2 rating beginning at the 
+start of Fiscal Year 2027. Agencies currently using a summary level 
+pattern with Level 2 will have sufficient time to complete the 
+performance appraisal cycle for Fiscal Year 2026 including issuing 
+ratings of record with the option of assigning a Level 2 rating. OPM 
+believes this additional time will allow agencies to complete the 
+transition to a new performance appraisal system including making 
+appropriate changes to their human resources information systems, 
+policies, and procedures.
+    After consideration of the comments, OPM has determined that 
+eliminating summary level patterns that utilize a Level 2 summary level 
+will promote clearer and more consistent application of performance 
+standards. Under the final rule, there is only one summary rating 
+level--Level 1 (``Unacceptable'')--that represents when a non-SES 
+employee's performance fails to meet the fully successful standards. 
+This amendment aligns with OPM's statutory mandate to improve the 
+accuracy and consistency of performance appraisal systems. By 
+eliminating unnecessary patterns of summary levels, agencies will be 
+better positioned to make clear and accurate distinctions between 
+performance that is ``Fully Successful'' and ``Unacceptable.'' The rule 
+also eliminates ambiguity with respect to ``Outstanding'' performance, 
+which under the final rule is identified only by a Level 5 rating. 
+Accordingly, OPM removes Patterns C, D, F, G, and H, retains Patterns A 
+and B, and redesignates Pattern E as C.
+
+Eliminate Assistance for Marginal Performance
+
+    Since OPM is eliminating the Level 2 summary rating, OPM is also 
+removing the provision at 5 CFR 430.207(c), which required appraisal 
+programs to provide assistance whenever performance is determined to be 
+below ``Fully Successful'' or equivalent but above ``Unacceptable.''
+    A number of commenters, including 0062, 0068, 0206, 0240, 0285 and 
+others, objected to removing this requirement because they perceive it 
+as reducing the opportunity for employees to receive assistance if 
+their performance drops below ``Fully Successful.'' Relatedly, 
+Commenter 0521 questioned how eliminating the provision for assistance 
+under 5 CFR 430.207(c) complies with the statutory requirement that 
+performance appraisal systems provide for ``assisting employees in 
+improving unacceptable performance.'' 5 U.S.C. 4302(c)(5).
+    OPM emphasizes that the regulation at 5 CFR 430.207(c) stated that 
+appraisal programs should provide assistance whenever performance is 
+determined to be below ``Fully Successful'' or equivalent but above 
+``Unacceptable.'' Because the final rule eliminates the Level 2 summary 
+level, there are no corresponding performance standards defining Level 
+2 performance. Therefore, any time an employee's performance is 
+determined to be below ``Fully Successful,'' agencies are required 
+under 5 U.S.C. 4302(c)(5) to provide assistance to improve the 
+unacceptable performance. Hence, opportunity for assistance is not 
+diminished under the final rule. Additionally, employees who 
+demonstrate unacceptable performance remain entitled to an opportunity 
+to demonstrate acceptable performance before being reassigned, reduced 
+in grade, or removed.\50\
+---------------------------------------------------------------------------
+
+    \50\ 5 U.S.C. 4302(c)(6) and 5 CFR 430.204(b)(1)(v).
+---------------------------------------------------------------------------
+
+    Furthermore, OPM's performance management guidance emphasizes the 
+importance of communication between supervisors and employees, and OPM 
+instructed agencies to establish policies that require more frequent 
+check-ins to ensure supervisors are providing necessary performance-
+related feedback
+
+[[Page 41530]]
+
+to their subordinates.\51\ These resources for agencies, combined with 
+the increased emphasis on frequent communication and performance 
+feedback, address commenters' concerns regarding employees whose 
+performance falls below ``Fully Successful'' during the appraisal 
+period.
+---------------------------------------------------------------------------
+
+    \51\ See note 14.
+---------------------------------------------------------------------------
+
+Limited Use of Pattern A
+
+    OPM determined that use of Pattern A (``pass/fail'') is reasonable 
+for a limited number of populations in which comparing, categorizing, 
+and ranking of employees is impractical or impossible. In the final 
+rule, Pattern A may only be used for seasonal employees, teachers, 
+General Schedule grades 1-4, and Federal Wage System employees. This 
+change promotes meaningful performance-based differentiation by 
+ensuring the vast majority of employees covered by this rulemaking are 
+subject to a summary level pattern other than Pattern A.
+    OPM received little feedback on this provision. Commenter 0206 
+argues that restricting Pattern A to the aforementioned groups creates 
+structural inequity by making rating options tied to grade level as 
+opposed to job characteristics. Commenter 0206 also asserts that 
+employees subject to this rating pattern may have limited recognition 
+and award opportunities. Other commenters asserted that the proposed 
+rule would impose costly system changes.
+    OPM disagrees that this provision creates structural inequities 
+based on grade level. OPM's intent is for agencies to utilize summary 
+level patterns that, to the greatest extent possible, promote 
+differentiation in performance, while reserving Pattern A for positions 
+where a more detailed rating structure is not practicable. The 
+regulatory framework is designed to provide flexibility while ensuring 
+that performance appraisal systems are appropriate to the nature of the 
+work being performed, and agencies retain discretion to design rating 
+structures consistent with regulatory requirements and organizational 
+needs. Limiting Pattern A to specified categories of employees reflects 
+longstanding practice in which simplified rating structures have been 
+appropriate for these positions. This does not preclude agencies from 
+utilizing Patterns B or C for these groups of employees or from 
+recognizing or rewarding high performance through the use of Pattern A.
+    OPM also acknowledges that this rule may require agencies to modify 
+their human resources information systems to accommodate the changes in 
+this rule. However, commenters fail to provide any specific reason or 
+argument that these changes may be costly. While OPM believes that 
+agencies may incur some non-zero cost to adjust their information 
+systems, such costs are de minimis. Even so, OPM views the costs of 
+these changes as necessary to free agencies from the burden of a 
+performance management appraisal system that has proven ineffective for 
+the last 40-plus years. For these reasons, OPM is adopting in the final 
+rule its proposal limiting the use of Pattern A.
+
+Higher-Level Review and Approval
+
+    OPM proposed eliminating the requirement for mandatory higher-level 
+review and approval of a Level 1 (``Unacceptable'') rating of record to 
+further streamline performance appraisal processes and eliminate 
+procedural hurdles that impede accountability. Several commenters 
+expressed concern that eliminating this requirement removes an 
+important safeguard against error, inconsistency, and potential abuse 
+(e.g., Commenters 0030, 0098, 0152, 0203, 0224, and 0289). Commenters 
+argued that higher-level review provides a critical check on 
+supervisory decisions and helps ensure that highly consequential Level 
+1 ratings are applied accurately and consistently.
+    OPM recognizes the importance of ensuring that all performance 
+ratings, including Level 1 ratings, are applied accurately and 
+consistently. However, OPM does not agree that mandatory higher-level 
+review in all cases is necessary to achieve these objectives. As 
+explained in the proposed rule, mandating an additional level of review 
+and approval adds unnecessary complexity, delays corrective action, and 
+may be redundant in streamlined agency structures. For example, where 
+the rating official is already a senior leader or where the agency 
+structure does not support additional layers of review, a mandatory 
+higher-level review requirement may provide little incremental value. 
+It is also important to note that this change does not prohibit higher-
+level review or approval of a Level 1 rating of record; it simply 
+removes the regulatory mandate that such review and approval occur in 
+every case. Agencies retain discretion to establish internal review 
+processes where appropriate, including authorizing the use of the 
+administrative grievance procedures to review performance ratings, and 
+OPM expects agencies to maintain effective oversight of performance 
+management practices. Further, OPM notes that Level 1 ratings are 
+extremely rare. Relevant data \52\ show that only approximately 0.1 
+percent of employees receive an ``Unacceptable'' rating. Given this 
+very limited usage, removal of a mandatory review step for such ratings 
+will not have a widespread impact on Federal employees. Instead, the 
+change targets a narrow category of clearly defined poor performance 
+while preserving all substantive statutory protections and allowing 
+agencies to tailor their oversight mechanisms to their organizational 
+structures.
+---------------------------------------------------------------------------
+
+    \52\ See note 45.
+---------------------------------------------------------------------------
+
+    Some commenters, including 0159, 0553, and 0558, asserted that 
+eliminating the requirement for mandatory higher-level review of Level 
+1 ratings raises due process concerns because such ratings may 
+ultimately serve as the basis for a performance improvement plan (PIP), 
+demotion, or removal action under chapter 43 of title 5, United States 
+Code. Commenter 0159 specifically cited Cleveland Board of Education v. 
+Loudermill, 470 U.S. 532 (1985), arguing that higher-level review helps 
+satisfy constitutional due process protections before an employee may 
+be deprived of continued Federal employment.
+    OPM respectfully disagrees that eliminating mandatory higher-level 
+review of a Level 1 rating of record deprives employees of 
+constitutionally required due process protections. A rating of record, 
+by itself, does not constitute an adverse action or independently 
+deprive an employee of a protected property interest in continued 
+employment. Commenters' reliance on Loudermill is misplaced. Loudermill 
+does not establish that employees have a vested property interest in 
+higher-level review of a performance rating. Rather, it addresses the 
+minimum procedural protections required before a tenured public 
+employee may be deprived of continued employment. A Level 1 summary 
+rating by itself does not remove an employee from Federal service or 
+otherwise deprive the employee of a property interest. Instead, it 
+initiates a process governed by chapter 43 of title 5, United States 
+Code,\53\ and OPM's regulations at 5 CFR part 432, under which 
+employees are provided notice of unacceptable performance and an 
+opportunity to demonstrate acceptable performance before any 
+performance-based action may be taken. If an employee fails to improve 
+to the ``Fully Successful'' level, the agency must then provide notice 
+of the proposed action and comply with applicable statutory and 
+regulatory
+
+[[Page 41531]]
+
+procedures, including concurrence by a higher-level official before a 
+removal or reduction in grade may occur.
+---------------------------------------------------------------------------
+
+    \53\ See 5 U.S.C. 4303.
+---------------------------------------------------------------------------
+
+    Further, although the final rule removes the governmentwide 
+requirement for mandatory higher-level review of all Level 1 ratings, 
+agencies remain free to establish such review requirements through 
+internal policy or procedure where appropriate. Employees also retain 
+multiple avenues to raise concerns regarding allegedly arbitrary, 
+retaliatory, or discriminatory ratings, including administrative 
+grievances, whistleblower disclosures, prohibited personnel practice 
+complaints, and equal employment opportunity complaints. Accordingly, 
+OPM concludes that the final rule does not eliminate or otherwise 
+conflict with constitutional due process requirements.
+    Commenter 0152 argued that higher level review is necessary because 
+``performance issues are a result of systemic failures, such as 
+inadequate training or a lack of clear guidance, which cannot be solved 
+by penalizing the employee.''
+    OPM disagrees that performance issues are generally the result only 
+of systemic failures. While OPM acknowledges that there are several 
+factors that play a role in whether an employee is successful in his or 
+her position, OPM is unpersuaded by Commenter 0152's broad, unsupported 
+assertion that poor performance is primarily attributable to such 
+factors. That is not to say OPM is not addressing systemic issues that 
+may affect performance management outcomes. As noted above, OPM is 
+proposing regulatory reforms intended to improve how agencies recognize 
+excellence and address poor performance. In addition, OPM has taken 
+separate action to improve hiring processes and outcomes \54\ and to 
+hold supervisors accountable for addressing poor performance within 
+their organizations.\55\ These efforts complement, rather than 
+substitute for, agency responsibility to evaluate and address 
+individual performance consistent with statutory and regulatory 
+requirements.
+---------------------------------------------------------------------------
+
+    \54\ OPM, Memorandum, ``Merit Hiring Plan,'' May 29, 2025, 
+https://www.opm.gov/chcoc/transmittals/2025/Merit%20Hiring%20Plan%205-29-2025%20FINAL.pdf.
+    \55\ See note 14.
+---------------------------------------------------------------------------
+
+    OPM has carefully considered these comments and concludes that 
+eliminating the requirement for mandatory higher-level review of Level 
+1 ratings does not impede due process, nor will it reduce fairness or 
+accuracy in performance evaluations. The final rule provides agencies 
+with appropriate flexibility to manage performance appraisal processes, 
+including the discretion to provide higher-level reviews of any rating 
+level through internal policy. Therefore, OPM is not adopting 
+commenters' recommendations to retain the mandatory higher-level review 
+and approval of Level 1 ratings of record.
+
+Eliminate Negotiated Grievance Procedures
+
+    OPM proposed amending 5 CFR 430.208 to clarify the finality of a 
+rating of record and to establish explicit limitations on the 
+mechanisms by which such ratings may be challenged. Specifically, the 
+amendment provides that a rating of record, once issued with all 
+appropriate reviews and approvals, constitutes the agency's final 
+determination of an employee's performance for the appraisal period, 
+subject only to those reconsideration processes expressly provided by 
+regulation. As a result, ratings of record are not subject to 
+negotiated grievance procedures or arbitration under 5 U.S.C. 7121, 
+regardless of collective bargaining coverage. This change represents a 
+departure from prior practice, under which a rating of record could, in 
+certain circumstances, be modified as a result of a grievance, 
+complaint, or other formal proceeding. OPM notes, however, that the 
+revision to 5 CFR 430.208 does not preclude the use of negotiated 
+grievance procedures established under 5 U.S.C. 7121 to challenge a 
+rating of record in all cases. Where a collective bargaining agreement 
+contains a provision that permits a bargaining unit employee to grieve 
+a rating of record and the agreement is in effect before the date this 
+rule is prescribed, such a grievance will continue up until the term of 
+the agreement expires.\56\ Once the term of the agreement expires, 
+grievances over ratings of record will no longer be subject to any 
+negotiated grievance procedures or arbitration under 5 U.S.C. 7121.
+---------------------------------------------------------------------------
+
+    \56\ See 5 U.S.C. 7116(a)(7).
+---------------------------------------------------------------------------
+
+    Several commenters (e.g., Commenters 0161, 0165, 0569, and 0421) 
+asserted that OPM lacks statutory authority to prohibit employees from 
+contesting ratings of record through negotiated grievance procedures. 
+Commenters argued that under the Federal Labor Relations Authority's 
+decision in Nat'l Treasury Emps. Union and Internal Revenue Serv., 31 
+FLRA 181 (1988) (NTEU), OPM cannot prohibit grievances under a 
+negotiated grievance procedure through a governmentwide regulation 
+unless expressly authorized by Congress under 5 U.S.C. 7121, and that 
+ratings of record are not among the matters excluded in section 
+7121(c).
+    OPM disagrees that the FLRA's decision is controlling as it is no 
+longer good case law. In NTEU, the FLRA held that OPM's governmentwide 
+regulation prohibiting grievances over non-selections for promotion was 
+inconsistent with 5 U.S.C. 7121. The FLRA's holding relied on an 
+earlier D.C. Circuit's opinion in EEOC v. FLRA, 744 F.2d 842 (D.C. Cir. 
+1984) (EEOC) where that court stated that there is no evidence that 
+Congress intended for governmentwide regulations to limit the scope of 
+the negotiated grievance procedure under section 7121.\57\ Five years 
+after NTEU, the D.C. Circuit revisited EEOC in Dep't of Treasury v. 
+FLRA, 996 F.2d 1246 (D.C. Cir. 1993) (Treasury) to determine whether a 
+governmentwide regulation barring grievances is consistent with section 
+7121.\58\ The D.C. Circuit overturned EEOC and held that under 5 U.S.C. 
+7117(a)(1) an agency may ``pull a subject out of the bargaining process 
+by issuing a government-wide rule that creates a regime inconsistent 
+with bargaining.'' \59\
+---------------------------------------------------------------------------
+
+    \57\ NTEU at 200 (citing EEOC v. FLRA, 744 F.2d 842, 851 (DC 
+1984)).
+    \58\ Treasury at 1251-53.
+    \59\ Id.
+---------------------------------------------------------------------------
+
+    Consistent with the D.C. Circuit's opinion in Treasury, OPM is 
+prohibiting labor unions from negotiating and agencies agreeing to a 
+proposal that authorizes grievances over ratings of record under 
+section 7121. In doing so, OPM notes that performance ratings, in and 
+of themselves, do not constitute adverse actions subject to independent 
+statutory appeal rights. To the extent a rating of record is used as 
+the basis for a subsequent personnel action that is otherwise 
+appealable or able to be grieved under applicable law, employees retain 
+any applicable procedural rights attached to that action. However, the 
+rating of record itself will not be subject to challenge through 
+negotiated grievance procedures. Accordingly, OPM concludes that the 
+final rule establishes reforms consistent with 5 U.S.C. 7121 and falls 
+within OPM's statutory authority to regulate performance appraisal 
+systems under chapter 43.
+    Several commenters (e.g., Commenters 0002, 0044, 0053, 0206, 0288, 
+0377, 0418, and 0616) asserted that eliminating the opportunity to 
+challenge performance ratings through negotiated grievance procedures
+
+[[Page 41532]]
+
+undermines due process protections. These commenters argued that 
+grievance procedures provide employees with a meaningful opportunity to 
+contest inaccurate or unfair ratings and serve as an important 
+safeguard against arbitrary decision-making. Commenter 0377 asserted 
+that prohibiting labor union grievances over ratings of record is 
+contrary to law under Cleveland Bd. of Educ. v. Loudermill, 470 U.S. 
+532 (1985).
+    OPM does not agree that the final rule eliminates any required due 
+process protections or is inconsistent with Loudermill. Loudermill 
+addresses the procedural protections required when the government seeks 
+to deprive an employee of a protected property interest and requires 
+notice and an opportunity to respond prior to such deprivation. Ratings 
+of record, standing alone, do not constitute an adverse action or a 
+deprivation of a property interest and therefore do not independently 
+trigger the due process protections described in Loudermill. Moreover, 
+where a performance rating forms the basis for a subsequent 
+performance-based or adverse action under 5 U.S.C. chapters 43 or 75, 
+respectively, employees retain all applicable procedural protections 
+provided by Congress. This includes entitlement to advance notice, an 
+opportunity to respond, a right to representation, and a decision 
+taking into account the employee's response. Most employees also 
+benefit from the ability to appeal such actions to the Merit Systems 
+Protection Board. The proposed rule does not alter these protections. 
+Further, employees continue to enjoy protections against prohibited 
+personnel practices under 5 U.S.C. 2302 including filing complaints 
+with the Office of Special Counsel. Employees also retain protections 
+under the many anti-discrimination laws enforced by the Equal 
+Employment Opportunity Commission. Taken together, these statutory 
+protections ensure that eliminating challenges to ratings through 
+negotiated grievance procedures does not undermine due process or 
+reduce the integrity of the performance appraisal process.
+    Other commenters, including 0003, 0007, 0031, 0059, 0206, 0288, 
+0498, and 0629, claim that challenging ratings through negotiated 
+grievance procedures is a necessary check on supervisory inaccuracy and 
+bias, including favoritism, retaliation, or arbitrary decision-making. 
+Others characterize the procedures as necessary for ensuring fair and 
+equitable treatment required by merit system principles (e.g., 
+Commenters 0053, 0288, and 0319).
+    OPM acknowledges the importance of fair and accurate performance 
+appraisals but disagrees that negotiated grievance procedures are an 
+appropriate or necessary mechanism to achieve that objective. As OPM 
+explained in the proposed rule, grievance arbitrators are poorly 
+positioned to substitute their judgment for that of supervisors in 
+these areas, particularly where the dispute centers on the relative 
+level of performance (e.g., ``Fully Successful'' versus 
+``Outstanding'') rather than a clear procedural or legal violation. 
+These arbitrators are particularly ill-equipped to assess performance 
+ratings assigned under a standardized distribution, as they generally 
+review an individual record and may not have access to the full 
+agencywide rating-distribution context.
+    OPM notes that grievances over ratings have not been limited to 
+correcting clearly erroneous or unjustified low ratings. Instead, cases 
+show that negotiated grievance procedures have frequently been used to 
+contest ratings that are already at or above the ``Fully Successful'' 
+level, with the objective of obtaining the highest possible rating.\60\ 
+Such cases demonstrate the propensity to use grievance procedures not 
+as a safeguard against improper low ratings, but as a mechanism to 
+relitigate performance determinations. This prospect creates incentives 
+for supervisors to avoid assigning lower ratings that may be subject to 
+challenge, especially those that could result in adverse action. In 
+this regard, the current system has tended to bias ratings upward, not 
+downward, but bias in any direction nonetheless undermines the 
+meaningful differentiation of performance that chapter 43 is intended 
+to achieve.
+---------------------------------------------------------------------------
+
+    \60\ See, e.g., Def. Logistics Ag. and AFGE Local 987, 71 FLRA 
+1029 (2020); Farm Serv. Agency and AFGE Local 3354, 56 FLRA 679 
+(2000); Dep't of Veterans Affairs and NAGE Local R4-78, 47 FLRA 797 
+(1993).
+---------------------------------------------------------------------------
+
+    Lastly, as discussed earlier, existing statutory safeguards remain 
+in place to ensure fair and equitable treatment and address concerns 
+regarding bias, retaliation, or improper conduct. Employees retain many 
+paths to ensure they receive a fair assessment of their performance. 
+Further, OPM is amending Sec.  430.209 and Sec.  430.210 to expressly 
+require agencies to administer their performance appraisal systems in 
+accordance with the merit system principles set forth in 5 U.S.C. 2301 
+and that OPM will take effective action to correct any violations. OPM 
+is revising the Authority citation for part 430 to reflect this 
+addition.
+    After careful consideration of the comments, OPM has determined 
+that excluding performance ratings from negotiated grievance procedures 
+is appropriate to promote consistency, accountability, and integrity in 
+performance appraisal systems. OPM has considered commenters' statutory 
+and policy concerns but concludes that the final rule reflects a 
+reasonable and lawful exercise of its authority to regulate performance 
+appraisal systems on a governmentwide basis. OPM concludes that the 
+provision preserves necessary due process safeguards against 
+supervisory bias; employees retain all procedural protections required 
+by law in connection with adverse actions; and agencies maintain 
+internal review mechanisms to ensure the accuracy and consistency of 
+performance evaluations. OPM further finds that the existing grievance 
+framework has contributed to longstanding concerns regarding rating 
+inflation, gives arbitrators with little experience in agency 
+operations the final word on performance ratings, and has frequently 
+been used to challenge ratings at or above the ``Fully Successful'' 
+level, rather than to address clear violations of law or regulation. By 
+clarifying the finality of ratings of record and limiting their review 
+to appropriate internal processes, the final rule promotes supervisory 
+accountability, supports more meaningful differentiation of 
+performance, and aligns performance management practices with the 
+statutory framework under chapter 43. Accordingly, OPM adopts the 
+amendments to Sec.  430.208 as proposed.
+
+Supervisory Critical Element
+
+    As OPM explained in the proposed rule, supervisors are responsible 
+for accurately assessing employee performance and play a critical role 
+in ensuring the integrity of agency performance management systems. 
+However, in the absence of clearly defined and consistently applied 
+expectations for supervisory performance, agencies may lack an 
+effective mechanism to evaluate how well supervisors carry out these 
+responsibilities. This gap can contribute to inconsistent application 
+of performance standards, diminished accountability, and, in some 
+cases, inflated ratings or insufficient action to address poor 
+performance. A supervisory critical element provides a clear, formal 
+basis for evaluating supervisory performance management 
+responsibilities, including setting
+
+[[Page 41533]]
+
+expectations, providing feedback, and addressing performance 
+deficiencies. Establishing such an element ensures that supervisory 
+performance is assessed against defined criteria and reinforces the 
+expectation that supervisors are accountable for effective performance 
+management practices. Accordingly, to strengthen accountability and 
+promote more consistent and accurate performance evaluations, OPM 
+proposed amending 5 CFR 430.206(b) to require that a supervisory 
+critical element be included in the performance plans of all 
+supervisors covered under 5 CFR part 430, subpart B.
+    Several commenters, including 0002 and 0044, expressed concern that 
+the requirement could impose unrealistic or overly burdensome 
+expectations on supervisors, noting that supervisors already face 
+significant administrative and operational demands. Commenter 0044 
+further noted that mandating a supervisory critical element across all 
+agencies may not fully reflect the diversity of supervisory roles 
+within the Federal Government and may reduce agencies' flexibility to 
+tailor performance plans to mission-specific responsibilities.
+    Respectfully, OPM disagrees with commenters' concerns. In 2025, OPM 
+published guidance consistent with the President's commitment to 
+transform the Federal bureaucracy, including promoting a high-
+performance Federal workplace culture.\61\ This guidance required 
+agencies to take steps to improve their supervisory, managerial, and 
+executive corps, including mandatory performance management training 
+and tying certain supervisor and managerial performance plans to 
+driving a culture of accountability. These requirements are not 
+burdensome. Supervisors, managers, and executives are already subject 
+to training requirements under OPM regulations.\62\ Moreover, it is a 
+core competency of all Federal supervisors and managers, regardless of 
+technical specialization or the uniqueness of positions, to hold 
+employees accountable.\63\ OPM does not view linking this core 
+competency to performance plans as unduly burdensome as these 
+expectations have always been critical to their positions. Nonetheless, 
+OPM will be mindful of the commenters' concerns if and when it issues 
+new or revised guidance.
+---------------------------------------------------------------------------
+
+    \61\ See note 14.
+    \62\ 5 CFR part 412, subpart A.
+    \63\ https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/specialty-areas/supervisory-guide/.
+---------------------------------------------------------------------------
+
+    Commenter 0161 expressed support, in principle, for requiring a 
+supervisory critical element but also voiced concern that, if 
+supervisors are evaluated under the new critical element based on the 
+distribution of ratings they assign, it could create an incentive for 
+supervisors to issue lower ratings to their subordinates, regardless of 
+the subordinates' actual level of performance.
+    OPM appreciates the commenter's concern and confirms that the 
+performance of non-SES supervisors will not be evaluated based on the 
+ratings they issue to their subordinates. OPM issued performance 
+management guidance \64\ containing the verbatim language of the new 
+supervisory critical element titled, ``Holding Employees Accountable,'' 
+and its associated performance standards. The critical element focuses 
+on process-based actions such as modeling self-accountability, holding 
+subordinates accountable, rewarding excellent performance, addressing 
+poor performance in a timely manner, and taking appropriate action when 
+employees report concerns of illegal conduct or waste, fraud, or abuse. 
+It does not involve evaluating supervisors based on the ratings 
+distribution of their subordinates. OPM intends for agencies to apply 
+the standardized distribution requirements at the agency or department 
+level as opposed to the work unit level. As such, ratings issued by an 
+individual supervisor will not need to strictly adhere to the overall 
+rating limits that apply to the agency. OPM also notes that it is 
+possible the commenter conflated the supervisory critical element 
+requirement with an SES-specific requirement in the same guidance--that 
+senior executives who supervise 10 or more subordinate SES must 
+describe, in their annual performance narrative, the rating 
+distribution of subordinate SES and how that distribution reflects the 
+performance of their organization. That requirement does not apply to 
+non-SES supervisors.
+---------------------------------------------------------------------------
+
+    \64\ See note 14.
+---------------------------------------------------------------------------
+
+    Commenter 0068 and others suggested that improvements to 
+performance management should focus on enhanced training, clearer 
+standards, and improved oversight, rather than the addition of new 
+regulatory requirements. OPM agrees that improving performance 
+management requires a multifaceted approach. To that end, as discussed 
+above, OPM has proposed changes to other regulations that improve 
+training for supervisory, managerial, and executive leaders. OPM also 
+provided free training resources \65\ to assist agencies and 
+supervisors in effectively carrying out performance management 
+responsibilities, including methods for identifying and addressing poor 
+performance and how to develop and discuss relevant performance goals 
+and objectives with employees. In addition, OPM encourages agencies to 
+provide supervisors with appropriate training and resources to carry 
+out their responsibilities.
+---------------------------------------------------------------------------
+
+    \65\ OPM, New Governmentwide Supervisory Training (Dec. 3, 
+2025), https://www.opm.gov/chcoc/published-memos/new-governmentwide-supervisory-training.pdf.
+---------------------------------------------------------------------------
+
+    After careful consideration of the comments, OPM has determined 
+that requiring a supervisory critical element is an appropriate and 
+necessary component of a modern performance management system. The 
+requirement promotes accountability, reinforces effective supervisory 
+practices, and supports fair and consistent evaluation of supervisory 
+responsibilities across the Federal workforce. Therefore, OPM is 
+amending 5 CFR 430.206(b) as proposed, by adding a new subparagraph 
+(9), requiring that a supervisory critical element be included in the 
+performance plans of all supervisors covered under 5 CFR part 430, 
+subpart B.
+
+Biennial Appraisal System Certifications
+
+    In the proposed rule, OPM proposed amending 5 CFR 430.210(b) to 
+establish a requirement that agency performance appraisal system(s) and 
+program(s) be evaluated and certified by OPM biennially. The purpose of 
+this requirement is to ensure that agency appraisal systems and 
+programs are implemented in a manner consistent with statutory and 
+regulatory requirements, as well as OPM performance management 
+guidance. This change supports OPM's broader objective of strengthening 
+accountability and consistency across agencies, which is particularly 
+important given changes in this final rule, including the provision 
+authorizing OPM to establish and maintain a standardized distribution 
+of rating levels.
+    Commenter 0002 objected to the proposal, arguing that ``[a]gencies 
+already operate under strict oversight.'' Under 5 U.S.C. 4304(b), OPM 
+is required to review each performance appraisal system developed by an 
+agency and to direct agencies to make appropriate corrections where 
+such systems do not meet statutory
+
+[[Page 41534]]
+
+requirements. In practice, OPM fulfills this responsibility by 
+reviewing and approving newly developed appraisal systems and requiring 
+reapproval when agencies make substantive changes. However, where 
+appraisal systems remain in place for extended periods without 
+modification, OPM may have limited opportunity to evaluate how those 
+systems are being applied and whether they continue to meet statutory 
+and regulatory requirements. The biennial review and certification 
+requirement addresses this gap by providing for regular, structured 
+oversight of both the design and application of agency appraisal 
+systems.
+    OPM sought this certification requirement to improve its oversight 
+of agencies' performance appraisal systems in response to surveys 
+showing long-held skepticism among Federal employees that current 
+performance appraisal systems meaningfully differentiate between levels 
+of performance.\66\ Coupled with ratings distribution data that 
+consistently show dramatically inflated performance ratings,\67\ these 
+trends demonstrate that performance management systems covered by 5 CFR 
+part 430, subpart B, are not functioning as effective instruments for 
+performance differentiation, accountability, or workforce development. 
+As such, additional oversight is warranted.
+---------------------------------------------------------------------------
+
+    \66\ See note 12.
+    \67\ See notes 9 and 45.
+---------------------------------------------------------------------------
+
+    Commenters 0002, 0041, 0042, 0044, 0098, 0130, 0253, 0398, 0403, 
+and 0448 argue that this requirement would impose significant 
+administrative burden on agencies without clear benefits.
+    OPM acknowledges these concerns. While OPM intends for the 
+certification requirement to build upon existing agency processes and 
+oversight mechanisms, rather than create duplicative or unnecessarily 
+burdensome reporting requirements, OPM agrees that there could be a 
+substantial administrative burden if the biennial review and 
+certification process involves evaluating all agency appraisal systems 
+and corresponding appraisal programs. Agencies may have several 
+appraisal programs established under a single appraisal system. OPM 
+notes that an ``appraisal system'' is the agency's framework of 
+policies and parameters (i.e., guidelines, boundaries, limits) for the 
+administration of performance appraisal programs, and an ``appraisal 
+program'' is the specific procedures and requirements established under 
+the policies and parameters of an agency appraisal system. 
+Historically, there has been no requirement for OPM to review or 
+approve agency appraisal programs, and OPM is confident that sufficient 
+oversight can be achieved solely through evaluating agencies' 
+application of their performance appraisal systems. Therefore, OPM is 
+finalizing the biennial review and certification requirements in 5 CFR 
+430.210(b) with an amendment to the proposed language to only require 
+recertification of appraisal systems and to remove agency performance 
+appraisal programs from the requirement.
+    Commenters 0206, 0421, and 0514 voiced concern over the provision 
+in 5 CFR 430.210 authorizing OPM to recommend an agency's aggregate 
+awards spending be reduced based on an unfavorable certification 
+result. Commenter 0206 specifically stated it ``risks penalizing 
+employees for systemic issues related to agency leadership, training, 
+or implementation--factors outside individual employee control.''
+    OPM recognizes that agency leadership is primarily responsible for 
+ensuring compliance and that any consequences of an unfavorable 
+certification determination may affect employees. However, in 
+exercising its review and certification authority, OPM will ensure that 
+any recommendations or actions resulting from an unfavorable 
+certification determination are based on data-driven criteria that OPM 
+is required to issue. The intent is to improve system integrity, not to 
+impose punitive measures. OPM further notes that appraisal system 
+certification has been a longstanding requirement for SES and SP 
+appraisal systems and that agencies have successfully implemented those 
+requirements for many years. Furthermore, the outcomes associated with 
+SES and SP certification determinations are significantly more 
+consequential, as those certifications are directly tied to statutory 
+pay limitations. Unlike SES/SP certification, the non-SES/SP 
+certification process created by this rule does not itself impose 
+statutory pay caps or alter individual pay entitlements. OPM may, 
+however, recommend prospective aggregate awards spending limitations to 
+OMB.
+    Conversely, Commenters 0013 and 0225 provided general support for 
+the certification requirement or acknowledged that it could enhance 
+consistency, oversight, and accountability across agencies, 
+particularly when considered alongside other proposed reforms. 
+Commenter 0013 remarked that the proposed rule improves OPM's oversight 
+role. OPM agrees and concludes that enhanced oversight through a 
+required biennial review and certification process is an appropriate 
+mechanism for improving rigor and consistency of performance management 
+across the Federal Government. Accordingly, OPM is adopting the 
+proposed amendment to 5 CFR 430.210 with the modification described 
+above.
+
+Conforming Amendments
+
+    As proposed, OPM is making conforming changes to 5 CFR parts 351 
+and 537 to adjust cross-references. In an unrelated rulemaking, OPM has 
+proposed revisions to the reduction in force regulations found in 5 CFR 
+part 351. 91 FR 10904 (March 5, 2026). If that rulemaking is finalized, 
+these conforming changes would be incorporated into that revised text.
+    Finally, OPM is also making other changes to 5 CFR part 430, 
+subpart B in this final rule. OPM is correcting references to out-of-
+date operating manuals at Sec.  430.209(b) and (e). In response to 
+comments asserting that standardized distribution could undermine 
+merit-system principles, OPM is clarifying at 5 CFR 430.209(g) and 
+430.210(c) that agency appraisal systems and appraisal programs must be 
+administered consistent with the merit system principles set forth 
+under 5 U.S.C. 2301 and that OPM may require corrective action where 
+systems fail to meet applicable legal and regulatory requirements.
+
+Expected Impact of This Rulemaking
+
+A. Statement of Need
+
+    OPM is issuing this rule pursuant to its authority to issue 
+regulations governing performance appraisals for non-SES employees in 
+subchapter I of chapter 43 of title 5, United States Code. As discussed 
+in the Background, the purpose of this rule is to modernize and 
+strengthen the performance management framework for non-SES employees 
+under 5 CFR part 430, subpart B. The current regulatory structure has 
+remained largely unchanged for decades. Therefore, it no longer 
+reflects the operational realities or accountability standards 
+necessary for today's Federal workforce. This has led to persistent 
+issues going unaddressed--including inflated performance ratings, 
+limited differentiation between successful and unsuccessful 
+performance, and uneven agency compliance with statutory performance 
+appraisal requirements. Despite OPM's non-regulatory efforts to improve 
+rigor in the performance management process, ratings inflation remains 
+particularly acute, leading OPM
+
+[[Page 41535]]
+
+to conclude that comprehensive regulatory reform is needed. By 
+providing for the establishment of a standardized distribution of some 
+or all rating levels, streamlining certain appraisal processes to 
+strengthen accountability for poor performance, and requiring OPM to 
+biennially review and certify agency non-SES appraisal systems, this 
+rule is designed to promote increased accuracy and credibility in 
+performance appraisals.
+
+B. Impact
+
+    OPM is making these revisions to increase the efficiency and 
+effectiveness of performance management for employees that make up the 
+biggest percentage of all Federal employees: non-SES employees. 
+Removing the regulatory prohibition on standardized distribution and 
+authorizing OPM to establish and maintain a standardized distribution 
+of some or all rating levels is expected to produce a more normalized 
+distribution of performance ratings. These changes will require 
+agencies to refocus efforts on ensuring that there are meaningful 
+distinctions in non-SES performance ratings.
+    OPM expects that the implementation of a standardized distribution, 
+in conjunction with the provisions in this rule that eliminate barriers 
+to accountability, will incentivize improved performance of non-SES 
+employees, who will no longer expect to receive the highest ratings 
+without demonstrating superior performance relative to the other non-
+SES employees in their agency. Those non-SES employees who continue to 
+perform at a level that is less than fully successful will be more 
+swiftly held accountable. Over time, these improvements are expected to 
+result in higher-performing organizations, more responsive public 
+service, and renewed public trust in the integrity and effectiveness of 
+the Federal workforce.
+    OPM's biennial evaluation and certification of agency appraisal 
+systems will serve as a structured mechanism for agencies to 
+demonstrate compliance, identify deficiencies, and receive technical 
+assistance from OPM regarding the operation and application of their 
+performance appraisal system(s). OPM expects that this process will 
+enhance interagency comparability and help ensure that non-SES 
+appraisal systems continue to conform with applicable law, regulation, 
+and OPM policy.
+Reliance Interests
+    In addition to the concerns identified above, some commenters 
+expressed concern with the impacts of the proposed rule. Commenter 0260 
+asked OPM to consider the impacts of the proposed rule on ``technical 
+professionals, workforce quality, and the government's ability to 
+recruit and retain qualified engineers and other specialists.'' The 
+commenter, however, did not offer more to explain how the proposed rule 
+would impact these issues. Other commenters similarly raised issues of 
+productivity, retention, and morale. OPM believes that the final rule 
+will remedy the problem of inflation of performance ratings and, 
+therefore, restore integrity and confidence in the performance 
+management appraisal process. This, in turn, is expected to incentivize 
+employees to focus on delivering mission-driven results and to enable 
+agencies to better distinguish and reward high performance. As a 
+result, the Federal workforce, including technical professionals, 
+should see better alignment between performance expectations and 
+mission priorities and more appropriate recognition for demonstrated 
+performance. OPM does not foresee an impact on recruitment but 
+acknowledges that those employees who have grown accustomed to inflated 
+performance ratings may receive lower ratings and fewer awards. OPM 
+views the final rule as realigning incentives so that such employees 
+will work closely with their supervisors to understand performance 
+expectations and identify additional ways to contribute to their 
+agencies' success. Where employees are dissatisfied with these changes, 
+including expectations about their individual performance, OPM 
+anticipates some may choose to leave their current agencies for another 
+or Federal service altogether. OPM believes it is far too speculative 
+to estimate how many employees may leave Federal service or how that 
+might impact agencies.
+    Some commenters raised concerns with the impact of the rule on 
+collective bargaining agreements. One commenter noted that OPM 
+explained in the preamble how a final rule would interact with 
+collective bargaining agreements but objected that this explanation 
+appeared in a footnote rather than in regulatory text. As discussed in 
+the proposed rule, OPM acknowledges that a collective bargaining 
+agreement may contain provisions that are in effect before the date the 
+final rule is prescribed.\68\ If such a conflict arises, the provisions 
+in the collective bargaining agreement would control until the term of 
+the agreement expires. OPM does not agree with the notion that this 
+principle of Federal labor law should be codified in the regulatory 
+text of the final rule. There is adequate and well-established FLRA 
+case law that provides guidance to agencies on how to apply new 
+governmentwide regulations.
+---------------------------------------------------------------------------
+
+    \68\ 5 U.S.C. 7116(a)(7).
+---------------------------------------------------------------------------
+
+    OPM acknowledges, however, that any pending grievances or 
+arbitrations concerning ratings of record that continue past the term 
+of a collective bargaining agreement authorizing grievances over 
+ratings of record may be affected by the final rule. In these 
+situations, OPM expects agencies to assert that such grievances are no 
+longer arbitrable and that any arbitrator therefore lacks authority to 
+adjudicate the dispute. Agencies are encouraged, where appropriate, to 
+convert these grievances to administrative grievances to the extent 
+they are consistent with their internal administrative grievance 
+policies. OPM also reminds labor unions and agencies that they may 
+engage in collective bargaining, as appropriate, in anticipation of 
+these changes to provide greater certainty to their employees.
+
+C. Costs
+
+    This final rule affects most Federal agencies--ranging from 
+cabinet-level departments to small independent agencies--that have 
+employees covered under 5 CFR part 430, subpart B. Individuals employed 
+by these agencies will spend time updating their performance appraisal 
+system(s), program(s), policies, and plans to prepare for 
+implementation before the end of Fiscal Year 2026. Typically, an 
+agency's human resources staff are responsible for these tasks. 
+Therefore, for this cost analysis, the assumed average salary rate of 
+Federal employees performing this work will be the rate in 2026 for GS-
+14, step 5, in the Washington, DC, locality pay table ($163,104 annual 
+locality rate and $78.15 hourly locality rate). We assume the total 
+dollar value of labor, which includes wages, benefits, and overhead, is 
+equal to 200 percent of the wage rate, resulting in an assumed labor 
+cost of $156.30 per hour. We estimate that, in the first year following 
+publication of the final rule, this will require an average of 22,500 
+hours of work governmentwide, resulting in estimated costs of about 
+$23,445 per agency and about $3,516,750 governmentwide. Additionally, 
+USAPerformance, an IT tool used by many agencies to service their 
+performance management systems, will be updated to reflect the removal 
+of summary level patterns where Level 4 is the highest summary level or 
+that include a Level 2 summary level. We
+
+[[Page 41536]]
+
+estimate that this will require 400 hours of work at the rate of $390 
+per hour, resulting in an estimated cost of $156,000. There are also 
+approximately 48 other agency-specific IT systems used for performance 
+management requiring the same update. OPM estimates the cost to each 
+agency will be similar to that of USAPerformance, resulting in an 
+estimated $7,488,000 in total costs to update these other systems.
+    To comply with the regulatory changes in this rule, OPM must 
+evaluate and certify the operation and application of agency 
+performance appraisal system(s) and program(s) on a biennial basis. We 
+estimate that, in the first year following publication of the final 
+rule, this will require 150 hours of work by OPM employees with an 
+average hourly cost of $156.30. This work will result in estimated 
+costs in that first year of implementation of about $23,445.
+    OPM anticipates that the regulatory changes in this rule will not 
+substantially increase the ongoing administrative costs to agencies 
+(including any administrative costs associated with OPM's biennial 
+review of agency appraisal system(s)) because the regulation provides 
+cost-saving provisions such as eliminating mandatory review of Level 1 
+(``Unacceptable'') ratings of record and eliminating challenges to 
+ratings of record through the grievance provisions of 5 U.S.C. 7121, 
+thereby eliminating those associated labor costs.
+    A small number of commenters raised concerns regarding the 
+potential costs associated with implementing the rule. Commenter 0161 
+asserted that the rule does not account for increased workload 
+associated with performance improvement plans and adverse actions, 
+while Commenter 0225 suggested that the changes could lead to increased 
+costs related to employment disputes, including adverse action and EEO 
+litigation.
+    OPM does not agree that the final rule will result in material 
+increases in the types of costs identified by the commenters. With 
+respect to performance improvement plans and adverse actions, these 
+processes are already required under existing statutory frameworks and 
+are part of routine performance management responsibilities. The final 
+rule does not impose new requirements in these areas but is intended to 
+improve the accuracy and credibility of performance ratings, which may 
+reduce the need for corrective actions driven by unclear or inflated 
+evaluations. With respect to potential litigation-related costs, OPM 
+notes that the final rule does not alter the legal standards governing 
+adverse actions or EEO claims, nor does it create new bases for 
+challenge. Any such costs are contingent on agency-specific 
+implementation and compliance with existing legal requirements, rather 
+than the structure of the rule itself. Nor do commenters identify or 
+explain how litigation costs may increase as a result of the proposed 
+rule. Accordingly, OPM concludes that the cost estimates provided in 
+the proposed rule do not need to be amended.
+
+D. Benefits
+
+    Since 5 CFR part 430, subpart B, covers positions that include GS 
+and prevailing rate employees, its impact is governmentwide. Non-SES 
+employees are the backbone of the Federal Government and are, 
+therefore, critical to the operation of an effective and efficient 
+government. The application of a standardized distribution within the 
+non-SES employee performance appraisal system will reinforce the 
+understanding that success as a Federal employee is aligned to the 
+appropriate rating at the fully successful level. By establishing a 
+limit on the number of non-SES employees who can receive a rating above 
+the fully successful level, there will be a clear distinction of the 
+highest performers across an agency and the Federal Government. 
+Agencies will no longer be able to rate the vast majority of their non-
+SES employees at the highest performance ratings, thus encouraging 
+employees to strive for increased levels of performance and ultimately 
+provide better results for the Government and the American public.
+    The removal of summary level patterns that include a ``Level 2'' 
+also simplifies and increases the rating accuracy of non-SES employees. 
+A ``Level 2'' rating is rarely used and can be confusing because it 
+creates a performance rating that allows an employee to remain in their 
+position when their performance is not ``Fully Successful.'' Its 
+removal eliminates redundancy, simplifies rating scales, and allows 
+agencies to more clearly distinguish between satisfactory and 
+unsatisfactory performance. This simplification will also help 
+supervisors communicate expectations more clearly and apply performance 
+standards more consistently across the workforce.
+    The new biennial certification requirement will also strengthen 
+OPM's oversight of non-SES employees and aid in continuous improvement. 
+The establishment of a biennial oversight mechanism will ensure that 
+OPM and all impacted Federal agencies are complying with the 
+congressional requirements of 5 U.S.C. 4302. Recurring certification 
+will aid OPM in identifying inconsistencies or deficiencies in agency 
+appraisal systems, promote best practices across the Government, and 
+enable OPM to provide targeted technical assistance where needed. This 
+ongoing review process will foster greater accountability, 
+transparency, and uniformity in the administration of performance 
+appraisal systems, thereby improving public confidence in Federal 
+workforce management.
+
+E. Regulatory Alternatives
+
+    An alternative to this rulemaking is to not permit standardized 
+distributions and instead issue further guidance encouraging agencies 
+to be increasingly rigorous in their management of non-SES performance 
+to promote meaningful distinctions in non-SES performance. However, OPM 
+has concluded this is not a viable option. Previous attempts to achieve 
+this result through guidance have not been successful in curbing 
+inflated non-SES employee ratings. Without the ability to place limits 
+on the ratings of non-SES employees, there will almost certainly 
+continue to be a pervasive inflation of ratings and a lack of 
+accountability and meaningful distinction in performance ratings.
+    Another alternative to this rulemaking is to keep all patterns of 
+summary levels that include a ``Level 2.'' Instead, OPM could issue 
+further guidance on the appropriate use of any ratings below a ``Level 
+3,'' and instruct agencies to hold employees in this rating level more 
+accountable. However, the use of a summary level pattern that includes 
+a ``Level 2'' has not aided agencies in meaningfully distinguishing 
+between performers at different rating levels, as evidenced by the 
+extremely rare use of the Level 2 rating.
+    Another alternative to this rulemaking is to not create a biennial 
+certification requirement. Instead, OPM could issue further guidance 
+encouraging agencies to be increasingly rigorous in managing the 
+performance of their non-SES employees. OPM could exercise its 
+authority and include a more rigorous review of agency performance 
+management results in its human capital oversight, conducted by OPM's 
+Office of Merit Systems Accountability and Compliance. Oversight 
+agencies have noted for decades that there are issues with the 
+performance management of Federal employees and guidance has proven to 
+be ineffective at materially improving an agency's performance 
+management system. By contrast, a biennial certification requirement 
+will guarantee a regular, recurring review of
+
+[[Page 41537]]
+
+each agency's performance management system and require compliance with 
+5 CFR part 430, subpart B. Therefore, the biennial certification 
+requirement will better aid OPM and the Federal Government as a whole 
+in meeting the statutory requirements for performance management 
+systems.
+
+F. Severability
+
+    If any of the provisions of this rule as finalized are held to be 
+invalid or unenforceable by its terms, or as applied to any person or 
+circumstance, it shall be severable from its respective section(s) and 
+shall not affect the remainder thereof or the application of the 
+provision to other persons not similarly situated or to other 
+dissimilar circumstances. For example, if the implementation of a 
+standardized distribution of ratings were held to be unenforceable, the 
+remaining provisions established by this final rule would remain in 
+effect.
+
+Regulatory Compliance
+
+A. Regulatory Flexibility Act
+
+    The Director of OPM certifies that this rulemaking will not have a 
+significant economic impact on a substantial number of small entities 
+because it will apply only to Federal agencies and employees.
+
+B. Regulatory Review
+
+    OPM has examined the impact of this rule as required by E.O.s 12866 
+and 13563, which direct agencies to assess all costs and benefits of 
+available regulatory alternatives and, if regulation is necessary, to 
+select regulatory approaches that maximize net benefits (including 
+potential economic, environmental, public, health, and safety effects, 
+distributive impacts, and equity). A regulatory impact analysis must be 
+prepared for economically significant rules as defined by section 
+3(f)(1) of E.O. 12866. This rulemaking does not reach that threshold 
+but has otherwise been designated a ``significant regulatory action'' 
+under section 3(f) of E.O. 12866. This rule is not considered an E.O. 
+14192 regulatory action because it imposes no more than de minimis 
+costs.
+
+C. Federalism
+
+    This regulation will not have substantial direct effects on the 
+States, on the relationship between the National Government and the 
+States, or on distribution of power and responsibilities among the 
+various levels of government. Therefore, in accordance with E.O. 13132, 
+it is determined that this final rule does not have sufficient 
+federalism implications to warrant preparation of a Federalism 
+Assessment.
+
+D. Civil Justice Reform
+
+    This regulation meets the applicable standards set forth in section 
+3(a) and (b)(2) of E.O. 12988.
+
+E. Unfunded Mandates Reform Act of 1995
+
+    Section 202 of the Unfunded Mandates Reform Act of 1995 (UMRA) 
+requires that agencies assess anticipated costs and benefits before 
+issuing any rule that would impose spending costs on State, local, or 
+tribal governments in the aggregate, or on the private sector, in any 1 
+year of $100 million in 1995 dollars, updated annually for inflation. 
+That threshold is currently approximately $206 million. This rulemaking 
+will not result in the expenditure by State, local, or tribal 
+governments, in the aggregate, or by the private sector, in excess of 
+the threshold. Thus, no written assessment of unfunded mandates is 
+required.
+
+F. Congressional Review Act
+
+    The Office of Management and Budget's (OMB) Office of Information 
+and Regulatory Affairs has determined this rule does not meet the 
+criteria listed in 5 U.S.C. 804(2). In addition, this is a rule 
+relating to agency management or personnel and does not come within the 
+meaning of the term ``rule'' as used in 5 U.S.C. 804(3). Therefore, the 
+reporting requirement of 5 U.S.C. 801 does not apply.
+
+G. Paperwork Reduction Act
+
+    This regulatory action will not impose any reporting or 
+recordkeeping requirements under the Paperwork Reduction Act.
+
+List of Subjects
+
+5 CFR Part 351
+
+    Administrative practice and procedure, Government employees.
+
+5 CFR Part 430
+
+    Decorations, Government employees.
+
+5 CFR Part 537
+
+    Administrative practice and procedure, Government employees, 
+Students, Wages.
+
+Signing Statement
+
+    The Director of OPM, Scott Kupor, reviewed and approved this 
+document and has authorized the undersigned to electronically sign and 
+submit this document to the Office of the Federal Register for 
+publication.
+
+Office of Personnel Management.
+Jerson Matias,
+Federal Register Liaison.
+
+    Accordingly, for the reasons stated in the preamble, OPM amends 5 
+CFR parts 351, 430, and 537 as follows:
+
+PART 351--REDUCTION IN FORCE
+
+0
+1. The authority citation for part 351 continues to read as follows:
+
+    Authority: 5 U.S.C. 1302, 3502, 3503; E.O. 14284, 90 FR 17729; 5 
+CFR 2.2(c). Sec. 351.801 also issued under E.O. 12828, 58 FR 2965.
+
+Subpart E--Retention Standing
+
+
+Sec.  351.504  [Amended]
+
+0
+2. In Sec.  351.504, remove each reference to ``430.208(d)'' and add in 
+its place ``430.208(e)''.
+
+PART 430--PERFORMANCE MANAGEMENT
+
+0
+3. The authority citation for part 430 is revised to read as follows:
+
+    Authority: 5 U.S.C. 2301, chapter 43 and 5307(d).
+
+Subpart B--Performance Appraisal for General Schedule, Prevailing 
+Rate, and Certain Other Employees
+
+0
+4. Amend Sec.  430.206 by revising paragraph (b)(6) and adding 
+paragraph (b)(9) to read as follows:
+
+
+Sec.  430.206  Planning performance.
+
+* * * * *
+    (b) * * *
+    (6) A performance plan established under an appraisal program that 
+uses only two summary levels (pattern A as specified in Sec.  
+430.208(e)(1)) shall not include non-critical elements.
+* * * * *
+    (9) The performance plan of any supervisor covered under this 
+subpart must include a supervisory critical element comprised of 
+supervisory requirements established by OPM and agency-established 
+criteria for protecting whistleblowers, as required by 5 U.S.C. 
+4302(b).
+
+
+Sec.  430.207  [Amended]
+
+0
+5. Amend Sec.  430.207 by:
+0
+a. Removing paragraph (c); and
+0
+b. Redesignating paragraph (d) as paragraph (c).
+
+
+0
+6. Revise and republish Sec.  430.208 to read as follows:
+
+
+Sec.  430.208  Rating performance.
+
+    (a) As soon as practicable after the end of the appraisal period, a 
+written, or otherwise recorded, rating of record must be given to each 
+employee.
+
+[[Page 41538]]
+
+    (1) A rating of record must be based only on the evaluation of 
+actual job performance for the designated appraisal period.
+    (2) An agency must not issue a rating of record that assumes a 
+level of performance by an employee without an actual evaluation of 
+that employee's performance.
+    (3) Except as provided in paragraph (i) of this section, a rating 
+of record is final when it is issued to an employee with all 
+appropriate reviews and signatures.
+    (b) Rating of record procedures for each appraisal program must 
+include a method for deriving and assigning a summary level as 
+specified in paragraph (d) of this section based on appraisal of 
+performance on critical elements and, as applicable, non-critical 
+elements.
+    (1) A Level 1 summary (``Unacceptable'') must be assigned if and 
+only if performance on one or more critical elements is appraised as 
+``Unacceptable.''
+    (2) Consideration of non-critical elements must not result in 
+assigning a Level 1 summary (``Unacceptable'').
+    (c) OPM may establish, and refine as needed, a standardized 
+distribution of some or all rating levels which agencies must apply 
+when rating employees, except that employees appointed under Schedules 
+C or G in the excepted service may be excluded from such standardized 
+distribution requirements, as determined by OPM.
+    (d) The method for deriving and assigning a summary level, as may 
+be established by OPM as described in paragraph (c) of this section, 
+may involve comparing, categorizing, and ranking employees or groups on 
+the basis of their performance. Such procedures may also be used, where 
+otherwise authorized by law and regulation, to inform award 
+determinations and promotion decisions.
+    (e) Summary levels. (1) An appraisal program must use one of the 
+following patterns of summary levels, but Pattern A may only be used 
+for seasonal employees, teachers, General Schedule grades 1-4, and 
+Federal Wage System employees:
+
+------------------------------------------------------------------------
+                                               Summary level
+             Pattern             ---------------------------------------
+                                     1       2       3       4       5
+------------------------------------------------------------------------
+A...............................      X   ......      X   ......  ......
+B...............................      X   ......      X   ......      X
+C...............................      X   ......      X       X       X
+------------------------------------------------------------------------
+
+    (2) Within any of the patterns shown in paragraph (e)(1) of this 
+section, summary levels must comply with the following requirements:
+    (i) Level 1 through Level 5 are ordered categories, with Level 1 as 
+the lowest and Level 5 as the highest;
+    (ii) Level 1 is ``Unacceptable'';
+    (iii) Level 3 is ``Fully Successful'' or equivalent; and
+    (iv) Level 5 is ``Outstanding'' or equivalent.
+    (3) The term ``Outstanding'' may be used only to describe the 
+summary level ``Level 5.''
+    (4) The designation of a summary level and its pattern shall be 
+used to provide consistency in describing ratings of record and as a 
+reference point for applying other related regulations, including, but 
+not limited to, assigning additional retention service credit under 
+Sec.  351.504 of this chapter.
+    (5) Under the provisions of Sec.  351.504(e) of this chapter, the 
+number of years of additional retention service credit established for 
+a summary level of a rating of record shall be applied in a uniform and 
+consistent manner within a competitive area in any given reduction in 
+force, but the number of years may vary:
+    (i) In different reductions in force;
+    (ii) In different competitive areas; and
+    (iii) In different summary level patterns within the same 
+competitive area.
+    (f) The rating of record or performance rating for a disabled 
+veteran must not be lowered because the veteran has been absent from 
+work to seek medical treatment as provided in Executive Order 5396.
+    (g) When a rating of record cannot be prepared at the time 
+specified, the appraisal period must be extended. Once the conditions 
+necessary to complete a rating of record have been met, a rating of 
+record must be prepared as soon as practicable.
+    (h) Each rating of record must cover a specified appraisal period. 
+Agencies must not carry over a rating of record prepared for a previous 
+appraisal period as the rating of record for a subsequent appraisal 
+period(s) without an actual evaluation of the employee's performance 
+during the subsequent appraisal period.
+    (i) When either a regular appraisal period or an extended appraisal 
+period ends and any agency-established deadline for providing ratings 
+of record passes or a subsequent rating of record is issued, an agency 
+must not produce or change retroactively a rating of record that covers 
+that earlier appraisal period except that a rating of record may be 
+changed--
+    (1) Within 60 days of issuance based upon an informal request, as 
+specified in agency policies and procedures, by the employee;
+    (2) As a result of a formal proceeding permitted by law or 
+regulation, other than a negotiated grievance procedure barred by 
+paragraph (k) of this section, that results in a final determination by 
+appropriate authority that the rating of record must be changed or as 
+part of a bona fide settlement of a formal proceeding; or
+    (3) Where the agency determines that a rating of record was 
+incorrectly recorded or calculated.
+    (j) A performance rating may be prepared at such other times as an 
+appraisal program may specify for special circumstances including, but 
+not limited to, transfers and performance on details.
+    (k) Subject to 5 U.S.C. 7116(a)(7), a rating of record may not be 
+challenged through the negotiated grievance procedures established 
+under 5 U.S.C. 7121.
+
+
+0
+7. Amend Sec.  430.209 by revising paragraphs (b), (e), and (g) and 
+adding paragraph (h) to read as follows:
+
+
+Sec.  430.209  Agency responsibilities.
+
+* * * * *
+    (b) Transfer the employee's most recent ratings of record, and any 
+subsequent performance ratings, when an employee transfers to another 
+agency or is assigned to another organization within the agency in 
+compliance with part 293 of this chapter and instructions in the OPM 
+Guide to Personnel Recordkeeping;
+* * * * *
+    (e) Report ratings of record data to OPM in compliance with 
+instructions in the OPM Guide to Human Resources Reporting;
+* * * * *
+    (g) Ensure that agency performance appraisal system(s) and 
+performance appraisal program(s) are administered consistent with the 
+merit system principles set forth under 5 U.S.C. 2301; and
+    (h) Take any action required by OPM to ensure conformance with 
+applicable law, regulation, and OPM policy.
+
+
+0
+8. Amend Sec.  430.210 by revising paragraphs (b) and (c) to read as 
+follows:
+
+
+Sec.  430.210  OPM responsibilities.
+
+* * * * *
+    (b) OPM must evaluate and certify the operation and application of 
+an agency's performance appraisal system(s) on a biennial basis. OPM 
+may recommend that the Office of Management and Budget limit an 
+agency's aggregate awards spending based on an unfavorable evaluation. 
+OPM must issue biennial certification criteria and policy.
+
+[[Page 41539]]
+
+    (c) If OPM determines that an appraisal system or program does not 
+meet the requirements of applicable law, regulation, or OPM policy, 
+including but not limited to the merit system principles set forth 
+under 5 U.S.C. 2301, it shall direct the agency to implement an 
+appropriate system or program or to take other corrective action.
+
+PART 537--REPAYMENT OF STUDENT LOANS
+
+0
+9. The authority citation for part 537 continues to read as follows:
+
+    Authority: 5 U.S.C. 2301, 2302, and 5379(g). E.O. 11478, 3 CFR, 
+1966-1970 Comp., p. 803, unless otherwise noted; E.O. 13087, 63 FR 
+30097, 3 CFR, 1998 Comp., p. 191; and E.O. 13152, 65 FR 26115, 3 
+CFR, 2000 Comp., p. 264.
+
+
+Sec.  537.108  [Amended]
+
+0
+10. In 5 CFR 537.108(b), remove the reference to ``5 CFR 430.208(d)'' 
+and add in its place a reference to ``5 CFR 430.208(e)''.
+
+[FR Doc. 2026-13715 Filed 7-6-26; 8:45 am]
+BILLING CODE 6325-39-P

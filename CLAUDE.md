@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-A benchmark for LLM agents doing policy research over a frozen snapshot of Federal Register documents about the DHS final rule ending "duration of status" for F-1 students. The agent under test answers 16 questions (Q1–Q16, 100 points) in `tasks/f1/TASK.md` using only Federal Register tools; a second LLM agent (the grader) scores the answer against a confidential key. The task is set as of 2026-11-14. See `README.md` for the full flag tables and the per-question point table.
+A benchmark for LLM agents doing policy research over a frozen snapshot of Federal Register documents about the DHS final rule ending "duration of status" for F-1 students. The agent under test answers 16 questions (Q1–Q16, 100 points) in `tasks/f1/TASK.md` using only Federal Register tools; a second LLM agent (the grader) scores the answer against a confidential key. The task is set as of 2026-11-14. Two further tasks share the harness, tools, corpus and date: `tasks/tariffs/` (15 questions on the 2026 section 338 actions against Canada and the section 301 forced-labor tariffs) and `tasks/rif/` (14 questions on OPM's 2026 reduction in force rules). See `README.md` for the full flag tables and the per-question point tables.
 
 There is no test suite or linter. Python 3.13+, managed with `uv`.
 
@@ -32,7 +32,7 @@ uv run analysis/plot_cost_vs_score.py                      # cost vs. score plot
 - `grader.py` — loads the task's `rubric.toml`, builds a stable (cacheable) prefix of TASK + `ANSWER_KEY.md` + rubric, and has the grader agent return yes/no/unclear verdicts per criterion without seeing point values. Points are computed deterministically in code (`score_verdicts`): credits, penalties, gates with factors, caps, and ladders, with `unclear` counted as `no` in the headline score (`score_min`/`score_max` bound it). `validate_rubric` checks the rubric's consistency.
 - `fr_tool.py` — stdlib-only Federal Register search/read tool. Reads full text from `corpus/` first, then the cache, then the network. `FR_TOOL_AS_OF=YYYY-MM-DD` hides later documents (recorded in each run's config).
 - `corpus/` — frozen snapshot, `<doc-number>.txt` + `.json` metadata per document. To add a document, copy its pair from `.fr_cache/` (gitignored download cache) into `corpus/`. Some documents are deliberate distractors.
-- `tasks/f1/rubric.toml` — Q1–Q12 keep their original criteria on an older scale and carry `criteria_points`; `grader.py` rescales them to the question's `points`. Q13+ are written directly in final points. Where it differs from `ANSWER_KEY.md`, `rubric.toml` decides points. A rubric's optional `[grader]` table overrides the F-1 wording in `GRADER_INSTRUCTIONS` (`finding`, `outside_sources`).
+- `tasks/f1/rubric.toml` — Q1–Q12 keep their original criteria on an older scale and carry `criteria_points`; `grader.py` rescales them to the question's `points`. Q13+ are written directly in final points. The tariffs and RIF rubrics do the same for questions kept from earlier drafts; their open-ended questions are count ladders against a verified list in the key. Where it differs from `ANSWER_KEY.md`, `rubric.toml` decides points. A rubric's optional `[grader]` table overrides the F-1 wording in `GRADER_INSTRUCTIONS` (`finding`, `outside_sources`).
 
 ## Rules to preserve
 

@@ -1,0 +1,903 @@
+# Machine-readable scoring rubric, derived from ANSWER_KEY.md.
+#
+# The grader agent gives a verdict ("yes", "no" or "unclear") for every
+# criterion. grader.py turns verdicts into points; the grader never sees points.
+#
+#   kind = "credit"   yes earns `points`
+#   kind = "penalty"  yes deducts `points`
+#   kind = "gate"     no points; a group whose gate is not "yes" is multiplied
+#                     by the group's `factor`
+#
+# Ladders: "at least k" criteria that count items. Only the unbroken run of
+# "yes" from the first rung counts.
+# A question's score is (credits - penalties), clamped to [0, question points].
+# Q1-Q10 and Q12 keep the criteria of earlier drafts on their original scale and
+# carry `criteria_points`; grader.py rescales them to the question's `points`.
+# Q11, Q13 and Q14 are written directly in final points.
+#
+# Where this file and the point split in ANSWER_KEY.md differ, this file
+# decides the points. Criterion text should still be read with the key.
+
+[grader]
+finding = "an OPM finding"
+outside_sources = "the eCFR, OPM or MSPB websites"
+
+[[question]]
+id = "Q1"
+points = 3
+criteria_points = 10
+
+[[question]]
+id = "Q2"
+points = 3
+criteria_points = 12
+
+[[question]]
+id = "Q3"
+points = 2
+criteria_points = 8
+
+[[question]]
+id = "Q4"
+points = 3
+criteria_points = 9
+
+[[question]]
+id = "Q5"
+points = 3
+criteria_points = 9
+
+[[question]]
+id = "Q6"
+points = 1
+criteria_points = 7
+
+[[question]]
+id = "Q7"
+points = 4
+criteria_points = 13
+
+[[question]]
+id = "Q8"
+points = 3
+criteria_points = 7
+
+[[question]]
+id = "Q9"
+points = 7
+criteria_points = 20
+
+[[question]]
+id = "Q10"
+points = 1
+criteria_points = 5
+
+[[question]]
+id = "Q11"
+points = 10
+
+[[question]]
+id = "Q12"
+points = 7
+criteria_points = 18
+
+[[question]]
+id = "Q13"
+points = 28
+
+[[question]]
+id = "Q14"
+points = 25
+
+# Applied to every question; ids become e.g. "q3_cite".
+[[per_question_penalty]]
+suffix = "cite"
+points = 1
+text = "Citation discipline: a substantial share of the factual claims in this answer have no FR document number, CFR paragraph or FR page citation."
+
+[[per_question_penalty]]
+suffix = "fab"
+points = 2
+text = "Fabrication: the answer invents a source. Yes only for (i) an FR document number, FR page citation or CFR paragraph that does not exist; (ii) a quotation, in quotation marks, that does not appear in the cited source; (iii) a provision, statement or figure attributed to a source that has no basis anywhere in that source; or (iv) the text of a CFR paragraph that no Federal Register document prints, quoted or stated as fact from memory. Not fabrication: misreading, misapplying or overstating the scope of a real provision, a wrong inference from real text, an arithmetic slip, or misnumbering a real provision that is otherwise described correctly. Those errors lose the related credit criteria instead. Check citations the key does not cover with the tools before answering yes."
+
+# --------------------------------------------------------------------------- Q1
+[[criterion]]
+id = "q1a_rule"
+question = "Q1"
+points = 2
+text = "(a) Identifies FR Doc. 2026-15665, 91 FR 49178 (page range to 49227 welcome but not required), published August 3, 2026, effective September 2, 2026, docket OPM-2025-0107, RIN 3206-AO86. The document number, both dates, the docket number and the RIN are required."
+
+[[criterion]]
+id = "q1b_nprm"
+question = "Q1"
+points = 0.5
+text = "(b) Identifies the proposed rule as FR Doc. 2026-04377, 91 FR 10904, published March 5, 2026."
+
+[[criterion]]
+id = "q1c_first"
+question = "Q1"
+points = 1
+text = "(c) Lists the correction FR Doc. 2026-17335, published August 25, 2026, effective September 2, 2026, and describes it as correcting typographical or clerical errors in amendatory instructions and regulatory text (non-substantive)."
+
+[[criterion]]
+id = "q1c_second"
+question = "Q1"
+points = 1.5
+text = "(c) Lists the correcting amendment FR Doc. 2026-18800, published and effective September 15, 2026, and says it restores paragraphs (1)(i) and (1)(ii) of the definition of 'displaced' in 5 CFR 330.602 (CTAP), which the final rule had inadvertently removed."
+
+[[criterion]]
+id = "q1d_applicability"
+question = "Q1"
+points = 1.5
+text = "(d) Says that a RIF whose notice the agency issued before September 2, 2026 stays under the regulations in effect when the notice was issued, and a RIF whose notice is issued on or after September 2, 2026 is under the amended rules; and says where this is stated (the DATES line and/or the implementation section of the preamble, 91 FR 49178 or 49206-49207). No if the answer makes the RIF's effective date, not the notice date, the test."
+
+[[criterion]]
+id = "q1e_appeals"
+question = "Q1"
+points = 1
+text = "(e) Lists the RIF appeals final rule, FR Doc. 2026-15666 (effective September 2, 2026, in force), and says it replaces the appeals subpart of part 351 (subpart I, 351.901 and following) so that RIF appeals go to OPM. Mention of 351.802(a)(6) or 351.807(e) is welcome but not required."
+
+[[criterion]]
+id = "q1e_leave"
+question = "Q1"
+points = 1.25
+text = "(e) Lists FR Doc. 2026-21320 (administrative leave), says it revises 5 CFR 351.806, gives its effective date as November 18, 2026, and says it is not yet in force on November 14, 2026."
+
+[[criterion]]
+id = "q1e_senior"
+question = "Q1"
+points = 1.25
+text = "(e) Lists FR Doc. 2026-21316 (senior professional performance), says it amends 5 CFR 351.203 (definition of rating of record) and/or 351.503, gives its effective date as November 18, 2026, and says it is not yet in force on November 14, 2026."
+
+# --------------------------------------------------------------------------- Q2
+[[criterion]]
+id = "q2a_abbott"
+question = "Q2"
+points = 0.5
+text = "(a) Abbott: performance credit 17 (7 + 5 + 5), no veterans' points, total 17."
+
+[[criterion]]
+id = "q2a_bianchi"
+question = "Q2"
+points = 1.5
+text = "(a) Bianchi: performance credit 8 (5 + 0 + 3, Level 2 earning 0), plus 5 veterans' points, total 13. No if Level 2 is given any points or the 5 points are missing."
+
+[[criterion]]
+id = "q2a_castillo"
+question = "Q2"
+points = 2
+text = "(a) Castillo: performance credit 17 and 0 veterans' points, total 17, because under 5 CFR 351.504(b) a retired member whose retired pay is based on 20 or more years of active service (and who has no qualifying disability retirement) is not a preference eligible for RIF purposes. No if Castillo is given 3 or 5 points."
+
+[[criterion]]
+id = "q2a_dalton"
+question = "Q2"
+points = 2
+text = "(a) Dalton: two ratings, so a proxy value of 3.5 ((7 + 0) / 2) under 351.503(f)(2); performance credit 10.5; plus 3 veterans' points; total 13.5. The 13.5 is required."
+
+[[criterion]]
+id = "q2a_eze"
+question = "Q2"
+points = 1
+text = "(a) or (b) Eze: performance credit 15, no veterans' points, total 15, and placed in tenure subgroup II (not a career employee). Both the 15 and subgroup II are required."
+
+[[criterion]]
+id = "q2a_fontaine"
+question = "Q2"
+points = 1.5
+text = "(a) Fontaine: one rating, so performance credit is 5 x 3 = 15 under 351.503(f)(3); total 15. No if the credit is given as 5."
+
+[[criterion]]
+id = "q2b_order"
+question = "Q2"
+points = 1.5
+text = "(b) Gives the order of retention, highest first, as Abbott, Castillo, Fontaine, Eze, Dalton, Bianchi, and explains both ties: Abbott ahead of Castillo on the earlier service computation date, and Fontaine ahead of Eze because tenure subgroup I ranks ahead of subgroup II (351.501(c)). The full order and both explanations are required."
+
+[[criterion]]
+id = "q2b_released"
+question = "Q2"
+points = 0.5
+text = "(b) Says the two employees released are Bianchi and Dalton."
+
+[[criterion]]
+id = "q2c_old"
+question = "Q2"
+points = 1
+text = "(c) Says Bianchi would have stood above Abbott under the earlier rules, because, as the 2026 final rule describes them (91 FR 49198), employees were ranked by tenure group, then by veterans' preference subgroup AD, A, B, and only then by service as augmented by performance credit. The basis in the 2026 documents' description is required; a bare assertion from memory is no."
+
+[[criterion]]
+id = "q2d_records"
+question = "Q2"
+points = 0.5
+text = "(d) Says that, having received a specific RIF notice, she may inspect the retention register and related records under 5 CFR 351.506, including the complete register with the names of the other employees, their performance credit as augmented by veterans' preference, and their service computation dates."
+
+# --------------------------------------------------------------------------- Q3
+[[criterion]]
+id = "q3a_case_a"
+question = "Q3"
+points = 1
+text = "(a) Case A: not a preference eligible for RIF purposes; 0 points; subgroup B (351.504(b): retired pay based on 20 or more years, no qualifying disability retirement)."
+
+[[criterion]]
+id = "q3a_case_b"
+question = "Q3"
+points = 1.5
+text = "(a) Case B: not a preference eligible for RIF purposes; 0 points; subgroup B, because under 351.504(b)(4) a retiree at the rank of major or above (a Navy commander) must be a disabled veteran and also meet one of (b)(1), (2) or (3), and he meets none of those three. No if the answer gives him 5 or 3 points."
+
+[[criterion]]
+id = "q3a_case_c"
+question = "Q3"
+points = 1
+text = "(a) Case C: preference eligible; 5 points; subgroup AD (351.504(b)(1)(i) with (b)(4), and 351.504(a)(1))."
+
+[[criterion]]
+id = "q3a_case_d"
+question = "Q3"
+points = 1
+text = "(a) Case D: not a preference eligible for RIF purposes; 0 points; subgroup B (retired pay based on 20 or more years; none of (b)(1)-(3) met)."
+
+[[criterion]]
+id = "q3a_case_e"
+question = "Q3"
+points = 1.5
+text = "(a) Case E: preference eligible, because his retired pay is not based on 20 or more years of active service (351.504(b)(2)) and he retired below the rank of major; 3 points; subgroup A (disability under 30 percent). No if the answer gives 0 or 5 points."
+
+[[criterion]]
+id = "q3b_scd_a"
+question = "Q3"
+points = 0.75
+text = "(b) Employee A's service computation date is September 7, 2008: credit only for the 2 years of campaign service (351.505(b)(2)(i))."
+
+[[criterion]]
+id = "q3b_scd_c"
+question = "Q3"
+points = 0.75
+text = "(b) Employee C's service computation date is September 7, 1996: credit for all 14 years of active service because he is a preference eligible (351.505(b)(2)(ii))."
+
+[[criterion]]
+id = "q3c_labels"
+question = "Q3"
+points = 0.5
+text = "(c) Says the veterans' preference subgroups (AD, A, B) are identifiers shown on the retention register (and in the notice) and are not themselves a ranking step or tie-breaker; preference works through the 5 or 3 points added to performance credit."
+
+# --------------------------------------------------------------------------- Q4
+[[criterion]]
+id = "q4a_farah"
+question = "Q4"
+points = 1.5
+text = "(a) Farah's performance credit is 13: the three most recent ratings are Level 5 (7), Level 3 (3) and Level 3 (3)."
+
+[[criterion]]
+id = "q4b_cutoff_date"
+question = "Q4"
+points = 0.5
+text = "(b) Gives the cutoff date as July 20, 2026 (September 3, 2026 minus 45 days)."
+
+[[criterion]]
+id = "q4b_credit"
+question = "Q4"
+points = 2
+text = "(b) With the cutoff, Farah's performance credit is 11: the August 10, 2026 rating is not used, and the three most recent ratings before the cutoff are Level 3 (3), Level 3 (3) and Level 4 (5)."
+
+[[criterion]]
+id = "q4c_not_on_record"
+question = "Q4"
+points = 1
+text = "(c) Says the rating cannot be used: it was not on record (available to the office that establishes the registers) until after the cutoff date, and 351.503(c)(2)-(3) require a rating to be on record and bar new ratings from being put on record and used after the cutoff."
+
+[[criterion]]
+id = "q4d_gina"
+question = "Q4"
+points = 2
+text = "(d) Gina's performance credit is 12: the August 15, 2022 rating falls outside the four-year period (which starts September 3, 2022), leaving two ratings (5 and 3), a proxy value of 4, and 5 + 3 + 4 = 12 (351.503(f)(2)). No if the answer gives 15."
+
+[[group]]
+id = "q4e"
+question = "Q4"
+gate = "q4e_flag"
+factor = 0.5
+
+[[criterion]]
+id = "q4e_modal"
+question = "Q4"
+group = "q4e"
+points = 2
+text = "(e) Says Hank's performance credit must be based on the modal rating, as defined in 5 CFR 351.203, for the summary level pattern of his position (351.503(f)(1)). Award yes whether or not the answer goes on to state a number; overconfidence is handled by the q4e_flag gate, not here. No if the answer gives him zero credit, or applies the one-rating or two-rating formula as if it settled the matter. An answer that suggests a number by analogy (for example three times the value of the modal level) and says the text does not give the formula still earns yes."
+
+[[criterion]]
+id = "q4e_flag"
+question = "Q4"
+kind = "gate"
+text = "(e) Flags at least one of these gaps: the 2026 text gives no formula for turning the modal rating into a performance credit (for example whether its value is counted three times); or the definition of modal rating is not printed in the 2026 documents; or the scenario does not say what the modal rating is, so no number can be computed. No if the answer states a specific credit for Hank (for example 9) as settled without any such caveat."
+
+# --------------------------------------------------------------------------- Q5
+[[criterion]]
+id = "q5a_i_rules"
+question = "Q5"
+points = 1
+text = "(a)(i) Says the earlier rules govern the RIF noticed on August 28, 2026, even though it takes effect on October 27, 2026, because the notice was issued before September 2, 2026."
+
+[[criterion]]
+id = "q5a_i_result"
+question = "Q5"
+points = 2
+text = "(a)(i) Says Park is released (Lee is retained), with the arithmetic from the final rule's description of the earlier rules (91 FR 49186): Level 3 ratings add 12 years and Level 5 ratings add 20 years of service credit, giving Lee an adjusted service date of 1986 and Park 1999, and the earlier adjusted date ranks higher. The result and the 12-year and 20-year figures (or the adjusted dates) are required."
+
+[[criterion]]
+id = "q5a_ii"
+question = "Q5"
+points = 1.5
+text = "(a)(ii) Says the amended rules apply to a notice issued on September 2, 2026 (on or after the effective date) and Lee is released: Lee 9 points, Park 21 points."
+
+[[criterion]]
+id = "q5a_iii"
+question = "Q5"
+points = 0.5
+text = "(a)(iii) Says Lee is released under the amended rules for the notice issued on September 3, 2026."
+
+[[criterion]]
+id = "q5b_no_recalc"
+question = "Q5"
+points = 1.5
+text = "(b) Says retention standing is not recalculated: under 5 CFR 351.805(b) an amended notice issued solely to state a later effective date is not a new specific RIF notice for 351.507 and does not require recalculating retention standing. Citing 351.805(b) is required. Adding that the October 15 rating is outside the four-year period ending with the issuance of the notices is welcome but not required."
+
+[[criterion]]
+id = "q5c_version"
+question = "Q5"
+points = 0.75
+text = "(c) Version of the rules: fixed by the date the agency issues the RIF notice (before, or on or after, September 2, 2026), per the DATES line or the implementation section of the final rule's preamble."
+
+[[criterion]]
+id = "q5c_window"
+question = "Q5"
+points = 0.75
+text = "(c) Four-year period for ratings: ends at the date of issuance of the RIF notices, or at the agency's cutoff date if it uses one (351.503(c)(1)-(2)). The cutoff alternative is welcome but not required."
+
+[[criterion]]
+id = "q5c_standing"
+question = "Q5"
+points = 1
+text = "(c) Tenure subgroup and retention standing: fixed as of the date the employee receives the specific RIF notice (351.502 and/or 351.507(a)). No if the answer says the date the agency issues the notice or the RIF effective date."
+
+# --------------------------------------------------------------------------- Q6
+[[criterion]]
+id = "q6a_reach"
+question = "Q6"
+points = 1.5
+text = "(a) Says Jordan's assignment right reaches positions 1, 2 and 3 (GS-12, GS-11 and GS-10 held by lower-standing employees), and rules out position 4 (more than three grades below), position 5 (holder has higher standing), position 6 (different work schedule) and position 7 (different competitive area), under 5 CFR 351.701(a)-(b). All seven positions must be treated correctly."
+
+[[criterion]]
+id = "q6a_offer"
+question = "Q6"
+points = 1
+text = "(a) Says the agency must offer position 1 (the GS-12 held by Ellis), as the position requiring no reduction or the least possible reduction in representative rate."
+
+[[criterion]]
+id = "q6b_five"
+question = "Q6"
+points = 1
+text = "(b) Says the limit becomes five grades, so position 4 (GS-9) also comes within reach; the offer remains position 1. The five-grade limit and position 4 are required."
+
+[[criterion]]
+id = "q6c_level1"
+question = "Q6"
+points = 1
+text = "(c) Says Jordan has no assignment right under 351.701, because paragraph (a) covers only employees whose current annual rating of record is Level 2 (minimally satisfactory) or higher."
+
+[[criterion]]
+id = "q6d_excepted"
+question = "Q6"
+points = 1
+text = "(d) Says 351.701 gives assignment rights only to competitive service employees; excepted service employees have them only if the agency, at its discretion, has adopted provisions under 351.705(a) (which reach other positions under the same appointing authority)."
+
+[[criterion]]
+id = "q6e_level2"
+question = "Q6"
+points = 0.75
+text = "(e) Says the final rule eliminated the former restriction (former 351.701(d)) that kept employees with a Level 2 current rating from positions held by employees with a higher rating (91 FR 49204)."
+
+[[criterion]]
+id = "q6e_bump"
+question = "Q6"
+points = 0.75
+text = "(e) Says the final rule consolidated the former bump and retreat provisions (351.701(b) and (c)) into a single assignment right to a position held by an employee with lower retention standing; the separate concepts are no longer used (91 FR 49204)."
+
+# --------------------------------------------------------------------------- Q7
+[[criterion]]
+id = "q7a_mspb"
+question = "Q7"
+points = 1.5
+text = "(a) Says the Merit Systems Protection Board hears the appeal, because OPM's RIF appeals rule (FR Doc. 2026-15666) applies only to RIF actions for which the agency issued the specific RIF notice on or after September 2, 2026, and this notice was issued on August 31. No if the answer says OPM because the separation took effect after September 2."
+
+[[criterion]]
+id = "q7a_board_rule"
+question = "Q7"
+points = 1
+text = "(a) Cites the Board's own final rule, FR Doc. 2026-16456 (91 FR 51997), in which the MSPB says it will continue to adjudicate, and accept for filing, RIF appeals where the agency's RIF notice was issued before the effective date. The document number or FR citation is required."
+
+[[criterion]]
+id = "q7b_opm"
+question = "Q7"
+points = 0.5
+text = "(b) Says the appeal goes to OPM (5 CFR 351.901(a), as revised by FR Doc. 2026-15666)."
+
+[[criterion]]
+id = "q7b_count"
+question = "Q7"
+points = 1
+text = "(b) Shows the counting rule: 30 calendar days from the effective date, the first day counted being the day after the effective date (December 19, 2026), so that the 30th day is Sunday, January 17, 2027, and the period then runs to the first workday after it (351.902(b)). January 17, 2027 as the 30th day is required."
+
+[[criterion]]
+id = "q7b_date"
+question = "Q7"
+points = 1.5
+text = "(b) Gives the last day as Tuesday, January 19, 2027, because Monday, January 18, 2027 is a federal holiday. No if the answer gives January 17 or January 18, 2027 as the deadline."
+
+[[criterion]]
+id = "q7b_efile"
+question = "Q7"
+points = 0.5
+text = "(b) Says the appeal must be filed through the electronic filing system identified on OPM's website and is timely if filed by 11:59 p.m. Eastern Time on the last day."
+
+[[criterion]]
+id = "q7c_burden"
+question = "Q7"
+points = 1
+text = "(c) Says the employee bears the burden of proof, by a preponderance of the evidence, to show that the agency failed to comply with a statute or OPM regulation governing RIF actions and that the failure prejudiced her (351.901(b)). Timeliness and jurisdiction are welcome but not required."
+
+[[criterion]]
+id = "q7c_hearing"
+question = "Q7"
+points = 1
+text = "(c) Says she is not entitled to a hearing: review is on the written record unless OPM determines a hearing is necessary and efficient (351.905(c))."
+
+[[group]]
+id = "q7d"
+question = "Q7"
+gate = "q7d_flag"
+factor = 0.5
+
+[[criterion]]
+id = "q7d_text"
+question = "Q7"
+group = "q7d"
+points = 1.5
+text = "(d) Says that under 5 CFR 351.901(c) the subpart's procedures are the sole and exclusive means of appealing a RIF action, and a RIF action may not be raised under a negotiated grievance procedure or contested through grievance arbitration."
+
+[[criterion]]
+id = "q7d_flag"
+question = "Q7"
+kind = "gate"
+text = "(d) Reports the preamble's position on existing agreements: the rule does not retroactively invalidate existing collective bargaining agreements (it limits bargaining when agreements are renegotiated), and/or questions about existing agreement provisions are left to the appropriate forum under chapter 71. No if the answer says only that the grievance is barred, with nothing about existing agreements."
+
+[[criterion]]
+id = "q7e_court"
+question = "Q7"
+points = 1
+text = "(e) Says that under the rule a party cannot obtain judicial review of a decision under the subpart (351.901(c)(4)) and/or there is no further right of appeal from OPM's final decision (351.909(e)). Adding a caveat that the rule's bar on judicial review might itself be contested is fine. No if the answer says she can appeal to the Federal Circuit as of right."
+
+[[criterion]]
+id = "q7f_tolling"
+question = "Q7"
+points = 1.5
+text = "(f) Says she may still appeal under 351.902(b)(3), within 30 calendar days after the decision on the Office of Special Counsel matter becomes final: by April 9, 2027. The date is required. Mentioning that OPM decides in its discretion whether the decision materially affects her rights is welcome but not required."
+
+[[criterion]]
+id = "q7g_where"
+question = "Q7"
+points = 1
+text = "(g) Says the applicability rule is stated only in the DATES line and preamble of the appeals rule, not in the regulatory text (the preamble says the final regulatory text does not include a separate applicability note in 351.901; 91 FR 49248)."
+
+# --------------------------------------------------------------------------- Q8
+[[criterion]]
+id = "q8a_adopted"
+question = "Q8"
+points = 1.5
+text = "(a) Identifies FR Doc. 2026-21320 as revising 5 CFR 351.806, effective November 18, 2026, and says it is not in force on November 14, 2026 (so it was also not in force on October 26)."
+
+[[criterion]]
+id = "q8a_new_text"
+question = "Q8"
+points = 1
+text = "(a) Gives the adopted text: under ordinary circumstances an employee remains in a duty status during the notice period, and nothing precludes the agency from placing the employee on administrative leave for all or part of the notice period when it determines such leave is appropriate and consistent with part 630, subpart N."
+
+[[criterion]]
+id = "q8a_today"
+question = "Q8"
+points = 0.5
+text = "(a) Says that under the version applying today the employee is to be kept in a duty status during the notice period 'when possible', as the rulemaking documents describe the current section (the current section itself is not printed in full)."
+
+[[criterion]]
+id = "q8b_consent"
+question = "Q8"
+points = 1
+text = "(b) Says consent is not needed under the adopted text: the agency provides administrative leave at its sole and exclusive discretion (5 CFR 630.1403(c), including paragraph (c)(10) for the RIF notice period), and/or the preamble says leave may be provided with or without the employee's consent."
+
+[[group]]
+id = "q8b"
+question = "Q8"
+gate = "q8b_flag"
+factor = 0.5
+
+[[criterion]]
+id = "q8b_cap"
+question = "Q8"
+group = "q8b"
+points = 1.5
+text = "(b) Says the 10-workday limit is for investigative leave and does not apply here, and that the text states no numeric cap for administrative leave during a RIF notice period under 630.1403(c)(10); as for 12 weeks, the answer must deal with the governmentwide limit: either that the text and the preamble at 91 FR 65927 attach it to the uses in 630.1403(c)(9) and (c)(11), or that other preamble passages speak of a 12-week limit for workforce realignment leave generally so that it may reach this leave, which here lasts under 8 weeks either way. Both the 10-workday point and the 12-week point are required. Yes whether the answer treats 'no cap' or '12 weeks' as the likelier reading."
+
+[[criterion]]
+id = "q8b_flag"
+question = "Q8"
+kind = "gate"
+text = "(b) Flags uncertainty on the cap: for example, that the text does not say whether the governmentwide (12-week) limit or agency limits reach leave under (c)(10), or that the rule is not yet in force. No if the answer states as a settled matter, with no caveat, either that there is no limit at all or that a 12-week limit applies."
+
+[[criterion]]
+id = "q8c_guidance"
+question = "Q8"
+points = 0.5
+text = "(c) Says OPM points to its policy guidance, the Template for Agency Administrative Leave Policies (July 30, 2025; CPM 2025-12), which already provided that an agency official may provide administrative leave between an employee's receipt of a notice of involuntary separation and the separation date (91 FR 65926)."
+
+[[criterion]]
+id = "q8d_no_effect"
+question = "Q8"
+points = 1
+text = "(d) Says no: the provisions address only whether an employee may be placed in a paid, non-duty status, and do not alter the substantive or procedural requirements of a RIF, such as competition, retention registers or appeal rights (preamble to FR Doc. 2026-21320, 91 FR 65926)."
+
+# --------------------------------------------------------------------------- Q9
+# Twelve steps: nine do not comply (2 points each), three are in order.
+# Calling a compliant step a violation costs 1.5; getting all three right earns 2.
+[[criterion]]
+id = "q9_s1"
+question = "Q9"
+points = 2
+text = "Step 1 does not comply: the competitive area was established on August 17, 2026, which is 57 days (within 90 days) before the notices were issued on October 13, so under 351.402(c) the agency had to submit a description of the competitive area and a written statement of its bona fide organizational basis to OPM for approval in advance of the RIF. Both the 90-day point and the OPM submission or approval are required."
+
+[[criterion]]
+id = "q9_s3"
+question = "Q9"
+points = 2
+text = "Step 3 does not comply: an employee with career tenure who is on probation only as a new supervisor is not serving an 'initial probationary period' (the 351.203 definition excludes the supervisory or managerial probationary period of part 315, subpart I; the preamble at 91 FR 49191 says such an employee 'would be included in the RIF in the supervisory or managerial position'), so Ortiz is a competing employee and had to be ranked on the register."
+
+[[criterion]]
+id = "q9_s4"
+question = "Q9"
+points = 2
+text = "Step 4 does not comply: with a cutoff date 30 days before the notices (September 13, 2026), no rating put on record after the cutoff may be used (351.503(c)(2)); using one for a single employee also breaks the requirement that ratings be used uniformly and consistently within the competitive area (351.503(c)(4)). The cutoff point is required; the uniformity point alone is not enough."
+
+[[criterion]]
+id = "q9_s5"
+question = "Q9"
+points = 2
+text = "Step 5 does not comply: for an employee with two ratings of record the missing rating gets a proxy value equal to the average of the two actual values (351.503(f)(2)): (7 + 5) / 2 = 6, so Quist's performance credit is 7 + 5 + 6 = 18, not 15. The figure 18 (or proxy 6) is required."
+
+[[criterion]]
+id = "q9_s6"
+question = "Q9"
+points = 2
+text = "Step 6 does not comply: where all competing employees are under a single pattern, 351.503(d) lets an agency add points for recognized exceptional performance only under an appraisal system whose highest summary level is Level 3 (pass/fail, or old pattern D); under a five-level pattern the credit must be calculated as in 351.503(a) with no additional points. (351.503(e) transmutation applies only where there is more than one pattern.) Advance written criteria do not cure this. No if the answer says the step is in order because the policy was documented in advance."
+
+[[criterion]]
+id = "q9_s8"
+question = "Q9"
+points = 2
+text = "Step 8 does not comply: 351.602(a) forbids releasing a competing employee from a competitive level while retaining in that level an employee with a specifically limited temporary or term promotion."
+
+[[criterion]]
+id = "q9_s10"
+question = "Q9"
+points = 2
+text = "Step 10 does not comply: under 351.702(a)(4) the assessment of qualifications must allow demonstration of job-related skills, be based on a job analysis, and must not consist solely of, or principally rely on, an automated self-assessment."
+
+[[criterion]]
+id = "q9_s11"
+question = "Q9"
+points = 2
+text = "Step 11 does not comply: temporary exceptions under 351.608 may not be sequenced or stacked (351.608(a)(3)); the agency may apply only the single exception that gives the longest retention, and each of the undue-interruption exception (351.608(b)) and the general exception is limited to 90 days, so only one exception of at most 90 days is available. The no-stacking rule is required. Mentioning the written notice to higher-standing employees for an exception over 30 days (351.608(a)(4)) is welcome but not required."
+
+[[criterion]]
+id = "q9_s12"
+question = "Q9"
+points = 2
+text = "Step 12 does not comply: because the notices were issued on or after September 2, 2026, the appeal goes to OPM under 5 CFR part 351, subpart I (351.901, 351.902; FR Doc. 2026-15666), not to the Merit Systems Protection Board; citing 351.802(a)(6) as amended by 2026-15666 (the notice must name OPM) or the appeals rule's DATES paragraph is equally good. (The 30-calendar-day period from the effective date is itself correct.)"
+
+[[criterion]]
+id = "q9_ok"
+question = "Q9"
+points = 2
+text = "Says that steps 2, 7 and 9 are all in order, and gives the deciding provision for at least two of them: step 2, an employee serving an initial probationary period is not a competing employee and may be retained while a competing employee is released (351.202(d)(2)-(3)); step 7, when employees are tied on credit, tenure subgroup and service date the agency may select any of them for release (351.601(c)); step 9, no assessment is required where within the five years before the notice the employee held the same position and was rated Level 3 or higher in it (351.702(a)(4)(v))."
+
+[[criterion]]
+id = "q9_false2"
+question = "Q9"
+kind = "penalty"
+points = 2
+text = "Says that step 2 (keeping the probationary employee Novak while releasing a career employee) does not comply with the rules."
+
+[[criterion]]
+id = "q9_false7"
+question = "Q9"
+kind = "penalty"
+points = 2
+text = "Says that step 7 (the director choosing between two fully tied employees) does not comply with the rules."
+
+[[criterion]]
+id = "q9_false9"
+question = "Q9"
+kind = "penalty"
+points = 2
+text = "Says that step 9 (offering Silva the position without an assessment) does not comply with the rules."
+
+# -------------------------------------------------------------------------- Q10
+[[criterion]]
+id = "q10a_gap"
+question = "Q10"
+points = 1.5
+text = "(a) Says that on September 10, 2026 paragraph (1) of the definition contained only its introductory text (a current competitive service employee in the competitive service tenure group at GS-15 or below ... who:) without paragraphs (1)(i) and (1)(ii), because the final rule's amendatory instruction (instruction 11) revised paragraph (1) and set out only the introductory text, which removed the two subparagraphs when the rule took effect on September 2, 2026."
+
+[[criterion]]
+id = "q10b_doc"
+question = "Q10"
+points = 1
+text = "(b) Identifies FR Doc. 2026-18800 (91 FR 58363), published and effective September 15, 2026, as restoring paragraphs (1)(i) and (1)(ii)."
+
+[[criterion]]
+id = "q10b_reason"
+question = "Q10"
+points = 1
+text = "(b) Gives OPM's reason and characterization: good cause to skip notice and comment (and to make it effective on publication) because the document makes no substantive change and restores text that was in effect before September 2, 2026, which OPM had not proposed to remove."
+
+[[criterion]]
+id = "q10c_lower"
+question = "Q10"
+points = 0.75
+text = "(c) Lower representative rate, declined: she is still 'displaced', because paragraph (1)(i) is lost only by declining an offer of a position with the same type of work schedule and a representative rate at least as high as her present position's."
+
+[[criterion]]
+id = "q10c_same"
+question = "Q10"
+points = 0.75
+text = "(c) Same representative rate (same work schedule), declined: she is no longer 'displaced' under paragraph (1)(i)."
+
+# -------------------------------------------------------------------------- Q11
+# 2 points per rung of valid differences (8, 14, 20, 26), plus 2 for digging
+# past the final rule's own summary of changes.
+[[ladder]]
+id = "q11_valid"
+question = "Q11"
+
+[[criterion]]
+id = "q11_valid_8"
+question = "Q11"
+ladder = "q11_valid"
+points = 2
+text = "At least 8 valid differences. A valid difference is a real difference between the regulatory text of 5 CFR part 351 in the proposed rule (FR Doc. 2026-04377) and in the final rule (FR Doc. 2026-15665), stated with the paragraph and what each text says, that is in the key's list for Q11 or that you confirm with the tools. Count each paragraph-level change once: where the key bundles several changes under one number, each piece the answer states correctly counts separately, but the same change stated twice counts once. Do not count: differences only in a preamble (such as the applicability rule); changes to parts other than 351; things that did not change (point values, the four-year period, veterans' points, grade limits); differences of punctuation, capitalization or citation format; or a difference whose description of either text is wrong."
+
+[[criterion]]
+id = "q11_valid_14"
+question = "Q11"
+ladder = "q11_valid"
+points = 2
+text = "At least 14 valid differences (same standard as q11_valid_8)."
+
+[[criterion]]
+id = "q11_valid_20"
+question = "Q11"
+ladder = "q11_valid"
+points = 2
+text = "At least 20 valid differences (same standard as q11_valid_8)."
+
+[[criterion]]
+id = "q11_valid_26"
+question = "Q11"
+ladder = "q11_valid"
+points = 2
+text = "At least 26 valid differences (same standard as q11_valid_8)."
+
+[[criterion]]
+id = "q11_deep"
+question = "Q11"
+points = 2
+text = "Correctly states at least six of these differences, which the final rule's numbered summary of changes from the proposal does not list: (i) 351.502, tenure subgroup as of the date the agency issues the notice (proposed) versus the date the employee receives it (final), or the same phrase dropped from 351.202(d); (ii) 351.503(a)(1) or 351.701(a), Level 2 called 'Minimally Successful' (proposed) versus 'Minimally Satisfactory' (final); (iii) 351.504(a), 'should be identified' versus 'must be identified'; (iv) 351.505(b)(2), cross-reference to 351.503(b) corrected to 351.504(b); (v) 351.506(d), added sentence that the paragraph does not limit access rights under another statute or regulation (or 351.506(c), 'their' to 'the employee's'); (vi) 351.702(a)(4)(v), new exemption from assessment, or the reworded 351.702(a)(4)(iii); (vii) 351.802(a)(2), 'veteran status' versus 'veterans' preference subgroup', or 351.802(a)(3), 'access to' versus 'information on how to access' the agency's records; (viii) 351.302(d), 'adverse action procedures found in part 752' versus 'part 752, if applicable, or other procedures required by law, regulation, or the terms of the employee's appointment'; (ix) 351.608(a)(2), CTAP cited as part 330 subpart E (proposed) versus subpart F (final); (x) 351.503(d) or (e)(2), added words 'prior to the final rule prescribed at 91 FR 41521'; (xi) the authority citation for part 351 (2301 added)."
+
+# -------------------------------------------------------------------------- Q12
+[[criterion]]
+id = "q12_quinn"
+question = "Q12"
+points = 1
+text = "(a) Quinn is serving an initial probationary period, so she is not a competing employee and is not ranked on the register (351.202(d)(2)(ii); 351.502(a)); the agency may retain her while releasing competing employees (351.202(d)(3))."
+
+[[criterion]]
+id = "q12_ab"
+question = "Q12"
+points = 1
+text = "(a) Alvarez: 7 + 7 + 5 = 19, no veterans' points. Brandt: 3 + 5 + 0 = 8, plus 5 = 13. Both totals are required."
+
+[[criterion]]
+id = "q12_chen"
+question = "Q12"
+points = 2
+text = "(a) Chen: 18. The Level 2 rating received September 30, 2022 is outside the four-year period before the notices of October 5, 2026 (351.503(c)(1)) and is not used; with two ratings the proxy is (7 + 5) / 2 = 6 (351.503(f)(2)), so 7 + 5 + 6 = 18. No if the answer uses the Level 2 rating (total 12) or gives any other total."
+
+[[criterion]]
+id = "q12_dube"
+question = "Q12"
+points = 1
+text = "(a) Dube: two ratings, proxy 5, performance credit 15, plus 3 veterans' points = 18."
+
+[[criterion]]
+id = "q12_estrada"
+question = "Q12"
+points = 1.5
+text = "(a) Estrada: 5 + 3 + 5 = 13, plus 3 = 16. The Level 5 rating received October 20, 2026 is not used, because it came after the notices (it is outside the four-year period before issuance, 351.503(c)(1), and standing is fixed when the notice is received, 351.507(a)). No if the answer counts the October 2026 rating (total 18)."
+
+[[criterion]]
+id = "q12_farouk_score"
+question = "Q12"
+points = 1
+text = "(a) Farouk: one rating, 3 x 3 = 9 (351.503(f)(3)), no veterans' points; lowest on the register."
+
+[[criterion]]
+id = "q12_tie"
+question = "Q12"
+points = 2
+text = "(a) Order of retention: Alvarez (19), Chen (18), Dube (18), Estrada (16), Brandt (13), Farouk (9), with Chen ahead of Dube because at equal totals tenure subgroup I (career) ranks ahead of subgroup II (career-conditional) under 351.501(c), although Dube has the earlier service computation date and is a preference eligible. No if Dube is placed ahead of Chen."
+
+[[criterion]]
+id = "q12_protect"
+question = "Q12"
+points = 2
+text = "(b) Farouk, although lowest, is not released: he is a restoration protected employee (restored July 13, 2026 after more than 180 days of uniformed service, so within the retention period of 5 CFR 353.209(b), one year, on the notice date), and 351.606(a) forbids releasing him from the competitive level during that period if another competing employee may be released instead. Citing 351.606(a) or the 351.203 definition is required; the length of the period need not be stated if the answer says he is within it."
+
+[[criterion]]
+id = "q12_released"
+question = "Q12"
+points = 2
+text = "(b) The three employees released from the GS-13 level are exactly Brandt, Estrada and Dube (Dube in place of Farouk). No for any other set."
+
+[[criterion]]
+id = "q12_assign_dube"
+question = "Q12"
+points = 1
+text = "(c) Dube must be offered the GS-12 position held by Gomez (total 17, lower standing than Dube's 18): it is within three grades and is the offer with the least reduction in representative rate (351.701(a)-(b))."
+
+[[criterion]]
+id = "q12_assign_estrada"
+question = "Q12"
+points = 1
+text = "(c) Estrada must be offered the GS-11 position held by Hill (11 + 3 = 14, lower than 16); the GS-12 position is not available to Estrada because Gomez (17) has higher standing."
+
+[[criterion]]
+id = "q12_assign_brandt"
+question = "Q12"
+points = 1.5
+text = "(c) Brandt must be offered the GS-9 position held by Ikeda (9): Gomez (17), Hill (14) and Jones (15) all have higher standing than Brandt (13), and GS-9, four grades below GS-13, is within reach only because the limit is five grades for a preference eligible with a compensable service-connected disability of 30 percent or more (351.701(b)(2)). A current rating of Level 2 still carries assignment rights (351.701(a)). The five-grade point is required. No if the answer says Brandt has no assignment right."
+
+[[criterion]]
+id = "q12_final"
+question = "Q12"
+points = 1
+text = "(d) The employees separated are Gomez, Hill and Ikeda, who are displaced and are qualified for no other position; no GS-13 employee is separated, and Jones is not affected. No for any other set of separated employees."
+
+# -------------------------------------------------------------------------- Q13
+# Count of valid mismatches (at least 1, 2, 3, 4, 6, 8, 10, 12).
+[[ladder]]
+id = "q13_valid"
+question = "Q13"
+
+[[criterion]]
+id = "q13_valid_1"
+question = "Q13"
+ladder = "q13_valid"
+points = 3
+text = "At least 1 valid mismatch. A valid mismatch is one in the key's list for Q13, or another that you confirm with the tools, for which the answer states both what the preamble of FR Doc. 2026-15665 says and what the amendatory instruction or regulatory text in the same document says, correctly, and locates each side by FR page, CFR paragraph or instruction number. Count each mismatch once. Do not count: differences between the proposed rule and the final rule; matters on which the regulatory text is merely silent and the preamble adds detail (for example supervisory probation, or field offices as competitive areas); the items the key lists as not mismatches; or an item whose description of either side is wrong."
+
+[[criterion]]
+id = "q13_valid_2"
+question = "Q13"
+ladder = "q13_valid"
+points = 3
+text = "At least 2 valid mismatches. (Same standard as q13_valid_1.)"
+
+[[criterion]]
+id = "q13_valid_3"
+question = "Q13"
+ladder = "q13_valid"
+points = 3
+text = "At least 3 valid mismatches. (Same standard as q13_valid_1.)"
+
+[[criterion]]
+id = "q13_valid_4"
+question = "Q13"
+ladder = "q13_valid"
+points = 3
+text = "At least 4 valid mismatches. (Same standard as q13_valid_1.)"
+
+[[criterion]]
+id = "q13_valid_6"
+question = "Q13"
+ladder = "q13_valid"
+points = 4
+text = "At least 6 valid mismatches. (Same standard as q13_valid_1.)"
+
+[[criterion]]
+id = "q13_valid_8"
+question = "Q13"
+ladder = "q13_valid"
+points = 4
+text = "At least 8 valid mismatches. (Same standard as q13_valid_1.)"
+
+[[criterion]]
+id = "q13_valid_10"
+question = "Q13"
+ladder = "q13_valid"
+points = 4
+text = "At least 10 valid mismatches. (Same standard as q13_valid_1.)"
+
+[[criterion]]
+id = "q13_valid_12"
+question = "Q13"
+ladder = "q13_valid"
+points = 4
+text = "At least 12 valid mismatches. (Same standard as q13_valid_1.)"
+
+# -------------------------------------------------------------------------- Q14
+# Count of valid items (at least 2, 4, 6, 8, 10, 12, 14, 16).
+[[ladder]]
+id = "q14_valid"
+question = "Q14"
+
+[[criterion]]
+id = "q14_valid_2"
+question = "Q14"
+ladder = "q14_valid"
+points = 3
+text = "At least 2 valid items. A valid item is one in the key's list for Q14, or another that you confirm with the tools and that fits one of the question's three kinds: (i) a statement in the preamble of OPM's RIF appeals rule (FR Doc. 2026-15666) about what that rule provides that differs from its regulatory text as published or as corrected by FR Doc. 2026-17338; (ii) a change from the proposed appeals rule (FR Doc. 2026-02576) that the final rule's own summary of changes does not acknowledge; (iii) an inconsistency within the MSPB's rule (FR Doc. 2026-16456), or between it and OPM's rule, about which RIF appeals the Board keeps. The answer must state both sides correctly and locate each by FR page or CFR paragraph. Count each item once. Do not count the items the key lists as not counting, matters the text is merely silent about, or an item whose description of either side is wrong."
+
+[[criterion]]
+id = "q14_valid_4"
+question = "Q14"
+ladder = "q14_valid"
+points = 3
+text = "At least 4 valid items. (Same standard as q14_valid_2.)"
+
+[[criterion]]
+id = "q14_valid_6"
+question = "Q14"
+ladder = "q14_valid"
+points = 3
+text = "At least 6 valid items. (Same standard as q14_valid_2.)"
+
+[[criterion]]
+id = "q14_valid_8"
+question = "Q14"
+ladder = "q14_valid"
+points = 3
+text = "At least 8 valid items. (Same standard as q14_valid_2.)"
+
+[[criterion]]
+id = "q14_valid_10"
+question = "Q14"
+ladder = "q14_valid"
+points = 3
+text = "At least 10 valid items. (Same standard as q14_valid_2.)"
+
+[[criterion]]
+id = "q14_valid_12"
+question = "Q14"
+ladder = "q14_valid"
+points = 3
+text = "At least 12 valid items. (Same standard as q14_valid_2.)"
+
+[[criterion]]
+id = "q14_valid_14"
+question = "Q14"
+ladder = "q14_valid"
+points = 3
+text = "At least 14 valid items. (Same standard as q14_valid_2.)"
+
+[[criterion]]
+id = "q14_valid_16"
+question = "Q14"
+ladder = "q14_valid"
+points = 4
+text = "At least 16 valid items. (Same standard as q14_valid_2.)"

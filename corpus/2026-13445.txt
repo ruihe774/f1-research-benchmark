@@ -1,0 +1,3209 @@
+Federal Register, Volume 91 Issue 126 (Thursday, July 2, 2026)
+
+
+[Federal Register Volume 91, Number 126 (Thursday, July 2, 2026)]
+[Proposed Rules]
+[Pages 40444-40467]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-13445]
+
+
+-----------------------------------------------------------------------
+
+OFFICE OF PERSONNEL MANAGEMENT
+
+5 CFR Parts 412, 432, 715, and 752
+
+[Docket ID: 2025-OPM-0012]
+RIN 3206-AO91
+
+MERIT SYSTEMS PROTECTION BOARD
+
+5 CFR Part 1201
+
+RIN 3124-AA35
+
+
+Promoting Employee Accountability
+
+AGENCY: Office of Personnel Management and Merit Systems Protection 
+Board.
+
+ACTION: Proposed rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Office of Personnel Management (OPM) and Merit Systems 
+Protection Board (MSPB or Board) are issuing proposed regulations 
+governing performance-based reduction in grade and removal actions, 
+non-disciplinary separations, and adverse actions, along with the 
+MSPB's review of those actions, and proposing improved and additional 
+training to supervisors. With this rule, OPM seeks to improve the 
+accountability of employees for poor performance and misconduct by 
+streamlining the administrative procedures used by agencies to take 
+performance-based and adverse actions; and MSPB seeks to refocus its 
+penalty review on a totality of the circumstances test rather than a 
+rigid application of prescribed factors. The proposed rule also 
+promotes transparency regarding employee poor performance and 
+misconduct by restricting agencies' ability to engage in settlement 
+agreements that remove official documentation of performance or conduct 
+detrimental to the efficiency of the service.
+
+DATES: Comments must be received on or before August 3, 2026.
+
+ADDRESSES: You may submit comments for this proposed rulemaking through 
+the Federal eRulemaking Portal: http://www.regulations.gov. Follow the 
+instructions for submitting comments.
+    Instructions: Please arrange and identify your comments on the 
+regulatory text by subpart and section number. If your comments relate 
+to the supplementary information, please refer to the heading and page 
+number. All comments will be docketed in the OPM docket for this 
+rulemaking. All comments must be received by the end of the comment 
+period for them to be considered by OPM and MSPB. All comments and 
+other submissions received generally will be posted on the internet at 
+https://regulations.gov as they are received, without change, including 
+any personal information provided. However, OPM retains discretion to 
+redact personal or sensitive information, including but not limited to, 
+personal or sensitive information pertaining to third parties.
+    As required by 5 U.S.C. 553(b)(4), a summary of this rule may be 
+found in the docket for this rulemaking at www.regulations.gov.
+
+FOR FURTHER INFORMATION CONTACT: 
+    Noah Peters, Senior Advisor to the Director, by email at 
+[email protected] or by telephone at (202) 606-2930.
+    Gina K. Grippando, Clerk of the Board, by email at [email protected] or 
+by telephone at (202) 653-7200.
+
+SUPPLEMENTARY INFORMATION: OPM proposes to amend its regulations 
+governing performance-based reduction in grade, removal actions, and 
+adverse actions. OPM proposes these regulations under its 
+congressionally granted authority to regulate agency actions to hold 
+employees accountable for unacceptable performance and misconduct 
+detrimental to the efficiency of the service and to implement the 
+President's expressed policy direction. Specifically, OPM proposes 
+revisions to regulations governing performance-based reduction in 
+grade, and removal actions, and adverse actions under statutory 
+authority vested in it by Congress in 5 U.S.C. 4305, 4315, 7504, 7514 
+and 7543. The regulations will update current procedures to make them 
+more efficient and effective.\1\ The proposed regulations also will 
+clarify procedures and requirements to support managers in addressing 
+unacceptable performance and promoting employee accountability for 
+performance-based reduction-in-grade, removal actions, and adverse 
+actions.
+---------------------------------------------------------------------------
+
+    \1\ See also OPM Memorandum, ``Guidance on Revocation of 
+Executive Order 14003,'' Feb. 7, 2025, https://www.opm.gov/chcoc/latest-memos/guidance-on-revocation-of-eo-14003.pdf; OPM Memorandum, 
+``Guidance on Executive Order Exclusions from Federal Labor-
+Management Programs,'' March 27, 2025, https://www.opm.gov/chcoc/latest-memos/guidance-on-executive-order-exclusions-from-federal-labor-management-programs.pdf.
+---------------------------------------------------------------------------
+
+    MSPB proposes to amend its regulations governing its review of 
+agency actions taken under 5 U.S.C. chapter 75. Specifically, MSPB 
+proposes to no longer apply the 12 factors established in Douglas v. 
+Veterans Administration, 5 M.S.P.R. 280 (1981) (Douglas), in reviewing 
+whether an agency's chosen penalty for an action taken under chapter 75 
+is reasonable. Instead, MSPB proposes to assess reasonableness of the 
+penalty under a more flexible totality of the circumstances standard.
+    OPM and MSPB recognize the interactions between the proposed 
+changes to each of their regulations. To that end, OPM and MSPB are 
+publishing these proposals in a joint notice of proposed rulemaking and 
+welcome comment on those interactions and related impacts. After 
+consideration of comments, the agencies may issue a joint final rule or 
+each agency may finalize its respective proposals in separate final 
+rules.
+
+I. Previous Attempts To Promote Accountability of the Federal Workforce
+
+    One of the major purposes of the Civil Service Reform Act of 1978 
+(CSRA) was
+
+[[Page 40445]]
+
+to ``preserve the ability of federal managers to maintain an effective 
+and efficient Government.'' Cornelius v. Nutt, 472 U.S. 648, 662 (1985) 
+(internal formatting omitted). ``In order to achieve this purpose, one 
+of the `central tasks' of the [CSRA] was to [a]llow civil servants to 
+be able to be hired and fired more easily, but for the right reasons.' 
+'' Id. (quoting S.Rep. No. 95-969, p. 4 (1978), U.S.C. Cong. & Admin. 
+News 1978, p. 2726). However, contrary to Congress's objectives that 
+the CSRA would ``give agencies greater ability to remove or discipline 
+expeditiously employees who engage in misconduct, or whose work 
+performance is unacceptable,'' id. (internal quotation marks omitted), 
+reports and surveys consistently document that the Federal government 
+struggles to effectively address widespread performance and conduct 
+issues in the Federal workforce.
+    During his first administration, President Trump prioritized 
+federal employee accountability by issuing E.O. 13839, ``Promoting 
+Accountability and Streamlining Removal Procedures Consistent with 
+Merit System Principles;'' \2\ E.O. 13839 recognized that 
+implementation of Merit System Principles has fallen short of their 
+ideals of promoting high levels of performance and correcting poor 
+performance and misconduct.\3\ Among many reforms to reestablish these 
+Merit System Principles, President Trump sought changes to agencies' 
+use of performance improvement plans to promote greater accountability. 
+He also sought to lift the restrictions on supervisors and managers 
+seeking to levy penalties commensurate with employee misconduct by 
+eliminating requirements that agencies use progressive discipline 
+measures in every disciplinary action.
+---------------------------------------------------------------------------
+
+    \2\ 83 FR 25343 (May 25, 2018).
+    \3\ 5 U.S.C. 2301(b)(4)-(6).
+---------------------------------------------------------------------------
+
+    On September 17, 2019, OPM issued a proposed rule to incorporate 
+these principles and actions into its regulations to address the long-
+standing problem of employee accountability.\4\ OPM proposed 
+modifications to 5 CFR parts 432 and 752 to streamline the procedures 
+for holding employees accountable for unacceptable performance and 
+conduct detrimental to the efficiency of the service. OPM proposed, for 
+example, clarifying that neither law nor OPM regulations prescribed the 
+nature of any assistance agencies must provide to an employee during an 
+opportunity to improve period, nor could the nature of any such 
+assistance be determinative of the penalty imposed for a reduction in 
+grade or pay or removal. Additionally, the proposed rule modified OPM's 
+adverse action regulations under Part 752 to loosen the restrictions on 
+management in assessing the appropriate penalty for misconduct by 
+eliminating any requirement to use progressive discipline; expanding 
+the scope of past discipline and work performance considered; narrowing 
+the appropriate comparators; and allowing managers and supervisors to 
+impose more severe penalties where appropriate. The proposed rule also 
+limited the use of settlement agreements to hide adverse performance or 
+misconduct information from other federal agencies. On October 16, 
+2020, OPM issued a final rule adopting these provisions with some 
+modifications.
+---------------------------------------------------------------------------
+
+    \4\ 84 FR 48794.
+---------------------------------------------------------------------------
+
+    President Biden issued E.O. 14003 (86 FR 7231; Jan. 27, 2021), 
+which rescinded E.O. 13839. As directed by E.O. 14003, OPM issued a 
+proposed rule on January 4, 2022, to rescind most of OPM's employee 
+accountability reforms adopted in its October 16, 2020 final rule.\5\ 
+OPM argued that these changes were necessary to effectuate President 
+Biden's policy to ``protect, empower and rebuild the career Federal 
+workforce as well as its current policy to encourage employee 
+organizing and collective bargaining.'' \6\
+---------------------------------------------------------------------------
+
+    \5\ 87 FR 200.
+    \6\ Id.
+---------------------------------------------------------------------------
+
+    As part of its justification, OPM articulated several reasons for 
+amending its regulations. On the timing and nature of assistance 
+offered by an agency to improve an employee's unacceptable performance, 
+OPM expressed concerns that the then-current rule would incentivize 
+supervisors to offer minimal assistance during an opportunity to 
+demonstrate acceptable performance (ODAP) period. OPM also stated that 
+returning to the previous regulations would merely restate the 
+statutory requirements under 5 U.S.C. 4302(c)(5).
+    OPM noted that its plan to rescind amendments to adverse action 
+procedures under part 752 was consistent with established regulatory 
+principles. OPM decided not to adopt the amendments in regulations and 
+determined that rescinding them provides agencies greater flexibility 
+in addressing employee misconduct. OPM also justified revoking the 
+limitations on the use of settlement agreements it previously imposed 
+arguing that they inhibited dispute resolution options; reduced the 
+likelihood of reaching settlement; potentially increased the cost of 
+litigation and arbitration; and crowded the docket of federal 
+administrative adjudicative agencies. OPM stated that there were 
+greater benefits to giving agencies flexibility to resolve disputes 
+over their ability to access adverse information during the hiring 
+process.
+    On November 10, 2022, OPM issued a final rule adopting its proposed 
+rule with few modifications despite significant opposition. In 
+justifying why it chose to proceed with proposed changes that would not 
+credit an agency's attempts to correct an employee's unacceptable 
+performance before the formal ODAP, OPM merely asserted that it favored 
+returning to the statutory language. Despite many commenters arguing 
+that OPM was giving extra-statutory protections to employees, OPM 
+argued that agencies still had adequate means to take swift action to 
+address unacceptable performance. OPM also generally asserted that the 
+previous final rule placed restrictions and limitations on when 
+agencies could offer performance assistance to struggling employees.
+    OPM also explained that it declined to modify its proposed changes 
+to adverse action procedures under Part 752 because they reflected 
+consistency with law while providing agencies with the necessary tools 
+and flexibility to address unacceptable performance and misconduct. OPM 
+also rebutted concerns that it failed to cite to data or evidence to 
+support its change in policy, arguing that a change in administration 
+is a sufficient basis for revising its regulations. OPM also argued 
+that the final rule adopted during the first Trump administration 
+lacked sufficient reliance interests since less than three-months 
+lapsed between the final rule and the issuance of E.O. 14003.
+    Finally, in explaining why it decided to adopt its rescission of 
+its limitations on clean record settlements, OPM stated that it 
+``deem[ed] impracticable, unrealistic, and unhelpful because it 
+absolutely prohibits agencies from altering or removing information 
+about performance or misconduct as a condition to resolve or settle a 
+complaint or challenge to a personnel action, even where doing so 
+furthers the best interests of an effective and efficient Government 
+and the interests, voluntarily expressed, of both parties to personnel 
+litigation.'' \7\
+---------------------------------------------------------------------------
+
+    \7\ 87 FR 67774.
+---------------------------------------------------------------------------
+
+    Shortly after taking the oath of office on January 20, 2025, 
+President Trump revoked E.O. 14003 and restored the policies of E.O. 
+13839.\8\ President
+
+[[Page 40446]]
+
+Trump made it a priority of his Administration to ensure that the 
+federal civilian workforce is accountable to the American people. See, 
+e.g., E.O. 14171, 90 FR 8625 (Jan. 31, 2025) (``A critical aspect of 
+this executive function is the responsibility to maintain 
+professionalism and accountability within the civil service.''). The 
+need to promote accountability within the federal workforce comes at a 
+critical time to ensure that the federal government meets the needs of 
+the American people while agencies seek to eliminate waste and find 
+efficiencies to deliver on their missions. To accomplish the 
+President's vision for the federal workforce, OPM finds it necessary to 
+amend its regulations issued during the Biden Administration and return 
+to the regulations finalized during the first Trump Administration.
+---------------------------------------------------------------------------
+
+    \8\ 90 FR 8237 (Jan. 28, 2025). Note that section 6 of E.O. 
+14171 directed agencies to reverse changes to agency policies 
+pertaining to disciplinary actions and unacceptable performance 
+effectuated under E.O. 14003. That order in turn had required 
+agencies to reverse changes to such policies effectuated under E.O. 
+13839. Consequently, E.O. 14171 on net directed agencies to return 
+to the disciplinary and unacceptable performance policies 
+implemented pursuant to E.O. 13839 and reversed under E.O. 14003.
+---------------------------------------------------------------------------
+
+II. Reinvigorating Merit System Principles
+
+    President Trump made it a priority of his Administration to ensure 
+that the federal civilian workforce is accountable to the American 
+taxpayer. See, e.g., E.O. 14171, 90 FR 8625 (Jan. 31, 2025) (``A 
+critical aspect of this executive function is the responsibility to 
+maintain professionalism and accountability within the civil 
+service.''). The need to promote accountability within the federal 
+workforce comes at a critical time to ensure that the federal 
+government meets the needs of the American people while agencies seek 
+to eliminate waste and find efficiencies to deliver on their missions.
+    In establishing the Merit System Principles that underpin the 
+federal government, Congress intended to require a professional 
+workforce designed to be used efficiently and effectively, where 
+employees are retained based on performance or released from service; 
+and, where high performance and achievement are demonstrated, agencies 
+provide incentives and recognition for employee achievement. See 5 
+U.S.C. 2301(b)(3), (5)-(6). Congress also intended for federal 
+employees to uphold exemplary standards of integrity and demonstrate a 
+commitment to the public interest. 5 U.S.C. 2301(b)(4).
+    Over an extended period, numerous studies have documented that 
+agencies face serious challenges holding federal employees accountable 
+for poor performance and misconduct. While the CSRA ``was passed, in 
+part, to make it easier for managers to remove poor performers from the 
+Federal workplace. Experience . . . shows that this goal has not been 
+achieved.'' \9\ The Government Accountability Office (GAO) reported in 
+1990 that ``[a]bout half of the supervisors [it surveyed] said they had 
+experienced difficulty in implementing the process for dealing with 
+poor performers . . . [and] cited the significant amount of calendar 
+time'' the process may require, among other cumbersome reasons.\10\ 
+Specifically, GAO reported that ``91,770, or 51 percent, of the 
+supervisors experienced one or more problems, including the amount of 
+time involved.'' \11\ GAO also reported that ``19,730, or 11 percent, 
+of the supervisors would be unlikely to use their agency's process to 
+deal with poor performers in the future, primarily because the process 
+takes too long and uses too much of their time.'' \12\ In a survey of 
+more than 5,700 federal managers conducted in 1995, the MSPB found 
+``most supervisors . . . perceive [chapter 43 procedures] to be too 
+complicated, time consuming, or onerous.'' \13\ And in 2015, GAO 
+``reviewed the rules and trends relating to the review and dismissal of 
+federal employees for poor performance,'' and found that ``it can take 
+six months to a year (and sometimes longer) to dismiss an employee.'' 
+\14\ It also found ``agencies rarely use chapter 43 to dismiss 
+employees,'' noting only 280 employees were dismissed under chapter 43 
+procedures in 2013, 45 percent of whom appealed, the average length of 
+which took 243 days to complete.\15\
+---------------------------------------------------------------------------
+
+    \9\ Merit Sys. Prot. Bd., ``Removing Poor Performers in the 
+Federal Service,'' September 1995, available at https://www.mspb.gov/studies/studies/Removing_Poor_Performers_in_the_Federal_Service_Issue_Paper_September_1995_253662.pdf.
+    \10\ Government Accountability Office, ``Performance Management: 
+How Well Is the Government Dealing With Poor Performers?'' October 
+1990, available at https://www.gao.gov/assets/ggd-91-7.pdf.
+    \11\ Id.
+    \12\ Id.
+    \13\ Id.
+    \14\ Government Accountability Office, ``Federal Workforce: 
+Improved Supervision and Better Use of Probationary Periods Are 
+Needed to Address Substandard Employee Performance,'' February 2015, 
+p. 1, available at https://www.gao.gov/assets/gao-15-191.pdf.
+    \15\ Id. at 25.
+---------------------------------------------------------------------------
+
+    The use of legal settlement agreements also contributes to the 
+problem of employee accountability in the federal workforce. Settlement 
+agreements often contain terms that require agencies to remove any 
+negative information about employees' performance or conduct from their 
+official personnel folder and provide for a neutral reference during 
+reference checks. The incorporation of these terms means that a hiring 
+official may not become aware of an employee's past issues at another 
+agency, which can interfere with agencies' ability to hire the best 
+candidate for a position. Settlement agreements, thus, contribute to a 
+cycle of passing around underperforming or problematic employees who 
+suffer few, if any, consequences. OPM understands that this practice is 
+colloquially described as the ``Dance of the Lemons'' within agencies.
+    OPM is proposing to incorporate the policies and changes first 
+identified in E.O. 13839 into its regulations, as well as other 
+revisions discussed below, as a necessary step toward ensuring 
+accountability in the federal workforce. These proposed changes align 
+with President Trump's vision for restoring merit to the workforce, 
+promoting stewardship of taxpayers' money, and facilitating agencies' 
+ability to deliver on their missions.
+    While E.O. 13839 is not currently in effect, President Trump 
+directed agencies to rescind regulations and other policies implemented 
+pursuant to E.O. 14003 that rescinded or reversed policies issued under 
+E.O. 13839.\16\ This directive applies to OPM's November 10, 2022, 
+final rule. As stated in the 2022 final rule, OPM finds that ``a change 
+in administration brought about by the people casting their votes is a 
+perfectly reasonable basis for an executive agency's reappraisal of its 
+regulations and programs.'' \17\ Further and as discussed in greater 
+detail below, even if E.O. 14171 had not directed restoration of E.O. 
+13839 policies, OPM independently believes these changes are necessary 
+to promote greater employee accountability.
+---------------------------------------------------------------------------
+
+    \16\ See E.O. 14171, section 6.
+    \17\ See 87 FR 67767 (cleaned up).
+---------------------------------------------------------------------------
+
+III. Retiring the Douglas Factors
+
+    One of Congress's primary purposes in enacting 5 U.S.C. 7701, 
+establishing the MSPB's appellate jurisdiction, was ``to give agencies 
+greater ability to remove or discipline expeditiously employees who 
+engage in misconduct, or whose work performance is unacceptable.'' 
+Cornelius v. Nutt, 472 U.S. 648, 662-63 (1985). This principal 
+objective, however, has been frustrated by the perceived requirement to 
+consider the 12 Douglas factors in every adverse action case--a 
+requirement that is not mandated by statute. Nagel v.
+
+[[Page 40447]]
+
+Dep't of Health & Hum. Servs., 707 F.2d 1384, 1386 (Fed. Cir. 1983).
+    Since the Board's decision in Douglas v. Veterans Administration, 5 
+M.S.P.R. 280 (1981) establishing 12 factors for assessing the 
+reasonableness of an agency's chosen penalty for adverse actions taken 
+under 5 U.S.C. 7513, agencies have often mechanically applied each of 
+these factors. Considering each of these factors before taking an 
+appropriate adverse action against an employee may now be seen by 
+Federal managers as a requirement, as though the Douglas factors were 
+statutorily mandated.
+    Quite the opposite, nothing in 5 U.S.C. 7513, or for that matter in 
+Douglas, requires, or even suggests, the use of the 12 Douglas factors 
+in every case. Instead, Congress carefully and deliberately established 
+the following standard for Federal agencies taking covered adverse 
+actions: ``Under regulations prescribed by [OPM], an agency may take an 
+action covered by this subchapter against an employee only for such 
+cause as will promote the efficiency of the service.'' 5 U.S.C. 
+7513.\18\ The ``efficiency of the service'' standard enacted by 
+Congress should be the basis upon which covered adverse actions are 
+taken and reviewed under 5 U.S.C. 7513, not a weighing of the 12 
+Douglas factors. The Board set forth the 12 Douglas factors as a method 
+for elucidating what constituted ``efficiency of the service'' in the 
+context of review of agency penalty determinations, but the rigid 
+application of the factors since that time, and the perceived 
+obligation among Federal supervisors to consider each of the 12 Douglas 
+factors in every case, has demonstrated that another method is needed. 
+See Douglas, 5 M.S.P.R. at 306 (1981) (cautioning against a 
+``mechanistic'' or ``formulaic'' weighing of the Douglas factors in 
+every case).
+---------------------------------------------------------------------------
+
+    \18\ The requirement that an adverse action promote the 
+``efficiency of the service'' originated with the Lloyd-La Follette 
+Act, ch. 389, sec. 6, 37 Stat. 539 (1912).
+---------------------------------------------------------------------------
+
+    Further, MSPB does not view consideration of the Douglas factors in 
+every adverse action case as necessary to uphold merit principles. On 
+the contrary, it is concerned that the perceived requirement to 
+consider each of the 12 Douglas factors in taking an action under 5 
+U.S.C. 7513 may undermine merit principles, particularly Merit System 
+Principle 4 (``All employees should maintain high standards of 
+integrity, conduct, and concern for the public interest'') and Merit 
+System Principle 6 (``Employees should be retained on the basis of 
+adequacy of their performance, inadequate performance should be 
+corrected, and employees should be separated who cannot or will not 
+improve their performance to meet required standards''). See 5 U.S.C. 
+2301.
+    MSPB therefore proposes to amend its regulations at 5 CFR part 1201 
+regarding its review of the agency's choice of penalty to make clear 
+that it will no longer apply the 12 Douglas factors but, instead, will 
+consider the penalty in each case under the totality of the 
+circumstances. MSPB also proposes to codify existing case law regarding 
+how it determines whether to sustain or mitigate penalties, consistent 
+with Lachance v. Devall, 178 F.3d 1246, 1260 (Fed. Cir. 1999).
+
+IV. Proposed Amendments
+
+a. 5 CFR Part 412 Supervisory, Management, and Executive Development
+
+    Part 412 applies to all incumbents of (and candidates for) 
+supervisory, managerial, and executive positions in the General 
+Schedule (GS), the Senior Executive Service (SES), or equivalent pay 
+systems that are also covered by 5 CFR part 410. Among some of the most 
+common refrains that supervisors, managers, and executives report is 
+the lack of training on effectively and efficiently managing their 
+workforces and aligning their work units to the broader strategic goals 
+of the agencies.\19\
+---------------------------------------------------------------------------
+
+    \19\ U.S. Government Accountability Office, ``2020 Federal 
+Managers Survey: Results on Government Performance and Management 
+Issues,'' July 27, 2021, available at https://files.gao.gov/special.pubs/gao-21-537sp/resultsall.htm.
+---------------------------------------------------------------------------
+
+    The revisions to 412.202 proposed in this rule are intended to 
+ensure agencies train and develop these individuals so that they may 
+become more effective managers, improve their employees' performance 
+without needing to take performance-based or adverse actions, and 
+become better prepared to take any such action to address poor 
+performance or misconduct.
+Sec.  412.202 Systematic Training and Development of Supervisors, 
+Managers, and Executives
+    While current regulation requires agencies to establish leadership 
+development plans, programs, and strategies, provide periodic training 
+to ensure quality managers, and to assist employees transitioning from 
+non-supervisory employee to manager, or from manager to executive, the 
+current requirements lack rigor and specificity. This proposed rule 
+intends to improve the quality of such policies and programs.
+    Namely, under the proposed rule, agencies would be required to 
+design and implement training and development programs for supervisors, 
+managers, and executives with improved focus on promoting high levels 
+of performance and accountability and align with OPM guidance. The 
+proposed rule also reduces the interval for training to supervisory, 
+managerial, and executive positions from once every three years to 
+annually, to ensure such personnel are well-versed in the use of 
+actions, options, and strategies to oversee and manage the productivity 
+of their workforces. The proposed rule modifies four existing subjects 
+and adds eight new ones agencies must incorporate into their annual 
+trainings for supervisors, managers, and executives under 5 CFR 
+412.202(b). Among the new subjects, agencies will be required to 
+provide training on: the procedures for holding employees accountable 
+for unacceptable performance; effective use of probationary and trial 
+periods, awards, bonuses, and other forms of employee recognition; and 
+addressing reports of hostile work environment, retaliation, or 
+harassment.
+    Additional and qualitatively-improved supervisor training is 
+important to ensure supervisors, managers, and executives are 
+appropriately equipped to build the high-performance culture essential 
+to individual and organizational success as President Trump has 
+directed.\20\ For example, GAO's 2020 Federal Managers Survey found 
+that a plurality of managers self-reported they have not been provided 
+trainings to help accomplish basic workforce management tasks including 
+but not limited to conducting strategic planning, setting performance 
+goals, or using program performance to inform future decision-
+making.\21\ Further, as it relates to the authorities of chapter 43 and 
+75 specifically, GAO reports supervisors may suffer from a lack of 
+``basic understanding of the processes under chapter 43 and 75; and . . 
+. knowledge or an understanding of requirements for addressing poor
+
+[[Page 40448]]
+
+performance. . .'' \22\ OPM seeks to rectify this reported lack of 
+expertise by increasing the cadence and improving the quality of the 
+training provided pursuant to Sec.  412.202.
+---------------------------------------------------------------------------
+
+    \20\ See, e.g., E.O. 14284, Strengthening Probationary Periods 
+in the Federal Service, 90 FR 17729-33 (April 29, 2025); E.O. 14171, 
+Restoring Accountability to Policy-Influencing Positions Within the 
+Federal Workforce, 90 FR 8625 (Jan. 31, 2025); Restoring 
+Accountability for Career Senior Executives, 90 FR 8481 (Jan. 30, 
+2025); Return to In-Person Work (Jan. 28, 2025).
+    \21\ Government Accountability Office, ``2020 Federal Managers 
+Survey: Results on Government Performance and Management Issues,'' 
+July 27, 2021, available at https://files.gao.gov/special.pubs/gao-21-537sp/resultsall.htm.
+    \22\ U.S. Government Accountability Office, ``Federal Workforce: 
+Improved Supervision and Better Use of Probationary Periods are 
+Needed to Address Substandard Employee Performance,'' February 2016, 
+available at https://www.gao.gov/assets/gao-15-191.pdf.
+---------------------------------------------------------------------------
+
+    OPM recognizes that agencies may have separate training 
+requirements established by law. For example, 5 U.S.C. 9902(d) requires 
+supervisors of the Department of War to complete a training program 
+once every three years on authorities and topics detailed under that 
+specific Section. The plain reading of the statute sets a floor--not a 
+mandate--for supervisors to meet. Notwithstanding the provisions of 5 
+U.S.C. 9902(d)(2) or similar statute, OPM may establish training 
+requirements under 5 U.S.C. 4118. As applicable here, 5 U.S.C. 4103 
+directs each agency to establish training programs in accordance with 
+the regulations promulgated by OPM under 5 U.S.C. 4118; and 5 U.S.C. 
+4103(a)(1). This directive, housed in 5 U.S.C. chapter 41, is in part 
+the underlying predicate authority for 5 CFR 412.202. See 5 CFR part 
+412.
+
+b. 5 CFR Part 432--Performance-Based Reduction in Grade and Removal 
+Actions
+
+    Part 432 applies to reduction in grade and removal of covered 
+employees based on performance at the unacceptable level. Congress 
+enacted 5 U.S.C. chapter 43, in part, to create a simple, dedicated, 
+though not exclusive, process for agencies to use in taking adverse 
+actions based on unacceptable performance. Since that time, however, 
+chapter 43 has not worked as Congress intended. Specifically, 
+interpretations of chapter 43 that are not statutorily required have 
+hindered agencies from taking effective action against poor performers 
+and sustaining those actions on appeal.
+    The proposed rule is intended to clarify the requirements in 5 
+U.S.C. chapter 43. The proposed amendments to 5 CFR part 432 should be 
+construed to be read in concert with related provisions of Federal law 
+(e.g., 5 U.S.C. 6384 and 29 U.S.C. 791(f)) as well as OPM's proposed 
+rulemaking modifying part 430 of this subchapter. Finally, OPM notes 
+that 5 U.S.C. 2301(b)(2) provides that employees should receive fair 
+and equitable treatment without regard to political affiliation, race, 
+color, religion, national origin, sex, marital status, age, or 
+handicapping condition, and with proper regard for their privacy and 
+constitutional rights. All personnel actions must meet this statutory 
+requirement.
+Sec.  432.103 Definitions
+    The proposed rule modifies the definition of ``acceptable 
+performance'' in paragraph (a) to account for OPM's proposed rule 
+``Performance Appraisal for General Schedule, Prevailing Rate, and 
+Certain Other Employees,'' 91 FR 8780 (Feb. 24, 2026), which eliminates 
+Level 2 summary levels in part 430. If adopted, these changes to part 
+430 would require employees to demonstrate performance at the Level 3 
+``Fully Successful'' or equivalent level during an opportunity to 
+demonstrate acceptable performance to avoid a performance-based action. 
+Such employees would also need to sustain their performance at the 
+Fully Successful level for one year from the beginning of an 
+opportunity to demonstrate acceptable performance to avoid a 
+performance-based action under 5 CFR 432.105(b).
+Sec.  432.104 Addressing Unacceptable Performance
+    OPM proposes several changes to streamline its procedures agencies 
+must follow in addressing unacceptable performance. First, under Sec.  
+432.104 agencies are only required to provide performance assistance to 
+employees performing unacceptably when the employee is given an 
+opportunity to demonstrate acceptable performance. Under the proposed 
+rule, agencies will be required to provide such assistance before or 
+during the period in which an employee is given an opportunity to 
+demonstrate acceptable performance. The proposed rule also provides 
+that any such assistance provided to the employee before or during the 
+opportunity to demonstrate acceptable performance meets the requirement 
+under 5 U.S.C. 4302(c)(5).
+    Second, OPM is proposing to generally limit the opportunity period 
+to demonstrate acceptable performance to 30 calendar days. Under the 
+current regulation at Sec.  432.104, OPM limited the amount of time for 
+an employee to demonstrate acceptable performance to a ``reasonable 
+opportunity'' without further defining the term. This undefined term 
+allowed agencies the discretion through policies and collective 
+bargaining agreements, to provide extensive time periods for employees 
+to improve their performance. The MSPB has articulated factors it uses 
+to determine whether the period of time granted is reasonable under the 
+circumstances. Macijauskas v. Dep't of the Army, 34 M.S.P.R. 564, 566 
+(1987), aff'd 847 F.2d 841 (Fed. Cir. 1988). Agencies are typically 
+left using their best predictive judgment on whether an administrative 
+judge would retroactively agree that the amount of time afforded an 
+employee was reasonable. This uncertainty results in lengthy 
+opportunity periods, as managers seek risk aversion, that drag out the 
+process and chills supervisors' willingness to engage in the chapter 43 
+process. The proposed rule sets a maximum of 30 calendar days for 
+employees to demonstrate acceptable performance. However, an agency 
+retains sole and exclusive discretion to extend this period when 
+circumstances warrant additional time for performance evaluation.
+    Third, the proposed rule provides that agencies are not permitted 
+to provide additional informal periods to demonstrate acceptable 
+performance. OPM is aware that some agency collective bargaining 
+agreements require managers to provide employees with ``performance 
+assistance periods'' before they can initiate opportunity periods under 
+5 U.S.C. 4302(c)(6). This can significantly extend the amount of time 
+necessary to remove an underperforming employee through chapter 43 
+procedures, as the agency must proceed through both an informal 
+performance assistance period and then an opportunity period.
+    Although the current regulation at Sec.  432.104 does not prohibit 
+or authorize these additional periods, OPM believes this prohibition is 
+necessary to avoid agencies, whether through policy or collective 
+bargaining agreement, from adding time beyond what OPM considers to be 
+a reasonable amount of time for an employee to improve his or her 
+performance to an acceptable level--30 calendar days. Establishing 
+limits on the opportunity to demonstrate acceptable performance by 
+precluding informal performance assistance periods or similar 
+additional periods beyond what is required by law encourages efficient 
+use of the procedures under chapter 43, reduces the burden of using 
+these procedures on supervisors, and furthers effective delivery of 
+agency mission while still providing employees with sufficient 
+opportunity to demonstrate acceptable performance as required by law.
+    OPM notes that under this proposal supervisors would remain free to 
+informally provide employees with assistance in improving performance 
+at any time and indeed are expected to do so. This proposed regulation 
+would only prohibit agency policies or practices, including those 
+required by collective
+
+[[Page 40449]]
+
+bargaining agreements, that establish definite periods (beyond those 
+provided for in 5 U.S.C. 4302(c)(6)) for demonstrating acceptable 
+performance.
+    Lastly, the proposed rule specifies that the nature of the 
+assistance provided to the employee is not determinative of any penalty 
+imposed upon the employee who fails to demonstrate acceptable 
+performance. This would prohibit an administrative judge or arbitrator 
+from mitigating or reversing an agency-imposed penalty of a reduction 
+in grade or removal based on a finding that the agency did not offer 
+sufficient or certain types of assistance during the opportunity to 
+improve period.
+Sec.  432.105 Proposing and Taking Action Based on Unacceptable 
+Performance
+    Section 4302(c)(5) requires OPM to ensure each performance 
+appraisal system provides for assisting employees in improving 
+unacceptable performance. Similarly, performance appraisal systems must 
+provide for reassigning, reducing in grade, or removing employees who 
+continue to have unacceptable performance but only after an opportunity 
+to demonstrate acceptable performance. 5 U.S.C. 4302(c)(6). Currently, 
+Sec.  432.105 does not specifically address whether assistance provided 
+to an employee before or during an opportunity period satisfies the 
+requirement under Section 4302(c)(5). The proposed rule decouples 5 
+U.S.C. 4302(c)(5) and (6) by clarifying in Sec.  432.105 that the 
+opportunity to demonstrate acceptable performance required prior to 
+initiating an action pursuant to 5 U.S.C. 4303 is separate from the 
+requirement to provide assistance with improving unacceptable 
+performance. Aiding with improving unacceptable performance includes 
+any and all performance assistance measures taken during the 
+performance appraisal period to assist an employee to improve his or 
+her performance and is not limited to any efforts taken during the 
+formal opportunity period.
+    Moreover, Section 4303(a) authorizes agencies to reduce in grade or 
+remove an employee for unacceptable performance. Neither 5 U.S.C. 4303 
+nor 5 CFR 432.105 specify which penalty must be proposed by an agency 
+taking an action for unacceptable performance. Agencies are free to 
+propose either a reduction in grade or removal. The proposed rule 
+removes this choice by establishing removal as the default penalty 
+agencies must propose for unacceptable performance. Agencies will, 
+however, retain their discretion to mitigate a reduction in grade or 
+lesser penalty such as a written warning consistent with their internal 
+policies. Any such mitigation will be left to the sole and exclusive 
+discretion of the higher agency official or agency head and may only be 
+exercised consistent with the agency's mission. These updates are 
+essential to ensure agencies can hold employees responsible for poor 
+performance that negatively impacts the agency's mission, especially as 
+resources become more limited. Agencies must concentrate exclusively on 
+their missions when determining whether to keep employees who are 
+unable to fulfill the responsibilities of their positions.
+    OPM is further proposing to clarify an agency's and an employee's 
+obligations under 5 U.S.C. 4303(b) by standardizing the timelines for 
+chapter 43 actions, with appropriate qualifications for circumstances 
+that may arise that would necessitate the non-adherence to those 
+timelines. As a general matter, OPM is proposing to direct agencies to 
+effectuate a proposed action no later than 30 days after the date on 
+which an employee is notified of the proposed action. The proposed rule 
+also limits the circumstances when an agency may extend the advance 
+notice to only those situations where (1) it is necessary to comply 
+with a stay ordered by a member of the MSPB under 5 U.S.C. 
+1214(b)(1)(A) or (B), or (2) to consider information gathered as part 
+of a medical examination. Otherwise, an agency, through its Chief Human 
+Capital Officer or equivalent official (such as the agency's HR 
+Director), must request prior approval from OPM to extend the advance 
+notice period for any other reason.
+    The proposed rule would provide an employee, in general, 7 to 10 
+calendar days from the date of the agency's proposed action to provide 
+an answer to the proposed removal. The proposal also provides an agency 
+with sole and exclusive discretion and authority to provide for a 10-
+day extension so that the employee may consider a settlement or other 
+offer from the agency to terminate employment. The proposed rule would 
+require that an employee raise any medical issues, such as illness, 
+incapacitation, or disability, that might have impacted the employee's 
+performance as part of the employee's answer. Failure to do so at that 
+juncture would be considered a waiver of the ability to do so prior to 
+the proposed action being effectuated, except where prohibited by 
+statute.
+    Pursuant to statutory requirements, employees have the right to 
+representation. The proposed rule provides clarification regarding the 
+selection process for representatives and outlines the specific, 
+limited circumstances under which an agency may, at its sole 
+discretion, deny an employee's chosen representative. Namely, the 
+proposed rule allows the agency to disallow a representative if the 
+representative is also an employee of the agency and his or her 
+activities would cause a conflict of interest, the employee cannot be 
+released from official duties because of priority needs of the 
+Government, or that employee's release would give rise to unreasonable 
+costs to the Government. The proposed rule also requires the employee 
+to provide a written designation of his or her chosen representative to 
+the agency
+    The proposed rule also prohibits the use of taxpayer-funded union 
+time under 5 U.S.C. 7131(d) for a Federal employee serving as a 
+representative of an employee during the procedures established under 
+subparts B and D of part 752. OPM believes that American taxpayers 
+should not pay for the representation of Federal employees charged with 
+conduct detrimental to the efficiency of the service. As detailed in 
+the Taxpayer-Funded Union Time Usage in the Federal Government: Fiscal 
+Year 2024, taxpayers subsidize labor union representatives at a total 
+compensation rate of $64.05 per hour to represent bargaining unit 
+employees or at a total annual compensation cost of more than $207 
+million.\23\ In Fiscal Year 2019, the total annual compensation cost 
+was slightly below $135 million. OPM, thus, finds it entirely 
+appropriate and necessary to reduce these growing costs by ending the 
+general subsidization of employee opposition to proposed removals. 
+Employees may represent themselves in such proceedings or bring in 
+outside counsel. But agencies should not be required to subsidize 
+employee opposition to removal actions. to shift these costs away from 
+taxpayers to employees. This prohibition is also consistent with the 
+policies of E.O. 13837 and two other OPM-proposed rulemakings. If 
+adopted in the final rule, the regulation would prevent agencies from 
+agreeing to a proposal or provision in a collective bargaining 
+agreement or authorizing the use of taxpayer-funded union time under 
+section 7131(d) for the purposes of representing employees during 
+proceedings established under subparts B and D. Where agencies have 
+agreed to provide such time in a collective bargaining agreement before 
+any such
+
+[[Page 40450]]
+
+final rule, this prohibition would apply at the expiration of the term 
+of that agreement.
+---------------------------------------------------------------------------
+
+    \23\ https://www.opm.gov/about-us/reports-publications/agency-reports/fiscal-year-2024-taxpayer-funded-union-time-usage-in-the-federal-government/.
+---------------------------------------------------------------------------
+
+    To align with 5 U.S.C. 4303(c)(1) and to promote efficiency, the 
+proposed rule directs agencies to make their final written decision 
+within 30 days after the expiration of the advance notice period but 
+encourages an agency to make its final written decision as soon as 
+practicable. The proposal empowers the deciding official, in his or her 
+sole and exclusive discretion, to mitigate the proposed action only 
+where doing so is consistent with the mission of the agency.
+Sec.  432.108 Settlement Agreements
+    Under E.O. 13839, President Trump prohibited agencies from agreeing 
+to erase, remove, alter, or withhold from another Federal agency any 
+information about a civilian employee's performance or conduct in that 
+employee's official personnel records, including an employee's Official 
+Personnel Folder and Employee Performance File, as part of, or as a 
+condition to, resolving a formal or informal complaint by the employee 
+or settling an administrative challenge to an adverse action. Such 
+agreements or provisions thereof have traditionally been referred to as 
+``clean record'' settlements or become a part of agreements described 
+as ``last chance agreements.'' \24\ This proposed rule is intended to 
+promote the high standards of integrity, transparency, and 
+accountability within the Federal workforce by requiring agencies to 
+maintain personnel records that reflect complete information and 
+preventing the alteration of information contained in those records in 
+connection with a formal or informal complaint or adverse action. These 
+limitations pertain to the exchange of information among Federal 
+agencies and do not extend to external employers. Thus, agencies may 
+agree to, for example, a provision in a settlement agreement that would 
+provide a ``neutral reference'' \25\ to a non-Federal agency employer. 
+This requirement would also ensure that those records are preserved so 
+that agencies can make appropriate and informed decisions regarding an 
+employee's qualification, suitability or fitness, and eligibility for 
+access to classified information as applicable to future employment.
+---------------------------------------------------------------------------
+
+    \24\ These types of agreements call for an agency to hold a 
+proposed action in abeyance for a period of time, typically one or 
+two years, subject to an employee's good behavior. If the employee 
+does not engage in any misconduct during this time, the agency 
+would, as a condition of the agreement, mitigate or rescind the 
+proposed action including removing evidence of the misconduct giving 
+rise to the proposed action. Such agreements would be prohibited 
+under this proposed rule.
+    \25\ Agencies sometimes agree as part of a settlement agreement 
+to provide a neutral reference to prospective employers. The terms 
+of a typical neutral reference provide that an agency will only 
+confirm the dates of employment, salary history, and title of an 
+employee to a prospective employer conducting a reference check.
+---------------------------------------------------------------------------
+
+    These requirements should not be construed to prevent agencies from 
+correcting records of an action taken by the agency illegally or in 
+error. In such cases, an agency has the authority--unilaterally or by 
+agreement--to modify an employee's personnel file to remove inaccurate 
+information or the record of an erroneous or illegal action. 
+Specifically, the proposed rule states that the requirement would not 
+prevent agencies from taking corrective action should it come to light, 
+including during or after the issuance of an adverse personnel action, 
+that information contained in a personnel record is inaccurate or 
+documents an action taken by the agency illegally or in error. In such 
+cases, an agency would have the authority, unilaterally or by 
+agreement, to modify an employee's personnel file to remove inaccurate 
+information or the record of an erroneous or illegal action. An agency 
+may take such action even if an appeal or a complaint has been filed 
+relating to the information that the agency determines to be inaccurate 
+or to reflect an action taken illegally or in error. In all events, 
+however, the agency must ensure that it removes only information that 
+the agency itself has determined to be inaccurate or to reflect an 
+action taken illegally or in error. Documents subject to withdrawal or 
+modification could include, for example, an SF-50 issuing a 
+disciplinary or performance-based action, a decision memorandum 
+accompanying such action, or an employee performance appraisal.
+    Finally, to the extent that an employee's personnel file or other 
+agency records contain a proposed action that is subsequently 
+cancelled, an agency would have the authority to remove that action 
+from the employee's personnel file or other agency files. Under the 
+proposed rule, if persuasive evidence emerges before a final agency 
+decision that questions the validity of an adverse personnel action or 
+the agency's ability to defend it in litigation, the agency may cancel 
+or vacate the action. Additional information can emerge at any point in 
+the process before the agency makes its final decision, including 
+during an employee's response period. To the extent an employee's 
+personnel file or other agency records contain a proposed action that 
+is subsequently cancelled, an agency would have the authority to remove 
+that action from the employee's personnel file or other agency files. 
+However, the requirements would continue to apply to any accurate 
+information about the employee's performance or conduct which comes to 
+light prior to issuance of a final agency decision on an adverse 
+action.
+    Should an agency cancel an action or proposed action and remove it 
+from an employee's personnel file, the agency may need to retain the 
+removed documentation to comply with other obligations such as 
+litigation holds, suitability background investigations, and national 
+security clearance background investigations.
+
+c. 5 CFR Part 715--Nondisciplinary Separations, Demotions, and 
+Furloughs
+
+Sec.  715.201 Applicability
+    The proposed language in this section removes the term 
+``requested'' to accommodate the proposed changes to 715.203.
+Sec.  715.203 Abandonment
+    The proposed language in this section establishes a clear standard 
+for agencies to use in determining whether an employee abandons his or 
+her position. An employee deemed to have abandoned his position is not 
+entitled to the statutory procedures under subparts D and F of Part 752 
+in the separation process. An employee who does not report for duty, or 
+fails to return from leave or furlough of 30 days or less, for a period 
+of 10 consecutive calendar days or longer without submitting a 
+resignation is considered to have voluntarily abandoned their position. 
+The D.C. Circuit has observed that the abandonment doctrine aligns with 
+5 U.S.C. 7512, which delineates the categories of adverse actions 
+subject to MSPB review and specifically excludes abandonment. The 
+abandonment doctrine is recognized in MSPB decisions, judicial 
+decisions, and OPM's Guide to Processing Personnel Actions.\26\
+---------------------------------------------------------------------------
+
+    \26\ McLane v. Burgum, No. 23-5205, 2025 WL 817423, at *2 (D.C. 
+Cir. Mar. 14, 2025); see also Carroll v. Dep't of Interior, 2014 WL 
+6791369 (M.S.P.B. Dec. 3, 2014); Off. of Personnel Mgmt., Guide to 
+Processing Personnel Actions (2017), Ch. 35 at 1, Ch. 31 at 25.
+---------------------------------------------------------------------------
+
+    OPM is convinced that it would benefit agency HR professionals if 
+the abandonment doctrine were officially included in its regulations. 
+OPM believes this proposal would clearly define the time required to 
+establish abandonment, offering a regulatory standard where case law is 
+unclear. OPM based its determination that 10 calendar days is 
+reasonable on the Civil
+
+[[Page 40451]]
+
+Service Commission's prior rule from the Federal Personnel Manual.\27\
+---------------------------------------------------------------------------
+
+    \27\ See FPM Chapter 715, subchapter 3-2 (July 1969).
+---------------------------------------------------------------------------
+
+d. 5 CFR Part 752--Adverse Actions
+
+Sec.  752.104 Settlement Agreements
+    The proposed language in this section establishes the same 
+requirement that is detailed in the proposed rule changes at Sec.  
+432.108, Settlement agreements. Through revocation of E.O. 14003 and 
+rescission of policies effectuated under it, President Trump directed a 
+return to policies promulgated under E.O. 13839 to promote transparency 
+and accountability in the federal workplace. This includes prohibiting 
+the use of settlement agreements by agencies to obscure poor 
+performance or misconduct of federal employees. As such, the same 
+prohibition of settlement agreements under Sec.  432.108 is appropriate 
+when agencies utilize adverse action procedures under 5 U.S.C. chapter 
+75. Please see prior discussion of Sec.  432.108.
+Sec.  752.202 Standard for Action and Penalty Determination
+    Currently, Sec.  752.202 establishes the standard for action when 
+agencies suspend employees for 14 days or less. An agency may only 
+suspend an employee for 14 days or less for such cause as will promote 
+the efficiency of the service under 5 U.S.C. 7503(a). Although the 
+standard for action under this subpart is unchanged, the proposed rule 
+introduces three additional requirements to be considered when 
+determining the appropriate penalty pursuant to this subpart.
+    First, the proposed rule clarifies that an agency is not required 
+to use progressive discipline under this subpart. This change mirrors 
+the same policy articulated in E.O. 13839 which stated that supervisors 
+and managers should not use progressive discipline and that each 
+instance of conduct should be penalized based on the facts and 
+circumstances.
+    Second, OPM proposes to prohibit agencies from establishing or 
+using tables of penalties or similar policies that prescribe mandatory 
+or recommended disciplines. Certain agencies create penalty tables to 
+help supervisors determine what discipline might best apply in specific 
+cases. The creation and use of a table of penalties is neither required 
+by statute, case law, or OPM regulation; nor does OPM provide written 
+guidance on this topic. The applicable standard, ``to promote the 
+efficiency of the service,'' is broad and flexible enough to encompass 
+all occurrences that may occasion an adverse action. Thus, agencies can 
+address misconduct appropriately without a table of penalties, and with 
+sufficient flexibility to determine the appropriate discipline for each 
+instance of misconduct.
+    Tables of penalties may also create significant drawbacks to the 
+viability of a particular action and to effective management. By 
+establishing a range of penalties for an offense, tables of penalties 
+restrict management's discretion to adjust disciplines according to the 
+specific facts and circumstances of each case by eliminating certain 
+options along the continuum. For example, an arbitrator mitigated a 
+federal employee's seven-day suspension to a reprimand despite the 
+employee's prior discipline two years earlier for ``conduct unbecoming 
+a federal employee,'' on the grounds that the previous offense did not 
+count as a second offense of ``disrespectful response to directions'' 
+under the agency's table of penalties.\28\ OPM also recognizes that the 
+existence of a table of penalties can encourage supervisors to assign 
+more severe penalties than they believe are warranted in the particular 
+case in order to align with the table's prescriptions. OPM believes 
+supervisors should have discretion to tailor the penalty to the facts 
+of the case without feeling restricted, in either direction, by a table 
+of penalties.\29\ OPM also encourages supervisors and managers to think 
+carefully and coherently about when and how to impose discipline in a 
+way that fosters an effective and efficient workplace, in the best 
+interests of all employees and the agency's mission. By contrast, 
+tables of penalties can foster a ``paint-by-numbers'' approach in which 
+managers may hide behind a chart imposed from above rather than take 
+direct responsibility for their workplace.
+---------------------------------------------------------------------------
+
+    \28\ U.S. Dep't of Energy and Am. Fed'n of Gov't Emps., 73 FLRA 
+No. 100 (2023).
+    \29\ Indeed, OPM has long cautioned that ``surface consistency 
+should be avoided'' in favor of allowing for consideration of all 
+relevant factors in the specific case. Douglas, 5 M.S.P.B. at 333 
+(emphasis in original). The MSPB has cautioned against ``rigid 
+formalism'' in choosing a penalty and the ``inflexible'' use of 
+tables of penalties. Id.
+---------------------------------------------------------------------------
+
+    Ultimately, managers must use their own judgment to thoughtfully 
+address each situation as it happens, determining or recommending the 
+most suitable discipline when required.
+    Third, OPM proposes in Sec.  752.202(e) that agencies should not 
+replace removal with suspension as a penalty when removal is warranted. 
+Additionally, it should not be required that an employee be previously 
+suspended or demoted before being removed. OPM previously adopted into 
+regulations these commonsense principles.\30\ Supervisors and managers 
+should retain the flexibility to appropriately sanction misconduct so 
+detrimental to the efficiency of the service that only removal is the 
+appropriate penalty. Artificial constraints that only serve to reward 
+such poor behavior should be removed to restore the public's trust in 
+the federal workforce.
+---------------------------------------------------------------------------
+
+    \30\ 85 FR 65940.
+---------------------------------------------------------------------------
+
+Sec.  752.203 Procedures
+    The proposed changes in Sec.  752.203(a) prohibit agencies from 
+supplementing the procedures under subpart B when taking a performance-
+based action. This prohibition applies to both agency policies as well 
+as collective bargaining agreements. Consistent with the proposed 
+changes to the regulations under Part 432, OPM believes these changes 
+are necessary to free supervisors and managers from administrative 
+burdens placed upon them by agency policy or collective bargaining 
+agreements that prevent them from quickly addressing misconduct in the 
+workplace.
+    The proposed language in Sec.  752.203(c) revises the timeline an 
+employee is to be given to prepare an answer to a proposed action. OPM 
+proposes to clarify that a reasonable amount of time for an employee to 
+respond to such a proposal is not less than one business day but no 
+more than 5 business days. The proposed language provides for an 
+agency, in its sole and exclusive discretion, to offer an extension of 
+no more than 5 additional calendar days, for a total of 10 calendar 
+days, to consider a settlement or other offer from the agency, as well 
+as an unlimited extension in such cases in which additional time is 
+necessary for compliance with a statute, regulation, or where doing so 
+is clearly in the government's interests.
+    The proposed Sec.  752.203(d) establishes the same requirement 
+outlined in the proposed rule changes in Sec.  432.105(d)(3) regarding 
+appropriate representation of federal employees during the procedures 
+established under this Subpart. Providing consistent rules across 
+similar procedures promotes compliance across OPM's employee 
+accountability regulations.
+    The proposed Sec.  752.203(e) also strongly encourages agencies to 
+issue a decision on the proposed action as soon as practicable and 
+establishes a recommended timeline for agencies to respond within five 
+business days from
+
+[[Page 40452]]
+
+the end of the employee's opportunity to respond. While decisions 
+rendered after this deadline are still valid, OPM views it necessary to 
+establish this time limit for agencies to measure their performance in 
+effectively addressing conduct detrimental to the efficiency of the 
+service.
+    The proposed Sec.  752.203(f) authorizes employees to file an 
+administrative grievance concerning an action taken under this subpart. 
+It also proposes to prohibit bargaining unit employees or labor 
+organizations on behalf of the bargaining unit employees from filing a 
+negotiated grievance procedure contesting short-term suspensions taken 
+under this subpart unless the agency and OPM agree that the negotiated 
+grievance procedure does not impair the effective use of actions taken 
+under this subpart. If either the agency or OPM subsequently determines 
+that the negotiated grievance procedure impairs the effective use of 
+actions under this subpart either may revoke their previous 
+determination. OPM views these changes as necessary to prevent 
+negotiated grievance procedures from creating significant delays and 
+imposing significant expenses when agencies utilize short-term 
+suspensions. Such delays and costs disincentivize supervisors and 
+managers from carrying out relatively minor disciplinary actions. 
+Congress intended suspensions of 14 days or less to be less 
+administratively burdensome than adverse actions. The proposed 
+amendments permit continued grievance arbitration of such actions, but 
+only where the agency and OPM find the use of grievance procedures does 
+not impair their use as a disciplinary tool.
+    The proposed language in Sec.  752.203(h) establishes the same 
+requirements restricting settlement agreements that is detailed in the 
+proposed rule changes at Sec.  432.108, Settlement agreements. See 
+prior discussion about Sec. Sec.  432.108 and 752.104 for additional 
+context.
+
+Subpart D--Regulatory Requirements for Removal, Suspension for More 
+Than 14
+
+    Days, Reduction in Grade or Pay, or Furlough for 30 Days or Less
+    This subpart addresses the procedural requirements for removals, 
+suspensions for more than 14 days, including indefinite suspensions, 
+reductions in grade, reductions in pay, and furloughs of 30 days or 
+less for covered employees.
+Sec.  752.401 Coverage
+    The proposed Sec.  752.401(b)(18) reflects the changes to 5 CFR 
+part 11 established under E.O. 14284. Employees terminated for failing 
+to complete a probationary or trial period will not be able to avail 
+themselves of the procedures established under subpart D. This is also 
+consistent with the definition of employee under 5 U.S.C. 7511(a)(1). 
+Similarly, the proposed Sec.  752.401(d)(2) adds those employees 
+appointed to positions in Schedule G to the list of employees excluded 
+from coverage under this subpart. The proposed rule reflects the 
+prohibition under 5 U.S.C. 7511(b)(2) excluding employees occupying 
+positions established under Schedule Policy/Career from adverse action 
+procedures.
+Sec.  752.403 Standard for Action and Penalty Determination.
+    For the same reasons articulated previously, OPM is proposing to 
+adopt the same changes proposed under Sec.  752.202 and Sec.  
+752.203(a) under Sec.  752.403. The proposed Sec.  752.403(a) adopts 
+the same limitations found at Sec.  752.203(a) on supplementing the 
+procedures used by agencies in taking adverse actions under subpart D. 
+The proposed Sec.  752.403(c)-(e) add the same penalty determination 
+standards proposed at Sec.  752.202(c), (e), and (f). OPM is also 
+proposing in Sec.  752.403(b) to adopt the same standard in Sec.  
+752.202(b) to clarify that agencies shall not take any action under 
+subpart D prohibited by 5 U.S.C. 2302.
+    Additionally, OPM proposes in Sec.  752.403(d) to clarify that in 
+assessing an appropriate penalty, agencies should focus on comparators 
+in the same work unit, with the same supervisor, and who were subjected 
+to the same standards governing discipline. OPM is adopting the 
+approach articulated by the United States Court of Appeals for the 
+Federal Circuit (Federal Circuit) in Miskill v. Social Security 
+Administration, 863 F.3d 1379 (Fed. Cir. 2017), to guide agencies in 
+identifying the appropriate comparators. The Federal Circuit held that 
+an agency need only provide ``proof that the proffered comparator was 
+in the same work unit, with the same supervisor, and was subjected to 
+the same standards governing discipline.'' Miskill, 863 F.3d at 1384. A 
+line of since-repudiated Board decisions functionally required 
+supervisors to consider agency-wide comparators when assessing 
+penalties for misconduct.\31\ This both made removals for misconduct 
+difficult and strongly discouraged agencies from showing leniency in 
+appropriate circumstances, as a single incident of leniency anywhere in 
+the agency could prevent it from removing any other employee for 
+similar conduct. OPM accordingly proposes to regulatorily codify that 
+the use of comparator employees is optional on the part of agencies; 
+and, when used, appropriate comparators are those in the same work unit 
+and with the same supervisor. This approach reinforces the key 
+principle that each case stands on its own factual and contextual 
+footing.
+---------------------------------------------------------------------------
+
+    \31\ See Lewis v. VA, 2010 MSPB 98 (2010); Woebcke v. DHS, 2010 
+MSPB 85 (2010); and Villada v. USPS, 2010 MSPB 232 (2010) (requiring 
+agencies to look at agency-wide comparators when evaluating proposed 
+discipline for misconduct). But see Singh v. USPS, 2022 MSPB 15 
+(2022) (abandoning the standard set out in Lewis and related cases).
+---------------------------------------------------------------------------
+
+Sec.  752.404 Procedures
+    Section 752.404(b) discusses the requirements for a notice of 
+proposed action issued under this subpart. Specifically, Sec.  
+752.404(b)(1) provides that, to the extent an agency, in its sole and 
+exclusive discretion deems practicable, agencies should limit written 
+notice of adverse actions taken under this subpart to the 30 days 
+prescribed in 5 U.S.C. 7513(b)(1). Any notice period greater than 30 
+days must be reported to OPM. OPM will use this information to evaluate 
+whether agencies are (1) promoting a culture of high performance and 
+accountability and (2) holding managers and human resources 
+professionals accountable for efficient and effective human resources 
+management. The proposed rule leaves unchanged the requirement that the 
+notice must provide detailed information with respect to any right to 
+appeal the action pursuant to Public Law 115-91 section 1097(b)(2)(A); 
+specifically, the forum in which the employee may file an appeal, and 
+any limitations on the rights of the employee that would apply because 
+of the forum in which the employee decides to file. This additional 
+language implements the requirement in Public Law 115-91 section 
+1097(b)(2)(A), which mandates that information on whistleblower appeal 
+rights be included in any notice provided to an employee under 5 U.S.C. 
+7503(b)(1), 7513(b)(1), or 7543(b)(1).
+    OPM is proposing to modify Sec.  752.404(b)(3) to remove language 
+that it believes discourages supervisors from placing an employee on 
+notice leave. The current regulation states that agencies ordinarily 
+should not take employees they have proposed to suspend or remove out 
+of the worksite and should instead generally keep them in a regular 
+duty status. OPM believes the current regulation serves as a
+
+[[Page 40453]]
+
+deterrent to supervisors and managers taking action under this subpart 
+because it conveys a policy preference of discouraging use of the 
+notice leave authority. According to MSPB, over 40% of supervisors 
+``cited their discomfort'' as a barrier to removing employees for 
+misconduct.\32\ GAO has also noted that ``dislike of confrontation may 
+deter supervisors from taking steps to address poor performance 
+issues.'' \33\ Put simply, evidence supports that a supervisor is less 
+likely to take an appropriate adverse action if faced with the prospect 
+of being required to see the employee against whom the action is taken 
+each day for as long as the process may take. These proposed changes, 
+nonetheless, still require the agency to make the appropriate 
+assessment under 5 U.S.C. 6329b(b)(2) and 5 CFR 630.1503(b) when 
+placing an employee on notice leave.
+---------------------------------------------------------------------------
+
+    \32\ Merit Sys. Prot. Bd., ``Remedying Unacceptable Employee 
+Performance in the Federal Civil Service,'' p. 6, June 18, 1995, 
+available at https://www.mspb.gov/studies/researchbriefs/Remedying_Unacceptable_Employee_Performance_in_the_Federal_Civil_Service_1627610.pdf.
+    \33\ U.S. Government Accountability Office, ``Issues Related to 
+Poor Performers in the Workplace,'' June 30, 2005, available at 
+https://www.gao.gov/assets/a93353.html.
+---------------------------------------------------------------------------
+
+    Additionally, OPM is proposing changes to Sec.  752.404(c)(1) 
+similar to its proposed changes at Sec.  752.203(c). The proposed 
+change under this subpart would narrow the window for employees to 
+respond to a proposed adverse action to a 7-10 calendar day window. OPM 
+is also proposing to enable agencies to offer a limited extension of 
+this time period to allow an employee to consider a settlement or other 
+offer from the agency, as well as allow an unlimited extension in cases 
+in which additional time is necessary for compliance with a statute, 
+regulation, or where doing so is clearly in the government's interests.
+    Finally, the proposed rule at Sec.  752.404(g) discusses the 
+requirements for an agency decision issued under this subpart. 
+Specifically, the proposed rule at Sec.  752.404(g)(3) includes new 
+language that, to the extent practicable, an agency should issue the 
+decision on a proposed removal under this subpart within 10 calendar 
+days of the conclusion of the employee's opportunity. However, an 
+agency that exceeds this time limit is still authorized to take an 
+action under this subpart. These proposed changes facilitate timely 
+resolution of adverse actions while preserving employee rights.
+Sec.  752.407 Settlement Agreements
+    The proposed language in this section establishes the same 
+requirement that is detailed in the proposed rule changes at Sec.  
+432.108, Settlement agreements. See prior discussion regarding 
+Sec. Sec.  432.108 and 752.104 for additional context.
+
+Subpart F--Regulatory Requirements for Taking Adverse Actions Under the 
+Senior Executive Service
+
+    This subpart addresses the procedural requirements for suspensions 
+for more than 14 days and removals from the civil service as set forth 
+in 5 U.S.C. 7542.
+Sec.  752.603 Standard for Action and Penalty Determination
+    As with the rule changes proposed for Sec. Sec.  752.202 and 
+752.403, the standard for action under this subpart remains unchanged. 
+OPM also proposes to add nearly identical language to that proposed for 
+Sec.  752.202 and 752.403 regarding penalty determinations. Please see 
+the prior discussion about Sec.  752.202 and 752.403, with one notable 
+difference. OPM proposes in 752.603(d) to remove language that limits 
+the appropriate comparators to the same work unit, same supervisor, 
+those employees subject to the same standards of discipline for 
+purposes of determining the appropriate penalty. In OPM's view, 
+including these limits for SES would likely produce no valid 
+comparators as most SES members are the only executives within a work 
+unit. Additionally, the proposed rule adds the same paragraph (f) 
+proposed at Sec.  752.403 as paragraph (f) at Sec.  752.603 which 
+states that a suspension or a reduction in pay or grade should not be a 
+substitute for removal in circumstances in which removal would be 
+appropriate. Agencies should not require that an employee have 
+previously been suspended or reduced in pay or grade before a proposing 
+official may propose removal.
+Sec.  752.604 Procedures
+    Sec.  752.604(b) discusses the requirements for a notice of 
+proposed action issued under this subpart. OPM proposes revising the 
+language in this subpart to be consistent with the advance notice 
+period for general schedule employees. Specifically, Sec.  
+752.604(b)(1) provides that, to the extent an agency, in its sole and 
+exclusive discretion deems practicable, agencies should limit written 
+notice of adverse actions taken under this subpart to the 30 days 
+prescribed in 5 U.S.C. 7543(b)(1). Any notice period greater than 30 
+days must be reported to OPM.
+    The proposed rule also retains existing language that the notice 
+must provide detailed information with respect to any right to appeal 
+the action pursuant to Public Law 115-91 section 1097(b)(2)(A); 
+specifically, the forum in which the employee may file an appeal, and 
+any limitations on the rights of the employee that would apply because 
+of the forum in which the employee decides to file. This additional 
+language implements the requirement within Public Law 115-91 section 
+1097(b)(2)(A), which mandates that information on whistleblower appeal 
+rights be included in any notice provided to an employee under 5 U.S.C. 
+7503(b)(1), 7513(b)(1), or 7543(b)(1).
+    Finally, the proposed rule at Sec.  752.604(g) discusses the 
+requirements for an agency decision issued under this subpart. 
+Specifically, the proposed rule at Sec.  752.604(g)(3) includes new 
+language that, to the extent practicable, an agency should issue the 
+decision on a proposed removal under this subpart within 30 calendar 
+days of the conclusion of the employee's opportunity.
+Sec.  752.607 Settlement Agreements
+    The proposed language in this section establishes the same 
+requirement that is detailed in the proposed rule changes at Sec. Sec.  
+432.108, 752.203 and 752.407. Please see prior discussion regarding 
+Sec. Sec.  432.108 and 752.104 for additional context.
+
+e. Sec.  1201.56 Burden and Degree of Proof
+
+    The MSPB proposes to amend its regulations to modify the 12-factor 
+test used to assess penalty determinations, as initially established in 
+its decision in Douglas v. Veterans Administration, 5 M.S.P.R. 280 
+(1981), and replace it with a new test for assessing whether an 
+agency's chosen penalty under chapter 75 is reasonable. Under the 
+proposed 5 CFR 1201.56(b)(3), MSPB will evaluate whether an agency's 
+penalty is within the tolerable limits of reasonableness in light of 
+the totality of the circumstances. MSPB will make this determination on 
+a case-by-case basis; no particular set of factors must be considered 
+in every case.
+    In proposing this departure from the 12-factor Douglas test, MSPB 
+acknowledges that Douglas has long been a cornerstone of federal 
+employment law. However, over the ensuing decades, agencies and, 
+occasionally, MSPB, have applied Douglas in a rigid, mechanistic way 
+that the original decision never contemplated or prescribed. For the 
+reasons set forth in this proposed rule, and in conjunction with OPM's 
+streamlining of performance management policy, the Board proposes to 
+correct this rigid application and reaffirm the Board's commitment to 
+adjudicating disciplinary action appeals
+
+[[Page 40454]]
+
+under a more flexible standard in conformance with its statutory 
+authority.
+    Additionally, MSPB proposes to codify existing case law regarding 
+how the Board determines whether to sustain or mitigate penalties. 
+Consistent with Lachance v. Devall, 178 F.3d 1246, 1260 (Fed. Cir. 
+1999) (hereinafter ``Devall''), if MSPB sustains all charges by the 
+agency and determines that the agency's penalty is reasonable, it will 
+sustain the agency's action. If MSPB sustains all the charges but 
+determines the penalty is not reasonable, it may mitigate the penalty 
+to the maximum reasonable penalty. If MSPB sustains fewer than all of 
+the agency's charges, MSPB may mitigate the agency's penalty to the 
+maximum reasonable penalty so long as the agency did not indicate 
+either in its final decision, or during proceedings before MSPB, that 
+it desired that a lesser penalty be imposed if the Board did not 
+sustain all of its charges. If an agency so indicated, MSPB may impose 
+a lesser penalty the agency indicated it would have imposed or give the 
+agency an opportunity to institute a lesser penalty. If an agency did 
+not indicate that it desired a lesser penalty be imposed if MSPB did 
+not sustain all its charges, MSPB may mitigate the agency's penalty to 
+the maximum reasonable penalty or give the agency an opportunity to 
+institute a lesser penalty.\34\
+---------------------------------------------------------------------------
+
+    \34\ Devall, 178 F.3d at 1260.
+---------------------------------------------------------------------------
+
+Legal Standards Governing Penalty Review Under Statute and Regulation
+    Congress has directed that an agency may take an adverse action 
+``only for such cause as will promote the efficiency of the service.'' 
+\35\ In addition, the statute requires that the employee receive 
+procedural rights--notice, an opportunity to respond, representation, 
+and a written decision.\36\
+---------------------------------------------------------------------------
+
+    \35\ 5 U.S.C. 7513(a).
+    \36\ 5 U.S.C. 7513(b).
+---------------------------------------------------------------------------
+
+    When an employee appeals a chapter 75 action, the Board adjudicates 
+the appeal under 5 U.S.C. 7701. The agency bears the burden of proof, 
+and the Board must sustain the agency action only if supported by the 
+applicable evidentiary standard.\37\ Specifically, for actions under 
+chapter 75, the agency must prove its charge and its penalty by a 
+preponderance of the evidence and for actions under chapter 43, by 
+substantial evidence.\38\ An appellant may prevail by establishing that 
+the agency has committed harmful procedural error in arriving at its 
+decision, the agency's decision was based on a prohibited personnel 
+practice, or the agency's decision was contrary to law.\39\
+---------------------------------------------------------------------------
+
+    \37\ 5 U.S.C. 7701(c)(1); 5 CFR 1201.56(b).
+    \38\ 5 CFR 1201.56(b)(1)(ii).
+    \39\ 5 CFR 1201.56(c).
+---------------------------------------------------------------------------
+
+    Regarding the penalty imposed, nothing in the governing statutes or 
+regulations mandates the use of any particular set of enumerated 
+factors. The statutory command is that the action must be reasonable 
+and ``promote the efficiency of the service,'' and the Board must 
+evaluate the agency's justification on the record as a whole.
+    The Douglas Decision and the Emergence of the Twelve Factors
+    In Douglas, the Board confronted the question of how to assess the 
+reasonableness of penalties selected by agencies under chapter 75. The 
+Board held that it possessed the authority--previously exercised by the 
+Civil Service Commission--to mitigate penalties in appropriate 
+circumstances.\40\ It then summarized prior decisions into a 
+nonexhaustive list of twelve relevant considerations, now commonly 
+called the Douglas factors.
+---------------------------------------------------------------------------
+
+    \40\ The Board's proposal to overrule the Douglas test will not 
+alter its holding regarding its mitigation authority, which the 
+Federal Circuit has also recognized. Devall, 178 F.3d at 1256.
+---------------------------------------------------------------------------
+
+    This nonexhaustive list of Douglas factors included: (1) the nature 
+and seriousness of the offense, and its relation to the employee's 
+duties, position, and responsibilities, including whether the offense 
+was intentional or technical or inadvertent, or was committed 
+maliciously or for gain, or was frequently repeated; (2) the employee's 
+job level and type of employment, including supervisory or fiduciary 
+role, contacts with the public, and prominence of the position; (3) the 
+employee's past disciplinary record; (4) the employee's past work 
+record, including length of service, performance on the job, ability to 
+get along with fellow workers, and dependability; (5) the effect of the 
+offense upon the employee's ability to perform at a satisfactory level 
+and its effect upon supervisors' confidence in the employee's ability 
+to perform assigned duties; (6) consistency of the penalty with those 
+imposed upon other employees for the same or similar offenses; (7) 
+consistency of the penalty with any applicable agency table of 
+penalties; (8) the notoriety of the offense or its impact upon the 
+reputation of the agency; (9) the clarity with which the employee was 
+on notice of any rules that were violated in committing the offense, or 
+had been warned about the conduct in question; (10) potential for the 
+employee's rehabilitation; (11) mitigating circumstances surrounding 
+the offense such as unusual job tensions, personality problems, mental 
+impairment, harassment or bad faith, malice or provocation on the part 
+of others involved in the matter; and (12) the adequacy and 
+effectiveness of alternative sanctions to deter such conduct in the 
+future by the employee or others.\41\ These Douglas factors quickly 
+became circulated throughout agency policies, OPM guidance, and Board 
+case law.
+---------------------------------------------------------------------------
+
+    \41\ Douglas, 5 M.S.P.R. at 305.
+---------------------------------------------------------------------------
+
+    From the outset, Douglas cautioned that not all factors apply in 
+every case and that the list should not supplant the statutory inquiry. 
+Nonetheless, although nothing in Douglas or subsequent case law \42\ so 
+required, the factors became the framework around which agencies 
+structured penalty determinations and the manner in which appellants 
+and advocates litigated penalty issues. The Board has observed that 
+application of Douglas, primarily by agencies but at times also by 
+MSPB, has gradually become overly formalistic and rigid, at times 
+divorced from the statutory standard. Agencies regularly rely on 
+standardized ``Douglas worksheets'' as if they were legally compulsory. 
+Parties before the Board routinely litigate whether each of the twelve 
+factors was considered in a case, whether the deciding official 
+assigned an adequate weight to each factor, whether the agency's 
+decision letter mechanically checked each box, or whether the 
+administrative judge conducted an explicit factor-by-factor review. 
+This checklist-centered mindset has increasingly overshadowed the 
+statutory question: whether the agency's chosen penalty reasonably 
+promotes the efficiency of the service under 5 U.S.C. 7513(a).
+---------------------------------------------------------------------------
+
+    \42\ E.g., Nagel v. Department of Health and Human Services, 707 
+F.2d 1384 (Fed. Cir. 1983) (rejecting the contention that Douglas 
+created a checklist that must be specifically considered and 
+addressed ``one by one'' in every case and stating that the factors 
+should not be applied mechanically either by agencies or the Board).
+---------------------------------------------------------------------------
+
+    Thus, while Douglas intended flexibility, the evolution of practice 
+has led to rigidity, formalism, and a risk of misplacing emphasis on a 
+checklist of factors rather than the reasonableness inquiry. The Board 
+concludes that a return to a simpler, more flexible, statute-focused 
+inquiry is required to remain faithful to Congress's directives.
+    For all these reasons, the Board proposes to reconsider Douglas and 
+its progeny to the extent they require a factor-by-factor penalty 
+analysis in appeals arising under 5 U.S.C. chapter 75. Going forward, 
+the Board proposes to assess the reasonableness of an agency's penalty 
+under a totality-of-the-
+
+[[Page 40455]]
+
+circumstances standard, consistent with the statutory command that 
+discipline be ``for such cause as will promote the efficiency of the 
+service.''
+Board Deference to an Agency's Choice of Penalty
+    Douglas and countless other decisions since have recognized that 
+the Board must give due weight to the agency's primary discretion in 
+maintaining employee discipline and efficiency, acknowledging that the 
+Board's function is not to displace management's responsibility, but to 
+ensure that managerial judgment has been properly exercised.\43\ In 
+other words, an agency's choice of penalty is generally entitled to 
+deference.
+---------------------------------------------------------------------------
+
+    \43\ E.g., Thomas v. Dep't of the Army, 2022 MSPB 35, at 6 
+(2022); Douglas, 5 M.S.P.R. at 302.
+---------------------------------------------------------------------------
+
+    That deference is not unbounded, however. The Federal Circuit 
+explained in Devall that the Board's degree of deference to an agency's 
+penalty depends on whether the Board sustains all of the agency's 
+charges or only some of them.\44\ Devall evaluated the Board's and 
+OPM's relative statutory authorities, and its formulation binds both 
+agencies. Accordingly, the Board proposes to codify the Devall standard 
+in its penalty review regulation, so all parties, and the Board's 
+administrative judges, understand how the Board will exercise its 
+penalty review authority.
+---------------------------------------------------------------------------
+
+    \44\ 178 F.3d at 1260.
+---------------------------------------------------------------------------
+
+    Additionally, this proposed rule, if finalized, will not alter 
+longstanding case law directing that if an agency intends to rely on 
+``aggravating factors'' as the basis for the imposition of a penalty, 
+such factors should be included in the advance notice of adverse action 
+so that the employee will have a fair opportunity to respond to those 
+factors before the agency's deciding official.\45\ Otherwise, the 
+agency risks reversal of an otherwise supported adverse action, 
+including its reasonable penalty, on due process grounds.\46\
+---------------------------------------------------------------------------
+
+    \45\ E.g., Ward v. U.S. Postal Serv., 634 F.3d 1274, 1280 (Fed. 
+Cir. 2011); Solis v. Dep't of Justice, 117 M.S.P.R. 458, 461-462 
+(2012).
+    \46\ Ward, 634 F.3d at 1280; Solis, 117 M.S.P.R. at 461-462.
+---------------------------------------------------------------------------
+
+f. Limits on Agencies' Policies and Labor-Management Relations 
+Implications
+
+    A component of these proposed government-wide rules would be to in 
+effect create an outer bound outside which an agency would be precluded 
+from providing for or otherwise authorizing any requirements, process, 
+standards, or allowances not contemplated, in whole or in part, by this 
+rule. Thus, these procedures are proposed to supersede any conflicting 
+provisions found in agency policies or collective bargaining 
+agreements.
+    The Federal Service Labor-Management Relations Statute (the FSLMRS, 
+enacted as part of the CSRA) provides that ``the duty to bargain in 
+good faith shall, to the extent not inconsistent with any Federal law 
+or any Government-wide rule or regulation, extend to matters which are 
+the subject of any rule or regulation only if the rule or regulation is 
+not a Government-wide rule or regulation.'' 5 U.S.C. 7117(a)(1). This 
+would be such a government-wide rule. It is proposed to apply to each 
+agency and employee covered under chapter 43 and 75, respectively, and 
+proposes to regulate and tailor how each agency is to exercise its 
+broad workforce management authorities under 5 CFR parts 412, 432, and 
+752. For example, this rule is proposing to strictly circumscribe the 
+length of an opportunity to demonstrate acceptable performance to 30 
+calendar days with limited exceptions.
+    Therefore, it would firmly and completely limit the flexibility of 
+agencies to provide processes not contemplated by this rule, including 
+by agreeing to conflicting provisions in collective bargaining 
+agreements. See U.S. Dep't of Treasury, I.R.S. v. FLRA, 996 F.2d 1246, 
+1250-51 (D.C. Cir. 1993) (5 U.S.C. 7117(a)(1) ``permits the government 
+to pull a subject out of the bargaining process by issuing a 
+government-wide rule that creates a regime inconsistent with 
+bargaining,'' including where a regulation ``directs the exercise of 
+existing management prerogatives in a specific way, so that particular 
+subjects or appropriate arrangements are identified as appropriate 
+topics of bargaining,'' citing Office of Personnel Management v. FLRA, 
+864 F.2d 165, 171 (D.C. Cir. 1988) (emphasis in original)).\47\ OPM 
+takes this approach to limit agency discretion and limit the scope of 
+collective bargaining to reduce and eliminate barriers to employee 
+accountability. As noted by GAO, the average dismissal process for 
+removing an employee for unacceptable performance utilizing chapter 43 
+and 5 CFR part 432 procedures takes up to one year.\48\ This extensive 
+delay to correct employee performance is intolerable for an efficient 
+and effective government and inconsistent with Merit System Principles.
+---------------------------------------------------------------------------
+
+    \47\ OPM also notes that any collective bargaining agreement 
+that conflicts with a government-wide regulation, the conflicting 
+provisions of the agreement will prevail until the expiration of its 
+term. 5 U.S.C. 7116(a)(7).
+    \48\ Government Accountability Office, ``Federal Workforce: 
+Improved Supervision and Better Use of Probationary Periods Are 
+Needed to Address Substandard Employee Performance,'' GAO-15-191, 
+pp. 13-14 (Feb. 2015). https://www.gao.gov/assets/gao-15-191.pdf.
+---------------------------------------------------------------------------
+
+    As a result, under this proposal, an agency would be unable to, for 
+example, categorically establish through agency policy (including 
+policy set forth in a collective bargaining agreement) a 45-day ODAP 
+prior to initiating a performance-based removal under chapter 43. Many 
+collective bargaining agreements currently require agencies to provide 
+ODAPs prior to effectuating performance-based removals not just under 5 
+CFR part 432, but also under 5 CFR part 752. The proposed prohibition 
+on requiring procedures beyond those set forth in this rule would 
+prohibit such requirements for Part 752 performance-based actions. 
+Agencies should strictly construe the exceptions established under this 
+rule as just that-exceptions. OPM will monitor agencies' use of these 
+exceptions to ensure they do not `swallow the rule' and undermine the 
+executive branch's agenda of promoting high levels of employee 
+accountability.
+
+V. Regulatory Analysis
+
+1. Statement of Need
+
+    This rule is needed to improve performance, accountability, and 
+transparency within the federal workforce. Without streamlined 
+processes for holding employees accountable, agencies will continue to 
+suffer from segments of their workforces that detract from their 
+maximum potential in delivering on their critical missions. Moreover, 
+current regulations do not empower agency leaders, supervisors, and 
+managers to hold employees accountable. As discussed in the preamble, 
+regulations and agency policies unnecessarily create impediments that 
+frustrate supervisors and managers attempting to hold employees 
+accountable. Holding employees accountable for unacceptable performance 
+or misconduct has become too difficult without reform.\49\ In a 2016 
+study conducted by MSPB, federal employees expressed skepticism that 
+their agencies successfully addressed performance and conduct issues. 
+One in four employees ``agreed that management addressed poor 
+performances effectively,'' while two in five ``agreed that their 
+agency retains its
+
+[[Page 40456]]
+
+best performers.'' \50\ One agency recently reported how difficult it 
+is to remove employees for poor performance and misconduct, citing, for 
+example, one situation where it took an entire year to effectuate a 
+removal for poor performance.\51\ The result is a federal workplace 
+filled with poorly performing employees and a frustrated workforce. 
+From Fiscal Years 2019-2025, agencies terminated or removed 2,996 
+employees on average \52\, or about 0.15% of the federal workforce.\53\ 
+The evidence, thus, supports this rulemaking to streamline an 
+overcomplicated process for removing employees for unacceptable 
+performance and misconduct; remove extra-statutory processes that 
+impede accountability; promote transparency; and fulfill Congressional 
+intent of fostering a workforce that maintains high standards of 
+integrity and performance.\54\
+---------------------------------------------------------------------------
+
+    \49\ E.O. 14171, ``Restoring Accountability to Policy-
+Influencing Positions Within the Federal Workforce,'' 90 FR 8625 
+(Jan. 31, 2025).
+    \50\ MSPB, ``The Merit System Principles: Guiding the Fair and 
+Effective Management of the Federal Workforce,'' Sept. 2016, p. 51, 
+available at: https://www.mspb.gov/studies/studies/The_Merit_System_Principles_Guiding_the_Fair_and_Effective_Management_of_the_Federal_Workforce_1340293.pdf.
+    \51\ Comment 29917 to OPM's notice of proposed rulemaking, 
+``Improving Performance, Accountability and Responsiveness in the 
+Civil Service,'' April 23, 2025, available at: https://www.regulations.gov/comment/OPM-2025-0004-29917.
+    \52\ OPM used data from its Enterprise Human Resources 
+Integration to calculate this seven-year average. This data is 
+uploaded and available in the docket.
+    \53\ OPM used the average number of terminations and removals 
+between Fiscal Years 2019-2025 and the government-wide on-board 
+strength as of February 2026 (2,028,138) to determine this figure.
+    \54\ See 5 U.S.C. 2301(b)(6).
+---------------------------------------------------------------------------
+
+2. Impact
+
+    The proposed changes are expected to allow greater flexibility for 
+agency leaders, supervisors, and managers to take decisive action when 
+faced with federal employees performing unacceptably or who commit 
+misconduct that harms the efficiency of the service. Among the many 
+proposed changes, supervisors will be able to fashion penalties based 
+on the facts and circumstances on each individual case, not based on 
+required progressive discipline. Supervisors will also be able to make 
+quicker decisions on an employee's ability to perform acceptably by 
+limiting the period for performance improvement plans. And agencies 
+will no longer be able to obscure an employee's poor performance or 
+misconduct through a settlement agreement, thereby ending the Dance of 
+the Lemons and empowering agencies to hire and retain employees that 
+are capable and willing to contribute to mission success.
+    Current federal employees subject to the provisions of chapters 43 
+and 75 of the United States Code, or whose agencies adopt such 
+provisions under their own legal authorities, will be impacted by the 
+rule. For employees, the proposed changes will reduce the period 
+afforded during a performance improvement plan to demonstrate 
+acceptable performance to 30 calendar days. It may also result in 
+increased penalties for actions taken under part 752. The proposed 
+changes will also preclude agencies and employees from engaging in 
+settlement agreements that obscure, modify, and remove from an 
+employee's personnel files documented poor performance or misconduct. 
+Such information would, therefore, be available to hiring officials 
+seeking information on past performance or misconduct when making a 
+hiring decision. This will improve the quality of agency hiring. Agency 
+leaders, supervisors, and managers will benefit from having greater 
+flexibility and streamlined processes for holding employees 
+accountable. OPM also acknowledges that the prohibition of clean record 
+settlement agreements will make it more difficult for agencies to 
+persuade employees to voluntarily quit and, thus, further complicate or 
+delay resolution of an action. The proposed regulations also require, 
+to the extent practicable, that leaders, supervisors, and managers 
+render decisions on a proposed removal within 30 calendar days and, 
+therefore, require them to devote more time to such decision making. 
+Relatedly, agencies whose personnel are subject to these proposed 
+changes will be required to update their internal disciplinary policies 
+and procedures. Agencies will also need to monitor internal processing 
+of proposed actions under subparts D and F and report to OPM where it 
+provides more than 30 days' advance written notice to employees and 
+members of the Senior Executive Service, respectively. Labor unions, 
+too, will see impacts to their collective bargaining agreements. If a 
+final rule is adopted with the proposed changes, any change in the 
+regulation that does not conflict with a collective bargaining 
+agreement will be immediately enforceable. For those collective 
+bargaining agreements that conflict with any change, the government-
+wide regulation will become enforceable upon the expiration of the term 
+of the agreement.
+
+3. Costs
+
+One-Time Costs
+    The rule would affect the operations of more than 80 Federal 
+agencies, ranging from cabinet-level departments to small independent 
+agencies. The cost analysis to update policies and procedures assumes 
+an average salary rate of Federal employees performing this work at the 
+2026 rate for a GS-14, step 5, from the Washington, DC, locality pay 
+table ($163,104 annual locality rate and $78.15 hourly locality rate). 
+OPM assumes the total dollar value of labor, which includes wages, 
+benefits, and overhead, is equal to 200 percent of the wage rate, 
+resulting in an assumed labor cost of $156.30 per hour. OPM estimates 
+that it will take 100 hours of work by employees with an average hourly 
+cost of $156.30 per hour, or approximately $1.25 million.
+Recurring Costs
+    The rule would likely result in an increase in the number of 
+actions taken against employees under parts 432 and 752. OPM estimates 
+that the number of such actions will rise by 20% based on an analysis 
+of OPM data as well as annual reporting from the MSPB. As noted above, 
+agencies terminate or remove 2,996 employees each year. During the last 
+full fiscal year of President Trump's first term when the policies and 
+requirements of E.O. 13839 were in place, 2,574 employees were 
+terminated or removed for discipline or performance in Fiscal Year 2020 
+under procedures governed by OPM regulations.\55\ In Fiscal Year 2021, 
+that number fell by 4.4% to 2,434.\56\ More recently, the number of 
+terminations or removals from Fiscal Year 2024 to Fiscal Year 2025 grew 
+from 3,126 to 4,160, a 33% increase as the federal government entered 
+the second Trump administration.\57\ OPM also reviewed the MSPB's 
+annual reports for Fiscal Years 2020 and 2022 to analyze appeals data 
+filed by federal employees seeking to reverse appealable actions.\58\ 
+In Fiscal Year 2020, the MSPB issued 5,265 initial decisions of which 
+2,903 involved adverse actions, performance-based actions, individual 
+right of action appeals, or raised claims under the Uniformed Services 
+Employment and Reemployment Rights Act (USERRA).\59\ In Fiscal Year 
+2022, the MSPB issued 4,241 initial decisions or 20% fewer
+
+[[Page 40457]]
+
+than Fiscal Year 2020. Of these 4,241 initial decisions, the Board 
+issued 2,275 initial decisions that fell within these four categories 
+and represented a 22% decline compared to Fiscal Year 2020.\60\
+---------------------------------------------------------------------------
+
+    \55\ This data is uploaded and available in the docket at 
+https://www.regulations.gov/docket/OPM-2025-0012.
+    \56\ Id.
+    \57\ Id.
+    \58\ MSPB, ``Annual Report for FY 2020,'' January 19, 2021, 
+available at https://www.mspb.gov/about/annual_reports/MSPB_FY_2020_Annual_Report_1800131.pdf (MSPB 2020); MSPB, ``Annual 
+Report for FY 2022,'' April 18, 2023, available at https://www.mspb.gov/about/annual_reports/MSPB_FY_2022_Annual_Report_2022671.pdf (MSPB 2022).
+    \59\ MSPB 2020 at p. 12.
+    \60\ MSPB 2022 at p. 11.
+---------------------------------------------------------------------------
+
+    OPM recognizes that the effects from the workforce reductions 
+beginning on January 20, 2025, may reduce the total number of actions 
+taken under these regulations. However, based on the latest publicly 
+available, full fiscal year data from OPM and the MSPB's annual 
+report,\61\ OPM estimates that agencies will take an additional 599 
+terminations or removals governed by these regulations and the MSPB 
+will issue an additional 366 initial decisions due to this rulemaking.
+---------------------------------------------------------------------------
+
+    \61\ The MSPB annual report for FY 2024 reported 1,832 initial 
+decisions across the four categories relevant to this rulemaking. 
+MSPB, ``Annual Report for FY 2024,'' June 24, 2025, available at 
+https://www.mspb.gov/about/annual_reports/MSPB_FY_2024_Annual_Report.pdf.
+---------------------------------------------------------------------------
+
+    In determining the additional costs to agencies in processing 599 
+terminations or removals governed by these regulations, OPM assumes 
+that each action will require one first-level supervisor, one second-
+level supervisor, and one human resources subject matter expert, to 
+execute an action, each paid at the rate in 2026 for GS-15, step 5, 
+from the Washington, DC, locality pay table ($191,850 annual locality 
+rate and $91.93 hourly locality rate). OPM assumes that the total 
+dollar value of labor, which includes wages, benefits, and overhead, is 
+equal to 200 percent of the wage rate, resulting in an assumed labor 
+cost of $183.86. We estimate that each action requires one first-level 
+supervisor, one second-level supervisor, and one human resources 
+subject matter expert to perform 24, 16, and 36 hours of work, 
+respectively. Thus, each action costs approximately $13,973.36 or $8.37 
+million each year.
+    To determine the additional costs to the MSPB for adjudicating an 
+additional 366 initial appeals, OPM assumes that the Board's 
+administrative judges at the GS-15 grade levels will adjudicate 
+appeals. In estimating the cost of adjudicating these cases, we assume 
+that each appeal requires one administrative judge paid at the rate in 
+2026 for GS-15, step 5, from the Washington, DC, locality pay table 
+($191,850 annual locality rate and $91.93 hourly locality rate); one 
+paralegal at the rate in 2026 for a GS-11, step 5, from the Washington, 
+DC, locality pay table ($96,843 annual locality rate and $46.40 hourly 
+locality rate); and one chief administrative judge paid at the rate in 
+2026 for a GS-15, step 5, from the Washington, DC, locality pay table. 
+We assume that the total dollar value of labor, which includes wages, 
+benefits, and overhead, is equal to 200 percent of the wage rate, 
+resulting in an assumed labor cost of $183.86, $92.80, and $183.86 per 
+hour for these respective positions. We estimate that each initial 
+appeal requires 60, 12, and 4 hours for an administrative judge, 
+paralegal, and chief administrative judge, respectively, to adjudicate 
+an appeal. Based on these assumptions, we estimate the cost for the 
+MSPB to adjudicate each additional appeal at $12,880.64 per appeal or 
+$4.71 million per year for 366 appeals.
+    OPM also expects that the MSPB will adjudicate an additional 15% 
+increase in petitions for review (PFRs). OPM notes that it is difficult 
+to assess how many additional PFRs should be expected as a result of 
+this proposed rule. Nonetheless, OPM expects an increase commensurate 
+with the increase in initial appeals as a consequence of additional 
+adverse actions taken by agencies. In estimating an increase in PFRs, 
+OPM considered the number and types of issues raised in PFRs before and 
+after the loss in quorum at the MSPB from January 8, 2017, through 
+March 3, 2022. In reviewing the number of PFRs, in Fiscal Year 2016 the 
+Board adjudicated 1,022 PFRs of which 762 involved adverse actions, 
+performance-based actions, individual right of actions, or USERRA.\62\ 
+In Fiscal Year 2023, the Board adjudicated 1,252 PFRs of which 907 
+involved adverse actions, performance-based actions, individual right 
+of actions, or USERRA.\63\ In Fiscal Year 2024, the Board adjudicated 
+2,129 PFRs of which 1,370 involved adverse actions, performance-based 
+actions, individual right of actions, or USERRA.\64\
+---------------------------------------------------------------------------
+
+    \62\ Merit Sys. Prot. Bd., ``Annual Report for FY 2016,'' p. 26, 
+January 18, 2017, available at https://www.mspb.gov/about/annual_reports/MSPB_FY_2016_Annual_Report_1374269.pdf.
+    \63\ Merit Sys. Prot. Bd., ``Annual Report for FY 2023,'' p. 16, 
+May 1, 2024, available at https://www.mspb.gov/about/annual_reports/MSPB_FY_2023_Annual_Report.pdf.
+    \64\ Merit Sys. Prot. Bd., ``Annual Report for FY 2024,'' p. 9, 
+June 24, 2025, available at https://www.mspb.gov/about/annual_reports/MSPB_FY_2024_Annual_Report.pdf.
+---------------------------------------------------------------------------
+
+    Across these three Fiscal Years, the number of PFRs filed rose to 
+more than double from Fiscal Years 2016 to 2024. The proportion of PFRs 
+involving matters potentially impacted by the changes proposed in this 
+rule were 75%, 72%, and 64%, respectively. OPM anticipates the number 
+of PFRs adjudicated at the Board will rise consistent with the expected 
+number of initial appeals. OPM estimates that the number of PFRs 
+involving adverse actions, performance-based actions, individual right 
+of actions, and USERRA will rise by 205 to 1,575, or 15% from Fiscal 
+Year 2024 levels, as a result of this rulemaking.
+    To determine the additional costs to the MSPB for adjudicating an 
+additional 205 PFRs, MSPB assumes that each PFR requires the Chairman 
+and two Members of the Board paid at the 2026 rate of Executive 
+Schedule Levels III ($168,400, $80.69 hourly rate) and IV ($158,500, 
+$75.95 hourly rate),\65\ respectively; and one attorney paid at the 
+rate in 2026 for a GS-15, step 5, from the Washington, DC, locality pay 
+table ($191,850 annual locality rate and $91.93 hourly locality rate). 
+We assume that the total dollar value of labor, which includes wages, 
+benefits, and overhead, is equal to 200 percent of the wage rate, 
+resulting in an assumed labor cost of $161.38 for the Chairman, $151.90 
+for the two Members, and $183.86 for the attorney. We estimate that 
+each PFR requires 2 hours each for the Chairman and two Members, and 8 
+hours for the attorney to adjudicate each PFR. Based on these 
+assumptions, we estimate the cost for the MSPB to adjudicate each 
+additional PFR at $2,401.24, or approximately $492,254.20 per year for 
+205 PFRs.
+---------------------------------------------------------------------------
+
+    \65\ These positions are subject to the pay freeze imposed under 
+the Consolidated Appropriations Act of 2026 (Pub. L. 119-75, Feb. 3, 
+2026). See OPM, Updated Guidance--Pay Freeze for Certain Senior 
+Political Officials, CPM 2026-06, Feb. 12, 2026, available at: 
+https://www.opm.gov/chcoc/latest-memos/updated-guidance-pay-freeze-for-certain-senior-political-officials-1.pdf.
+---------------------------------------------------------------------------
+
+    OPM also expects that agencies and the EEOC will see an increase in 
+costs from an increase in Equal Employment Opportunity complaint 
+processing attributed to the prohibition of clean record settlements 
+and supervisors encouraged to correct unacceptable performance and 
+misconduct. OPM reviewed the last two publicly available annual reports 
+published by the EEOC to assess the potential impacts of the proposed 
+rule. OPM anticipates that federal agencies will see an increase of 8% 
+in the number of completed counselings and an increase of 15% in the 
+number of complaints of discrimination filed by employees. For Fiscal 
+Year 2020, federal employees entered and completed 36,359 
+counselings.\66\ Subsequently, federal employees filed 14,812 
+complaints of discrimination.\67\ Of these, 3,562 complaints involved 
+various types of
+
+[[Page 40458]]
+
+disciplinary actions and 1,468 complaints concerned an employee's 
+performance evaluation or appraisal.\68\ For Fiscal Year 2021,\69\ 
+federal employees entered and completed 33,561 counselings.\70\ 
+Subsequently, federal employees filed 12,946 complaints of 
+discrimination.\71\ Of these, 3,057 complaints involved various types 
+of disciplinary actions and 1,241 complaints concerned an employee's 
+performance evaluation or appraisal.\72\ Between the two fiscal years, 
+EEOC data shows the number of completed counselings fell by 8%, while 
+complaints concerning disciplinary actions and performance evaluations 
+or appraisals fell by 14% and 16%, respectively. Thus, OPM views an 
+increase of 2,684, or 8%, in the number of completed counselings, and 
+350, or 15%, in the number of complaints of discrimination concerning 
+disciplinary actions and performance evaluations or appraisals over 
+Fiscal Year 2021 levels as reasonable given that Fiscal Year 2020 
+encompasses the final year of the first Trump administration which 
+established similar policies as the ones encompassed in this proposed 
+rule.
+---------------------------------------------------------------------------
+
+    \66\ EEOC Fiscal Year 2020 Annual Report on the Federal Work 
+Force, ``Table B-1 FY 2020 Total Work Force, Counselings, and 
+Complaints,'' March 2023, available at https://www.eeoc.gov/sites/default/files/2023-02/FY%202020%20Annual%20Report%20Complaint%20Tables.zip.
+    \67\ Id.
+    \68\ Id. at ``Table B-8 FY 2020 Complaints Filed Basis and 
+Issues--Grand Total.''
+    \69\ The EEOC has not published its annual report for any fiscal 
+year after 2021.
+    \70\ EEOC Fiscal Year 2021 Annual Report on the Federal Work 
+Force, ``Table B-1 FY 2021 Total Work Force, Counselings, and 
+Complaints,'' December 2024, available at https://www.eeoc.gov/sites/default/files/2024-12/2021%20Annual%20Report%20Complaints%20Tables.zip.
+    \71\ Id.
+    \72\ Id. at ``Table B-8 FY 2021 Complaints Filed Basis and 
+Issues--Grand Total.''
+---------------------------------------------------------------------------
+
+    In assessing the cost of 2,684 additional EEO counselings, OPM 
+believes that agencies will use existing EEO specialists to process at 
+the rate in 2026 for GS-12, step 5, from the Washington, DC, locality 
+pay table ($116,071 annual locality rate and $55.62 hourly locality 
+rate), taking 16 hours of time to process. OPM assumes that the total 
+dollar value of labor, which includes wages, benefits, and overhead, is 
+equal to 200 percent of the wage rate, resulting in an assumed labor 
+cost of $111.24 per hour. The total additional cost to federal agencies 
+to provide this EEO counseling is approximately $4.78 million. OPM also 
+anticipates that agencies will utilize existing EEO specialists to 
+process the 350 complaints of discrimination it attributes to the 
+proposed rule. Using the same cost information for a GS-12, step 5, EEO 
+Specialist to conduct an investigation over the course of 30 hours, OPM 
+estimates that the total additional cost to federal agencies to 
+investigate complaints of discrimination is approximately $1.17 
+million.
+    Following the investigative stage, OPM assumes that 250 complaints 
+will proceed to a final agency decision while 100 will be adjudicated 
+by an EEOC administrative judge. In drafting and issuing a final agency 
+decision, OPM estimates that agencies will employ one EEO Specialist 
+paid at the rate in 2026 for GS-12, step 5, from the Washington, DC, 
+locality pay table ($116,071 annual locality rate and $55.62 hourly 
+locality rate) to perform 12 hours of work to draft the decision; and 
+one EEO Director paid at the GS-15, step 5, from the Washington, DC, 
+locality pay table ($191,850 annual locality rate and $91.93 hourly 
+locality rate) to perform 4 hours of work to review and sign the 
+decision. OPM also assumes that the total dollar value of labor, which 
+includes wages, benefits, and overhead, is equal to 200 percent of the 
+wage rate, resulting in an assumed labor cost of $111.24 and $183.86 
+per hour, respectively. OPM estimates that the total cost to the 
+Federal Government to issue 250 final agency decisions is approximately 
+$517,580.
+    In adjudicating the 100 cases filed with the EEOC, OPM assumes that 
+an EEOC administrative judge paid at the rate in 2026 for GS-14, step 
+5, from the Washington, DC, locality pay table ($163,104 annual 
+locality rate and $78.15 hourly locality rate) will adjudicate 
+complaints; the chief administrative judge paid at the GS-15, step 5, 
+from the Washington, DC, locality pay table ($191,850 annual locality 
+rate and $91.93 hourly locality rate) will review the administrative 
+judge's decision; and a paralegal paid at the GS-11, step 5, from the 
+Washington, DC, locality pay table ($96,843 annual locality rate and 
+$46.40 hourly locality rate) will assist the administrative judge 
+during the adjudicative hearing process. OPM also assumes that the 
+total dollar value of labor, which includes wages, benefits, and 
+overhead, is equal to 200 percent of the wage rate, resulting in an 
+assumed labor cost of $156.30, $183.86, and $92.80 per hour, 
+respectively. OPM estimates that each complaint will require 60, 4, and 
+6 hours, respectively, of an administrative judge, chief administrative 
+judge, and paralegal to adjudicate each complaint. Therefore, OPM 
+estimates that the total cost to adjudicate these 100 complaints is 
+approximately $1.07 million.
+    OPM also estimates that 40 of the 100 complaints adjudicated will 
+be appealed to the EEOC's Office of Federal Operations. OPM assumes 
+that an EEOC attorney paid at the rate in 2026 for GS-14, step 5, from 
+the Washington, DC, locality pay table ($163,104 annual locality rate 
+and $78.15 hourly locality rate) will draft and issue the opinion, 
+requiring 8 hours of work per appeal. OPM also assumes that an EEOC 
+paralegal paid at the GS-11, step 5, from the Washington, DC, locality 
+pay table ($96,843 annual locality rate and $46.40 hourly locality 
+rate) will assist the attorney, requiring 2 hours of work. OPM also 
+assumes that the total dollar value of labor, which includes wages, 
+benefits, and overhead, is equal to 200 percent of the wage rate, 
+resulting in an assumed labor cost of $156.30 and $92.80 per hour, 
+respectively. Thus, OPM calculates that the total cost to adjudicate 40 
+appeals is approximately $57,440.
+    OPM also considered the defensive litigation costs to agencies when 
+employees pursue appeals, counselings, or complaints under the MSPB or 
+EEOC processes detailed immediately above. For the 366 initial appeals 
+filed at the MSPB and 100 complaints of discrimination filed at the 
+EEOC, OPM assumes that agencies will require an attorney paid at the 
+rate in 2026 for GS-14, step 5, from the Washington, DC, locality pay 
+table ($163,104 annual locality rate and $78.15 hourly locality rate), 
+and two supervisors and one human resources subject matter expert paid 
+at the rate in 2026 for GS-15, step 5, from the Washington, DC, 
+locality pay table ($191,850 annual locality rate and $91.93 hourly 
+locality rate). OPM also assumes that the total dollar value of labor, 
+which includes wages, benefits, and overhead, is equal to 200 percent 
+of the wage rate, resulting in an assumed labor cost of $156.30 and 
+$183.86 per hour, respectively. For each initial appeal or complaint of 
+discrimination, OPM estimates that each appeal will require 100 hours 
+of work from an agency's attorney and 120 hours total for the two 
+supervisors and one human resources subject matter expert. OPM also 
+estimates $7,500 in miscellaneous litigation costs (e.g., court 
+reporter fees, discovery). Therefore, the total estimated cost to 
+agencies to defend initial appeals and complaints of discrimination is 
+$21.06 million.
+    For counselings and the process for drafting and issuing a final 
+agency decision, OPM assumes that agencies will require the services of 
+an attorney to advise their Equal Employment Opportunity office during 
+the course of these proceedings. OPM estimates this advisory function 
+will be performed by an attorney paid at the rate in 2026 for GS-14, 
+step 5, from the Washington, DC, locality pay table ($163,104 annual 
+locality rate and $78.15 hourly locality rate). OPM also assumes that 
+the total
+
+[[Page 40459]]
+
+dollar value of labor, which includes wages, benefits, and overhead, is 
+equal to 200 percent of the wage rate, resulting in an assumed labor 
+cost of $156.30 per hour. OPM estimates these matters will require four 
+hours of legal advisory services for each counseling or final agency 
+decision. Thus, OPM estimates that the total cost to agencies to 
+provide these legal advisory services across government is $1.83 
+million.
+    Finally, OPM assumes the costs borne by agencies to pursue and 
+defend 205 petitions for review and 40 appeals to the EEOC's Office of 
+Federal Operations will require agencies to employ an attorney paid at 
+the rate in 2026 for GS-14, step 5, from the Washington, DC, locality 
+pay table ($163,104 annual locality rate and $78.15 hourly locality 
+rate). OPM also assumes that the total dollar value of labor, which 
+includes wages, benefits, and overhead, is equal to 200 percent of the 
+wage rate, resulting in an assumed labor cost of $156.30 per hour. OPM 
+estimates that each petition and appeal will require 100 hours of work 
+for the attorney per petition for review and appeal. Thus, OPM 
+estimates that the total cost to agencies to litigate petitions and 
+appeals is $3.83 million.
+
+4. Benefits
+
+    OPM expects this proposed rule will generate qualitative benefits 
+for each agency. OPM anticipates the revisions to Sec.  412.202 would 
+result in supervisors having more proficiency in subjects integral to 
+proper workforce management. As noted above, managers report they 
+suffer from a severe lack of adequate training.\73\ For example, 
+managers are the connective tissue between the large, organizational 
+objectives and the line employees who implement those objectives. Yet 
+more than 40 percent of managers report they have not been provided 
+adequate training to link the performance of their programs to the 
+agency's strategic goals.\74\ It is undoubtedly to the benefit of each 
+employee, manager, agency, and the American public for that matter, for 
+management to be taught how to more closely align programs to strategic 
+agency goals. OPM anticipates the added training it is proposing--and 
+the improvements to the quality thereof--would help to close this gap 
+and accrue those benefits.
+---------------------------------------------------------------------------
+
+    \73\ Government Accountability Office, ``2020 Federal Managers 
+Survey: Results on Government Performance and Management Issues,'' 
+July 27, 2021, available at https://files.gao.gov/special.pubs/gao-21-537sp/resultsall.htm.
+    \74\ Id.
+---------------------------------------------------------------------------
+
+    OPM further expects that the proposed revisions to 5 CFR parts 432 
+and 752 will allow agencies to exert more quality control on its 
+workforce to ensure those ``who cannot or will not improve their 
+performance to meet required standards'' can be ``separated'' quickly, 
+efficiently and effectively.\75\ Overall, these revisions are expected 
+to increase the quality and efficiency of the federal workforce, 
+resulting in resource cost savings and improved service delivery for 
+the American public. Streamlining the process for performance-based and 
+adverse actions will reduce the burden on supervisors of undertaking 
+these actions and facilitate removals of employees who undercut agency 
+effectiveness. This will facilitate the removal of underperforming 
+employees and those who engage in serious misconduct. Heightened 
+accountability will also help set higher standards of performance and 
+conduct for the entire workforce, promoting more effective 
+accomplishment of agency missions. Prohibiting clean record settlements 
+will prevent problematic employees from being shuffled between 
+agencies, and will instead help agencies hire the best candidates 
+initially. While it will require more resources to litigate removals 
+against employees who would have voluntarily separated in exchange for 
+a clean record settlement, agencies will benefit from gaining a fuller 
+picture about applicants' prior work history during the hiring process 
+and screening out employees unlikely to perform effectively based on 
+documented evidence of prior poor performance or misconduct. OPM cannot 
+quantify these qualitative benefits but believes they are substantial.
+---------------------------------------------------------------------------
+
+    \75\ 5 U.S.C. 2301(b)(6).
+---------------------------------------------------------------------------
+
+    Lastly, OPM expects that some agencies will determine and OPM 
+concur that some negotiated grievance procedures will impair the 
+effective use of actions covered under subpart B of part 752 and, 
+therefore, bar the use of grievance-arbitration to challenge short-term 
+suspensions. OPM conservatively estimates that agencies will forego 
+approximately 100 arbitrations each year. OPM estimates that each 
+agency will utilize one attorney and one labor relations specialist 
+paid at the rate in 2026 for GS-14, step 5, from the Washington, DC, 
+locality pay table ($163,104 annual locality rate and $78.15 hourly 
+locality rate). OPM also assumes that the total dollar value of labor, 
+which includes wages, benefits, and overhead, is equal to 200 percent 
+of the wage rate, resulting in an assumed labor cost of $156.30 per 
+hour. OPM also assumes that each grievant and one union representative 
+are paid at the rate in 2026 for GS-12, step 5, from the Washington, 
+DC, locality pay table ($116,071 annual locality rate and $55.62 hourly 
+locality rate). OPM also assumes that the total dollar value of labor, 
+which includes wages, benefits, and overhead, is equal to 200 percent 
+of the wage rate, resulting in an assumed labor cost of $111.24 per 
+hour. OPM also assumes each arbitration lasts one regular workday of 8 
+hours. Thus, the total labor costs for the parties are $4,280.64 for 
+each arbitration. OPM also assumes that cost for arbitration services 
+is $3,000 for one arbitrator for one day and $1,000 for one court 
+reporter for one day. Thus, OPM assumes that the total cost savings for 
+each arbitration is $8,280.64 and $828,064 for 100 arbitrations each 
+year.
+
+5. Alternatives
+
+    An alternative to this rulemaking is to retain the current 
+regulatory landscape and provide additional guidance to practitioners 
+to improve their competencies as it relates both to the adverse action 
+procedures and general supervisory obligations. It is true that many 
+supervisors report they in fact need tutelage in these areas, 
+including, but not limited to, in the adverse action procedures.\76\ 
+This reported lack of knowledge is in part the impetus for the proposed 
+revisions to part 412 in this proposed rule. However, failing to 
+rewrite these regulations would fail to address many of the substantive 
+issues addressed herein which will empower supervisors to best manage 
+and hold their employees accountable.
+---------------------------------------------------------------------------
+
+    \76\ Government Accountability Office, ``Federal Workforce: 
+Improved Supervision and Better Use of Probationary Periods Are 
+Needed to Address Substandard Employee Performance,'' GAO-15-191, 
+(Feb. 2015). https://www.gao.gov/assets/gao-15-191.pdf.
+---------------------------------------------------------------------------
+
+    A second alternative to this rulemaking would be to repeal the 
+relevant portions of parts 412, 432, and 752 proposed to be revised 
+without replacing them. This is suboptimal for several reasons. As it 
+relates to Sec.  412.202, the principles of good governance mandate 
+that supervisors be adequately equipped via training and other 
+professional development programs to execute their responsibilities to 
+the best of their ability. While some supervisors may be equipped to do 
+so without regular training, OPM believes these would be the exception, 
+not the rule.\77\
+---------------------------------------------------------------------------
+
+    \77\ See Government Accountability Office, ``2020 Federal 
+Managers Survey: Results on Government Performance and Management 
+Issues,'' GAO-21-537SP, (July 27, 2021). https://files.gao.gov/special.pubs/gao-21-537sp/resultsall.htm.
+---------------------------------------------------------------------------
+
+    Repealing the prescribed regulations for parts 432 and 752 would 
+also create
+
+[[Page 40460]]
+
+more issues than doing so would solve. First, without providing clear 
+processes and guidance to supervisors and employees, attempts to remove 
+underperforming personnel or those who have committed misconduct would 
+be mired in conflicting and litigious interpretations of the relevant 
+portions of statute. In an attempt to avoid this inevitability, 
+Congress presupposed that OPM would issue regulations to provide 
+additional clarity and specificity to the provisions of the relevant 
+statutory authorizations--and at times directed it to do so.\78\
+---------------------------------------------------------------------------
+
+    \78\ See, e.g., 5 U.S.C. 4303(b)(2) (``An agency may extend the 
+notice period for more than 30 days only in accordance with 
+regulations issued by the Office of Personnel Management.''); 5 
+U.S.C. 7503(a) (``Under regulations prescribed by the Office of 
+Personnel Management . . .'').
+---------------------------------------------------------------------------
+
+    As part of the development of this proposed rulemaking, OPM also 
+considered whether to maintain the current regulatory landscape without 
+providing additional guidance but opted against this conclusion as 
+well. For the same reasons as discussed previously in this section, 
+this option similarly would contravene the principles of good 
+governance.
+
+VI. Request for Comment
+
+    OPM requests public comments to assist OPM better understand the 
+impacts of the proposed rule on key stakeholders. The types of 
+information which OPM is interested in include, but are not limited to, 
+the following:
+     To what extent have federal agencies, employees, labor 
+unions, and other impacted stakeholders made commitments, plans, or 
+other decisions in a reasonable reliance on the regulations impacted by 
+this proposed rulemaking that would be disrupted, frustrated, or 
+rendered economically or otherwise unviable by the proposed rule? 
+Commenters are encouraged to describe the (1) specific actions taken or 
+foregone in reliance on current regulations; (2) the timeframe over 
+which such reliance occurred; (3) the financial, operational, economic, 
+or other costs that would result from the changes under the proposed 
+rule; and (4) any factors that may have caused regulated parties to 
+anticipate that a regulatory change of this nature was forthcoming, 
+thereby potentially limiting the reasonableness of any such reliance.
+    In addition, the MSPB requests comments on whether it should adopt 
+in the final rule the totality of the circumstances rule as proposed or 
+retain all or some of the Douglas factors. Commenters should include as 
+part of their response a discussion of why any specific individual 
+Douglas factor should or should not be retained.
+    Lastly, OPM and MSPB request comments on whether any reliance 
+interests identified by commenters in response to the previous 
+questions could be adequately addressed through transitional, phase-in, 
+grandfathering, or other provisions or accommodations, and, if so, what 
+specifically should OPM or MSPB adopt in a final rule?
+
+VII. Procedural Issues and Regulatory Review
+
+1. Severability
+
+    OPM and MSPB propose that, if any of the provisions of this 
+proposed rule as finalized is held to be invalid or unenforceable by 
+its terms, or as applied to any person or circumstance, it shall be 
+severable from its respective section(s) and shall not affect the 
+remainder thereof or the application of the provision to other persons 
+not similarly situated or to other dissimilar circumstances. In 
+enforcing civil service protections and merit system principles, OPM 
+and MSPB will comply with all applicable legal requirements.
+
+2. Regulatory Review
+
+    OPM and MSPB have examined the impact of this rule as required by 
+E.O.s 12866 and 13563, which direct agencies to assess all costs and 
+benefits of available regulatory alternatives and, if regulation is 
+necessary, to select regulatory approaches that maximize net benefits 
+(including potential economic, environmental, public, health, and 
+safety effects, distributive impacts, and equity). A regulatory impact 
+analysis must be prepared for rules that have an annual effect on the 
+economy of $100 million or more or adversely affect in a material way 
+the economy, a sector of the economy, productivity, competition, jobs, 
+the environment, public health or safety, or State, local, or tribal 
+governments or communities. This rulemaking does not reach that 
+threshold but has otherwise been designated as a ``significant 
+regulatory action'' under section 3(f) of E.O. 12866. This rulemaking 
+is not expected to be an E.O. 14192 regulatory action because it 
+imposes no more than de minimis costs.
+
+3. Regulatory Flexibility Act
+
+    The Director of OPM and Chairman of the MSPB certify that this 
+regulation will not have a significant impact on a substantial number 
+of small entities because it applies only to Federal agencies and 
+employees.
+
+4. Federalism
+
+    This regulation will not have substantial direct effects on the 
+States, on the relationship between the National Government and the 
+States, or on distribution of power and responsibilities among the 
+various levels of government. Therefore, in accordance with E.O. 13132, 
+the Director of OPM and the Chairman of the MSPB certify that this rule 
+does not have sufficient federalism implications to warrant preparation 
+of a Federalism Assessment.
+
+5. Civil Justice Reform
+
+    This regulation meets the applicable standard set forth in section 
+3(a) and 3(b)(2) of E.O. 12988 (61 FR 4729; Feb. 7, 1996).
+
+6. Unfunded Mandates Reform Act of 1995
+
+    Section 202 of the Unfunded Mandates Reform Act of 1995 (UMRA) 
+requires that agencies assess anticipated costs and benefits before 
+issuing any rule that would impose spending costs on State, local, or 
+tribal governments in the aggregate, or on the private sector, in any 1 
+year of $100 million in 1995 dollars, updated annually for inflation. 
+That threshold is currently approximately $206 million. This rulemaking 
+will not result in the expenditure by State, local, or tribal 
+governments, in the aggregate, or by the private sector, in excess of 
+the threshold. Thus, no written assessment of unfunded mandates is 
+required.
+
+7. Paperwork Reduction Act
+
+    This regulatory action will not impose any reporting or 
+recordkeeping requirements under the Paperwork Reduction Act (44 U.S.C. 
+Chapter 35).
+
+List of Subjects
+
+5 CFR Part 412
+
+    Education, Government employees.
+
+5 CFR Part 432
+
+    Government employees.
+
+5 CFR Part 715
+
+    Government employees.
+
+5 CFR Part 752
+
+    Administrative practice and procedure, Government employees.
+
+5 CFR Part 1201
+
+    Administrative practice and procedure, Government employees.
+
+Signing Statement
+
+    The Director of OPM, Scott Kupor, reviewed and approved this 
+document and has authorized the undersigned to
+
+[[Page 40461]]
+
+electronically sign and submit this document to the Office of the 
+Federal Register for publication.
+
+    Office of Personnel Management.
+Jerson Matias,
+Federal Register Liaison, Merit Systems Protection Board.
+Gina K. Grippando,
+Clerk of the Board.
+
+    Accordingly, for the reasons stated in the preamble, OPM proposes 
+to amend 5 CFR parts 412, 432, 715, and 752 as follows:
+
+PART 412--SUPERVISORY, MANAGEMENT, AND EXECUTIVE DEVELOPMENT
+
+0
+1. The authority citation for part 412 continues to read as follows:
+
+    Authority:  5 U.S.C. 1103(c)(2)(C), 3396, 3397, 4101 et seq.
+
+0
+2. Revise Sec.  412.202 to read as follows:
+
+
+Sec.  412.202  Systematic training and development of supervisors, 
+managers, and executives.
+
+    All agencies must provide for the development of individuals in 
+supervisory, managerial and executive positions, as well as individuals 
+whom the agency identifies as potential candidates for those positions, 
+based on the agencies' succession plans. In coordination with OPM, 
+agencies also must issue written policies to ensure they achieve each 
+of the following:
+    (a) Design and implement leadership development programs integrated 
+with the employee development plans, programs, and strategies required 
+by 5 CFR 410.201 and guidance issued by OPM on required supervisory 
+competencies, and that foster a broad agency and Governmentwide 
+perspective.
+    (b) Provide training within one year of an employee's initial 
+appointment to a supervisory position and follow up periodically, but 
+at least annually, by providing each supervisor and manager additional 
+training on the use of appropriate actions, options, and strategies to:
+    (1) Mentor and coach employees and improve employee engagement, 
+performance, and productivity;
+    (2) Improve employee performance and productivity;
+    (3) Conduct employee performance appraisals in accordance with 
+agency appraisal systems and OPM guidance;
+    (4) Effectively manage employees with unacceptable performance, 
+including understanding the disciplinary options and procedures 
+available to the supervisor, manager, or executive;
+    (5) Develop and discuss relevant performance goals and objectives 
+with the employee and ensure the performance goals and objectives align 
+to the mission and priority goals of the agency;
+    (6) Communicate and discuss progress relative to performance goals 
+and objectives, and conduct performance appraisals;
+    (7) Effectively use probationary and trial periods to examine 
+whether an employee should continue past the probationary or trial 
+period pursuant to the factors set forth in 5 CFR 11.5(b), and to 
+assess the needs and interests of the agency with respect to the 
+probationary or trial period employee's final appointment;
+    (8) Effectively use awards, bonuses, and other means of employee 
+recognition to motivate employees, reinforce desired behaviors, and 
+incentivize high performance;
+    (9) Address reports of a hostile work environment, retaliation, or 
+harassment of, or by, another supervisor, manager, executive, or 
+employee;
+    (10) Identify and prevent violations of the prohibited personnel 
+practices under 5 U.S.C. 2302;
+    (11) Develop supervisory competencies established by OPM that are 
+applicable to the supervisor, manager or executive; and
+    (12) Collaborate with human resources offices to recruit, select, 
+appraise, and reward employees to build a workforce based on merit and 
+competence, organizational goals, budget considerations, and staffing 
+needs.
+    (c) Provide training when individuals make critical career 
+transitions, for instance from non-supervisory to manager or from 
+manager to executive. This training should be consistent with 
+assessments of the agency's and the individual's needs.
+
+PART 432--PERFORMANCE BASED REDUCTION IN GRADE AND REMOVAL ACTIONS
+
+0
+3. The authority citation for part 432 continues to read as follows:
+
+    Authority:  5 U.S.C. 4303, 4305.
+
+0
+4. Amend Sec.  432.103 by revising paragraph (a) to read as follows:
+
+
+Sec.  432.103  Definitions.
+
+* * * * *
+    (a) Acceptable performance means performance that meets an 
+employee's performance requirement(s) or standard(s) at a level of 
+performance at or above the ``Fully Successful'' level in the critical 
+element(s) at issue.
+* * * * *
+0
+5. Revise Sec.  432.104 to read as follows:
+
+
+Sec.  432.104  Addressing unacceptable performance.
+
+    (a) Notice. At any time during the performance appraisal cycle that 
+an employee's performance is determined, in the sole and exclusive 
+discretion of the agency, to be unacceptable in one or more critical 
+elements, the agency must:
+    (1) Notify the employee of the critical element(s) for which 
+performance has been found unacceptable and an explanation of the 
+reasons therefore;
+    (2) Inform the employee of the performance requirement(s) or 
+standard(s) that must be attained in order to demonstrate acceptable 
+performance in his or her position; and
+    (3) Inform the employee that, unless his or her performance in the 
+critical element(s) improves to and is sustained at an acceptable 
+level, the employee must be reduced in grade or removed.
+    (b) Opportunity to demonstrate acceptable performance. For each 
+critical element in which the employee's performance is unacceptable, 
+the agency must afford the employee a reasonable opportunity to 
+demonstrate acceptable performance, commensurate with the duties and 
+responsibilities of the employee's position. A reasonable opportunity 
+to demonstrate acceptable performance may last no more than 30 calendar 
+days subject to an agency's sole and exclusive discretion to offer a 
+longer period of time as may be necessary to account for situations in 
+which 30 calendar days may be insufficient to evaluate an employee's 
+performance.
+    (c) Assistance. Before or during the opportunity for acceptable 
+performance, the agency must provide assistance to improve unacceptable 
+performance. There is no requirement regarding the nature of any 
+assistance offered during the opportunity period. The nature of such 
+assistance is not determinative of a reduction in grade or pay or a 
+removal. Except as provided for in Sec.  432.105(c), an agency is not 
+permitted to provide an additional opportunity to demonstrate 
+acceptable performance or similar informal period prior to or in 
+addition to the opportunity period provided under paragraph (b) of this 
+section.
+0
+6. Revise Sec.  432.105 to read as follows:
+
+
+Sec.  432.105  Proposing and taking action based on unacceptable 
+performance.
+
+    (a) Once an employee has been afforded a reasonable opportunity to 
+demonstrate acceptable performance pursuant to Sec.  432.104 of this 
+part, an agency must propose a removal action if the employee's 
+performance during or following the opportunity to
+
+[[Page 40462]]
+
+demonstrate acceptable performance is unacceptable in one or more of 
+the critical elements for which the employee was afforded an 
+opportunity to demonstrate acceptable performance. Agencies may satisfy 
+the requirement to provide assistance before or during the opportunity 
+period.
+    (b) A proposed action may be based on instances of unacceptable 
+performance which occur within a 1-year period ending on the date of 
+the notice of proposed action.
+    (c) If an employee has performed acceptably for 1 year from the 
+beginning of an opportunity to demonstrate acceptable performance (in 
+the critical element(s) for which the employee was afforded an 
+opportunity to demonstrate acceptable performance), and the employee's 
+performance again becomes unacceptable, the agency shall afford the 
+employee an additional opportunity to demonstrate acceptable 
+performance before determining whether to propose a removal under this 
+part.
+    (d) An employee whose removal is proposed under this part is 
+entitled to:
+    (1) Advance notice.
+    (i) The agency shall notify the employee of the proposed removal 
+action which, subject to the agency's sole and exclusive discretion to 
+mitigate or cease the proposed removal, should take effect 30 calendar 
+days thereafter, and such notice shall identify both the specific 
+instances of unacceptable performance by the employee on which the 
+proposed action is based and the critical element(s) of the employee's 
+position involved in each instance of unacceptable performance.
+    (ii) An agency, in its sole and exclusive discretion, may extend 
+the advance notice period for a period not to exceed 30 days under 
+regulations prescribed by the head of the agency necessary for 
+compliance with law, rule, or regulation, or where necessary to ensure 
+mission effectiveness. An agency may extend this notice period further 
+without prior OPM approval where necessary to comply with a stay 
+ordered by a member of the Merit Systems Protection Board under 5 
+U.S.C. 1214(b)(1)(A) or (B), or to consider information gathered as 
+part of a medical examination as described in (d)(2)(ii) of this 
+section.
+    (iii) If an agency believes that an extension of the advance notice 
+period is necessary for another reason, it must request and obtain 
+prior approval for such extension from the Office of Personnel 
+Management by emailing [email protected] with a letter 
+signed by the agency's Chief Human Capital Officer (or equivalent) 
+stating the reasons for requesting an extension.
+    (2) Opportunity to answer. The agency shall afford the employee a 
+reasonable time, but not less than 7 calendar days or more than 10 
+calendar days from the date of the agency's notice of proposed action 
+to answer the agency's notice of proposed removal action orally and in 
+writing.
+    (i) The agency may, in its sole and exclusive discretion, grant the 
+employee an extension of no more than 10 calendar days to answer an 
+agency's notice of proposed removal action in order to consider any 
+settlement or other offer from an agency to terminate employment, 
+provided that additional time beyond 10 days may be provided if doing 
+so is necessary to comply with law, rule, or regulation, or where doing 
+so is clearly in the government's interests.
+    (ii) As part of any answer to a proposed action, the employee must 
+raise any medical issues (including illness or incapacitation) or 
+disabilities that have precluded the employee's ability to perform 
+acceptably. Failure to raise such medical issues constitutes waiver of 
+the ability to do so before any decision is effected, except where 
+prohibited by statute. In the event an employee raises a medical issue, 
+the employee must furnish medical documentation (as defined in Sec.  
+339.104 of this chapter) of the condition for the agency's 
+consideration. If warranted, the agency shall require or offer a 
+medical examination in accordance with the procedures of part 339 of 
+this chapter. The examination may occur after the employee submits his 
+or her answer and any information gathered through an examination is to 
+be considered furnished as part of the answer. The agency shall be 
+aware of the affirmative obligations of 29 CFR 1630.14. If the employee 
+who raises a medical condition has the requisite number of years of 
+service under the Civil Service Retirement System or the Federal 
+Employees Retirement System, the agency shall provide information 
+concerning application for disability retirement. As provided at Sec.  
+831.501(d) of this chapter, an employee's application for disability 
+retirement shall not preclude or delay any other appropriate agency 
+decision or personnel action.
+    (3) Representation. An employee may select a representative of his 
+or her choice to assist in the preparation and presentation of the 
+answer under paragraph (d)(2) of this section, provided that the 
+employee submits his or her designation in writing. If the selected 
+representative is a Federal employee, the representative may not 
+perform such representational functions while in a duty status 
+(including while on official time authorized under 5 U.S.C. 7131), nor 
+may the representative claim agency reimbursement for any expenses 
+incurred while performing such representational function. The agency 
+proposing the action may, in its sole and exclusive discretion, 
+disallow an employee's choice of representative when the representative 
+is an employee of the agency and his or her activities as a 
+representative would cause a conflict of interest or position; that 
+employee cannot be released from his or her official duties because of 
+the priority needs of the Government; or that employee's release would 
+give rise to unreasonable costs to the Government.
+    (4) Final written decision. The agency shall make its final 
+decision within 30 days after expiration of the advance notice period 
+but should make its final decision as quickly as practicable. Unless 
+proposed by the head of the agency, such written decision shall be 
+concurred in by an employee who is in a higher position than the person 
+who proposed the removal action. In arriving at its decision, the 
+agency shall consider any answer of the employee or his or her 
+representative furnished in response to the agency's proposal. The 
+higher level official or agency head, in their sole and exclusive 
+discretion, may mitigate or rescind a proposed removal action only when 
+doing so is consistent with the mission of the agency. A decision to 
+reduce in grade or remove an employee for unacceptable performance may 
+be based only on those instances of unacceptable performance that 
+occurred during the 1-year period ending on the date of issuance of the 
+advance notice of proposed action under paragraph (d)(1)(i) of this 
+section. The agency shall issue written notice of its decision to the 
+employee at or before the time the action will be effective. Such 
+notice shall specify the instances of unacceptable performance by the 
+employee on which the action is based and shall inform the employee of 
+any applicable appeal and grievance rights.
+    (e) An agency's exceeding of the timelines set forth in this 
+subpart is not grounds for mitigating or overturning an action.
+0
+7. Add Sec.  432.108 to read as follows:
+
+
+Sec.  432.108  Settlement agreements.
+
+    (a) Agreements to alter personnel records. An agency must not agree 
+to erase, remove, alter, or withhold from another agency any 
+information about a civilian employee's performance or conduct in that 
+employee's official
+
+[[Page 40463]]
+
+personnel records, including an employee's Official Personnel Folder 
+and Employee Performance File, as part of, or as a condition to, 
+resolving a formal or informal complaint by the employee or settling an 
+administrative challenge to an action taken under this part.
+    (b) Corrective action based on discovery of agency error. 
+Notwithstanding paragraph (a) of this section, an agency may take 
+corrective action, including during or after the issuance of an action 
+taken under this part, if the agency determines the information 
+contained in a personnel record is not accurate or documents an action 
+taken by the agency illegally or in error. In such cases, an agency has 
+the authority, unilaterally or by agreement, to modify an employee's 
+personnel file to remove inaccurate information or the record of an 
+erroneous or illegal action. An agency may take such action even if an 
+appeal/complaint has been filed relating to the information that the 
+agency determines to be inaccurate or to reflect an action taken 
+illegally or in error. The agency must ensure that it removes only 
+information that the agency itself has determined to be inaccurate or 
+to reflect an action taken illegally or in error.
+    (c) Corrective action based on persuasive information prior to 
+final agency action. An agency may cancel or withdraw a proposed action 
+taken under this part prior to the issuance of a final agency decision 
+when persuasive evidence casts doubt on the validity of the action or 
+the ability of the agency to sustain the action in litigation. To the 
+extent an employee's personnel file or other agency records contain a 
+proposed action that is subsequently cancelled, an agency must remove 
+that action from the employee's personnel file or other agency files; 
+however, paragraph (a) applies to any accurate information about the 
+employee's performance leading up to that proposed action or separation 
+from Federal service.
+    (d) Notwithstanding the provisions in paragraphs (b) and (c), an 
+agency must retain the documentation removed from an employee's 
+personnel file as needed to comply with other obligations, including 
+but not limited to litigation holds, suitability background 
+investigations, and security clearance investigations.
+    (e) Nothing in this section restricts an agency's ability to 
+withhold information about an employee's performance or conduct from an 
+employer that is not an Executive agency as defined under 5 U.S.C. 105 
+as part of, or as a condition to, resolving a formal or informal 
+complaint by the employee or settling an administrative challenge to an 
+action taken under this part.
+
+PART 715--NONDISCIPLINARY SEPARATIONS, DEMOTIONS, AND FURLOUGHS
+
+0
+8. Amend Sec.  715.201 to read as follows:
+
+
+Sec.  715.201  Applicability.
+
+    This subpart applies to voluntary separations of employees in the 
+executive departments and independent establishments of the Federal 
+Government, including Government-owned or controlled corporations, and 
+in those portions of the legislative and judicial branches of the 
+Federal Government and the government of the District of Columbia 
+having positions in the competitive service.
+0
+9. Add a new Sec.  715.203 to read as follows:
+
+
+Sec.  715.203  Abandonment.
+
+    When an employee fails to report for duty (or to return from leave 
+or from furlough of 30 days or less) for a period of 10 consecutive 
+calendar days or more, and does not submit a resignation, an employee 
+voluntarily abandons his or her position. An employee who voluntarily 
+abandons his or her position may be separated without regard to the 
+provisions of part 752 of this chapter. Authorized leave does not 
+constitute a failure to report for duty under this section.
+
+PART 752--ADVERSE ACTIONS
+
+    10. The authority citation for part 752 continues to read as 
+follows:
+
+    Authority:  5 U.S.C. 6329b, 7504, 7514, 7515, and 7543; Sec. 
+1097, Pub. L. 115-91, 131 Stat. 1617 (5 U.S.C. 7503 note).
+
+Subpart A--Discipline of Supervisors Based on Retaliation Against 
+Whistleblowers
+
+0
+11. Add Sec.  752.104 to read as follows:
+
+
+Sec.  752.104  Settlement agreements.
+
+    (a) Agreements to alter official personnel records. An agency must 
+not agree to erase, remove, alter, or withhold from another agency any 
+information about a civilian employee's performance or conduct in that 
+employee's official personnel records, including an employee's Official 
+Personnel Folder and Employee Performance File, as part of, or as a 
+condition to, resolving a formal or informal complaint by the employee 
+or settling an administrative challenge to an action taken under this 
+subpart.
+    (b) Corrective action based on discovery of agency error. 
+Notwithstanding paragraph (a), an agency may take corrective action, 
+including during or after the issuance of action taken under this 
+subpart, if the agency determines the information contained in a 
+personnel record is not accurate or documents an action taken by the 
+agency illegally or in error. In such cases, an agency would have the 
+authority, unilaterally or by agreement, to modify an employee's 
+personnel file to remove inaccurate information or the record of an 
+erroneous or illegal action. An agency may take such action even if an 
+appeal/complaint has been filed relating to the information that the 
+agency determines to be inaccurate or to reflect an action taken 
+illegally or in error. The agency must ensure that it removes only 
+information that the agency itself has determined to be inaccurate or 
+to reflect an action taken illegally or in error.
+    (c) Corrective action based on persuasive information prior to 
+final agency action. An agency may cancel or withdraw a proposed action 
+taken under this subpart prior to the issuance of a final agency 
+decision when persuasive evidence casts doubt on the validity of the 
+action or the ability of the agency to sustain the action in 
+litigation. To the extent an employee's personnel file or other agency 
+records contain a proposed action that is subsequently cancelled, an 
+agency must remove that action from the employee's personnel file or 
+other agency files; however, paragraph (a) applies to any accurate 
+information about the employee's performance or conduct leading up to 
+that proposed action or separation from Federal service.
+    (d) Notwithstanding the provisions in paragraphs (b) and (c), an 
+agency must retain the documentation removed from an employee's 
+personnel file as needed to comply with other obligations, including 
+but not limited to litigation holds, suitability background 
+investigations, and security clearance investigations.
+    (e) Nothing in this section restricts an agency's ability to 
+withhold information about an employee's performance or conduct from an 
+employer that is not an Executive agency as defined under 5 U.S.C. 105 
+as part of, or as a condition to, resolving a formal or informal 
+complaint by the employee or settling an administrative challenge to an 
+action taken under this subpart.
+
+Subpart B--Regulatory Requirements for Suspension for 14 Days or 
+Less
+
+0
+12. Amend Sec.  752.202 by revising the section heading and adding 
+paragraphs (c) through (f) to read as follows:
+
+[[Page 40464]]
+
+Sec.  752.202  Standard for action and penalty determination.
+
+* * * * *
+    (c) An agency is not required to use progressive discipline under 
+this subpart. The penalty for an instance of misconduct must be 
+tailored to the facts and circumstances. A proposed penalty is in the 
+sole and exclusive discretion of a proposing official, and a penalty 
+decision is in the sole and exclusive discretion of the deciding 
+official.
+    (d) Unless required by law, an agency must not establish or use an 
+existing table of penalties or similar policy, nor agree to do so 
+through collective bargaining, to prescribe mandatory or recommended 
+disciplinary penalties.
+    (e) A suspension should not be a substitute for removal in 
+circumstances in which removal would be appropriate. Agencies should 
+not require that an employee have previously been suspended or demoted 
+before a proposing official may propose removal, except as may be 
+appropriate under applicable facts.
+    (f) An agency's exceeding of the timelines set forth in this 
+subpart is not grounds for mitigating or overturning an action under 
+this subpart.
+0
+13. Revise Sec.  752.203 to read as follows:
+
+
+Sec.  752.203  Procedures.
+
+    (a) Statutory entitlements. An employee covered under this subpart 
+whose suspension is proposed under this subpart is entitled to the 
+procedures provided in 5 U.S.C. 7503(b). Unless required by law, 
+agencies must not apply any other procedures established by agency 
+regulation or policy, or through collective bargaining authorized under 
+5 U.S.C. chapter 71, when taking an action under this subpart.
+    (b) Notice of proposed action. The notice must state the specific 
+reason(s) for the proposed action and inform the employee of his or her 
+right to review the material which is relied on to support the reasons 
+for action given in the notice. The notice must further include 
+detailed information with respect to any right to appeal the action 
+pursuant to section 1097(b)(2)(A) of Public Law 115-91, the forums in 
+which the employee may file an appeal, and any limitations on the 
+rights of the employee that would apply because of the forum in which 
+the employee decides to file.
+    (c) Employee's answer. The employee must be given a reasonable 
+time, but not less than one business day or more than five business 
+days, to answer orally and in writing and to secure and furnish 
+affidavits and other documentary evidence in support of the answer. The 
+agency may, in its sole and exclusive discretion, grant the employee an 
+extension of no more than five calendar days to answer an agency's 
+proposed action or to consider any settlement or other offer from an 
+agency to terminate employment, unless additional time is necessary for 
+compliance with law, rule, or regulation, or where doing so is clearly 
+in the government's interests.
+    (d) Representation. An employee covered by this subpart is entitled 
+to be represented by an attorney or other representative. An employee 
+must submit his or her designation in writing related to the specific 
+answer. If the selected representative is a Federal employee, the 
+representative may not perform such representational functions while in 
+a duty status (including while on official time under 5 U.S.C. 7131), 
+nor may the representative claim agency reimbursement for any expenses 
+incurred while performing such representational function. The agency 
+proposing the action may, in its sole and exclusive discretion, 
+disallow an employee's choice of representative when the representative 
+is an employee of the agency and his or her activities as a 
+representative would cause a conflict of interest or position; that 
+employee cannot be released from his or her official duties because of 
+the priority needs of the Government; or that employee's release would 
+give rise to unreasonable costs to the Government.
+    (e) Agency decision.
+    (1) In arriving at its decision, the agency will consider only the 
+reasons specified in the notice of proposed action and any answer of 
+the employee or his or her representative, or both, made to a 
+designated official.
+    (2) The agency must specify in writing the reason(s) for the 
+decision and advise the employee of any grievance rights under 
+paragraph (f) of this section. The agency must deliver the notice of 
+decision to the employee on or before the effective date of the action.
+    (3) An agency should issue the decision on a proposed action under 
+this subpart as soon as practicable, which should be no later than 5 
+business days of the conclusion of the employee's opportunity to 
+respond under paragraph (c) of this section. An agency's exceeding of 
+the timelines set forth in this subpart is not grounds for mitigating 
+or overturning an action.
+    (f) Grievances.
+    (1) The employee may file a grievance through an agency 
+administrative grievance system if authorized by agency policy. Except 
+as provided in paragraph (2), a suspension under this subpart may not 
+be challenged through a grievance procedure negotiated under 5 U.S.C. 
+7121.
+    (2) Notwithstanding paragraph (1), a suspension under this subpart 
+of an employee in a particular agency or subdivision thereof or 
+bargaining unit may be subjected to the coverage of a grievance 
+procedure negotiated pursuant to 5 U.S.C. 7121, only if the agency head 
+or, if designated by the agency head, the agency's Chief Human Capital 
+Officer, has determined that the applicability of such grievance 
+procedure will not impair the effective use of actions covered by this 
+subpart and the Office of Personnel Management concurs in that 
+assessment. Either the agency head or the Office of Personnel 
+Management may, in their sole and exclusive discretion, revoke such 
+determination at any time and such revocation shall become immediately 
+effective. Where negotiated grievances are authorized, employees may 
+file grievances only under that procedure and not under an agency's 
+administrative grievance procedure. Sections 7114(a)(5) and 
+7121(b)(1)(C) of title 5, U.S. Code, and the terms of any collective 
+bargaining agreement, will govern representation for employees in a 
+bargaining unit who grieve a suspension under this subpart through the 
+negotiated grievance procedure.
+    (g) Agency records. The agency must maintain copies of, and will 
+furnish to the Merit Systems Protection Board and to the employee upon 
+their request, the following documents:
+    (1) Notice of the proposed action;
+    (2) Employee's written reply, if any;
+    (3) Summary of the employee's oral reply, if any;
+    (4) Notice of decision; and
+    (5) Any order effecting the suspension, together with any 
+supporting material.
+    (h) Settlement agreements. (1) An agency must not agree to erase, 
+remove, alter, or withhold from another agency any information about a 
+civilian employee's performance or conduct in that employee's official 
+personnel records, including an employee's Official Personnel Folder 
+and Employee Performance File, as part of, or as a condition to, 
+resolving a formal or informal complaint by the employee or settling an 
+administrative challenge to an action taken under this subpart.
+    (2) Notwithstanding paragraph (h)(1) of this section, an agency may 
+take corrective action, including during or after the issuance of an 
+action taken under this subpart, if the agency determines the 
+information contained in a personnel record is not accurate or 
+documents an action taken by the agency illegally or in error. In such
+
+[[Page 40465]]
+
+cases, an agency has the authority, unilaterally or by agreement, to 
+modify an employee's personnel file to remove inaccurate information or 
+the record of an erroneous or illegal action. An agency may take such 
+action even if an appeal/complaint has been filed relating to the 
+information that the agency determines to be inaccurate or to reflect 
+an action taken illegally or in error. The agency must ensure that it 
+removes only information that the agency has determined to be 
+inaccurate or to reflect an action taken illegally or in error.
+    (3) If an agency determines, prior to the issuance of a final 
+agency decision on an action taken under this subpart, the validity of 
+the action or the ability of the agency to sustain the action in 
+litigation is in question due to persuasive evidence, an agency may 
+cancel or withdraw the proposed action. To the extent an employee's 
+personnel file or other agency records contain a proposed action that 
+is subsequently cancelled, an agency may remove that action from the 
+employee's personnel file or other agency files; however, paragraph 
+(h)(1) applies to any accurate information about the employee's 
+performance or conduct leading up to that proposed action or separation 
+from Federal service.
+    (4) Nothing in this section restricts an agency's ability to 
+withhold information about an employee's performance or conduct from an 
+employer that is not an Executive agency as defined under 5 U.S.C. 105 
+as part of, or as a condition to, resolving a formal or informal 
+complaint by the employee or settling an administrative challenge to an 
+action taken under this subpart.
+    (i) Retaining personnel records. Notwithstanding paragraph (h), an 
+agency must retain the documentation removed from an employee's 
+personnel file as needed to comply with other obligations, including 
+but not limited to litigation holds, suitability background 
+investigations, and security clearance investigations.
+
+Subpart D--Regulatory Requirements for Removal, Suspension for More 
+Than 14 Days, Reduction in Grade or Pay, or Furlough for 30 Days or 
+Less
+
+0
+14. Amend Sec.  752.401 by adding paragraph (b)(18) and revising 
+paragraph (d)(2) to read as follows:
+
+
+Sec.  752.401  Coverage.
+
+* * * * *
+    (b) * * *
+    (18) Termination of an employee who fails to complete a 
+probationary or trial period under part 11 of this chapter.
+* * * * *
+    (d) * * *
+    (2) An employee whose position is in Schedules C, G, or Policy/
+Career;
+* * * * *
+0
+15. Revise Sec.  752.403 to read as follows:
+
+
+Sec.  752.403  Standard for action and penalty determination.
+
+    (a) An agency may take an adverse action, including a performance-
+based adverse action or an indefinite suspension, under this subpart 
+only for such cause as will promote the efficiency of the service. 
+Unless required by law, agencies must not apply any other procedures 
+established by agency regulation or policy, or through collective 
+bargaining authorized under 5 U.S.C. chapter 71, when taking an action 
+under this subpart.
+    (b) An agency may not take an adverse action against an employee on 
+the basis of any reason prohibited by 5 U.S.C. 2302.
+    (c) An agency is not required to use progressive discipline before 
+taking an action under this subpart. The penalty for an instance of 
+misconduct must be tailored to the facts and circumstances. A proposed 
+penalty is in the sole and exclusive discretion of a proposing 
+official, and a penalty decision is in the sole and exclusive 
+discretion of the deciding official. Penalty decisions are subject to 
+appellate or other review procedures prescribed in law.
+    (d) Employees should be treated impartially. Conduct that justifies 
+discipline of one employee at one time does not necessarily justify 
+similar discipline of a different employee at a different time. An 
+agency may, but is not required to, consider appropriate comparators as 
+the agency evaluates a potential adverse action. In such cases 
+appropriate comparators are individuals in the same work unit, with the 
+same supervisor, and who were subjected to the same standards governing 
+discipline.
+    (e) Unless required by law, an agency must not establish or use an 
+existing table of penalties or similar policy, nor agree to do so 
+through collective bargaining, to prescribe mandatory or recommended 
+disciplinary penalties for an action taken under this subpart.
+    (f) A suspension should not be a substitute for removal in 
+circumstances in which removal would be appropriate. Agencies should 
+not require that an employee have previously been suspended or demoted 
+before a proposing official may propose removal, except as may be 
+appropriate under applicable facts.
+0
+16. Amend Sec.  752.404 by revising paragraphs (b)(1), (b)(3) 
+introductory text, and (c)(1), and adding paragraph (g)(3) to read as 
+follows:
+
+
+Sec.  752.404  Procedures.
+
+* * * * *
+    (b) * * *
+    (1) An employee against whom an action is proposed is entitled to 
+30 calendar days' advance written notice unless there is an exception 
+pursuant to paragraph (d) of this section. Advance notices of greater 
+than 30 days must be reported to the Office of Personnel Management. 
+The notice to an employee must state the specific reason(s) for the 
+proposed action and inform the employee of his or her right to review 
+the material which is relied on to support the reasons for action given 
+in the notice. The notice must further include detailed information 
+with respect to any right to appeal the action pursuant to section 
+1097(b)(2)(A) of Public Law 115-91, the forums in which the employee 
+may file an appeal, and any limitations on the rights of the employee 
+that would apply because of the forum in which the employee decides to 
+file.
+    (2) * * *
+    (3) An employee whose removal or suspension, including indefinite 
+suspension, has been proposed may remain in a duty status in his or her 
+regular position during the advance notice period. Where the agency 
+determines that the employee's continued presence in the workplace 
+during the notice period may pose a threat to the employee or others, 
+result in loss of or damage to Government property, or otherwise 
+jeopardize legitimate Government interests, the agency may elect one or 
+a combination of the following alternatives:
+* * * * *
+    (c) * * *
+    (1) An employee may answer orally and in writing except as provided 
+in paragraph (c)(2) of this section. An employee must be given a 
+reasonable time, but not less than 7 calendar days or more than 10 
+calendar days, to review the material relied upon to support the 
+proposed action, prepare an answer orally and in writing, and to secure 
+and furnish affidavits and other documentary evidence in support of the 
+answer. The agency may, in its sole and exclusive discretion, grant the 
+employee an extension of no more than 10 calendar days in order to 
+answer an agency's proposed action or to consider any settlement or 
+other offer from an agency to terminate employment, unless additional 
+time is necessary for compliance with law, rule, or regulation, or 
+where doing so is clearly in the government's interests. If the
+
+[[Page 40466]]
+
+employee remains in an active duty status, the agency must give the 
+employee a reasonable amount of official time (to be determined in the 
+sole and exclusive discretion of the agency) to engage in the 
+activities described under this paragraph.
+* * * * *
+    (g) * * *
+    (3) To the extent practicable, an agency should issue the decision 
+on a proposed removal under this subpart within 30 calendar days of the 
+conclusion of the employee's opportunity to respond under paragraph (c) 
+of this section. An agency's exceeding of the timelines set forth in 
+this subpart is not grounds for mitigating or overturning an action.
+* * * * *
+0
+17. Add Sec.  752.407 to read as follows:
+
+
+Sec.  752.407  Settlement agreements.
+
+    (a) Agreements to alter official personnel records. An agency must 
+not agree to erase, remove, alter, or withhold from another agency any 
+information about a civilian employee's performance or conduct in that 
+employee's official personnel records, including an employee's Official 
+Personnel Folder and Employee Performance File, as part of, or as a 
+condition to, resolving a formal or informal complaint by the employee 
+or settling an administrative challenge to an action taken under this 
+subpart.
+    (b) Corrective action based on discovery of agency error. 
+Notwithstanding paragraph (a) of this section, an agency may take 
+corrective action, including during or after the issuance of an action 
+taken under this subpart, if the agency determines the information 
+contained in a personnel record is not accurate or documents an action 
+taken by the agency illegally or in error. In such cases, an agency has 
+the authority, unilaterally or by agreement, to modify an employee's 
+personnel file to remove inaccurate information or the record of an 
+erroneous or illegal action. An agency may take such action even if an 
+appeal/complaint has been filed relating to the information that the 
+agency determines to be inaccurate or to reflect an action taken 
+illegally or in error. The agency must ensure that it removes only 
+information that the agency itself has determined to be inaccurate or 
+to reflect an action taken illegally or in error.
+    (c) Corrective action based on persuasive information prior to 
+final agency action. If an agency determines, prior to the issuance of 
+a final agency decision on an action taken under this subpart, the 
+validity of the action or the ability of the agency to sustain the 
+action in litigation is in question due to persuasive evidence, an 
+agency may cancel or withdraw the proposed action. To the extent an 
+employee's personnel file or other agency records contain a proposed 
+action that is subsequently cancelled, an agency may remove that action 
+from the employee's personnel file or other agency files; however, 
+paragraph (a) applies to any accurate information about the employee's 
+performance or conduct leading up to that proposed action or separation 
+from Federal service.
+    (d) Notwithstanding the provisions in paragraphs (b) and (c), an 
+agency must retain the documentation removed from an employee's 
+personnel file as needed to comply with other obligations, including 
+but not limited to litigation holds, suitability background 
+investigations, and security clearance investigations.
+    (e) Nothing in this section restricts an agency's ability to 
+withhold information about an employee's performance or conduct from an 
+employer that is not an Executive agency as defined under 5 U.S.C. 105 
+as part of, or as a condition to, resolving a formal or informal 
+complaint by the employee or settling an administrative challenge to an 
+action taken under this subpart.
+
+Subpart F--Regulatory Requirements for Taking Adverse Actions Under 
+the Senior Executive Service
+
+0
+18. Amend Sec.  752.603 by revising the section heading and adding 
+paragraphs (c) through (f) to read as follows:
+
+
+Sec.  752.603  Standard for action and penalty determination.
+
+* * * * *
+    (c) An agency is not required to use progressive discipline under 
+this subpart. The penalty for an instance of misconduct must be 
+tailored to the facts and circumstances. A proposed penalty is in the 
+sole and exclusive discretion of a proposing official, and a penalty 
+decision is in the sole and exclusive discretion of the deciding 
+official. Penalty decisions are subject to appellate or other review 
+procedures prescribed in law.
+    (d) Employees should be treated impartially. Conduct that justifies 
+discipline of one employee at one time does not necessarily justify 
+similar discipline of a different employee at a different time. An 
+agency may consider appropriate comparators as the agency evaluates a 
+potential adverse action.
+    (e) Unless required by law, an agency must not establish or use an 
+existing table of penalties or similar policy to prescribe mandatory or 
+recommended disciplinary penalties for an action taken under this 
+subpart.
+    (f) A suspension should not be a substitute for removal in 
+circumstances in which removal would be appropriate. Agencies should 
+not require that an employee have previously been suspended or demoted 
+before a proposing official may propose removal, except as may be 
+appropriate under applicable facts.
+0
+19. Amend Sec.  752.604 by revising paragraphs (b)(1), (b)(2) 
+introductory text, and (c)(1) and adding paragraph (g)(3) to read as 
+follows:
+
+
+Sec.  752.604  Procedures.
+
+* * * * *
+    (b) * * *
+    (1) An appointee against whom an action is proposed is entitled to 
+30 days' advance written notice unless there is an exception pursuant 
+to paragraph (d) of this section. However, to the extent an agency, in 
+its sole and exclusive discretion, deems practicable, the agency should 
+limit a written notice of an adverse action to the 30 days prescribed 
+in 5 U.S.C. 7543(b)(1). Advance notices of greater than 30 days must be 
+reported to the Office of Personnel Management. The notice to an 
+appointee must state the specific reason(s) for the proposed action and 
+inform the appointee of his or her right to review the material that is 
+relied on to support the reasons for action given in the notice. The 
+notice must further include detailed information with respect to any 
+right to appeal the action pursuant to section 1097(b)(2)(A) of Public 
+Law 115-91, the forums in which the appointee may file an appeal, and 
+any limitations on the rights of the appointee that would apply because 
+of the forum in which the appointee decides to file.
+    (2) An appointee whose removal or suspension, including indefinite 
+suspension, has been proposed may remain in a duty status in his or her 
+regular position during the advance notice period. Where the agency 
+determines that the appointee's continued presence in the workplace 
+during the notice period may pose a threat to the appointee or others, 
+result in loss of or damage to Government property, or otherwise 
+jeopardize legitimate Government interests, the agency may elect one or 
+a combination of the following alternatives:
+* * * * *
+    (c) * * *
+    (1) An appointee may answer orally and in writing except as 
+provided in paragraph (c)(2) of this section. An appointee must be 
+given a reasonable time, but not less than 7 calendar days
+
+[[Page 40467]]
+
+or more than 10 calendar days, to review the material relied upon to 
+support the proposed action, prepare an answer orally and in writing, 
+and to secure and furnish affidavits and other documentary evidence in 
+support of the answer. The agency may, in its sole and exclusive 
+discretion, grant the appointee an extension of no more than 10 
+calendar days to answer an agency's proposed action in order to 
+consider any settlement or other offer from an agency to terminate 
+employment, unless additional time is necessary for compliance with 
+law, rule, or regulation, or where doing so is clearly in the 
+government's interests. If the appointee remains in active duty status, 
+the agency must give the appointee a reasonable amount of official time 
+(to be determined in the sole and exclusive discretion of the agency) 
+to engage in the activities described under this paragraph.
+* * * * *
+    (g) * * *
+    (3) To the extent practicable, an agency should issue the decision 
+on a proposed removal under this subpart within 30 calendar days of the 
+conclusion of the appointee's opportunity to respond under paragraph 
+(c) of this section. An agency's exceeding of the timelines set forth 
+in this subpart is not grounds for mitigating or overturning an action.
+* * * * *
+0
+20. Add Sec.  752.607 to subpart F to read as follows:
+
+
+Sec.  752.607  Settlement agreements.
+
+    (a) Agreements to alter official personnel records. An agency must 
+not agree to erase, remove, alter, or withhold from another agency any 
+information about an appointee's performance or conduct in that 
+appointee's official personnel records, including an appointee's 
+Official Personnel Folder and Employee Performance File, as part of, or 
+as a condition to, resolving a formal or informal complaint by the 
+appointee or settling an administrative challenge to an action taken 
+under this subpart.
+    (b) Corrective action based on discovery of agency error. 
+Notwithstanding paragraph (a) of this section, an agency may take 
+corrective action, including during or after the issuance of an action 
+taken under this subpart, if the agency determines the information 
+contained in a personnel record is not accurate or documents an action 
+taken by the agency illegally or in error. In such cases, an agency has 
+the authority, unilaterally or by agreement, to modify an appointee's 
+personnel file to remove inaccurate information or the record of an 
+erroneous or illegal action. An agency may take such action even if an 
+appeal/complaint has been filed relating to the information that the 
+agency determines to be inaccurate or to reflect an action taken 
+illegally or in error. The agency must ensure that it removes only 
+information that the agency itself has determined to be inaccurate or 
+to reflect an action taken illegally or in error.
+    (c) Corrective action based on persuasive information prior to 
+final agency action. If an agency determines, prior to the issuance of 
+a final agency decision on an action taken under this subpart, the 
+validity of the action or the ability of the agency to sustain the 
+action in litigation is in question due to persuasive evidence, an 
+agency may cancel or withdraw the proposed action. To the extent an 
+appointee's personnel file or other agency records contain a proposed 
+action that is subsequently cancelled, an agency may remove that action 
+from the appointee's personnel file or other agency files; however, 
+paragraph (a) applies to any accurate information about the appointee's 
+performance or conduct leading up to that proposed action or separation 
+from Federal service.
+    (d) Notwithstanding the provisions in paragraphs (b) and (c), an 
+agency must retain the documentation removed from an appointee's 
+personnel file as needed to comply with other obligations, including 
+but not limited to litigation holds, suitability background 
+investigations, and security clearance investigations.
+    (e) Nothing in this section restricts an agency's ability to 
+withhold information about an appointee's performance or conduct from 
+an employer that is not an Executive agency as defined under 5 U.S.C. 
+105 as part of, or as a condition to, resolving a formal or informal 
+complaint by the appointee or settling an administrative challenge to 
+an action taken under this subpart.
+    Accordingly, for the reasons stated in the preamble, the Merit 
+Systems Protection Board proposes to amend 5 CFR part 1201 as follows:
+
+PART 1201--PRACTICES AND PROCEDURES
+
+0
+1. The authority citation for part 1201 continues to read as follows:
+
+    Authority:  5 U.S.C. 1204, 1305, and 7701, and 38 U.S.C. 4331, 
+unless otherwise noted.
+
+Subpart B--Procedures for Appellate Cases
+
+0
+2. Amend Sec.  1201.56(b) by adding a new subparagraph (3) to read as 
+follows:
+* * * * *
+    (b) * * *
+    (3) Penalty determination. (i) This subparagraph applies only to 
+appeals filed under 5 U.S.C. 7513.
+    (ii) The agency's choice of penalty is entitled to substantial 
+deference. The Board will review a penalty only to determine whether it 
+is within the tolerable limits of reasonableness in light of the 
+charges sustained under subparagraph (b)(1)(ii). This determination is 
+based upon the totality of the circumstances relating to the efficiency 
+of the service, on a case-by-case basis.
+    (iii) If the Board sustains all of the agency's charges, the Board 
+will determine whether the penalty imposed by the agency is within the 
+tolerable limits of reasonableness, and will not substitute its 
+judgment for the judgment of the deciding official.
+    (A) If the Board makes an affirmative finding in this regard, the 
+Board will sustain the agency's action.
+    (B) If the Board makes a negative finding in this regard, the Board 
+may mitigate the agency's original penalty to the maximum reasonable 
+penalty.
+    (iv) If the Board sustains fewer than all of the agency's charges, 
+the Board may mitigate the agency's original penalty to the maximum 
+reasonable penalty so long as the agency did not indicate either in its 
+final decision, or during proceedings before the Board, that it desired 
+that a lesser penalty be imposed if the Board did not sustain all of 
+its charges.
+    (A) If the agency so indicated, the Board may:
+    (i) Impose the lesser penalty the agency indicated it would have 
+imposed; or
+    (ii) If the Board cannot discern what that penalty would have been, 
+accord the agency an opportunity to institute a lesser penalty.
+    (B) If the agency did not so indicate, the Board may:
+    (i) Mitigate the agency's original penalty to the maximum 
+reasonable penalty; or
+    (ii) Accord the agency an opportunity to institute a lesser 
+penalty.
+* * * * *
+[FR Doc. 2026-13445 Filed 7-1-26; 8:45 am]
+BILLING CODE 6325-39-P; 7400-01-P

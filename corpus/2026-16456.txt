@@ -1,0 +1,305 @@
+Federal Register, Volume 91 Issue 154 (Wednesday, August 12, 2026)
+
+
+[Federal Register Volume 91, Number 154 (Wednesday, August 12, 2026)]
+[Rules and Regulations]
+[Pages 51997-51998]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-16456]
+
+
+
+ ========================================================================
+ Rules and Regulations
+                                                 Federal Register
+ ________________________________________________________________________
+ 
+ This section of the FEDERAL REGISTER contains regulatory documents 
+ having general applicability and legal effect, most of which are keyed 
+ to and codified in the Code of Federal Regulations, which is published 
+ under 50 titles pursuant to 44 U.S.C. 1510.
+ 
+ The Code of Federal Regulations is sold by the Superintendent of Documents. 
+ 
+ ========================================================================
+ 
+
+  Federal Register / Vol. 91, No. 154 / Wednesday, August 12, 2026 / 
+Rules and Regulations  
+
+[[Page 51997]]
+
+
+
+MERIT SYSTEMS PROTECTION BOARD
+
+5 CFR Part 1201
+
+RIN 3124-AA33
+
+
+Appellate Jurisdiction Update II
+
+AGENCY: Merit Systems Protection Board.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Merit Systems Protection Board (MSPB or Board) is amending 
+its regulations to remove references to MSPB's jurisdiction over 
+probationary termination, suitability, and reduction-in-force (RIF) 
+appeals. This revision reflects the Office of Personnel Management's 
+(OPM's) rescission of the MSPB's jurisdiction to hear these types of 
+appeals. The rule retains MSPB's statutory jurisdiction over Foreign 
+Service reduction-in-force appeals under 22 U.S.C. 4010a.
+
+DATES: This final rule is effective on September 2, 2026. However, 
+consistent with OPM's rulemakings, the MSPB will not apply this rule to 
+pending cases or to newly filed cases relating to agency actions taken 
+before the effective date of OPM's rulemakings, and will continue to 
+adjudicate such probationary termination appeals, suitability appeals, 
+and RIF appeals.
+
+FOR FURTHER INFORMATION CONTACT: Gina K. Grippando, Clerk of the Board, 
+Merit Systems Protection Board, 1615 M Street NW, Washington, DC 20419; 
+phone: (202) 653-7200; fax: (202) 653-7130; or email: [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+I. Background
+
+    The Civil Service Reform Act grants MSPB jurisdiction to hear 
+appeals of any action made appealable to MSPB under law, rule, or 
+regulation. 5 U.S.C. 7701(a). For the ease of MSPB's stakeholders, 
+MSPB's regulation at 5 Code of Federal Regulations (CFR) 1201.3 
+contains a list of the types of appeals MSPB has been granted 
+jurisdiction to hear. The current list includes 1201.3(a)(3), which 
+reflects appeal rights for employees who are terminated during their 
+initial or supervisory probationary period; 1201.3(a)(6), which 
+reflects appeals rights for employees subjected to a reduction-in-
+force; and 1201.3(a)(9), which reflects appeal rights for employees 
+subjected to a suitability action. OPM regulations previously granted 
+MSPB jurisdiction over each of these types of appeals, except for 
+reduction-in-force actions affecting a career or career candidate 
+appointee in the Foreign Service, over which MSPB exercises 
+jurisdiction pursuant to statute.
+
+A. Appeals for Terminations During Probationary or Trial Periods
+
+    On June 24, 2025, OPM issued a final rule which stated that 
+Executive Order (E.O.) 14284, ``Strengthening Probationary Periods in 
+the Federal Service'' (90 FR 17729), issued on April 24, 2025, `` 
+`supersede[d] subpart H' [of part 315 of CFR title 5] and `rendered 
+[it] inoperative and without effect.' '' Accordingly, OPM's final rule 
+rescinded subpart H of CFR part 315, including 5 CFR 315.806, which 
+provided appeal rights to MSPB for employees serving an initial 
+appointment to a competitive service position who are terminated during 
+their probationary or trial period.
+    Subsequently, effective September 2, 2026, OPM issued a final rule 
+revising 5 CFR 315.908(b) [of subpart I of part 315 CFR title 5] which 
+previously granted MSPB appeal rights to competitive service, 
+managerial or supervisory employees who alleged that an action under 
+that subpart, such as return to a nonsupervisory or nonmanagerial 
+position for failure to complete the probationary period, was based on 
+partisan political affiliation or marital status. The revised rule 
+rescinds MSPB appeal rights for these employees and instead provides a 
+right to appeal such actions to OPM.
+    Consequently, MSPB now amends 5 CFR 1201.3(a)(3) to reflect the 
+rescission of these MSPB appeal rights. MSPB notes that OPM has 
+provided in its final rule that the rule covers actions effected from 
+September 2, 2026, forward, and therefore does not apply to any pending 
+MSPB appeals or future MSPB appeals filed based on actions effected 
+before September 2, 2026.
+
+B. Reduction in Force Appeals
+
+    Effective September 2, 2026, OPM issued a final rule revising 5 CFR 
+351.901, which previously granted MSPB appeal rights to federal 
+employees subjected to a reduction-in-force. The new rule, in relevant 
+part, rescinds these MSPB appeal rights and instead provides reduction-
+in-force appeal rights exclusively to OPM. Consequently, MSPB now 
+amends 5 CFR 1201.3(a)(6) to reflect OPM's rescission of these 
+previously codified MSPB appeal rights. This amendment does not affect 
+the separate statutory right of a career or career candidate appointee 
+in the Foreign Service to appeal a RIF action to MSPB under 22 U.S.C. 
+4010a. The final rule retains that appeal right in redesignated 
+paragraph (a)(5) of 5 CFR 1201.3 but changes the referenced citation 
+from 22 U.S.C. 4011 to 22 U.S.C. 4010a, where the precise statutory 
+appeal reference is found.
+    MSPB notes that OPM's final rule on RIF appeals applies only to a 
+RIF action for which an agency issues the employee a specific RIF 
+notice on or after the effective date of the RIF appeals rule, and that 
+MSPB appeals of RIF actions taken before the effective date of OPM's 
+final rule may continue to be adjudicated through the MSPB process. 
+MSPB will therefore continue to adjudicate RIF appeals that are not 
+covered by OPM's final RIF appeals rule (i.e., because the RIF actions 
+were taken before the rule's effective date), and will accept such 
+cases for filing where the agency's RIF notice was issued before the 
+rule's effective date, and will not dismiss such appeals on the ground 
+that OPM's final rule displaced the MSPB's jurisdiction.
+
+C. Suitability Appeals
+
+    Effective September 2, 2026, OPM issued a final rule revising 5 CFR 
+731.501, which previously granted MSPB appeal rights to individuals 
+subjected to a suitability action, which includes the cancellation of 
+eligibility, removal, cancellation of reinstatement eligibility, and 
+debarment. The new rule, in relevant part, rescinds these MSPB appeal 
+rights and provides suitability action appeal rights exclusively to 
+OPM. MSPB now amends 5 CFR 1201.3(a)(9) to reflect OPM's
+
+[[Page 51998]]
+
+rescission of these previously codified MSPB appeal rights.
+    MSPB notes that OPM's suitability appeals rule does not apply to 
+suitability appeals filed with the MSPB before the effective date of 
+OPM's final rule, and that the MSPB may continue to adjudicate such 
+suitability appeals. MSPB will therefore continue to adjudicate such 
+suitability appeals that are not covered by OPM's final suitability 
+appeals rule, and will not dismiss such appeals on the ground that 
+OPM's final rule displaced the MSPB's jurisdiction.
+
+II. Summary of Changes
+
+Section 1201.3 Appellate Jurisdiction
+
+    This amendment amends the list of appealable actions in section 
+1201.3(a) to remove references to appeal rights for employees in the 
+competitive service or in a managerial or supervisory position who are 
+terminated during their probationary or trial period; federal employees 
+subjected to a reduction in force; and federal applicants, appointees, 
+and employees subjected to a suitability action which includes the 
+cancellation of eligibility, removal, cancellation of reinstatement 
+eligibility, and debarment.
+
+III. Effective Date of Amendment
+
+    The amendment described above will go into effect on September 2, 
+2026. However, as described above, and consistent with OPM's 
+rulemakings, the MSPB will not apply this amendment to probationary 
+termination, RIF, or suitability appeals pending as of September 2, 
+2026. Additionally, MSPB will adjudicate any RIF appeals it receives 
+after September 2, 2026, in which the RIF effective date preceded 
+September 2, 2026; and any probationary termination appeals pursuant to 
+5 CFR 315.908(b) it receives after September 2, 2026, in which the 
+probationary termination action was effected prior to September 2, 
+2026.
+
+IV. Regulatory Compliance
+
+A. Administrative Procedure Act
+
+    Pursuant to 5 U.S.C. 553(b)(B), MSPB finds that there is good cause 
+to issue this final rule without prior notice and comment. This final 
+rule merely reflects the recission of the regulatory bases for MSPB's 
+jurisdiction. MSPB lacks any discretion regarding this change, and thus 
+lacks discretion in this rulemaking action. Accordingly, notice and 
+public comment procedures are unnecessary.
+    Similarly, pursuant to 5 U.S.C. 553(d)(3), MSPB finds that there is 
+good cause to make this final rule effective immediately upon 
+publication. This final rule merely reflects the recission of the 
+regulatory bases for MSPB's jurisdiction.
+
+B. Regulatory Impact Analysis: Executive Order 12866
+
+    The MSPB has examined the impact of this rulemaking as required by 
+Executive Orders 12866 (Sept. 30, 1993) and 13563 (Jan. 18, 2011), 
+which direct agencies to evaluate the benefits and costs of the action. 
+A regulatory impact analysis must be prepared for rules with effects of 
+$100 million or more in any one year. This rulemaking does not reach 
+that threshold but has otherwise been designated as a ``significant 
+regulatory action'' under section 3(f) of Executive Order 12866, as 
+supplemented by Executive Order 13563.
+
+C. Regulatory Flexibility Act
+
+    The MSPB certifies that this rulemaking will not have a significant 
+economic impact on a substantial number of small entities because OPM's 
+rule will apply only to Federal agencies, employees, or applicants for 
+employment, and the MSPB's rule does not in itself effect any change, 
+but only reflects OPM's amendments to MSPB's jurisdiction.
+
+D. Paperwork Reduction Act
+
+    This document does not contain information collection requirements 
+subject to the Paperwork Reduction Act of 1995, Public Law 104-13 (44 
+U.S.C. Chapter 35).
+
+E. Executive Order 13132, Federalism
+
+    This regulation will not have substantial direct effect on the 
+States, on the relationship between the National Government and the 
+States, or on distribution of power and responsibilities among the 
+various levels of government. Therefore, in accordance with Executive 
+Order 13132 (Aug. 10, 1999), it is determined that this rule does not 
+have sufficient federalism implications to warrant preparation of a 
+Federalism Assessment.
+
+F. Executive Order 12988, Civil Justice Reform
+
+    This regulation meets the applicable standards set forth in section 
+3(a) and (b)(2) of Executive Order 12988 (Feb. 5, 1996).
+
+G. Unfunded Mandates Reform Act of 1995
+
+    This rulemaking will not result in the expenditure by State, local, 
+or tribal governments, in the aggregate, or by the private sector, of 
+more than $100 million annually. Thus, no written assessment of 
+unfunded mandates is required.
+
+List of Subjects in 5 CFR Part 1201
+
+    Administrative practice and procedure, Civil rights, Government 
+employees.
+
+    Under the authority of 5 U.S.C. 1204, 1305, and 7701, and 38 U.S.C. 
+4331, and for the reasons stated in the preamble, 5 CFR part 1201 is 
+amended as follows:
+
+PART 1201--PRACTICES AND PROCEDURES
+
+0
+1. The authority citation for part 1201 continues to read as follows:
+
+    Authority: 5 U.S.C. 1204, 1305, and 7701, and 38 U.S.C. 4331, 
+unless otherwise noted.
+
+
+0
+2. Amend Sec.  1201.3 in paragraph (a) by removing paragraphs (a)(3) 
+and (a)(9).
+
+0
+3. Further amend Sec.  1201.3 by redesignating paragraphs (a)(4), 
+(a)(5), (a)(6), (a)(7), (a)(8), (a)(10), and (a)(11) as follows:
+
+------------------------------------------------------------------------
+               Old paragraph                        New paragraph
+------------------------------------------------------------------------
+(a)(4)....................................  (a)(3).
+(a)(5)....................................  (a)(4).
+(a)(6)....................................  (a)(5).
+(a)(7)....................................  (a)(6).
+(a)(8)....................................  (a)(7).
+(a)(10)...................................  (a)(8).
+(a)(11)...................................  (a)(9).
+------------------------------------------------------------------------
+
+
+0
+4. Revise newly redesignated paragraph (a)(5) to read as follows:
+
+
+Sec.  1201.3  Appellate jurisdiction.
+
+    (a) * * *
+    (5) Reduction in force. Reduction-in-force action affecting a 
+career or career candidate appointee in the Foreign Service (22 U.S.C. 
+4010a);
+* * * * *
+
+Gina K. Grippando,
+Clerk of the Board.
+[FR Doc. 2026-16456 Filed 8-11-26; 8:45 am]
+BILLING CODE 7400-01-P
