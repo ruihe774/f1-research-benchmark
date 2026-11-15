@@ -1,10 +1,14 @@
 """Theoretical cost per run: every token that can be cached is a cache hit, every
 token that cannot (new user prompt / tool results) is a cache miss. Prices in
-pricing.csv are USD per 1M tokens. Writes runs_theoretical_cost.csv."""
-import csv, json, pathlib
+pricing.csv are USD per 1M tokens. Usage: theoretical_cost.py [task] (default f1).
+Writes <task>/runs_theoretical_cost.csv."""
+import csv, json, pathlib, sys
 
 HERE = pathlib.Path(__file__).parent
-RUNS = HERE.parent / "tasks" / "f1" / "runs"
+TASK = sys.argv[1] if len(sys.argv) > 1 else "f1"
+RUNS = HERE.parent / "tasks" / TASK / "runs"
+OUT = HERE / TASK
+OUT.mkdir(exist_ok=True)
 # Context-size tier thresholds (input tokens per request). The OpenAI threshold is
 # not given in pricing.csv; 272K is assumed (no request in the runs exceeds 234K).
 LONG = {"anthropic/claude-haiku-5-5": 100_000, "meta/muse-ember": 200_000,
@@ -62,7 +66,7 @@ for f in sorted((RUNS).glob("*/transcript.json")):
                  "input_tokens": u["input_tokens"], "output_tokens": u["output_tokens"],
                  "theoretical_cost_usd": round(c.get(None, c.get("off-peak", 0)), 4),
                  "theoretical_cost_peak_usd": round(c["peak"], 4) if "peak" in c else ""})
-with open(HERE / "runs_theoretical_cost.csv", "w", newline="") as fh:
+with open(OUT / "runs_theoretical_cost.csv", "w", newline="") as fh:
     w = csv.DictWriter(fh, fieldnames=rows[0].keys()); w.writeheader(); w.writerows(rows)
 for r in rows:
     print(r["run"][:50].ljust(50), r["theoretical_cost_usd"], r["theoretical_cost_peak_usd"])
