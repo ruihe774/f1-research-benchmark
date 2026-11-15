@@ -2,7 +2,10 @@
 """Run the agent under test on TASK.md and record its structured answers.
 
 The agent gets TASK.md as its only instructions and the Federal Register
-function tools from harness_common. It works in a stateless Responses API loop
+function tools from harness_common. TASK.md is auto-split (harness_common.
+split_task) at its '## Questions' heading: the instructions before it go in
+a developer message (higher priority, stable prompt prefix) and the
+questions go in a user message. It works in a stateless Responses API loop
 and ends with one structured answer per question.
 
 Prompt caching is implicit: OpenAI places a breakpoint at the end of the latest
@@ -65,9 +68,12 @@ def main(argv=None) -> int:
     out_dir.mkdir(parents=True, exist_ok=False)
 
     client = hc.make_client(a.timeout)
-    initial_input = [hc.user_message(task_md)]
+    developer_md, questions_md = hc.split_task(task_md)
+    initial_input = [hc.developer_message(developer_md),
+                     hc.user_message(questions_md)]
     config = hc.agent_config(a, client) | {"run_id": run_id, "questions": qids,
-                                           "task_file": str(hc.TASK_PATH)}
+                                           "task_file": str(hc.TASK_PATH),
+                                           "prompt_split": "developer/user at '## Questions'"}
     transcript = hc.Transcript(
         out_dir / "transcript.json", "bench", config,
         hc.static_request(hc.FR_TOOLS, Answer, a), initial_input)

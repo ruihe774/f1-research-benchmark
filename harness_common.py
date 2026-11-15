@@ -247,6 +247,29 @@ def question_ids(task_md: str) -> list[str]:
     return ids
 
 
+def split_task(task_md: str) -> tuple[str, str]:
+    """Split TASK.md into (developer instructions, user questions).
+
+    The split is at the single '## Questions' heading: everything before it
+    (role, tools, ground rules, answer format) is sent as the developer
+    message, and the heading onwards (Q1-Q16) as the user message. This
+    keeps TASK.md the single source of truth; the boundary is a contract,
+    so fail loudly if it moves, duplicates or loses any question.
+    """
+    markers = list(re.finditer(r"^## Questions\s*$", task_md, flags=re.M))
+    if len(markers) != 1:
+        raise ValueError("TASK.md must contain exactly one '## Questions' heading "
+                         "(found %d)" % len(markers))
+    start = markers[0].start()
+    developer, user = task_md[:start].strip(), task_md[start:].strip()
+    if not developer or not user:
+        raise ValueError("'## Questions' split produced an empty developer or user part")
+    if question_ids(user) != question_ids(task_md):
+        raise ValueError("'## Questions' split changed the questions "
+                         "(a '### Qn' heading is outside the user part)")
+    return developer, user
+
+
 # --------------------------------------------------------------------------- #
 # Transcript
 # --------------------------------------------------------------------------- #
