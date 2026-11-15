@@ -177,7 +177,7 @@ text = "(a) Cites Proclamation 11056, clause (1) (the effective date of the duti
 id = "q2b_chapeau"
 question = "Q2"
 points = 1
-text = "(b) Says that 11056 formally amended only the chapeau of Annex II of each of the three proclamations (deleting 'August 19, 2026' and inserting 'August 22, 2026'), and that the numbered clauses of the duty proclamations that state August 19 (clause (1), and clause (3)) were not themselves amended. Naming clause (1) alone as the unamended text is enough."
+text = "(b) Says that 11056 formally amended only the chapeau of Annex II (of the alcoholic-beverages proclamation, or of each of the three; either is enough) (deleting 'August 19, 2026' and inserting 'August 22, 2026'), and that the numbered clauses of the duty proclamations that state August 19 (clause (1), and clause (3)) were not themselves amended. Naming clause (1) alone as the unamended text is enough."
 
 [[criterion]]
 id = "q2b_resolve"
@@ -201,7 +201,7 @@ text = "(d) Says no further presidential action was needed or issued for the dut
 id = "q2d_reneged"
 question = "Q2"
 points = 0.75
-text = "(d) Says what the documents report about the days before: the delay was granted after Canada expressed a commitment to remove the discrimination, and on August 21, 2026 Canada reneged on that commitment, per the recitals of the September 8 proclamations (for example 11061 recital 3, 91 FR 58311). The August 21 date and the reneging are required; adding that Canada ceased negotiating in good faith is welcome but not required."
+text = "(d) Says what the documents report about the days before: the delay was granted after Canada expressed a commitment to remove the discrimination, and on August 21, 2026 Canada reneged on that commitment, per the recitals of the September 8 proclamations (for example 11061 recital 3, 91 FR 58311). The August 21 date and the reneging are required; the earlier commitment to remove the discrimination, and that Canada ceased negotiating in good faith, are welcome but not required."
 
 [[criterion]]
 id = "q2e_thirty"
@@ -299,7 +299,7 @@ text = "(c) Identifies both pieces of deciding text: clause (2) of the duty proc
 id = "q4c_supersede"
 question = "Q4"
 points = 0.5
-text = "(c) Notes that the September proclamations do not expressly amend or repeal clause (2) of the duty proclamations, and/or that the conflict is resolved by their supersession clause (inconsistent provisions of earlier proclamations are superseded to the extent of the inconsistency). Either is enough."
+text = "(c) Shows how the conflict between clause (2) of the duty proclamations and the stacking clause of 11064 and 11065 is resolved, in any of these ways: notes that the September proclamations do not expressly amend or repeal clause (2); cites or quotes their supersession clause (inconsistent provisions of earlier proclamations are superseded to the extent of the inconsistency); or says that the later stacking clause displaces or overrides clause (2) from September 15. Any one is enough. Q4(c) asks only for the deciding text, so an answer that cites both clause (2) and the stacking clause with their FR pages and applies the later one from September 15 also earns this."
 
 [[criterion]]
 id = "q4c_xref"
@@ -512,7 +512,7 @@ text = "(d) Identifies U.S. note 52(k) (91 FR 47394): the ad valorem equivalent 
 id = "q7d_zero"
 question = "Q7"
 points = 0.75
-text = "(d) Says (in whatever words) that note 52(k) itself states only the case where the rate is less than the cap, and that the zero result at or above the cap is stated elsewhere: in the presidential memorandum (section 1(a)) and/or in the notice's determinations ('greater than or equal to ... shall be zero'). Naming either location is enough."
+text = "(d) Locates the zero result for an equivalent rate at or above the cap in the presidential memorandum (section 1(a)) and/or in the notice's determinations ('greater than or equal to ... shall be zero'). Naming either location is enough; saying that note 52(k) itself states only the below-cap case is welcome but not required. No if the answer attributes the zero result to note 52(k)."
 
 # --------------------------------------------------------------------------- Q8
 [[criterion]]
@@ -629,7 +629,7 @@ text = "(e) Concludes that on the text the 12.5% section 301 duty ($12,500) appl
 id = "q9e_flag"
 question = "Q9"
 kind = "gate"
-text = "(e) Flags that the documents are not of one mind on this: the proposal, and passages of the notice's own discussion, speak of goods subject to section 232 tariffs as exempt in general, while note 52(f) lists particular headings (or flags that the text does not address section 232 headings it does not list), so the conclusion is a reading of the operative text. No if the answer presents its conclusion in (e) as certain with no such caveat."
+text = "(e) Flags that the documents are not of one mind on this: the proposal, and passages of the notice's own discussion, speak of goods subject to section 232 tariffs as exempt in general, while note 52(f) lists particular headings (or flags that the text does not address section 232 headings it does not list), so the conclusion is a reading of the operative text. A caveat counts if it points to any of: the proposal's or the notice's general language on section 232 goods; that note 52(f) does not address section 232 headings it does not list; or section 232 headings created after the notice. Apply this the same way to near-identical wording. A caveat that is only about image-only lists, or that only restates the scenario's assumption that the heading is not mentioned, does not count. No if the answer presents its conclusion in (e) as certain with no such caveat."
 
 [[criterion]]
 id = "q9f_232"
@@ -641,7 +641,7 @@ text = "(f) Says the June proposal would have exempted all articles and parts su
 id = "q9f_info"
 question = "Q9"
 points = 0.75
-text = "(f) Says the proposal listed informational materials (e.g. books), donations and accompanied baggage as exemptions, while the adopted readable text (note 52(a)) excepts only products for personal use in accompanied baggage and does not mention informational materials or donations. Saying that an image-only list could not be checked is welcome but not required. No if the answer says the adopted text exempts informational materials or donations."
+text = "(f) Says the proposal listed informational materials (e.g. books) and donations as exemptions, while the adopted readable text does not mention informational materials or donations. Q9(f) does not ask about baggage: comparing the proposal's accompanied baggage with note 52(a)'s products for personal use in accompanied baggage, or saying that an image-only list could not be checked, is welcome but not required. No if the answer says the adopted text exempts informational materials or donations."
 
 # -------------------------------------------------------------------------- Q10
 [[criterion]]
@@ -908,7 +908,7 @@ text = "Statement 1: incorrect, or partly correct with the explanation that the 
 id = "q14_1_notice"
 question = "Q14"
 points = 1
-text = "Statement 1: adds at least one of these: the USTR notice gives no date and says the mechanism will be established in a subsequent notice (91 FR 47334-47335); no such notice has been published as of November 14, 2026; in the meantime the textile and apparel goods concerned pay the 10 percent rate (memorandum section 2(c))."
+text = "Statement 1: adds at least one of these: the USTR notice gives no date (any statement that the notice sets no deadline is enough) or says the mechanism will be established in a subsequent notice (91 FR 47334-47335); no such notice has been published as of November 14, 2026; in the meantime the textile and apparel goods concerned pay the 10 percent rate (memorandum section 2(c))."
 
 [[criterion]]
 id = "q14_2"
@@ -956,14 +956,14 @@ text = "Statement 7: incorrect. The notice's phrase 'maximum tariffs of 12.5 per
 id = "q14_ok"
 question = "Q14"
 points = 2
-text = "Says statements 8, 9 and 10 are all correct, citing a deciding passage for at least two: 8, the foreign trade zone paragraph of the notice (91 FR 47321); 9, section 4(e) of the memorandum (91 FR 47723) or part IV of the notice (91 FR 47335); 10, the Trade Representative determined to exempt all products proposed for exemption in Annex A 'except the non-pharmaceutical applications of certain chemical products' (91 FR 47330). An answer that calls 10 correct for the Annex A list and adds that the proposal's wider exemptions (all section 232 goods, informational materials, donations) were also narrowed still counts as calling it correct."
+text = "Says statements 8, 9 and 10 are all correct, citing a deciding passage for at least two: 8, the foreign trade zone paragraph of the notice (91 FR 47321); 9, section 4(e) of the memorandum (91 FR 47723) or part IV of the notice (91 FR 47335); 10, the Trade Representative determined to exempt all products proposed for exemption in Annex A 'except the non-pharmaceutical applications of certain chemical products' (91 FR 47330). An answer that calls 10 correct for the Annex A list and adds that the proposal's wider exemptions (all section 232 goods, informational materials, donations) were also narrowed still counts as calling it correct, and so does an answer that calls 10 'partly correct' or 'misleading' for that reason, provided it agrees that the chemical products are the only cut-back among the products on the Annex A list."
 
 [[criterion]]
 id = "q14_false"
 question = "Q14"
 kind = "penalty"
 points = 1.5
-text = "Calls statement 8, statement 9 or statement 10 incorrect. (Calling statement 10 correct as to the Annex A product list while noting that other proposed exemptions were narrowed is not calling it incorrect.)"
+text = "Calls statement 8, statement 9 or statement 10 incorrect. (Calling statement 10 correct, or 'partly correct', as to the Annex A product list while noting that other proposed exemptions were narrowed is not calling it incorrect.)"
 
 # -------------------------------------------------------------------------- Q15
 # Each criterion needs the totals for both cases unless it says otherwise. The entry
@@ -1026,7 +1026,7 @@ text = "March 2, 2026: $50,000 in both cases (section 232, 50%), with the statem
 id = "q15_8"
 question = "Q15"
 points = 1.5
-text = "June 10, 2026: $50,000 in both cases (section 232, 50% of the full customs value under Proclamation 11021), with case U not reduced: the non-U.S.-content rule (and the 25% rate) of Proclamation 11032 applies only to Annex I-C articles. No if either case is given at 25 percent or computed on non-U.S. content."
+text = "June 10, 2026: $50,000 in both cases (section 232, 50% of the full customs value under Proclamation 11021), with case U not reduced. Explaining that the non-U.S.-content rule (and the 25% rate) of Proclamation 11032 applies only to Annex I-C articles is welcome but not required, since the scenario stipulates that the goods are not in Annex I-C. No if either case is given at 25 percent or computed on non-U.S. content."
 
 [[criterion]]
 id = "q15_9"

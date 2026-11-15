@@ -282,7 +282,7 @@ text = "(b) With the cutoff, Farah's performance credit is 11: the August 10, 20
 id = "q4c_not_on_record"
 question = "Q4"
 points = 1
-text = "(c) Says the rating cannot be used: it was not on record (available to the office that establishes the registers) until after the cutoff date, and 351.503(c)(2)-(3) require a rating to be on record and bar new ratings from being put on record and used after the cutoff."
+text = "(c) Says the rating cannot be used: it was not on record (available to the office that establishes the registers) until after the cutoff date, and 351.503(c)(2)-(3) require a rating to be on record and bar new ratings from being put on record and used after the cutoff. Because 351.503(c)(3) defines 'on record' as available for use by that office, and the scenario says only when the rating entered the office's system, a conditional answer also earns yes: that the rating cannot be used if the office had no access to it before August 15, perhaps adding that it could be used if the office had it in another form by the cutoff. No if the answer says without condition that the rating can be used."
 
 [[criterion]]
 id = "q4d_gina"
@@ -461,7 +461,7 @@ id = "q7d_text"
 question = "Q7"
 group = "q7d"
 points = 1.5
-text = "(d) Says that under 5 CFR 351.901(c) the subpart's procedures are the sole and exclusive means of appealing a RIF action, and a RIF action may not be raised under a negotiated grievance procedure or contested through grievance arbitration."
+text = "(d) Says that under 5 CFR 351.901(c) (paragraph (c)(2)) a RIF action may not be raised under a negotiated grievance procedure or contested through grievance arbitration. Adding that the subpart's procedures are the sole and exclusive means of appealing a RIF action is welcome but not required."
 
 [[criterion]]
 id = "q7d_flag"
@@ -485,7 +485,7 @@ text = "(f) Says she may still appeal under 351.902(b)(3), within 30 calendar da
 id = "q7g_where"
 question = "Q7"
 points = 1
-text = "(g) Says the applicability rule is stated only in the DATES line and preamble of the appeals rule, not in the regulatory text (the preamble says the final regulatory text does not include a separate applicability note in 351.901; 91 FR 49248)."
+text = "(g) Locates the applicability rule in the DATES line and/or preamble of the appeals rule (91 FR 49230, 49233 or 49248) and does not attribute it to 351.901 or other regulatory text. Saying expressly that the regulatory text does not state it (the preamble says the final regulatory text does not include a separate applicability note in 351.901; 91 FR 49248) is welcome but not required. No if the answer gives no location, or places the rule in the regulatory text."
 
 # --------------------------------------------------------------------------- Q8
 [[criterion]]
@@ -522,8 +522,15 @@ factor = 0.5
 id = "q8b_cap"
 question = "Q8"
 group = "q8b"
-points = 1.5
-text = "(b) Says that the text states no numeric cap for administrative leave during a RIF notice period under 630.1403(c)(10); as for 12 weeks, the answer must deal with the governmentwide limit: either that the text and the preamble at 91 FR 65927 attach it to the uses in 630.1403(c)(9) and (c)(11), or that other preamble passages speak of a 12-week limit for workforce realignment leave generally so that it may reach this leave, which here lasts under 8 weeks either way. The 12-week point is required; saying that the 10-workday limit is for investigative leave and does not apply here is welcome but not required. Yes whether the answer treats 'no cap' or '12 weeks' as the likelier reading."
+points = 1
+text = "(b) Says that the adopted text states no numeric cap for administrative leave during a RIF notice period under 630.1403(c)(10). Saying that the 10-workday limit is for investigative leave and does not apply here is welcome but not required. Yes whether or not the answer also discusses a 12-week limit (scored in q8b_12wk)."
+
+[[criterion]]
+id = "q8b_12wk"
+question = "Q8"
+group = "q8b"
+points = 0.5
+text = "(b) Deals with the governmentwide 12-week limit: either that the text and the preamble at 91 FR 65927 attach it to the uses in 630.1403(c)(9) and (c)(11), or that other preamble passages speak of a 12-week limit for workforce realignment leave generally so that it may reach this leave, which here lasts under 8 weeks either way. Yes whether the answer treats 'no cap' or '12 weeks' as the likelier reading."
 
 [[criterion]]
 id = "q8b_flag"
@@ -796,7 +803,7 @@ id = "q13_valid_1"
 question = "Q13"
 ladder = "q13_valid"
 points = 3
-text = "At least 1 valid mismatch. A valid mismatch is one in the key's list for Q13, or another that you confirm with the tools, for which the answer states both what the preamble of FR Doc. 2026-15665 says and what the amendatory instruction or regulatory text in the same document says, correctly, and locates each side by FR page, CFR paragraph or instruction number (a deliberate leniency: the task asks for FR pages). Count each mismatch once. Do not count: differences between the proposed rule and the final rule; matters on which the regulatory text is merely silent and the preamble adds detail (for example supervisory probation, or field offices as competitive areas); shorthand in one preamble passage that another passage of the same preamble states correctly, unless the key lists it; the items the key lists as not mismatches; or an item whose description of either side is wrong."
+text = "At least 1 valid mismatch. A valid mismatch is one in the key's list for Q13, or another that you confirm with the tools, for which the answer states both what the preamble of FR Doc. 2026-15665 says and what the amendatory instruction or regulatory text in the same document says, correctly, and locates each side by FR page, CFR paragraph or instruction number (a deliberate leniency: the task asks for FR pages). Count each mismatch once. Do not count: differences between the proposed rule and the final rule; matters on which the regulatory text is merely silent and the preamble adds detail (for example supervisory probation, or field offices as competitive areas); shorthand in one preamble passage that another passage of the same preamble states correctly, unless the key lists it; the items the key lists as not mismatches; or an item whose description of either side is wrong. Shorthand means a summary that loosens or leaves out a detail; a statement that names a different trigger, period, paragraph, category of employee or decision-maker is not shorthand and counts even where another passage states the point correctly (the task asks the answer to say so). Apply the key's list of items and not-mismatches the same way to every answer."
 
 [[criterion]]
 id = "q13_valid_2"
@@ -858,7 +865,7 @@ id = "q14_valid_3"
 question = "Q14"
 ladder = "q14_valid"
 points = 3
-text = "At least 3 valid items. A valid item is one in the key's list for Q14, or another that you confirm with the tools and that fits one of the question's three kinds: (i) a statement in the preamble of OPM's RIF appeals rule (FR Doc. 2026-15666) about what that rule provides that differs from its regulatory text as published or as corrected by FR Doc. 2026-17338; (ii) a change from the proposed appeals rule (FR Doc. 2026-02576) that the final rule's summary of changes from the proposal (91 FR 49230-49232) does not acknowledge; (iii) an inconsistency within the MSPB's rule (FR Doc. 2026-16456), or between it and OPM's rule, about which RIF appeals the Board keeps. The answer must state both sides correctly and locate each by FR page or CFR paragraph (a deliberate leniency: the task asks for FR pages). Count each item once. At most three items that are only a change of wording with no change of effect (the key marks these 'wording only'; others of the same sort, such as shall/may with the same effect or of/after with the same clock, count against the same limit) count toward this ladder. Do not count the items the key lists as not counting (including those outside the three kinds), matters the text is merely silent about, or an item whose description of either side is wrong."
+text = "At least 3 valid items. A valid item is one in the key's list for Q14, or another that you confirm with the tools and that fits one of the question's three kinds: (i) a statement in the preamble of OPM's RIF appeals rule (FR Doc. 2026-15666) about what that rule provides that differs from its regulatory text as published or as corrected by FR Doc. 2026-17338; (ii) a change from the proposed appeals rule (FR Doc. 2026-02576) to the final rule as published (not as later corrected) that the final rule's summary of changes from the proposal (91 FR 49230-49232) does not acknowledge; (iii) an inconsistency within the MSPB's rule (FR Doc. 2026-16456), or between it and OPM's rule, about which RIF appeals the Board keeps. The answer must state both sides correctly and locate each by FR page or CFR paragraph (a deliberate leniency: the task asks for FR pages). Count each item once. At most three items that are only a change of wording with no change of effect (the key marks these 'wording only'; others of the same sort, such as shall/may with the same effect or of/after with the same clock, count against the same limit) count toward this ladder. Do not count the items the key lists as not counting (including those outside the three kinds), matters the text is merely silent about, or an item whose description of either side is wrong."
 
 [[criterion]]
 id = "q14_valid_6"
