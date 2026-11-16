@@ -7,15 +7,15 @@ run,model,input_tokens,output_tokens,theoretical_cost_usd,theoretical_cost_peak_
 20261115-044114-anthropic-claude-opus-5-5-high,anthropic/claude-opus-5-5,6087924,57608,3.1189,
 20261115-044319-openai-gpt-6-luna-high,openai/gpt-6-luna,3613939,42097,0.0817,
 20261115-045714-anthropic-claude-opus-5-5-high,anthropic/claude-opus-5-5,6328100,59587,3.2659,
-20261115-061648-anthropic-claude-haiku-5-5-high,anthropic/claude-haiku-5-5,26556,3348,0.0035,
 20261115-061648-deepseek-deepseek-v4.1-flash-1017-high,deepseek/deepseek-v4.1-flash-1017,4195105,91968,0.0874,0.1747
 20261115-061648-deepseek-deepseek-v4.1-flash-1017-max,deepseek/deepseek-v4.1-flash-1017,6016941,94402,0.1011,0.2023
 20261115-061648-meta-muse-ember-high,meta/muse-ember,4934675,44295,0.0815,
 20261115-061648-meta-muse-ember-max,meta/muse-ember,5480153,40729,0.1076,
 20261115-061648-openai-gpt-6.1-terra-high,openai/gpt-6.1-terra,1555772,21771,0.4289,
-20261115-063913-anthropic-claude-haiku-5-5-high,anthropic/claude-haiku-5-5,26565,3654,0.0037,
 20261115-063913-deepseek-deepseek-v4.1-flash-1017-high,deepseek/deepseek-v4.1-flash-1017,3660778,69321,0.0733,0.1466
 20261115-063913-deepseek-deepseek-v4.1-flash-1017-max,deepseek/deepseek-v4.1-flash-1017,5947771,76758,0.0907,0.1815
 20261115-063913-meta-muse-ember-high,meta/muse-ember,3506885,36653,0.0496,
 20261115-063913-meta-muse-ember-max,meta/muse-ember,7023433,60451,0.1178,
 20261115-063913-openai-gpt-6.1-terra-high,openai/gpt-6.1-terra,2698830,20217,0.5032,
+20261115-163612-anthropic-claude-haiku-5-5-high,anthropic/claude-haiku-5-5,9502988,109838,0.7018,
+20261115-165032-anthropic-claude-haiku-5-5-high,anthropic/claude-haiku-5-5,9076415,103840,0.6473,

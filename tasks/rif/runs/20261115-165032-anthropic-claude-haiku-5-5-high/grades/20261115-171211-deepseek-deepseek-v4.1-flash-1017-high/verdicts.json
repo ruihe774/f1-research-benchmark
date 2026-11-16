@@ -1,0 +1,647 @@
+{
+  "Q1": {
+    "q1a_rule": {
+      "rationale": "Gives FR Doc. 2026-15665, 91 FR 49178–49227, published Aug. 3, 2026, effective Sept. 2, 2026, docket OPM-2025-0107, RIN 3206-AO86.",
+      "verdict": "yes"
+    },
+    "q1b_nprm": {
+      "rationale": "Identifies FR Doc. 2026-04377, 91 FR 10904, published March 5, 2026.",
+      "verdict": "yes"
+    },
+    "q1c_first": {
+      "rationale": "Lists 2026-17335, published Aug. 25, 2026, effective Sept. 2, 2026, describing it as correcting typographical and clerical errors in instructions and regulatory text.",
+      "verdict": "yes"
+    },
+    "q1c_second": {
+      "rationale": "Lists 2026-18800, published and effective Sept. 15, 2026, and says it restores 330.602(1)(i)–(ii), the CTAP “displaced” paragraphs removed by the final rule.",
+      "verdict": "yes"
+    },
+    "q1d_applicability": {
+      "rationale": "States that a RIF noticed before Sept. 2, 2026 stays under the earlier rules and one noticed on or after that date uses the amended rules, citing the DATES line and Implementation Considerations at 91 FR 49206–07.",
+      "verdict": "yes"
+    },
+    "q1e_appeals": {
+      "rationale": "Lists 2026-15666, effective Sept. 2, 2026 and in force, and says it rewrites subpart I (351.901–351.909) and 351.802(a)(6).",
+      "verdict": "yes"
+    },
+    "q1e_leave": {
+      "rationale": "Lists 2026-21320, says it revises 351.806, gives Nov. 18, 2026 as the effective date and says it is not yet in force.",
+      "verdict": "yes"
+    },
+    "q1e_senior": {
+      "rationale": "Lists 2026-21316, says it changes the 351.203 “rating of record” definition and 351.503, and gives Nov. 18, 2026 as the effective date, not yet in force.",
+      "verdict": "yes"
+    },
+    "q1_cite": {
+      "rationale": "Claims carry document numbers and FR page citations throughout; no substantial citation-discipline deduction.",
+      "verdict": "no"
+    },
+    "q1_fab": {
+      "rationale": "No invented document or quotation detected. The answer’s statement that the correction changed “of this part” to “of this title” is inaccurate (the correction says “of this chapter”), but that is a misreading of a real correction, not fabrication.",
+      "verdict": "no"
+    }
+  },
+  "Q2": {
+    "q2a_abbott": {
+      "rationale": "Abbott: 7+5+5=17 performance credit, 0 veterans’ points, total 17.",
+      "verdict": "yes"
+    },
+    "q2a_bianchi": {
+      "rationale": "Bianchi: 5+0+3=8, plus 5 points, total 13; Level 2 is correctly worth 0.",
+      "verdict": "yes"
+    },
+    "q2a_castillo": {
+      "rationale": "Castillo: 17 performance credit and 0 veterans’ points, correctly explaining that retired pay based on 20+ years fails 351.504(b)(2) and (b)(4) does not make him eligible.",
+      "verdict": "yes"
+    },
+    "q2a_dalton": {
+      "rationale": "Dalton: two ratings, proxy (7+0)/2=3.5, performance credit 10.5, plus 3 points, total 13.5.",
+      "verdict": "yes"
+    },
+    "q2a_eze": {
+      "rationale": "Eze: 15 performance credit, 0 veterans’ points, total 15, and tenure subgroup II.",
+      "verdict": "yes"
+    },
+    "q2a_fontaine": {
+      "rationale": "Fontaine: one rating, 5×3=15 under 351.503(f)(3), total 15.",
+      "verdict": "yes"
+    },
+    "q2b_order": {
+      "rationale": "Order is Abbott, Castillo, Fontaine, Eze, Dalton, Bianchi; explains Abbott over Castillo by earlier SCD and Fontaine over Eze by tenure subgroup I over II.",
+      "verdict": "yes"
+    },
+    "q2b_released": {
+      "rationale": "Names Bianchi and Dalton as released.",
+      "verdict": "yes"
+    },
+    "q2c_old": {
+      "rationale": "Says Bianchi would rank above Abbott under the earlier rules because those rules used tenure group, then veterans’ subgroup AD/A/B, then service as augmented by performance, citing 91 FR 49198.",
+      "verdict": "yes"
+    },
+    "q2d_records": {
+      "rationale": "Says she may inspect the complete retention register, including other employees’ names and the performance credit/SCD information, under 351.506(c).",
+      "verdict": "yes"
+    },
+    "q2_cite": {
+      "rationale": "The answer uses CFR paragraphs and FR pages throughout; no substantial citation-discipline problem.",
+      "verdict": "no"
+    },
+    "q2_fab": {
+      "rationale": "No invented document, paragraph or quotation identified.",
+      "verdict": "no"
+    }
+  },
+  "Q3": {
+    "q3a_case_a": {
+      "rationale": "Case A: not preference eligible, 0 points, subgroup B, 351.504(b).",
+      "verdict": "yes"
+    },
+    "q3a_case_b": {
+      "rationale": "Case B: not preference eligible, 0 points, subgroup B; the answer cites 351.504(b)(4) and correctly rejects eligibility despite the 40% disability.",
+      "verdict": "yes"
+    },
+    "q3a_case_c": {
+      "rationale": "Case C: preference eligible, 5 points, subgroup AD, relying on 351.504(b)(1)(i), (b)(4), and (a)(1).",
+      "verdict": "yes"
+    },
+    "q3a_case_d": {
+      "rationale": "Case D: not preference eligible, 0 points, subgroup B, because retired pay is based on 24 years and no other basis applies.",
+      "verdict": "yes"
+    },
+    "q3a_case_e": {
+      "rationale": "Case E: preference eligible, 3 points, subgroup A; 351.504(b)(2) applies because retired pay is based on only 16 years and the disability is under 30%.",
+      "verdict": "yes"
+    },
+    "q3b_scd_a": {
+      "rationale": "Employee A: only 2 years of campaign service are creditable, giving Sept. 7, 2008.",
+      "verdict": "yes"
+    },
+    "q3b_scd_c": {
+      "rationale": "Employee C: all 14 years are creditable as a preference eligible, giving Sept. 7, 1996.",
+      "verdict": "yes"
+    },
+    "q3c_labels": {
+      "rationale": "Says subgroups are labels/identifiers, the points are added to performance credit, and the subgroup is not a separate ranking step or tie-breaker.",
+      "verdict": "yes"
+    },
+    "q3_cite": {
+      "rationale": "Provisions and page citations are supplied; no substantial citation-discipline issue.",
+      "verdict": "no"
+    },
+    "q3_fab": {
+      "rationale": "No invented source or quotation found.",
+      "verdict": "no"
+    }
+  },
+  "Q4": {
+    "q4a_farah": {
+      "rationale": "Farah: 7+3+3=13 using the Aug. 10, 2026, Nov. 14, 2025, and Nov. 15, 2024 ratings.",
+      "verdict": "yes"
+    },
+    "q4b_cutoff_date": {
+      "rationale": "Correctly computes Sept. 3, 2026 minus 45 days as July 20, 2026.",
+      "verdict": "yes"
+    },
+    "q4b_credit": {
+      "rationale": "Excludes the Aug. 10, 2026 rating and uses Level 3, Level 3, Level 4 for 11 points.",
+      "verdict": "yes"
+    },
+    "q4c_not_on_record": {
+      "rationale": "Says the rating cannot be used because it was not on record until Aug. 15, after the July 20 cutoff, under 351.503(c)(2)–(3).",
+      "verdict": "yes"
+    },
+    "q4d_gina": {
+      "rationale": "Gina: Aug. 15, 2022 is outside the four-year period; proxy is (5+3)/2=4, so 5+3+4=12.",
+      "verdict": "yes"
+    },
+    "q4e_modal": {
+      "rationale": "Hank: credit must be based on the modal rating under 351.503(f)(1) and the 351.203 definition; the answer does not wrongly give zero or apply the one- or two-rating formula.",
+      "verdict": "yes"
+    },
+    "q4e_flag": {
+      "rationale": "Explicitly says the FR text does not state the modal value or the arithmetic for a no-rating employee, so no number can be computed.",
+      "verdict": "yes"
+    },
+    "q4_cite": {
+      "rationale": "Citations to CFR paragraphs and FR pages are provided throughout.",
+      "verdict": "no"
+    },
+    "q4_fab": {
+      "rationale": "No invented source identified.",
+      "verdict": "no"
+    }
+  },
+  "Q5": {
+    "q5a_i_rules": {
+      "rationale": "Says the Aug. 28, 2026 notice is governed by the earlier rules even though the RIF takes effect Oct. 27, 2026.",
+      "verdict": "yes"
+    },
+    "q5a_i_result": {
+      "rationale": "Applies 12 years for Level 3 and 20 for Level 5, giving Lee 1986 and Park 1999, and releases Park.",
+      "verdict": "yes"
+    },
+    "q5a_ii": {
+      "rationale": "Sept. 2, 2026 notice uses the amended rules; Lee 9, Park 21, Lee released.",
+      "verdict": "yes"
+    },
+    "q5a_iii": {
+      "rationale": "Sept. 3, 2026 notice: same amended-rule result, Lee released.",
+      "verdict": "yes"
+    },
+    "q5b_no_recalc": {
+      "rationale": "Says no recalculation under 351.805(b) because the amended notice solely moved the effective date; adds that the Oct. 15 rating is outside the window.",
+      "verdict": "yes"
+    },
+    "q5c_version": {
+      "rationale": "Version of the rules is fixed by the date the agency issues the RIF notice, citing the DATES line and implementation section.",
+      "verdict": "yes"
+    },
+    "q5c_window": {
+      "rationale": "Four-year period ends at notice issuance or agency cutoff date, citing 351.503(c)(1)–(2).",
+      "verdict": "yes"
+    },
+    "q5c_standing": {
+      "rationale": "Tenure subgroup and retention standing are fixed when the employee receives the specific RIF notice, citing 351.502 and 351.507(a).",
+      "verdict": "yes"
+    },
+    "q5_cite": {
+      "rationale": "The answer cites the relevant FR pages and CFR provisions.",
+      "verdict": "no"
+    },
+    "q5_fab": {
+      "rationale": "No invented source identified.",
+      "verdict": "no"
+    }
+  },
+  "Q6": {
+    "q6a_reach": {
+      "rationale": "Treats positions 1–3 as within reach and correctly excludes 4 (too many grades), 5 (higher standing), 6 (different schedule), and 7 (different competitive area).",
+      "verdict": "yes"
+    },
+    "q6a_offer": {
+      "rationale": "Says the agency must offer the GS-12 held by Ellis as the least reduction in representative rate.",
+      "verdict": "yes"
+    },
+    "q6b_five": {
+      "rationale": "Says the limit becomes five grades, GS-9 becomes reachable, and the offer remains the GS-12.",
+      "verdict": "yes"
+    },
+    "q6c_level1": {
+      "rationale": "Says a Level 1 rating gives no assignment right because 351.701(a) requires minimally satisfactory (Level 2) or higher.",
+      "verdict": "yes"
+    },
+    "q6d_excepted": {
+      "rationale": "Says 351.701 applies to competitive service employees and excepted service rights exist only if the agency adopts them under 351.705(a).",
+      "verdict": "yes"
+    },
+    "q6e_level2": {
+      "rationale": "Says former 351.701(d), barring Level 2 employees from higher-rated employees’ positions, was eliminated, citing 91 FR 49204.",
+      "verdict": "yes"
+    },
+    "q6e_bump": {
+      "rationale": "Says bumping and retreating were replaced by a single assignment right to a lower-standing employee’s position.",
+      "verdict": "yes"
+    },
+    "q6_cite": {
+      "rationale": "The answer provides CFR and FR citations for the key points.",
+      "verdict": "no"
+    },
+    "q6_fab": {
+      "rationale": "No invented source or quote found.",
+      "verdict": "no"
+    }
+  },
+  "Q7": {
+    "q7a_mspb": {
+      "rationale": "Concludes MSPB hears the appeal because the notice was issued Aug. 31, 2026, before the Sept. 2 appeals-rule applicability date.",
+      "verdict": "yes"
+    },
+    "q7a_board_rule": {
+      "rationale": "Cites the MSPB’s 2026 rule, 2026-16456 (91 FR 51997), and says the Board continues to adjudicate RIF appeals where the notice was issued before the effective date.",
+      "verdict": "yes"
+    },
+    "q7b_opm": {
+      "rationale": "Says the appeal goes to OPM under 351.901(a).",
+      "verdict": "yes"
+    },
+    "q7b_count": {
+      "rationale": "Correctly counts Dec. 19 as day 1, Jan. 17, 2027 as day 30, and notes it is Sunday.",
+      "verdict": "yes"
+    },
+    "q7b_date": {
+      "rationale": "Gives Tuesday, Jan. 19, 2027, because Jan. 18 is MLK Day.",
+      "verdict": "yes"
+    },
+    "q7b_efile": {
+      "rationale": "Says filing must be through OPM’s electronic filing system and timely by 11:59 p.m. Eastern on the last day.",
+      "verdict": "yes"
+    },
+    "q7c_burden": {
+      "rationale": "States the employee’s preponderance burden on timeliness, jurisdiction, RIF noncompliance, and prejudice under 351.901(b).",
+      "verdict": "yes"
+    },
+    "q7c_hearing": {
+      "rationale": "Says no hearing as of right; OPM proceeds on the written record unless a hearing is necessary and efficient under 351.905(c).",
+      "verdict": "yes"
+    },
+    "q7d_text": {
+      "rationale": "Says 351.901(c)(2) bars raising the RIF action under a negotiated grievance procedure or grievance arbitration.",
+      "verdict": "yes"
+    },
+    "q7d_flag": {
+      "rationale": "Reports the preamble’s statements that existing CBAs are not retroactively invalidated, bargaining is limited on renegotiation, and particular existing-agreement questions remain for the chapter 71 forum.",
+      "verdict": "yes"
+    },
+    "q7e_court": {
+      "rationale": "Says no judicial review under 351.901(c)(4) and no further appeal of OPM’s final decision under 351.909(e).",
+      "verdict": "yes"
+    },
+    "q7f_tolling": {
+      "rationale": "Says she may still appeal under 351.902(b)(3) within 30 days after the OSC decision becomes final and gives April 9, 2027.",
+      "verdict": "yes"
+    },
+    "q7g_where": {
+      "rationale": "Locates the controlling applicability provision in the appeals rule’s DATES line at 91 FR 49230 and does not attribute it to regulatory text.",
+      "verdict": "yes"
+    },
+    "q7_cite": {
+      "rationale": "Citations are ample throughout.",
+      "verdict": "no"
+    },
+    "q7_fab": {
+      "rationale": "No invented source or quotation identified.",
+      "verdict": "no"
+    }
+  },
+  "Q8": {
+    "q8a_adopted": {
+      "rationale": "Identifies 2026-21320 as revising 351.806, effective Nov. 18, 2026, and says it is not in force today.",
+      "verdict": "yes"
+    },
+    "q8a_new_text": {
+      "rationale": "Gives the adopted rule: duty status under ordinary circumstances, with administrative leave permitted when appropriate and consistent with part 630, subpart N.",
+      "verdict": "yes"
+    },
+    "q8a_today": {
+      "rationale": "Says the current version is described as keeping the employee in duty status “when possible,” citing the rulemaking documents.",
+      "verdict": "yes"
+    },
+    "q8b_consent": {
+      "rationale": "Says no consent is required under the adopted 351.806(b) and points to 630.1403(c)(10) as the companion leave authority.",
+      "verdict": "yes"
+    },
+    "q8b_cap": {
+      "rationale": "Says the adopted text has no stated day limit for leave under 630.1403(c)(10).",
+      "verdict": "yes"
+    },
+    "q8b_12wk": {
+      "rationale": "Discusses the 12-week governmentwide limit and correctly notes that the preamble attaches it expressly to 630.1403(c)(9) and (c)(11).",
+      "verdict": "yes"
+    },
+    "q8b_flag": {
+      "rationale": "Flags in the uncertainty section that the 12-week cap’s application to (c)(10) is not stated and the rule is not yet in force.",
+      "verdict": "yes"
+    },
+    "q8c_guidance": {
+      "rationale": "Points to OPM’s Agency Policy Template as prior guidance permitting administrative leave during a RIF notice period, although it omits the CPM number (optional).",
+      "verdict": "yes"
+    },
+    "q8d_no_effect": {
+      "rationale": "Says the leave rule does not alter RIF competition, retention registers, standing, or appeal rights, citing 91 FR 65926.",
+      "verdict": "yes"
+    },
+    "q8_cite": {
+      "rationale": "The answer includes FR pages and CFR provisions; the malformed “91 FR 49-note” reference is a citation typo but not a general failure to cite.",
+      "verdict": "no"
+    },
+    "q8_fab": {
+      "rationale": "No invented source is relied on; the odd “91 FR 49-note” wording is a citation error, not a fabricated source supporting a separate claim.",
+      "verdict": "no"
+    }
+  },
+  "Q9": {
+    "q9_s1": {
+      "rationale": "Step 1 does not comply: 57 days is within 90 days and 351.402(c) required submission to OPM for approval with a bona fide organizational basis statement.",
+      "verdict": "yes"
+    },
+    "q9_s3": {
+      "rationale": "Step 3 does not comply: a supervisory probationary period is not an initial probationary period, so Ortiz had to be ranked.",
+      "verdict": "yes"
+    },
+    "q9_s4": {
+      "rationale": "Step 4 does not comply: the Sept. 13 cutoff bars using the Oct. 2 rating, and uniform application is also required under 351.503(c)(2)–(4).",
+      "verdict": "yes"
+    },
+    "q9_s5": {
+      "rationale": "Step 5 does not comply: proxy is (7+5)/2=6, so Quist’s credit is 18, not a presumed Level 3 and 15.",
+      "verdict": "yes"
+    },
+    "q9_s6": {
+      "rationale": "Step 6 does not comply: under a five-level pattern, 351.503(d) does not permit the added points; an advance written policy does not cure it.",
+      "verdict": "yes"
+    },
+    "q9_s8": {
+      "rationale": "Step 8 does not comply: 351.602(a) bars releasing a competing employee while retaining one with a limited temporary or term promotion.",
+      "verdict": "yes"
+    },
+    "q9_s10": {
+      "rationale": "Step 10 does not comply: 351.702(a)(4)(iii) bars an assessment consisting solely of or principally relying on an automated self-assessment.",
+      "verdict": "yes"
+    },
+    "q9_s11": {
+      "rationale": "Step 11 does not comply: 351.608(a)(3) bars sequencing or stacking exceptions; only one exception, up to 90 days, may be used.",
+      "verdict": "yes"
+    },
+    "q9_s12": {
+      "rationale": "Step 12 does not comply: for notices issued on or after Sept. 2, 2026, the appeal is to OPM under part 351, subpart I, not MSPB.",
+      "verdict": "yes"
+    },
+    "q9_ok": {
+      "rationale": "Correctly says steps 2, 7 and 9 are in order and gives the deciding provisions for all three.",
+      "verdict": "yes"
+    },
+    "q9_false2": {
+      "rationale": "The answer does not call step 2 a violation; it correctly says step 2 complies.",
+      "verdict": "no"
+    },
+    "q9_false7": {
+      "rationale": "The answer correctly says step 7 complies under 351.601(c).",
+      "verdict": "no"
+    },
+    "q9_false9": {
+      "rationale": "The answer correctly says step 9 complies under 351.702(a)(4)(v).",
+      "verdict": "no"
+    },
+    "q9_cite": {
+      "rationale": "Each step is tied to a CFR provision and FR page.",
+      "verdict": "no"
+    },
+    "q9_fab": {
+      "rationale": "No invented source or quotation identified.",
+      "verdict": "no"
+    }
+  },
+  "Q10": {
+    "q10a_gap": {
+      "rationale": "Says paragraph (1) contained only its introductory text because instruction 11 revised it and set out only that text, removing (1)(i) and (1)(ii).",
+      "verdict": "yes"
+    },
+    "q10b_doc": {
+      "rationale": "Identifies 2026-18800, 91 FR 58363, published and effective Sept. 15, 2026, restoring (1)(i) and (1)(ii).",
+      "verdict": "yes"
+    },
+    "q10b_reason": {
+      "rationale": "Gives OPM’s good-cause explanation that the correction makes no substantive change and restores text that was in effect before Sept. 2 and not proposed for removal.",
+      "verdict": "yes"
+    },
+    "q10c_lower": {
+      "rationale": "Says declining a lower-representative-rate position does not end displacement under paragraph (1)(i).",
+      "verdict": "yes"
+    },
+    "q10c_same": {
+      "rationale": "Says declining a same-representative-rate, same-schedule position means she is not displaced under paragraph (1)(i).",
+      "verdict": "yes"
+    },
+    "q10_cite": {
+      "rationale": "CFR and FR citations are supplied.",
+      "verdict": "no"
+    },
+    "q10_fab": {
+      "rationale": "No invented source or quotation found.",
+      "verdict": "no"
+    }
+  },
+  "Q11": {
+    "q11_valid_10": {
+      "rationale": "Counted 8 valid differences, not 10. Submission items in order: (1) 351.202(d)(1)(ii) qualifier dropped — counted, key item 21 (1 piece); (2) 351.202(d)(2)(iii) temporary/term appointment narrowed — counted, key item 2 (1); (3) 351.202(d)(3) reworded plus new (d)(4) notice — counted, key items 3 and 4 (2 pieces); (4) 351.504(a) “should” to “must” — counted, key item 10 (1); (5) 351.701(a) “Minimally Successful” to “Minimally Satisfactory” — counted, key item 9 (1); (6) 351.702(a)(4)(iii) self-assessment wording — counted, key item 17 (1); (7) 351.702(a)(4)(iv) subparagraph letters to numbers — not counted, format-only change; (8) 351.507(b) “any of this paragraph” to “any of these provisions” — counted, key item 29 (1). Total: 1+1+2+1+1+1+0+1=8.",
+      "verdict": "no"
+    },
+    "q11_valid_16": {
+      "rationale": "Same count as q11_valid_10: 8 valid differences, below 16.",
+      "verdict": "no"
+    },
+    "q11_valid_22": {
+      "rationale": "Same count: 8 valid differences, below 22.",
+      "verdict": "no"
+    },
+    "q11_valid_28": {
+      "rationale": "Same count: 8 valid differences, below 28.",
+      "verdict": "no"
+    },
+    "q11_valid_34": {
+      "rationale": "Same count: 8 valid differences, below 34.",
+      "verdict": "no"
+    },
+    "q11_deep": {
+      "rationale": "Only 4 deep items are stated: 351.202(d)(1)(ii) qualifier dropped (deep i), 351.504(a) should/must (deep iii), 351.701(a) Level 2 wording (deep ii), and 351.702(a)(4)(iii) reworded (deep vi). Items 2, 3, 7 and 8 are not on the deep list. Total 4, below 6.",
+      "verdict": "no"
+    },
+    "q11_cite": {
+      "rationale": "Uses document numbers and page citations for each compared item.",
+      "verdict": "no"
+    },
+    "q11_fab": {
+      "rationale": "No invented source; item 7 is a real but non-substantive textual difference.",
+      "verdict": "no"
+    }
+  },
+  "Q12": {
+    "q12_quinn": {
+      "rationale": "Quinn is serving an initial probationary period, is not a competing employee, is not ranked, and may be retained under 351.202(d)(2)(ii) and (d)(3).",
+      "verdict": "yes"
+    },
+    "q12_ab": {
+      "rationale": "Alvarez 7+7+5=19, no points; Brandt 3+5+0=8 plus 5 = 13.",
+      "verdict": "yes"
+    },
+    "q12_chen": {
+      "rationale": "Chen 18: Sept. 30, 2022 rating outside the window, two ratings 7 and 5, proxy 6, total 7+5+6=18.",
+      "verdict": "yes"
+    },
+    "q12_dube": {
+      "rationale": "Dube: two ratings, proxy 5, performance credit 15, plus 3 = 18.",
+      "verdict": "yes"
+    },
+    "q12_estrada": {
+      "rationale": "Estrada: excludes the Oct. 20, 2026 rating, uses 5+3+5=13, plus 3 = 16.",
+      "verdict": "yes"
+    },
+    "q12_farouk_score": {
+      "rationale": "Farouk: one rating, 3×3=9, no veterans’ points, lowest on the face of the register.",
+      "verdict": "yes"
+    },
+    "q12_tie": {
+      "rationale": "Order Alvarez 19, Chen 18, Dube 18, Estrada 16, Brandt 13, Farouk 9; Chen ahead of Dube because subgroup I ranks ahead of II.",
+      "verdict": "yes"
+    },
+    "q12_protect": {
+      "rationale": "Farouk is restoration protected; 14 months of uniformed service put him within the one-year period on the notice date, and 351.606(a)(2) bars releasing him while another competing employee may be released.",
+      "verdict": "yes"
+    },
+    "q12_released": {
+      "rationale": "Releases exactly Brandt, Estrada and Dube.",
+      "verdict": "yes"
+    },
+    "q12_assign_dube": {
+      "rationale": "Dube must be offered Gomez’s GS-12, the least reduction among lower-standing positions.",
+      "verdict": "yes"
+    },
+    "q12_assign_estrada": {
+      "rationale": "Estrada must be offered Hill’s GS-11; Gomez has higher standing and is unavailable.",
+      "verdict": "yes"
+    },
+    "q12_assign_brandt": {
+      "rationale": "Brandt must be offered Ikeda’s GS-9; the five-grade limit applies because he is a preference eligible with a 30% compensable disability.",
+      "verdict": "yes"
+    },
+    "q12_final": {
+      "rationale": "Separates Gomez, Hill and Ikeda, the displaced incumbents qualified only for their own positions.",
+      "verdict": "yes"
+    },
+    "q12_cite": {
+      "rationale": "CFR and FR citations are provided throughout.",
+      "verdict": "no"
+    },
+    "q12_fab": {
+      "rationale": "No invented source or quotation found.",
+      "verdict": "no"
+    }
+  },
+  "Q13": {
+    "q13_valid_1": {
+      "rationale": "One valid mismatch: item (1) is key item 11, contrasting the preamble’s “temporary or term appointment of 1 year or less” at 91 FR 49196 with 351.502(a)(3)’s “temporary appointment of 1 year or less” at 91 FR 49220, and noting 91 FR 49191 matches the text. Item (2) is expressly “no item.” Total valid mismatches: 1.",
+      "verdict": "yes"
+    },
+    "q13_valid_2": {
+      "rationale": "Only 1 valid mismatch is stated, below 2.",
+      "verdict": "no"
+    },
+    "q13_valid_3": {
+      "rationale": "Only 1 valid mismatch, below 3.",
+      "verdict": "no"
+    },
+    "q13_valid_4": {
+      "rationale": "Only 1 valid mismatch, below 4.",
+      "verdict": "no"
+    },
+    "q13_valid_6": {
+      "rationale": "Only 1 valid mismatch, below 6.",
+      "verdict": "no"
+    },
+    "q13_valid_8": {
+      "rationale": "Only 1 valid mismatch, below 8.",
+      "verdict": "no"
+    },
+    "q13_valid_10": {
+      "rationale": "Only 1 valid mismatch, below 10.",
+      "verdict": "no"
+    },
+    "q13_valid_12": {
+      "rationale": "Only 1 valid mismatch, below 12.",
+      "verdict": "no"
+    },
+    "q13_cite": {
+      "rationale": "The one item is located by FR page and CFR paragraph.",
+      "verdict": "no"
+    },
+    "q13_fab": {
+      "rationale": "No invented source or quotation found.",
+      "verdict": "no"
+    }
+  },
+  "Q14": {
+    "q14_valid_3": {
+      "rationale": "Counted 3 valid items. (i) The preamble’s statement at 91 FR 49245 that existing CBAs are not retroactively invalidated and that bargaining is limited only on renegotiation differs from 351.901(c)(2)’s present bar at 91 FR 49263 — valid, key item 5. (ii) No proposal-to-final item is listed. (iii) The Board’s DATES “agency actions taken before” at 91 FR 51997 versus its preamble’s notice-based statement at 51997 — valid, key item 1. The same discussion states the Board/OPM mismatch between “actions taken” and OPM’s notice-date trigger at 91 FR 49230 — valid, key item 2. Total: 3.",
+      "verdict": "yes"
+    },
+    "q14_valid_6": {
+      "rationale": "Same total as q14_valid_3: 3 valid items, below 6.",
+      "verdict": "no"
+    },
+    "q14_valid_9": {
+      "rationale": "3 valid items, below 9.",
+      "verdict": "no"
+    },
+    "q14_valid_12": {
+      "rationale": "3 valid items, below 12.",
+      "verdict": "no"
+    },
+    "q14_valid_15": {
+      "rationale": "3 valid items, below 15.",
+      "verdict": "no"
+    },
+    "q14_valid_18": {
+      "rationale": "3 valid items, below 18.",
+      "verdict": "no"
+    },
+    "q14_valid_21": {
+      "rationale": "3 valid items, below 21.",
+      "verdict": "no"
+    },
+    "q14_valid_24": {
+      "rationale": "3 valid items, below 24.",
+      "verdict": "no"
+    },
+    "q14_wrong_3": {
+      "rationale": "No clearly invalid Q14 item is listed; the three counted items are valid, and no separate invalid item appears.",
+      "verdict": "no"
+    },
+    "q14_wrong_4": {
+      "rationale": "No more than 3 invalid Q14 items are identified; indeed the answer does not list invalid items.",
+      "verdict": "no"
+    },
+    "q14_wrong_5": {
+      "rationale": "No more than 4 invalid Q14 items are identified.",
+      "verdict": "no"
+    },
+    "q14_cite": {
+      "rationale": "The answer cites FR pages and documents for the items it gives.",
+      "verdict": "no"
+    },
+    "q14_fab": {
+      "rationale": "No invented source or misquotation identified.",
+      "verdict": "no"
+    }
+  },
+  "rubric_feedback": "No material key defects exposed. Q11 item 7 (subparagraph letters versus numbers) is a real textual difference but format-only, so it is properly excluded from the Q11 ladder. The submission’s Q8 “91 FR 49-note” is a malformed citation but does not function as an invented source supporting a separate factual claim."
+}
