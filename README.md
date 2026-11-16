@@ -23,6 +23,7 @@ The tasks rest on policy changes made in 2026, so they cannot be answered from m
 ## Results
 
 Score against theoretical cost per run (log scale), one plot per task. Small points are individual runs, large points are the mean per model and effort, and the dashed line is the Pareto frontier of the means. Models far below the rest are left off the plot and named in its footnote. The per-model numbers are in `analysis/<task>/model_summary.csv`.
+Models at the pareto frontier in F-1 are selected in Tariffs and RIF. Gemini could not finish the latter two tasks because of 64k max output tokens in sync decoding enforced by the provider. Muse Ember is used as the grader in F-1 and DeepSeek V4.1 Flash 1017 in Tariffs and RIF. Illustrative: only two runs per config were done.
 
 ### F-1
 
