@@ -92,26 +92,26 @@ Order = Literal["relevance", "newest", "oldest", "executive_order_number"]
 class FrSearchArgs(BaseModel):
     query: str = Field(description='Full-text search terms; "" for none. Supports quoted '
                        'phrases, e.g. "\\"extension of stay\\" F-1".')
-    doc_type: list[DocType] | None = Field(
+    doc_type: list[DocType] | None = Field(None,
         description="Document types: RULE, PRORULE (proposed rule), NOTICE, PRESDOCU "
         "(presidential document). null for all.")
-    agency: list[str] | None = Field(
+    agency: list[str] | None = Field(None,
         description="Agency slugs, e.g. homeland-security-department, "
         "u-s-citizenship-and-immigration-services, u-s-immigration-and-customs-enforcement, "
         "state-department, labor-department, executive-office-of-the-president.")
-    pres_type: list[PresType] | None = Field(
+    pres_type: list[PresType] | None = Field(None,
         description="Presidential document subtypes (use with doc_type PRESDOCU).")
-    since: str | None = Field(description="Published on/after YYYY-MM-DD.")
-    until: str | None = Field(description="Published on/before YYYY-MM-DD.")
-    docket: str | None = Field(description="Docket ID, e.g. EPA-HQ-OAR-2021-0317.")
-    rin: str | None = Field(description="Regulation Identifier Number, e.g. 2060-AV16.")
-    cfr: str | None = Field(description="CFR title:part affected, e.g. 8:214. The part must be "
+    since: str | None = Field(None, description="Published on/after YYYY-MM-DD.")
+    until: str | None = Field(None, description="Published on/before YYYY-MM-DD.")
+    docket: str | None = Field(None, description="Docket ID, e.g. EPA-HQ-OAR-2021-0317.")
+    rin: str | None = Field(None, description="Regulation Identifier Number, e.g. 2060-AV16.")
+    cfr: str | None = Field(None, description="CFR title:part affected, e.g. 8:214. The part must be "
                             "numeric; lettered parts are not supported by this filter.")
-    significant: bool | None = Field(description="true: only significant regulatory actions.")
-    order: Order | None = Field(description="Sort order (default relevance).")
-    per_page: int | None = Field(description="Results per page, 1-50 (default 10).")
-    page: int | None = Field(description="Results page (default 1).")
-    brief: bool | None = Field(description="true: omit abstracts.")
+    significant: bool | None = Field(None, description="true: only significant regulatory actions.")
+    order: Order | None = Field(None, description="Sort order (default relevance).")
+    per_page: int | None = Field(None, description="Results per page, 1-50 (default 10).")
+    page: int | None = Field(None, description="Results page (default 1).")
+    brief: bool | None = Field(None, description="true: omit abstracts.")
 
 
 class FrDocArgs(BaseModel):
@@ -120,7 +120,7 @@ class FrDocArgs(BaseModel):
 
 class FrTocArgs(BaseModel):
     document_number: str = Field(description="FR document number.")
-    max_entries: int | None = Field(
+    max_entries: int | None = Field(None,
         description="Maximum outline entries (default 400, at most %d)." % MAX_TOC_ENTRIES)
 
 
@@ -129,18 +129,18 @@ class FrGrepArgs(BaseModel):
     pattern: str = Field(
         description="Python regular expression, searched over the whole text (a match may "
         "span lines). ^ and $ match at line boundaries; . does not match a newline.")
-    ignore_case: bool | None = Field(description="Case-insensitive match (default false).")
-    context: int | None = Field(
+    ignore_case: bool | None = Field(None, description="Case-insensitive match (default false).")
+    context: int | None = Field(None,
         description="Lines of context around each match (default 2, at most %d)."
         % MAX_GREP_CONTEXT)
-    max_matches: int | None = Field(
+    max_matches: int | None = Field(None,
         description="Maximum matches shown (default 25, at most %d)." % MAX_GREP_MATCHES)
 
 
 class FrTextArgs(BaseModel):
     document_number: str = Field(description="FR document number.")
-    start: int | None = Field(description="First line, 1-based (default 1).")
-    lines: int | None = Field(
+    start: int | None = Field(None, description="First line, 1-based (default 1).")
+    lines: int | None = Field(None,
         description="Number of lines (default 150, at most %d)." % MAX_TEXT_LINES)
 
 
