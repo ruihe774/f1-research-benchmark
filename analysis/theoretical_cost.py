@@ -1,5 +1,8 @@
 """Theoretical cost per run: every token that can be cached is a cache hit, every
-token that cannot (new user prompt / tool results) is a cache miss. Prices in
+token that cannot (new user prompt / tool results) is a cache miss. Cache misses are
+also cache writes (they become part of the next request's prefix), so they are billed
+at the shortest-duration cache-write price where pricing.csv gives one, else at the
+uncached input price. Prices in
 pricing.csv are USD per 1M tokens. Usage: theoretical_cost.py [task] (default f1).
 Writes <task>/runs_theoretical_cost.csv."""
 import csv, json, pathlib, sys
@@ -50,7 +53,9 @@ def cost(model, turns, variant=None):
         else:
             key = ""
         p = pick(model, key)
-        total += (miss * float(p["uncached_input"]) + hit * float(p["cached_input_read"])
+        w = p["cache_write_5m_or_shortest"]
+        write = float(w) if w != "" else float(p["uncached_input"])
+        total += (miss * write + hit * float(p["cached_input_read"])
                   + out * float(p["output"])) / 1e6
         prev = inp + out
     return total

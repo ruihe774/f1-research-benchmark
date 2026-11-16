@@ -1,11 +1,11 @@
 name,provider,effort,cost,score,smin,smax,n,label
-claude-haiku-5-5,anthropic,high,0.003,0.0,0.0,0.0,2,claude-haiku-5-5
+claude-haiku-5-5,anthropic,high,0.004,0.0,0.0,0.0,2,claude-haiku-5-5
 muse-ember,meta,high,0.066,71.6,70.54,72.66,2,muse-ember (high)
 deepseek-v4.1-flash-1017,deepseek,high,0.08,62.24,58.12,66.36,2,deepseek-v4.1-flash-1017 (high)
 deepseek-v4.1-flash-1017,deepseek,max,0.096,61.125,56.5,65.75,2,deepseek-v4.1-flash-1017 (max)
-gpt-6-luna,openai,high,0.1,61.69,58.14,65.24,2,gpt-6-luna
+gpt-6-luna,openai,high,0.105,61.69,58.14,65.24,2,gpt-6-luna
 muse-ember,meta,max,0.113,70.64,69.11,72.17,2,muse-ember (max)
-gpt-6.1-terra,openai,high,0.413,82.5,82.0,83.0,2,gpt-6.1-terra
-gpt-6.1-sol,openai,high,0.928,91.0,90.0,92.0,2,gpt-6.1-sol
-claude-sonnet-5-5,anthropic,high,1.524,69.0,68.0,70.0,2,claude-sonnet-5-5
-claude-opus-5-5,anthropic,high,3.03,69.395,67.79,71.0,2,claude-opus-5-5
+gpt-6.1-terra,openai,high,0.466,82.5,82.0,83.0,2,gpt-6.1-terra
+gpt-6.1-sol,openai,high,1.032,91.0,90.0,92.0,2,gpt-6.1-sol
+claude-sonnet-5-5,anthropic,high,1.614,69.0,68.0,70.0,2,claude-sonnet-5-5
+claude-opus-5-5,anthropic,high,3.192,69.395,67.79,71.0,2,claude-opus-5-5
